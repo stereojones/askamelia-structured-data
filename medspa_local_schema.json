@@ -1,5 +1,5 @@
 [
-  {
+{
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -25,7 +25,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/wilmington#business",
       "name": "Amelia Medspa Wilmington",
@@ -66,7 +66,7 @@
         "description": "Microneedling treatment in Wilmington, NC to tighten skin, improve texture, minimize pores, and reduce hyperpigmentation and acne scars."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-wilmington-nc#procedure",
       "name": "Microneedling",
@@ -91,7 +91,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-wilmington-nc#procedure#faq",
       "mainEntity": [
@@ -103,7 +103,7 @@
             "text": "Microneedling is a regenerative skin treatment that uses precise micro-channels created by tiny needles to stimulate collagen and elastin production for smoother, firmer skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Does microneedling help with acne scars?",
           "acceptedAnswer": {
@@ -111,7 +111,7 @@
             "text": "Yes. Microneedling can improve skin texture and reduce the appearance of acne scars by triggering your skin’s natural repair process and boosting collagen in the treated areas."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long is the downtime after microneedling?",
           "acceptedAnswer": {
@@ -121,7 +121,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-wilmington-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -131,13 +131,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/wilmington"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Microneedling",
@@ -146,10 +146,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -176,7 +173,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/wilmington#business",
       "name": "Amelia Medspa Wilmington",
@@ -217,7 +214,7 @@
         "description": "Chemical peel treatments in Wilmington, NC to exfoliate dead skin cells, smooth texture, reduce sun damage, hyperpigmentation, acne scars and improve overall skin tone."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peel-wilmington-nc#procedure",
       "name": "Chemical Peel",
@@ -242,7 +239,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peel-wilmington-nc#procedure#faq",
       "mainEntity": [
@@ -254,7 +251,7 @@
             "text": "A chemical peel is a skincare treatment that applies a chemical solution to exfoliate the outer layers of skin, stimulate cell turnover and collagen, and reveal smoother, healthier skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Will a chemical peel help with sun damage and pigmentation?",
           "acceptedAnswer": {
@@ -262,7 +259,7 @@
             "text": "Yes. A chemical peel can fade sun spots, uneven skin tone and pigmentation by removing damaged outer skin layers and encouraging renewal of healthier skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a chemical peel?",
           "acceptedAnswer": {
@@ -272,7 +269,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peel-wilmington-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -282,13 +279,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/wilmington"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Chemical Peel",
@@ -297,10 +294,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -327,7 +321,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/wilmington#business",
       "name": "Amelia Medspa Wilmington",
@@ -368,7 +362,7 @@
         "description": "Dermal filler injections in Wilmington, NC to restore volume to lips, cheeks, temples, and around the mouth, smooth fine lines and folds, and enhance facial contours."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-filler-wilmington-nc#procedure",
       "name": "Dermal Filler",
@@ -392,7 +386,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermal-filler-wilmington-nc#procedure#faq",
       "mainEntity": [
@@ -404,7 +398,7 @@
             "text": "Dermal fillers are injectable substances, often made from hyaluronic acid, used to replace lost volume, smooth lines, lift facial features and enhance contours for a rejuvenated appearance."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do dermal filler results last?",
           "acceptedAnswer": {
@@ -412,7 +406,7 @@
             "text": "Results from dermal filler treatments may last several months to over a year depending on the product used, treatment area, and individual metabolism."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermal filler injections?",
           "acceptedAnswer": {
@@ -422,7 +416,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermal-filler-wilmington-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -432,13 +426,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/wilmington"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Dermal Filler",
@@ -447,10 +441,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -477,7 +468,7 @@
       "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/wilmington#business",
       "name": "Amelia Medspa Wilmington",
@@ -518,7 +509,7 @@
         "description": "A one-on-one skincare consultation in Wilmington, NC to evaluate skin concerns, recommend medical-grade treatment options and craft a personalized home-care regimen."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/ilm-skincare-consultation#procedure",
       "name": "Skincare Consultation",
@@ -540,7 +531,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/ilm-skincare-consultation#procedure#faq",
       "mainEntity": [
@@ -552,7 +543,7 @@
             "text": "During your consultation, a specialist evaluates your skin through visual and tool-based analysis, discusses your goals, reviews your current regimen, and develops a tailored plan including treatments and products."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who is a skincare consultation for?",
           "acceptedAnswer": {
@@ -560,7 +551,7 @@
             "text": "This consultation is ideal for anyone wanting to improve their skin’s texture, tone, aging signs, pigmentation or acne and seeking a professional plan rather than one-size-fits-all skincare."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long is the downtime after a skincare consultation?",
           "acceptedAnswer": {
@@ -570,7 +561,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/ilm-skincare-consultation#procedure#breadcrumb",
       "itemListElement": [
@@ -580,13 +571,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/wilmington"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Skincare Consultation",
@@ -595,10 +586,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -625,7 +613,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/wilmington#business",
       "name": "Amelia Medspa Wilmington",
@@ -666,7 +654,7 @@
         "description": "Dermaplaning in Wilmington, NC using a precise surgical blade to gently remove dead skin cells and peach fuzz for smoother makeup application and a brighter, more even complexion."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplane-wilmington-nc#procedure",
       "name": "Dermaplaning (Dermaplane Facial)",
@@ -689,7 +677,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermaplane-wilmington-nc#procedure#faq",
       "mainEntity": [
@@ -701,7 +689,7 @@
             "text": "Dermaplaning is a noninvasive exfoliating treatment where a provider uses a sterile surgical blade to gently remove dead skin cells and peach fuzz from the surface of your skin for a smoother, brighter complexion."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Does dermaplaning make hair grow back thicker?",
           "acceptedAnswer": {
@@ -709,7 +697,7 @@
             "text": "No. Dermaplaning does not change the structure or thickness of your hair. Peach fuzz may feel slightly different as it grows back at a blunt edge, but it does not grow in darker or thicker."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermaplaning?",
           "acceptedAnswer": {
@@ -719,7 +707,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermaplane-wilmington-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -729,13 +717,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/wilmington"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Dermaplaning",
@@ -744,10 +732,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -774,7 +759,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/wilmington#business",
       "name": "Amelia Medspa Wilmington",
@@ -815,7 +800,7 @@
         "description": "Wrinkle relaxer (neuromodulator) treatments in Wilmington, NC to soften dynamic wrinkles, smooth forehead lines, and provide natural rejuvenation with minimal downtime."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-wilmington-nc#procedure",
       "name": "Wrinkle Relaxer Treatment",
@@ -838,7 +823,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-wilmington-nc#procedure#faq",
       "mainEntity": [
@@ -850,7 +835,7 @@
             "text": "Wrinkle relaxers are injectable neuromodulator treatments that temporarily relax facial muscles responsible for dynamic wrinkles, reducing lines and fine wrinkles while preserving natural movement."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do results last?",
           "acceptedAnswer": {
@@ -858,7 +843,7 @@
             "text": "Results typically last around 3 to 6 months depending on the product used, treatment area, and your individual muscle activity and metabolism."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after wrinkle relaxer injections?",
           "acceptedAnswer": {
@@ -868,7 +853,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-wilmington-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -878,13 +863,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/wilmington"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Wrinkle Relaxers",
@@ -893,8 +878,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -921,7 +905,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -961,7 +945,7 @@
         "description": "Multi-step anti-aging facial in Evansville, IN using radiofrequency, LED light therapy, and deep hydration to stimulate collagen, tighten skin, and reduce visible signs of aging."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/anti-aging-facial-evansville-in#procedure",
       "name": "Anti-Aging Facial",
@@ -984,7 +968,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/anti-aging-facial-evansville-in#procedure#faq",
       "mainEntity": [
@@ -996,7 +980,7 @@
             "text": "The Anti-Aging Facial at Amelia Medspa in Evansville is a noninvasive treatment that combines a deep cleanse, radiofrequency, LED light therapy, and intensive hydration to smooth fine lines, improve firmness, and restore a youthful glow."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "What concerns does the Anti-Aging Facial help with?",
           "acceptedAnswer": {
@@ -1004,7 +988,7 @@
             "text": "This facial is designed to address early signs of aging such as fine lines, mild skin laxity, dullness, rough texture, and uneven tone by stimulating collagen and supporting healthier, more resilient skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after the Anti-Aging Facial?",
           "acceptedAnswer": {
@@ -1014,7 +998,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/anti-aging-facial-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -1024,13 +1008,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Anti-Aging Facial",
@@ -1039,10 +1023,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -1069,7 +1050,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -1109,7 +1090,7 @@
         "description": "Biostimulator injections in Evansville, IN that work with your body to increase collagen and elastin, restore volume, improve skin texture and reduce fine lines for more natural, long-lasting rejuvenation. :contentReference[oaicite:1]{index=1}"
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-evansville-in#procedure",
       "name": "Biostimulator Treatment",
@@ -1132,7 +1113,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-evansville-in#procedure#faq",
       "mainEntity": [
@@ -1144,7 +1125,7 @@
             "text": "Biostimulator treatments are injectable therapies that stimulate your body’s natural collagen and elastin production, improving skin quality, restoring volume, softening lines, and delivering gradual, long-lasting results. :contentReference[oaicite:5]{index=5}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do biostimulator results last?",
           "acceptedAnswer": {
@@ -1152,7 +1133,7 @@
             "text": "Results typically build gradually over weeks after treatment and may last many months; your provider will recommend a treatment series and maintenance plan for best results. :contentReference[oaicite:6]{index=6}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after biostimulator injections?",
           "acceptedAnswer": {
@@ -1162,7 +1143,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -1172,13 +1153,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Biostimulator",
@@ -1187,8 +1168,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -1215,7 +1195,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -1255,7 +1235,7 @@
         "description": "Chemical peel treatments in Evansville, IN to exfoliate dead skin layers, stimulate new collagen and elastin production, improve skin texture, reduce sun damage, acne scars, and uneven tone."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-evansville-in#procedure",
       "name": "Chemical Peel Treatment",
@@ -1279,7 +1259,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-evansville-in#procedure#faq",
       "mainEntity": [
@@ -1291,7 +1271,7 @@
             "text": "A chemical peel is a skincare treatment in which a chemical solution is applied to the skin to exfoliate the outer layers, stimulate cell renewal, and improve tone, texture and clarity. :contentReference[oaicite:1]{index=1}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Will a chemical peel help with sun damage and pigmentation?",
           "acceptedAnswer": {
@@ -1299,7 +1279,7 @@
             "text": "Yes. Chemical peels can help fade sun spots, uneven skin tone, and discoloration by removing damaged outer skin layers and promoting renewal of healthier skin underneath. :contentReference[oaicite:2]{index=2}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a chemical peel?",
           "acceptedAnswer": {
@@ -1309,7 +1289,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -1319,13 +1299,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Chemical Peels",
@@ -1334,9 +1314,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -1363,7 +1341,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -1403,7 +1381,7 @@
         "description": "Dermal filler injections in Evansville, IN to restore volume in lips, cheeks, temples and around the mouth, smooth fine lines and enhance facial contours for natural, balanced results."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-evansville-in#procedure",
       "name": "Dermal Filler Treatment",
@@ -1427,7 +1405,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-evansville-in#procedure#faq",
       "mainEntity": [
@@ -1439,7 +1417,7 @@
             "text": "Dermal fillers are injectable treatments often made from hyaluronic acid used to replace lost facial volume, smooth lines, lift features, and enhance contours for a rejuvenated appearance. :contentReference[oaicite:3]{index=3}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do dermal filler results last?",
           "acceptedAnswer": {
@@ -1447,7 +1425,7 @@
             "text": "Results from dermal filler treatments may last several months to over a year depending on the product used, the treatment area, and individual metabolism. :contentReference[oaicite:4]{index=4}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermal filler injections?",
           "acceptedAnswer": {
@@ -1457,7 +1435,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -1467,13 +1445,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Dermal Fillers",
@@ -1482,8 +1460,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -1510,7 +1487,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -1550,7 +1527,7 @@
         "description": "Microneedling in Evansville, IN to help firm and tighten skin, smooth texture, diminish fine lines, minimize pores, and reduce acne and other scars by stimulating your body’s natural collagen response."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-evansville-in#procedure",
       "name": "Microneedling Treatment",
@@ -1574,7 +1551,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-evansville-in#procedure#faq",
       "mainEntity": [
@@ -1586,7 +1563,7 @@
             "text": "Microneedling is a regenerative skin treatment that uses tiny channels to stimulate collagen and elastin production, improving texture, tone and skin resilience. :contentReference[oaicite:2]{index=2}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Does microneedling help with acne scars?",
           "acceptedAnswer": {
@@ -1594,7 +1571,7 @@
             "text": "Yes. Microneedling has been shown to reduce the appearance of acne and other scars by triggering your skin’s natural repair process. :contentReference[oaicite:3]{index=3}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How many treatments will I need and what is the downtime?",
           "acceptedAnswer": {
@@ -1604,7 +1581,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -1614,13 +1591,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Microneedling",
@@ -1629,8 +1606,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -1657,7 +1633,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -1697,7 +1673,7 @@
         "description": "Wrinkle relaxer (neuromodulator) treatments in Evansville, IN to soften dynamic wrinkles, smooth forehead lines, crow’s feet, and provide natural rejuvenation with minimal downtime."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-evansville-in#procedure",
       "name": "Wrinkle Relaxer Treatment",
@@ -1720,7 +1696,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-evansville-in#procedure#faq",
       "mainEntity": [
@@ -1732,7 +1708,7 @@
             "text": "Wrinkle relaxers are injectable treatments that temporarily relax facial muscles responsible for dynamic wrinkles, reducing lines and fine wrinkles while preserving natural facial expressions."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do results last?",
           "acceptedAnswer": {
@@ -1740,7 +1716,7 @@
             "text": "Results usually last around 3 to 6 months depending on the product used, treatment area, and individual metabolism."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after wrinkle relaxer injections?",
           "acceptedAnswer": {
@@ -1750,7 +1726,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -1760,13 +1736,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
         "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Wrinkle Relaxers",
@@ -1775,8 +1751,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -1803,7 +1778,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -1843,7 +1818,7 @@
         "description": "Aveli® cellulite treatment in Evansville, IN that uses a specialized handheld device to precisely locate and release the fibrous septa beneath the skin that cause cellulite dimples, creating a smoother and more even surface."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/aveli-evansville-in#procedure",
       "name": "Aveli® Cellulite Reduction",
@@ -1864,7 +1839,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/aveli-evansville-in#procedure#faq",
       "mainEntity": [
@@ -1876,7 +1851,7 @@
             "text": "Aveli® is a minimally invasive cellulite treatment that targets and releases the specific fibrous bands under the skin (called septa) that cause cellulite dimples, leading to smoother, more even-looking skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long until I see results from Aveli®?",
           "acceptedAnswer": {
@@ -1884,7 +1859,7 @@
             "text": "Many patients notice improvement within days as swelling reduces, with full results appearing over several weeks as the tissue heals and the released septa settle."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "What is the recovery like after Aveli®?",
           "acceptedAnswer": {
@@ -1894,7 +1869,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/aveli-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -1904,13 +1879,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Aveli® Cellulite Treatment",
@@ -1919,8 +1894,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -1947,7 +1921,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -1987,7 +1961,7 @@
         "description": "CO2 Lift Mask treatments in Evansville, IN that deliver carbon dioxide to the skin to boost oxygen flow, improve hydration, soften fine lines, calm redness, and rejuvenate overall tone and texture."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/co2-lift-mask-evansville-in#procedure",
       "name": "CO2 Lift Mask Treatment",
@@ -2011,7 +1985,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/co2-lift-mask-evansville-in#procedure#faq",
       "mainEntity": [
@@ -2023,7 +1997,7 @@
             "text": "The CO2 Lift Mask is a noninvasive carboxytherapy treatment that delivers carbon dioxide to the skin, triggering increased oxygen-rich blood flow to improve hydration, texture, and overall radiance."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "What concerns does the CO2 Lift Mask help with?",
           "acceptedAnswer": {
@@ -2031,7 +2005,7 @@
             "text": "CO2 Lift Mask treatments can help with dehydration, dull or tired-looking skin, mild fine lines and wrinkles, redness, and post-treatment dryness by improving circulation, moisture retention, and skin barrier support."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a CO2 Lift Mask treatment?",
           "acceptedAnswer": {
@@ -2041,7 +2015,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/co2-lift-mask-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -2051,13 +2025,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "CO2 Lift Mask",
@@ -2066,9 +2040,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -2095,7 +2067,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -2135,7 +2107,7 @@
         "description": "Dermaplaning in Evansville, IN — a noninvasive facial exfoliation treatment that removes dead skin cells and vellus hair (peach fuzz) to reveal smoother, brighter skin and enhance product absorption."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-evansville-in#procedure",
       "name": "Dermaplaning Facial",
@@ -2156,7 +2128,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-evansville-in#procedure#faq",
       "mainEntity": [
@@ -2168,7 +2140,7 @@
             "text": "Dermaplaning is a noninvasive exfoliating facial treatment where a trained provider uses a sterile blade to gently remove dead skin cells and vellus hair (peach fuzz) from the surface of the skin, leaving it smooth and refreshed."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Will dermaplaning make hair grow back thicker or darker?",
           "acceptedAnswer": {
@@ -2176,7 +2148,7 @@
             "text": "No — dermaplaning removes only surface-level vellus hair and does not affect the structure or pigmentation of hair follicles, so hair will grow back the same as before."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermaplaning?",
           "acceptedAnswer": {
@@ -2186,7 +2158,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -2196,13 +2168,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
         "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Dermaplaning",
@@ -2211,9 +2183,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -2240,7 +2210,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -2280,7 +2250,7 @@
         "description": "GLO2 Facial in Evansville, IN — a noninvasive oxygen-enhanced treatment that infuses hydration, boosts circulation, brightens dull skin, and improves overall texture and radiance."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/glo2facial-evansville-in#procedure",
       "name": "GLO2 Facial Treatment",
@@ -2303,7 +2273,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/glo2facial-evansville-in#procedure#faq",
       "mainEntity": [
@@ -2315,7 +2285,7 @@
             "text": "The GLO2 Facial is a gentle, noninvasive oxygen-infusion treatment that hydrates and revitalizes skin, improves texture and tone, and helps achieve a brighter, more radiant complexion."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "What skin concerns does the GLO2 Facial address?",
           "acceptedAnswer": {
@@ -2323,7 +2293,7 @@
             "text": "This facial helps with dullness, dehydration, uneven tone or texture, mild dry patches, and lackluster skin — making it ideal for skin needing hydration, glow, or a quick refresh."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a GLO2 Facial?",
           "acceptedAnswer": {
@@ -2333,7 +2303,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/glo2facial-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -2343,13 +2313,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "GLO2 Facial",
@@ -2358,9 +2328,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -2387,7 +2355,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/evansville#business",
       "name": "Amelia Medspa Evansville",
@@ -2427,7 +2395,7 @@
         "description": "A one-on-one skincare consultation in Evansville, IN to evaluate skin concerns, review past treatments and products, and develop a personalized medical-grade skincare and treatment plan."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-evansville-in#procedure",
       "name": "Skincare Consultation",
@@ -2449,7 +2417,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-evansville-in#procedure#faq",
       "mainEntity": [
@@ -2461,7 +2429,7 @@
             "text": "During a skincare consultation, a specialist reviews your skin history and concerns, evaluates your skin's condition, discusses your lifestyle and goals, and recommends medical-grade treatments and products tailored to you."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who should get a skincare consultation?",
           "acceptedAnswer": {
@@ -2469,7 +2437,7 @@
             "text": "Anyone looking to address concerns like acne, hyperpigmentation, uneven tone or texture, premature aging, or who wants a professional evaluation and personalized plan rather than a one-size-fits-all approach."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after just a consultation?",
           "acceptedAnswer": {
@@ -2479,7 +2447,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-evansville-in#procedure#breadcrumb",
       "itemListElement": [
@@ -2489,13 +2457,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/evansville"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Skincare Consultation",
@@ -2504,10 +2472,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -2534,7 +2499,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -2569,7 +2534,7 @@
         "description": "Biostimulator injections in Raleigh, NC that work with your body to increase collagen and elastin, improve skin quality, restore volume, and soften fine lines for gradual, natural-looking rejuvenation."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-raleigh-nc#procedure",
       "name": "Biostimulator Treatment",
@@ -2593,7 +2558,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -2605,7 +2570,7 @@
             "text": "Biostimulator treatments are injectable therapies that encourage your body to produce more of its own collagen and elastin. Rather than simply filling lines, they gradually improve skin quality, restore volume, and soften wrinkles for natural-looking, long-lasting results."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do biostimulator results last?",
           "acceptedAnswer": {
@@ -2613,7 +2578,7 @@
             "text": "Results develop gradually over several weeks as new collagen forms and can last many months or longer, depending on the product used, treatment area, and your individual response. Your provider will recommend a treatment series and maintenance schedule for best results."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after biostimulator injections?",
           "acceptedAnswer": {
@@ -2623,7 +2588,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -2633,13 +2598,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Biostimulator Treatments",
@@ -2648,8 +2613,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -2676,7 +2640,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -2711,7 +2675,7 @@
         "description": "Chemical peel treatments in Raleigh, NC to exfoliate dead skin layers, stimulate cell turnover, improve skin texture and tone, reduce pigmentation irregularities, acne scars, sun damage, and promote a smoother, more youthful complexion."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-raleigh-nc#procedure",
       "name": "Chemical Peel Treatment",
@@ -2735,7 +2699,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -2747,7 +2711,7 @@
             "text": "A chemical peel is a cosmetic treatment that uses a chemical solution to exfoliate the skin, remove dead skin layers, and stimulate new skin growth for improved texture, tone, and clarity."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Will a chemical peel help with pigmentation and sun damage?",
           "acceptedAnswer": {
@@ -2755,7 +2719,7 @@
               "text": "Yes. Chemical peels can help fade hyperpigmentation, sun spots, and uneven skin tone by removing damaged outer layers and encouraging healthy skin regeneration."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a chemical peel?",
           "acceptedAnswer": {
@@ -2765,7 +2729,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -2775,13 +2739,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Chemical Peels",
@@ -2790,9 +2754,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -2819,7 +2781,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -2854,7 +2816,7 @@
         "description": "Dermaplaning in Raleigh, NC — a noninvasive facial exfoliation treatment that removes dead skin cells and vellus hair (peach fuzz) to reveal smoother, brighter skin and improve the effectiveness of skincare products."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-raleigh-nc#procedure",
       "name": "Dermaplaning Facial Treatment",
@@ -2875,7 +2837,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -2887,7 +2849,7 @@
             "text": "Dermaplaning is a noninvasive exfoliating facial treatment where a trained provider uses a sterile blade to gently remove dead skin cells and vellus hair (peach fuzz) from the skin’s surface, leaving skin smoother and refreshed."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Does dermaplaning cause hair to grow back thicker or darker?",
           "acceptedAnswer": {
@@ -2895,7 +2857,7 @@
             "text": "No. Dermaplaning removes only surface-level vellus hair and dead skin cells. It does not affect hair follicle structure or pigment, so hair will grow back the same as before."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermaplaning?",
           "acceptedAnswer": {
@@ -2905,7 +2867,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -2915,13 +2877,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Dermaplaning",
@@ -2930,8 +2892,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -2958,7 +2919,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -2993,7 +2954,7 @@
         "description": "Dermal filler injections in Raleigh, NC to restore lost volume in cheeks, lips, temples, and around the mouth, smooth deep lines, enhance facial contours, and refresh your appearance."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-raleigh-nc#procedure",
       "name": "Dermal Filler Treatment",
@@ -3019,7 +2980,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -3031,7 +2992,7 @@
             "text": "Dermal fillers are injectable treatments, often using hyaluronic acid or other safe biocompatible substances, designed to replenish lost facial volume, smooth wrinkles, enhance lips and cheeks, and improve overall facial balance and proportions."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do dermal filler results last?",
           "acceptedAnswer": {
@@ -3039,7 +3000,7 @@
             "text": "Results can last several months to over a year, depending on the type of filler used, treatment area, and your individual metabolism. Many patients enjoy visible improvements for 9–18 months before maintenance treatments are recommended."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermal filler injections?",
           "acceptedAnswer": {
@@ -3049,7 +3010,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -3059,13 +3020,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Dermal Fillers",
@@ -3074,9 +3035,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -3103,7 +3062,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -3138,7 +3097,7 @@
         "description": "HydraFacial treatments in Raleigh, NC — a multi-step, non-invasive procedure to cleanse, exfoliate, extract, hydrate, and nourish skin, leaving it radiant, smooth, and refreshed."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-raleigh-nc#procedure",
       "name": "HydraFacial Treatment",
@@ -3162,7 +3121,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -3174,7 +3133,7 @@
             "text": "A HydraFacial is a multi-step, non-invasive facial treatment that deeply cleanses, exfoliates, extracts impurities, and infuses the skin with hydrating serums to improve skin health, texture, and glow."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who is a HydraFacial good for?",
           "acceptedAnswer": {
@@ -3182,7 +3141,7 @@
             "text": "HydraFacial is ideal for anyone with dull, dry, or congested skin, uneven texture or tone, enlarged pores, or those seeking a refreshed glow without downtime."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a HydraFacial?",
           "acceptedAnswer": {
@@ -3192,7 +3151,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -3202,13 +3161,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "HydraFacial",
@@ -3217,9 +3176,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -3246,7 +3203,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -3281,7 +3238,7 @@
         "description": "Combined HydraFacial and Dermaplaning treatment in Raleigh, NC offered by Amelia Medspa — designed to deeply cleanse and exfoliate, remove dead skin and peach fuzz, extract impurities, hydrate, and rejuvenate skin for a smoother, brighter complexion."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-dermaplaning-raleigh-nc#procedure",
       "name": "HydraFacial + Dermaplaning Treatment",
@@ -3306,7 +3263,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-dermaplaning-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -3318,7 +3275,7 @@
             "text": "This combined treatment uses dermaplaning to remove dead skin cells and peach fuzz, followed by a HydraFacial to deeply cleanse, extract impurities, hydrate, and nourish the skin — leaving it smooth, radiant, and refreshed."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who benefits from HydraFacial + Dermaplaning?",
           "acceptedAnswer": {
@@ -3326,7 +3283,7 @@
             "text": "This combo is ideal for anyone with dull, dry or uneven skin, textured or rough skin, congestion or clogged pores, or anyone wanting a refreshed glow and smoother, softer skin without downtime."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after the treatment?",
           "acceptedAnswer": {
@@ -3336,7 +3293,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-dermaplaning-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -3346,13 +3303,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "HydraFacial + Dermaplaning",
@@ -3361,10 +3318,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -3391,7 +3345,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -3426,7 +3380,7 @@
         "description": "Kybella® injections in Raleigh, NC to target and permanently destroy fat cells under the chin, reducing submental fullness (double chin) and helping create a more contoured, defined jawline."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/kybella-raleigh-nc#procedure",
       "name": "Kybella® Submental Fat Treatment",
@@ -3448,7 +3402,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/kybella-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -3460,7 +3414,7 @@
             "text": "Kybella® is an FDA-approved injectable treatment that uses a synthetic form of deoxycholic acid to break down and destroy fat cells under the chin, helping reduce submental fullness (double chin) and refine the jawline."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How many Kybella® treatments will I need?",
           "acceptedAnswer": {
@@ -3468,7 +3422,7 @@
             "text": "The number of Kybella® sessions needed varies based on your anatomy and goals. Many patients need a series of treatments spaced weeks apart to achieve their desired profile; your provider will design a personalized plan during your consultation."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after Kybella® injections?",
           "acceptedAnswer": {
@@ -3478,7 +3432,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/kybella-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -3488,13 +3442,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Kybella®",
@@ -3503,10 +3457,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -3533,7 +3484,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -3568,7 +3519,7 @@
         "description": "Laser hair removal treatments in Raleigh, NC using state-of-the-art laser devices to permanently reduce unwanted hair on various body areas and improve skin smoothness."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/laser-hair-removal-raleigh-nc#procedure",
       "name": "Laser Hair Removal Treatment",
@@ -3593,7 +3544,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/laser-hair-removal-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -3605,7 +3556,7 @@
             "text": "Laser hair removal works by sending light energy into hair follicles, which heats and damages them to inhibit future hair growth while preserving surrounding skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How many treatments are needed?",
           "acceptedAnswer": {
@@ -3613,7 +3564,7 @@
             "text": "Because hair grows in cycles, most clients need a series of 6–8 treatments spaced several weeks apart to target all follicles effectively and achieve long-lasting hair reduction."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after laser hair removal?",
           "acceptedAnswer": {
@@ -3623,7 +3574,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/laser-hair-removal-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -3633,13 +3584,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Laser Hair Removal",
@@ -3648,9 +3599,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -3677,7 +3626,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -3712,7 +3661,7 @@
         "description": "Laser skin treatments in Raleigh, NC – tailored laser procedures to reduce pigmentation, sun damage, visible veins, boost collagen, improve tone and texture, and rejuvenate skin for a clearer, smoother complexion."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/laser-skin-treatments-raleigh-nc#procedure",
       "name": "Laser Skin Treatment",
@@ -3737,7 +3686,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/laser-skin-treatments-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -3749,7 +3698,7 @@
             "text": "Laser skin treatments at Amelia Medspa can address concerns like pigmentation and sun damage, uneven skin tone, fine lines and wrinkles, visible blood vessels or redness, texture irregularities, enlarged pores, and general signs of skin aging."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a laser skin treatment?",
           "acceptedAnswer": {
@@ -3757,7 +3706,7 @@
             "text": "Downtime is usually minimal, though some redness, swelling, or mild sensitivity may occur depending on laser intensity. Most patients resume normal activities within a day or two, with skin improvements becoming visible in the following days to weeks."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How many treatments will I need for optimal results?",
           "acceptedAnswer": {
@@ -3767,7 +3716,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/laser-skin-treatments-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -3777,13 +3726,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Laser Skin Treatments",
@@ -3792,9 +3741,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -3821,7 +3768,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -3856,7 +3803,7 @@
         "description": "Microneedling in Raleigh, NC — a minimally invasive treatment that creates micro-channels to boost collagen and elastin production, improving texture, tone, scars, fine lines, and overall skin quality."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-raleigh-nc#procedure",
       "name": "Microneedling Treatment",
@@ -3881,7 +3828,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -3893,7 +3840,7 @@
             "text": "Microneedling is a minimally invasive skin treatment that uses fine needles to create micro-injuries in the skin, triggering a natural healing response that boosts collagen and elastin production for smoother, healthier skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Does microneedling help with acne scars and uneven skin tone?",
           "acceptedAnswer": {
@@ -3901,7 +3848,7 @@
             "text": "Yes — microneedling can improve the appearance of acne scars, stretch marks, uneven texture or tone, and other skin irregularities by encouraging regeneration and collagen remodeling."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after microneedling?",
           "acceptedAnswer": {
@@ -3911,7 +3858,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -3921,13 +3868,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Microneedling",
@@ -3936,9 +3883,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -3965,7 +3910,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -4000,7 +3945,7 @@
         "description": "Morpheus8 RF microneedling treatment in Raleigh, NC — combining microneedling with radiofrequency energy to tighten skin, improve texture, reduce scars, and stimulate collagen and elastin for long-lasting rejuvenation."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/morpheus8-raleigh-nc#procedure",
       "name": "Morpheus8 RF Microneedling Treatment",
@@ -4024,7 +3969,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/morpheus8-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -4036,7 +3981,7 @@
             "text": "Morpheus8 is a minimally invasive radiofrequency-microneedling treatment that combines tiny needle punctures with RF energy to stimulate collagen and elastin, tighten skin, reduce scars, and improve texture and firmness."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "What skin concerns can Morpheus8 treat?",
           "acceptedAnswer": {
@@ -4044,7 +3989,7 @@
             "text": "Morpheus8 can treat skin laxity, uneven texture, enlarged pores, acne scars, fine lines and wrinkles, and areas needing subtle lift or tightening on the face and neck."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after Morpheus8?",
           "acceptedAnswer": {
@@ -4054,7 +3999,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/morpheus8-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -4064,13 +4009,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Morpheus8",
@@ -4079,9 +4024,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -4108,7 +4051,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -4143,7 +4086,7 @@
         "description": "Ultherapy® treatments in Raleigh, NC using focused ultrasound energy to lift and tighten skin on face and neck by stimulating collagen and elastin production, offering a non-surgical alternative to a facelift."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/skin-tightening-ultherapy-raleigh-nc#procedure",
       "name": "Ultherapy® Skin Tightening Treatment",
@@ -4166,7 +4109,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/skin-tightening-ultherapy-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -4178,7 +4121,7 @@
             "text": "Ultherapy® is a non-invasive ultrasound-based treatment that stimulates collagen and elastin production deep under the skin, leading to gradual lifting and tightening of loose or sagging skin on the face and neck."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who is a good candidate for skin tightening with Ultherapy®?",
           "acceptedAnswer": {
@@ -4186,7 +4129,7 @@
             "text": "Ultherapy® is ideal for adults seeking to improve mild to moderate skin laxity, early signs of sagging, or loss of firmness on the face and neck — without undergoing surgery."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long until I see results, and is there downtime?",
           "acceptedAnswer": {
@@ -4196,7 +4139,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/skin-tightening-ultherapy-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -4206,13 +4149,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Skin Tightening (Ultherapy®)",
@@ -4221,9 +4164,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -4250,7 +4191,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -4285,7 +4226,7 @@
         "description": "A one-on-one skincare consultation in Raleigh, NC to evaluate your skin concerns, review current regimen and history, and develop a personalized medical-grade skincare and treatment plan tailored to your skin’s needs."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-raleigh-nc#procedure",
       "name": "Skincare Consultation",
@@ -4307,7 +4248,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -4319,7 +4260,7 @@
             "text": "During your consultation, a specialist evaluates your skin through visual and tool-based analysis, discusses your goals and concerns, reviews your current regimen, and develops a custom plan including treatments and medical-grade products tailored to your needs."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who should consider a skincare consultation?",
           "acceptedAnswer": {
@@ -4327,7 +4268,7 @@
             "text": "Anyone wanting to address skin concerns such as acne, uneven tone or texture, signs of aging, pigmentation, or simply seeking a professional evaluation and personalized plan rather than over-the-counter solutions."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a skincare consultation?",
           "acceptedAnswer": {
@@ -4337,7 +4278,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -4347,13 +4288,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Skincare Consultation",
@@ -4362,9 +4303,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -4391,7 +4330,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -4426,7 +4365,7 @@
         "description": "Non-surgical vaginal rejuvenation treatments in Raleigh, NC that use energy-based technology to gently heat internal tissues, stimulate collagen, and support concerns like vaginal laxity, dryness, and comfort after childbirth, aging, or hormonal changes."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/vaginal-rejuvenation-raleigh-nc#procedure",
       "name": "Non-Surgical Vaginal Rejuvenation",
@@ -4447,7 +4386,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/vaginal-rejuvenation-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -4459,7 +4398,7 @@
             "text": "Non-surgical vaginal rejuvenation typically uses gentle energy-based technology to warm internal tissues, stimulate collagen, and support improvements in vaginal laxity, dryness, and comfort without incisions or surgery."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who is a good candidate for vaginal rejuvenation?",
           "acceptedAnswer": {
@@ -4467,7 +4406,7 @@
             "text": "Good candidates are generally women experiencing changes related to childbirth, aging, or hormonal shifts—such as mild laxity, dryness, or decreased comfort—who prefer a non-surgical approach. A consultation helps determine if this treatment is appropriate for your health history and goals."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after vaginal rejuvenation treatments?",
           "acceptedAnswer": {
@@ -4477,7 +4416,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/vaginal-rejuvenation-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -4487,13 +4426,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Vaginal Rejuvenation",
@@ -4502,8 +4441,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -4530,7 +4468,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/raleigh#business",
       "name": "Amelia Medspa Raleigh",
@@ -4565,7 +4503,7 @@
         "description": "Wrinkle relaxer injections in Raleigh, NC to soften dynamic facial wrinkles — reducing forehead lines, frown lines, crow’s feet — for a refreshed, natural look with minimal downtime."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-raleigh-nc#procedure",
       "name": "Wrinkle Relaxer Treatment",
@@ -4588,7 +4526,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-raleigh-nc#procedure#faq",
       "mainEntity": [
@@ -4600,7 +4538,7 @@
             "text": "Wrinkle relaxers are injectable neuromodulator treatments that temporarily relax facial muscles responsible for dynamic wrinkles, reducing their depth and preventing new lines from forming while preserving natural facial movement."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do results last?",
           "acceptedAnswer": {
@@ -4608,7 +4546,7 @@
             "text": "Results typically last 3–6 months depending on the product used, treatment area, and individual muscle activity. Maintenance injections are often recommended to sustain results."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after wrinkle relaxer injections?",
           "acceptedAnswer": {
@@ -4618,7 +4556,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-raleigh-nc#procedure#breadcrumb",
       "itemListElement": [
@@ -4628,13 +4566,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/raleigh"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Wrinkle Relaxers",
@@ -4643,9 +4581,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -4672,7 +4608,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa Boynton Beach",
@@ -4712,7 +4648,7 @@
         "description": "Aveli® cellulite treatment in Boynton Beach, FL — a minimally invasive procedure that targets and releases fibrous septa beneath the skin to smooth cellulite dimpling and improve skin contour."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-boynton-beach-fl#procedure",
       "name": "Aveli® Cellulite Reduction Procedure",
@@ -4734,7 +4670,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-boynton-beach-fl#procedure#faq",
       "mainEntity": [
@@ -4746,7 +4682,7 @@
             "text": "Aveli® is a minimally invasive cellulite treatment that uses a small cannula to safely locate and release the fibrous septa beneath the skin responsible for cellulite dimpling, resulting in smoother, more even-looking skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "When will I see results from Aveli®?",
           "acceptedAnswer": {
@@ -4754,7 +4690,7 @@
             "text": "Many patients notice initial smoothing within days as swelling reduces. Full results typically develop over several weeks as tissue heals and contours settle."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after Aveli® treatment?",
           "acceptedAnswer": {
@@ -4764,7 +4700,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-boynton-beach-fl#procedure#breadcrumb",
       "itemListElement": [
@@ -4774,13 +4710,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Aveli® Cellulite Treatment",
@@ -4789,9 +4725,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -4818,7 +4752,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa Boynton Beach",
@@ -4858,7 +4792,7 @@
         "description": "Aveli® cellulite treatment in Boynton Beach, FL — a minimally invasive procedure that targets and releases fibrous septa beneath the skin to smooth cellulite dimpling and improve skin contour."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-boynton-beach-fl#procedure",
       "name": "Aveli® Cellulite Reduction Procedure",
@@ -4880,7 +4814,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-boynton-beach-fl#procedure#faq",
       "mainEntity": [
@@ -4892,7 +4826,7 @@
             "text": "Aveli® is a minimally invasive cellulite treatment that uses a small cannula to safely locate and release the fibrous septa beneath the skin responsible for cellulite dimpling, resulting in smoother, more even-looking skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "When will I see results from Aveli®?",
           "acceptedAnswer": {
@@ -4900,7 +4834,7 @@
             "text": "Many patients notice initial smoothing within days as swelling reduces. Full results typically develop over several weeks as tissue heals and contours settle."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after Aveli® treatment?",
           "acceptedAnswer": {
@@ -4910,7 +4844,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-boynton-beach-fl#procedure#breadcrumb",
       "itemListElement": [
@@ -4920,13 +4854,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Aveli® Cellulite Treatment",
@@ -4935,8 +4869,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -4963,7 +4896,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa South Florida",
@@ -5003,7 +4936,7 @@
         "description": "Biostimulator injections in South Florida that work with your body to increase collagen and elastin, improve skin quality, restore facial volume, and reduce fine lines and wrinkles for natural, long-lasting rejuvenation."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-south-florida#procedure",
       "name": "Biostimulator Treatment",
@@ -5027,7 +4960,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-south-florida#procedure#faq",
       "mainEntity": [
@@ -5039,7 +4972,7 @@
             "text": "Biostimulator treatments are injectable procedures that promote your body’s natural collagen and elastin production, improving skin quality, restoring volume, softening fine lines, and delivering gradual, natural-looking results."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long until I see results from a biostimulator?",
           "acceptedAnswer": {
@@ -5047,7 +4980,7 @@
             "text": "Results typically build gradually over several weeks to months as new collagen forms. Your provider will recommend a personalized treatment plan and maintenance schedule for optimal, long-lasting results."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after biostimulator injections?",
           "acceptedAnswer": {
@@ -5057,7 +4990,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-south-florida#procedure#breadcrumb",
       "itemListElement": [
@@ -5067,13 +5000,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Biostimulator Treatments",
@@ -5082,10 +5015,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -5112,7 +5042,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa Boynton Beach",
@@ -5152,7 +5082,7 @@
         "description": "Chemical peel treatments in Boynton Beach, FL — customized chemical solutions to remove damaged outer skin layers, stimulate skin renewal, improve tone and texture, and reduce pigmentation, sun damage, acne scars, and fine lines."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-boynton-beach-fl#procedure",
       "name": "Chemical Peel Treatment",
@@ -5176,7 +5106,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-boynton-beach-fl#procedure#faq",
       "mainEntity": [
@@ -5188,7 +5118,7 @@
             "text": "A chemical peel is a cosmetic treatment where a chemical solution is applied to the skin to exfoliate and remove damaged outer layers, promoting skin renewal for improved texture, tone, and clarity."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Will a chemical peel help with sun damage and pigmentation?",
           "acceptedAnswer": {
@@ -5196,7 +5126,7 @@
             "text": "Yes — chemical peels can help fade sun spots, hyperpigmentation, and uneven skin tone by removing damaged layers and revealing newer, healthier skin underneath."
           }
         },
-        {
+{
           "@type": "Question",
           "@name": "Is there downtime after a chemical peel?",
           "acceptedAnswer": {
@@ -5206,7 +5136,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-boynton-beach-fl#procedure#breadcrumb",
       "itemListElement": [
@@ -5216,13 +5146,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Chemical Peels",
@@ -5231,9 +5161,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -5260,7 +5188,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa Boynton Beach",
@@ -5300,7 +5228,7 @@
         "description": "Dermaplaning in South Florida — a gentle facial treatment to remove dead skin and peach fuzz (vellus hair), revealing smoother, brighter skin and improving absorption of skincare products."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-south-florida#procedure",
       "name": "Dermaplaning Facial Treatment",
@@ -5321,7 +5249,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-south-florida#procedure#faq",
       "mainEntity": [
@@ -5333,7 +5261,7 @@
             "text": "Dermaplaning is a non-invasive exfoliating facial where a sterile blade is used to gently remove dead skin cells and peach fuzz (vellus hair) to leave the skin smoother and refreshed."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Does dermaplaning make hair grow back thicker or darker?",
           "acceptedAnswer": {
@@ -5341,7 +5269,7 @@
             "text": "No — dermaplaning removes only surface-level vellus hair and dead skin cells. It does not change hair follicle structure or pigment, so hair grows back the same as before."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermaplaning?",
           "acceptedAnswer": {
@@ -5351,7 +5279,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-south-florida#procedure#breadcrumb",
       "itemListElement": [
@@ -5361,13 +5289,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Dermaplaning",
@@ -5376,8 +5304,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -5404,7 +5331,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa Boynton Beach",
@@ -5444,7 +5371,7 @@
         "description": "Dermal filler injections in South Florida to restore volume in cheeks, lips, temples, and around the mouth, smooth facial folds and wrinkles, enhance contours, and provide balanced, natural-looking facial rejuvenation."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-filler-south-florida#procedure",
       "name": "Dermal Filler Treatment",
@@ -5469,7 +5396,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermal-filler-south-florida#procedure#faq",
       "mainEntity": [
@@ -5481,7 +5408,7 @@
             "text": "Dermal fillers are injectable treatments typically made from hyaluronic acid or other biocompatible substances, used to restore lost facial volume, smooth wrinkles, enhance features like lips and cheeks, and improve overall facial balance and youthfulness."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do dermal filler results last?",
           "acceptedAnswer": {
@@ -5489,7 +5416,7 @@
             "text": "Results vary depending on the type of filler used, treatment area, and individual metabolism, but can often last several months up to over a year. Maintenance sessions may be needed for long-term results."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermal filler injections?",
           "acceptedAnswer": {
@@ -5499,7 +5426,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://this.askamelia.com/local-medspa/dermal-filler-south-florida#procedure#breadcrumb",
       "itemListElement": [
@@ -5509,13 +5436,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Dermal Fillers",
@@ -5524,10 +5451,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -5554,7 +5478,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa Boynton Beach",
@@ -5594,7 +5518,7 @@
         "description": "Microneedling in Boynton Beach, FL — a minimally invasive treatment that creates micro-channels to boost collagen and elastin production for improved skin texture, reduced scars, and refreshed complexion."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-boynton-beach-fl#procedure",
       "name": "Microneedling Treatment",
@@ -5619,7 +5543,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-boynton-beach-fl#procedure#faq",
       "mainEntity": [
@@ -5631,7 +5555,7 @@
             "text": "Microneedling is a minimally invasive skin treatment that uses tiny channels to stimulate collagen and elastin production, improving skin texture, tone and skin resilience."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Does microneedling help with acne scars and uneven skin tone?",
           "acceptedAnswer": {
@@ -5639,7 +5563,7 @@
             "text": "Yes — microneedling can improve the appearance of acne scars, uneven texture or tone, and other skin concerns by encouraging skin regeneration and collagen remodeling."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after microneedling?",
           "acceptedAnswer": {
@@ -5649,7 +5573,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-boynton-beach-fl#procedure#breadcrumb",
       "itemListElement": [
@@ -5659,13 +5583,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Microneedling",
@@ -5674,10 +5598,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -5704,7 +5625,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa Boynton Beach",
@@ -5744,7 +5665,7 @@
         "description": "A one-on-one skincare consultation at Amelia Medspa in South Florida to evaluate skin concerns, review skincare history, and build a personalized medical-grade skincare and treatment plan tailored to your skin’s needs."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-south-florida#procedure",
       "name": "Skincare Consultation",
@@ -5766,7 +5687,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-south-florida#procedure#faq",
       "mainEntity": [
@@ -5778,7 +5699,7 @@
             "text": "During your consultation, a specialist reviews your skin history and concerns, evaluates your skin’s condition, discusses your lifestyle and goals, and recommends medical-grade treatments and products tailored to your needs."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who should get a skincare consultation?",
           "acceptedAnswer": {
@@ -5786,7 +5707,7 @@
             "text": "Anyone seeking to address concerns like acne, pigmentation, uneven texture or tone, signs of aging, or wanting a professional evaluation that leads to a customized skincare and treatment plan rather than generic solutions."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after just a consultation?",
           "acceptedAnswer": {
@@ -5796,7 +5717,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-south-florida#procedure#breadcrumb",
       "itemListElement": [
@@ -5806,13 +5727,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Skincare Consultation",
@@ -5821,10 +5742,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -5851,7 +5769,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/south-florida#business",
       "name": "Amelia Medspa Boynton Beach",
@@ -5891,7 +5809,7 @@
         "description": "Wrinkle relaxer injections in South Florida to soften dynamic facial wrinkles — reducing forehead lines, frown lines, and crow’s feet for a refreshed, natural appearance with minimal downtime."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-south-florida#procedure",
       "name": "Wrinkle Relaxer Treatment",
@@ -5914,7 +5832,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-south-florida#procedure#faq",
       "mainEntity": [
@@ -5926,7 +5844,7 @@
             "text": "Wrinkle relaxers are injectable neuromodulator treatments that temporarily relax facial muscles responsible for dynamic wrinkles, reducing their depth and preventing new lines while maintaining natural facial expressions."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do the results last?",
           "acceptedAnswer": {
@@ -5934,7 +5852,7 @@
             "text": "Results typically last about 3–6 months depending on the product used, treatment area, and your individual muscle activity and metabolism."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after wrinkle relaxer injections?",
           "acceptedAnswer": {
@@ -5944,7 +5862,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-south-florida#procedure#breadcrumb",
       "itemListElement": [
@@ -5954,13 +5872,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/south-florida"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Wrinkle Relaxers",
@@ -5969,8 +5887,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -5997,7 +5914,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-charles-mo#business",
       "name": "Amelia Medspa St. Charles",
@@ -6032,7 +5949,7 @@
         "description": "Aveli® cellulite treatment in St. Charles, MO — a minimally invasive procedure that targets and releases fibrous septa beneath the skin to smooth cellulite dimpling and improve body contour."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-st-charles-mo#procedure",
       "name": "Aveli® Cellulite Reduction Procedure",
@@ -6054,7 +5971,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -6066,7 +5983,7 @@
             "text": "Aveli® is a minimally invasive cellulite procedure that uses a small cannula to locate and release the fibrous septa beneath the skin responsible for cellulite dimpling, resulting in smoother, more even-looking skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "When will I see results from Aveli®?",
           "acceptedAnswer": {
@@ -6074,7 +5991,7 @@
             "text": "Many patients notice initial smoothing within days as any swelling reduces. Full results typically develop over several weeks to months as tissue heals and contours settle."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after Aveli® treatment?",
           "acceptedAnswer": {
@@ -6084,7 +6001,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
@@ -6094,13 +6011,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/st-charles-mo"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Aveli® Cellulite Treatment",
@@ -6109,8 +6026,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -6137,7 +6053,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-louis#business",
       "name": "Amelia Medspa St. Charles",
@@ -6172,7 +6088,7 @@
         "description": "Biostimulator injections in St. Charles, MO that work with your body to increase collagen and elastin production, improve skin quality, restore volume, and reduce fine lines and wrinkles for gradual, natural-looking rejuvenation."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-st-charles-mo#procedure",
       "name": "Biostimulator Treatment",
@@ -6196,7 +6112,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -6208,7 +6124,7 @@
             "text": "Biostimulator treatments are injectable procedures that encourage your body to produce more of its own collagen and elastin, gradually improving skin quality, restoring volume, and softening fine lines with very natural-looking results."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long does it take to see results from a biostimulator?",
           "acceptedAnswer": {
@@ -6216,7 +6132,7 @@
             "text": "Results develop gradually over several weeks to months as new collagen forms. Many patients notice early improvement within a few weeks, with continued refinement as the treatment’s collagen-stimulating effects build."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after biostimulator injections?",
           "acceptedAnswer": {
@@ -6226,7 +6142,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
@@ -6236,13 +6152,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/st-louis"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Biostimulator Treatments",
@@ -6251,8 +6167,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -6279,7 +6194,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-louis#business",
       "name": "Amelia Medspa St. Charles",
@@ -6314,7 +6229,7 @@
         "description": "Chemical peel treatments in St. Charles, MO to exfoliate dead skin layers, stimulate cell turnover, improve skin texture and tone, reduce pigmentation irregularities, acne scars, sun damage, and promote a smoother, more youthful complexion."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peel-st-charles-mo#procedure",
       "name": "Chemical Peel Treatment",
@@ -6338,7 +6253,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peel-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -6350,7 +6265,7 @@
             "text": "A chemical peel is a cosmetic treatment that uses a chemical solution to exfoliate the skin, remove dead skin layers, and stimulate new skin growth for improved texture, tone, and clarity."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Will a chemical peel help with pigmentation and sun damage?",
           "acceptedAnswer": {
@@ -6358,7 +6273,7 @@
             "text": "Yes. Chemical peels can help fade hyperpigmentation, sun spots, and uneven skin tone by removing damaged outer layers and encouraging healthy skin regeneration."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a BioRePeel chemical peel?",
           "acceptedAnswer": {
@@ -6368,7 +6283,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peel-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
@@ -6378,13 +6293,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/st-louis"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Chemical Peels",
@@ -6393,10 +6308,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -6423,7 +6335,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-louis#business",
       "name": "Amelia Medspa St. Charles",
@@ -6458,7 +6370,7 @@
         "description": "Dermaplaning in St. Charles, MO — a gentle facial treatment that removes dead skin cells and fine vellus hair (peach fuzz) to reveal smoother, brighter skin and improve absorption of skincare products."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-st-charles-mo#procedure",
       "name": "Dermaplaning Facial Treatment",
@@ -6479,7 +6391,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -6491,7 +6403,7 @@
             "text": "Dermaplaning is a non-invasive exfoliating facial where a sterile blade is used to gently remove dead skin and fine vellus hair (peach fuzz), leaving the skin smoother, softer, and more radiant."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Does dermaplaning make hair grow back thicker or darker?",
           "acceptedAnswer": {
@@ -6499,7 +6411,7 @@
             "text": "No — dermaplaning only removes surface-level hair and dead skin cells. It does not change hair follicles, so hair grows back the same as before in texture and color."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermaplaning?",
           "acceptedAnswer": {
@@ -6509,19 +6421,17 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com" },
-        { "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/st-louis" },
-        { "@type": "ListItem", "position": 3, "name": "Dermaplaning", "item": "https://www.askamelia.com/local-medspa/dermaplaning-st-charles-mo#procedure" }
+{ "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/st-louis" },
+{ "@type": "ListItem", "position": 3, "name": "Dermaplaning", "item": "https://www.askamelia.com/local-medspa/dermaplaning-st-charles-mo#procedure" }
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -6548,7 +6458,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-louis#business",
       "name": "Amelia Medspa St. Charles",
@@ -6583,7 +6493,7 @@
         "description": "Dermal filler injections in St. Charles, MO to restore lost facial volume in cheeks, lips, temples, and around the mouth — smoothing wrinkles and folds, enhancing contours, and refreshing appearance."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-st-charles-mo#procedure",
       "name": "Dermal Filler Treatment",
@@ -6609,7 +6519,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -6621,7 +6531,7 @@
             "text": "Dermal fillers are injectable treatments, often made from hyaluronic acid or other safe biocompatible substances, designed to restore lost facial volume, smooth wrinkles and folds, enhance lips and cheeks, and improve facial proportions."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do dermal filler results last?",
           "acceptedAnswer": {
@@ -6629,7 +6539,7 @@
             "text": "The duration of results depends on the type of filler used, the treatment area, and individual metabolism, but many patients enjoy visible improvements for 9–18 months before maintenance treatments are recommended."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermal filler injections?",
           "acceptedAnswer": {
@@ -6639,19 +6549,17 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com" },
-        { "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/st-louis" },
-        { "@type": "ListItem", "position": 3, "name": "Dermal Fillers", "item": "https://www.askamelia.com/local-medspa/dermal-fillers-st-charles-mo#procedure" }
+{ "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/st-louis" },
+{ "@type": "ListItem", "position": 3, "name": "Dermal Fillers", "item": "https://www.askamelia.com/local-medspa/dermal-fillers-st-charles-mo#procedure" }
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -6678,7 +6586,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-louis#business",
       "name": "Amelia Medspa St. Charles",
@@ -6713,7 +6621,7 @@
         "description": "HydraFacial® in St. Charles, MO — a gentle, non-invasive facial that deeply cleanses, exfoliates, extracts impurities and infuses antioxidant and hydrating serums to leave skin refreshed, radiant, and hydrated."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-st-charles-mo#procedure",
       "name": "HydraFacial® Treatment",
@@ -6735,7 +6643,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -6747,7 +6655,7 @@
             "text": "HydraFacial® is a non-invasive facial treatment combining cleansing, exfoliation, pore extraction, and infusion of antioxidant and hydrating serums to rejuvenate skin texture, tone, and hydration."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who benefits from a HydraFacial®?",
           "acceptedAnswer": {
@@ -6755,7 +6663,7 @@
             "text": "HydraFacial® is ideal for those with dryness, dullness, uneven tone, congested or acne-prone skin, or anyone wanting a refreshed, hydrated glow without downtime."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after HydraFacial®?",
           "acceptedAnswer": {
@@ -6765,7 +6673,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
@@ -6775,13 +6683,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/st-louis"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "HydraFacial®",
@@ -6790,10 +6698,7 @@
       ]
     }
   ]
-}
-
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -6820,7 +6725,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-louis#business",
       "name": "Amelia Medspa St. Charles",
@@ -6855,7 +6760,7 @@
         "description": "Microneedling in St. Charles, MO — a minimally invasive treatment that creates micro-channels in the skin to stimulate collagen and elastin production, improving texture, tone, scars, fine lines, and overall skin health."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-st-charles-mo#procedure",
       "name": "Microneedling Treatment",
@@ -6879,7 +6784,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -6891,7 +6796,7 @@
             "text": "Microneedling is a minimally invasive skin treatment that uses controlled micro-injuries to trigger the skin’s natural healing response, promoting collagen and elastin production for smoother, healthier skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Can microneedling improve acne scars and uneven skin tone?",
           "acceptedAnswer": {
@@ -6899,7 +6804,7 @@
             "text": "Yes — microneedling can help reduce the appearance of acne scars, texture irregularities, uneven tone, fine lines, and other skin imperfections by encouraging skin regeneration and collagen remodeling."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after microneedling?",
           "acceptedAnswer": {
@@ -6909,7 +6814,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
@@ -6919,13 +6824,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/st-louis"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Microneedling",
@@ -6934,8 +6839,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -6962,7 +6866,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-louis#business",
       "name": "Amelia Medspa St. Charles",
@@ -6997,7 +6901,7 @@
         "description": "A personalized skincare consultation at Amelia Medspa in St. Charles, MO — where providers assess your skin, review your concerns and history, and develop a tailored medical-grade skincare and treatment plan to meet your individual goals."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-st-charles-mo#procedure",
       "name": "Skincare Consultation",
@@ -7019,7 +6923,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -7031,7 +6935,7 @@
             "text": "During a skincare consultation, a specialist assesses your skin condition, reviews your skin history and current regimen, discusses your concerns and skin goals, and recommends a customized treatment and home-care plan using medical-grade products."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Who should consider a skincare consultation?",
           "acceptedAnswer": {
@@ -7039,7 +6943,7 @@
             "text": "Anyone wanting a professional evaluation for concerns like acne, texture, pigmentation, fine lines, or someone seeking a tailored skincare and treatment plan instead of one-size-fits-all solutions."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after a skincare consultation?",
           "acceptedAnswer": {
@@ -7049,7 +6953,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/skincare-consultation-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
@@ -7059,13 +6963,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/st-louis"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Skincare Consultation",
@@ -7074,9 +6978,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -7103,7 +7005,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/st-louis#business",
       "name": "Amelia Medspa St. Charles",
@@ -7138,7 +7040,7 @@
         "description": "Wrinkle relaxer injections in St. Charles, MO to soften expression lines — including forehead lines, frown lines, and crow’s feet — for a refreshed and natural appearance with minimal downtime."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-st-charles-mo#procedure",
       "name": "Wrinkle Relaxer Treatment",
@@ -7161,7 +7063,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-st-charles-mo#procedure#faq",
       "mainEntity": [
@@ -7173,7 +7075,7 @@
             "text": "Wrinkle relaxers are injectable neuromodulator treatments that temporarily relax facial muscles responsible for dynamic expression lines, softening wrinkles and preventing new deep lines while preserving natural movement."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do wrinkle relaxer results last?",
           "acceptedAnswer": {
@@ -7181,7 +7083,7 @@
             "text": "Results typically last around 3–6 months depending on the product used, treatment area, muscle activity, and individual metabolism. Maintenance sessions may be recommended to sustain results."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after wrinkle relaxer injections?",
           "acceptedAnswer": {
@@ -7191,19 +7093,17 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-st-charles-mo#procedure#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com" },
-        { "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/st-louis" },
-        { "@type": "ListItem", "position": 3, "name": "Wrinkle Relaxers", "item": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-st-charles-mo#procedure" }
+{ "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/st-louis" },
+{ "@type": "ListItem", "position": 3, "name": "Wrinkle Relaxers", "item": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-st-charles-mo#procedure" }
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -7230,7 +7130,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/medspa/san-antonio#business",
       "name": "Amelia Medspa San Antonio",
@@ -7264,7 +7164,7 @@
         "description": "Avéli® cellulite treatment in San Antonio — a minimally invasive procedure targeting and releasing fibrous septa beneath the skin to smooth cellulite dimpling and improve body contours on thighs, buttocks, and hips."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/aveli-cellulite-treatment-san-antonio-tx#procedure",
       "name": "Avéli® Cellulite Reduction Procedure",
@@ -7286,7 +7186,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local/aveli-cellulite-treatment-san-antonio-tx#procedure#faq",
       "mainEntity": [
@@ -7298,7 +7198,7 @@
             "text": "Avéli® is a minimally invasive cellulite treatment that uses a small cannula to identify and release the fibrous bands under the skin responsible for cellulite dimpling, helping smooth and even out skin surface."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "When will I see results from Avéli®?",
           "acceptedAnswer": {
@@ -7306,7 +7206,7 @@
             "text": "Some patients notice initial smoothing within days as swelling decreases; full results typically develop over several weeks as the skin heals and tissues settle."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after Avéli® treatment?",
           "acceptedAnswer": {
@@ -7316,18 +7216,17 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local/aveli-cellulite-treatment-san-antonio-tx#procedure#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com" },
-        { "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/san-antonio" },
-        { "@type": "ListItem", "position": 3, "name": "Avéli® Cellulite Treatment", "item": "https://www.askamelia.com/local/aveli-cellulite-treatment-san-antonio-tx#procedure" }
+{ "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/san-antonio" },
+{ "@type": "ListItem", "position": 3, "name": "Avéli® Cellulite Treatment", "item": "https://www.askamelia.com/local/aveli-cellulite-treatment-san-antonio-tx#procedure" }
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -7354,7 +7253,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/locations/san-antonio#business",
       "name": "Amelia Aesthetics San Antonio",
@@ -7388,7 +7287,7 @@
         "description": "Dermal filler injections in San Antonio, TX to restore lost facial volume in areas like cheeks, lips, temples, and around the mouth — smoothing wrinkles and folds while enhancing facial contours for a balanced, natural-looking result."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/dermal-filler-san-antonio-tx#procedure",
       "name": "Dermal Filler Treatment",
@@ -7414,7 +7313,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local/dermal-filler-san-antonio-tx#procedure#faq",
       "mainEntity": [
@@ -7426,7 +7325,7 @@
             "text": "Dermal fillers are injectable agents, often composed of hyaluronic acid or other safe, biocompatible substances, used to restore volume, smooth wrinkles and folds, enhance lips and cheeks, and improve facial contours."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do dermal filler results last?",
           "acceptedAnswer": {
@@ -7434,7 +7333,7 @@
             "text": "Results depend on the filler type, treatment area, and individual metabolism — many patients enjoy results for several months up to over a year before maintenance treatments are advised."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermal filler injections?",
           "acceptedAnswer": {
@@ -7444,19 +7343,17 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local/dermal-filler-san-antonio-tx#procedure#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com" },
-        { "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/san-antonio" },
-        { "@type": "ListItem", "position": 3, "name": "Dermal Fillers", "item": "https://www.askamelia.com/local/dermal-filler-san-antonio-tx#procedure" }
+{ "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/san-antonio" },
+{ "@type": "ListItem", "position": 3, "name": "Dermal Fillers", "item": "https://www.askamelia.com/local/dermal-filler-san-antonio-tx#procedure" }
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -7483,7 +7380,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/locations/san-antonio#business",
       "name": "Amelia Aesthetics San Antonio",
@@ -7517,7 +7414,7 @@
         "description": "Wrinkle relaxer injections in San Antonio, TX using neuromodulators to soften dynamic facial lines such as forehead wrinkles, frown lines, and crow’s feet while maintaining natural expression and requiring minimal downtime."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/wrinkle-relaxers-san-antonio-tx#procedure",
       "name": "Wrinkle Relaxer Treatment",
@@ -7540,7 +7437,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local/wrinkle-relaxers-san-antonio-tx#procedure#faq",
       "mainEntity": [
@@ -7552,7 +7449,7 @@
             "text": "Wrinkle relaxers are injectable neuromodulator treatments that temporarily relax targeted facial muscles responsible for expression lines, softening existing wrinkles and helping prevent new ones from becoming etched into the skin."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do wrinkle relaxer results last?",
           "acceptedAnswer": {
@@ -7560,7 +7457,7 @@
             "text": "Most patients enjoy smoother-looking skin for about 3–4 months, though results can vary based on the product used, treatment area, and individual muscle activity. Regular maintenance appointments help sustain your results over time."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after wrinkle relaxer injections?",
           "acceptedAnswer": {
@@ -7570,7 +7467,7 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local/wrinkle-relaxers-san-antonio-tx#procedure#breadcrumb",
       "itemListElement": [
@@ -7580,13 +7477,13 @@
           "name": "Home",
           "item": "https://www.askamelia.com"
         },
-        {
+{
           "@type": "ListItem",
           "position": 2,
           "name": "Medspa Services",
           "item": "https://www.askamelia.com/medspa/san-antonio"
         },
-        {
+{
           "@type": "ListItem",
           "position": 3,
           "name": "Wrinkle Relaxers",
@@ -7595,9 +7492,7 @@
       ]
     }
   ]
-}
-
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -7624,7 +7519,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/locations/tampa-bay-fl#business",
       "name": "Amelia Aesthetics Tampa Bay",
@@ -7658,7 +7553,7 @@
         "description": "Dermal filler injections in Tampa Bay, FL to restore facial volume in cheeks, lips, and other areas — smoothing wrinkles, enhancing contours, and refreshing appearance with natural-looking results."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/dermal-filler-tampa-bay-fl#procedure",
       "name": "Dermal Filler Treatment",
@@ -7683,7 +7578,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local/dermal-filler-tampa-bay-fl#procedure#faq",
       "mainEntity": [
@@ -7695,7 +7590,7 @@
             "text": "Dermal fillers are injectable treatments, often made of hyaluronic acid or other biocompatible substances, used to restore facial volume, soften wrinkles & folds, enhance lips/cheeks, and improve facial contours for a more youthful appearance."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do dermal filler results last?",
           "acceptedAnswer": {
@@ -7703,7 +7598,7 @@
             "text": "The duration varies based on the type of filler, treated area, and individual metabolism. Many patients enjoy results for several months up to over a year before maintenance treatments may be needed."
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after dermal filler injections?",
           "acceptedAnswer": {
@@ -7713,18 +7608,17 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local/dermal-filler-tampa-bay-fl#procedure#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com" },
-        { "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/tampa-bay-fl" },
-        { "@type": "ListItem", "position": 3, "name": "Dermal Fillers", "item": "https://www.askamelia.com/local/dermal-filler-tampa-bay-fl#procedure" }
+{ "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/tampa-bay-fl" },
+{ "@type": "ListItem", "position": 3, "name": "Dermal Fillers", "item": "https://www.askamelia.com/local/dermal-filler-tampa-bay-fl#procedure" }
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -7751,7 +7645,7 @@
         "url": "https://www.askamelia.com"
       }
     },
-    {
+{
       "@type": "MedicalBusiness",
       "@id": "https://www.askamelia.com/locations/tampa-bay-fl#business",
       "name": "Amelia Aesthetics Tampa Bay",
@@ -7786,7 +7680,7 @@
         "description": "Wrinkle relaxer injections in Tampa Bay, FL — injectibalbe treatments used to soften dynamic wrinkles, smooth forehead lines, frown lines, and crow's feet for a refreshed look."
       }
     },
-    {
+{
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/wrinkle-relaxers-tampa-bay-fl#procedure",
       "name": "Wrinkle Relaxer Treatment",
@@ -7809,7 +7703,7 @@
       ],
       "medicalSpecialty": "CosmeticProcedure"
     },
-    {
+{
       "@type": "FAQPage",
       "@id": "https://www.askamelia.com/local/wrinkle-relaxers-tampa-bay-fl#procedure#faq",
       "mainEntity": [
@@ -7821,7 +7715,7 @@
             "text": "Wrinkle relaxers are neuromodulator injectable treatments that temporarily reduce muscle activity responsible for expression lines, leading to softened wrinkles and smoother skin while preserving natural facial movement. :contentReference[oaicite:4]{index=4}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "How long do results last?",
           "acceptedAnswer": {
@@ -7829,7 +7723,7 @@
             "text": "Results typically last around 3–4 months, depending on the neuromodulator used, area treated, and individual muscle activity and metabolism. Maintenance treatments are recommended to sustain results. :contentReference[oaicite:5]{index=5}"
           }
         },
-        {
+{
           "@type": "Question",
           "name": "Is there downtime after wrinkle relaxer injections?",
           "acceptedAnswer": {
@@ -7839,13 +7733,13 @@
         }
       ]
     },
-    {
+{
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local/wrinkle-relaxers-tampa-bay-fl#procedure#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com" },
-        { "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/tampa-bay-fl" },
-        { "@type": "ListItem", "position": 3, "name": "Wrinkle Relaxers", "item": "https://www.askamelia.com/local/wrinkle-relaxers-tampa-bay-fl#procedure" }
+{ "@type": "ListItem", "position": 2, "name": "Medspa Services", "item": "https://www.askamelia.com/medspa/tampa-bay-fl" },
+{ "@type": "ListItem", "position": 3, "name": "Wrinkle Relaxers", "item": "https://www.askamelia.com/local/wrinkle-relaxers-tampa-bay-fl#procedure" }
       ]
     }
   ]
