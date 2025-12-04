@@ -1,4 +1,5 @@
-{
+[
+  {
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -7849,3 +7850,4 @@
     }
   ]
 }
+]
