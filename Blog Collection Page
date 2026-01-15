@@ -1,0 +1,248 @@
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.askamelia.com/#website",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.askamelia.com/blog#webpage",
+      "url": "https://www.askamelia.com/blog",
+      "name": "Plastic Surgery + Medspa Blog",
+      "description": "A curated collection of patient stories, educational resources, and industry updates to make your research easier.",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/#website"
+      },
+      "inLanguage": "en",
+      "about": [
+        { "@type": "Thing", "name": "Plastic surgery education" },
+        { "@type": "Thing", "name": "Medspa treatments" },
+        { "@type": "Thing", "name": "Patient safety" },
+        { "@type": "Thing", "name": "Cosmetic surgery research" }
+      ],
+      "mainEntity": {
+        "@type": "ItemList",
+        "@id": "https://www.askamelia.com/blog#itemlist",
+        "name": "Amelia Aesthetics Blog Articles",
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "numberOfItems": 11,
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/medspa-vs-surgery-faq-with-dr-aspinder-singh#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/preserve-breast-augmentation-vs-traditional#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/what-age-is-too-young-for-a-deep-plane-facelift#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/why-loose-skin-occurs-after-weight-loss#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/plastic-surgery-after-glp-1-weight-loss#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/prepare-for-surgery-to-optimize-results#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/rebecca-journey#post"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+              "@id": "https://www.askamelia.com/blog/nicole-journey#post"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.askamelia.com/#organization",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/6408a31d539dcd1879171bbb/68424f2bd747bbaa5d046ea1_amelia-horizontal-primary.svg"
+      },
+      "areaServed": "US"
+    },
+    {
+      "@type": "Blog",
+      "@id": "https://www.askamelia.com/blog#blog",
+      "name": "Amelia's Blog",
+      "url": "https://www.askamelia.com/blog",
+      "inLanguage": "en",
+      "publisher": {
+        "@id": "https://www.askamelia.com/#organization"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#post",
+      "url": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon",
+      "headline": "What’s the Difference Between a Cosmetic Surgeon and a Plastic Surgeon?",
+      "datePublished": "2026-01-13",
+      "dateModified": "2026-01-13",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/medspa-vs-surgery-faq-with-dr-aspinder-singh#post",
+      "url": "https://www.askamelia.com/blog/medspa-vs-surgery-faq-with-dr-aspinder-singh",
+      "headline": "Medspa Treatments vs. Plastic Surgery FAQ With Dr. Aspinder Singh",
+      "datePublished": "2025-11-18",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#post",
+      "url": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon",
+      "headline": "What Does Board-Certified vs. Board-Eligible Plastic Surgeon Mean?",
+      "datePublished": "2025-08-08",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/preserve-breast-augmentation-vs-traditional#post",
+      "url": "https://www.askamelia.com/blog/preserve-breast-augmentation-vs-traditional",
+      "headline": "Preservé Breast Augmentation vs. Traditional Breast Augmentation",
+      "datePublished": "2025-08-07",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#post",
+      "url": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size",
+      "headline": "How to Choose Your Breast Implant Size",
+      "datePublished": "2025-08-05",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/what-age-is-too-young-for-a-deep-plane-facelift#post",
+      "url": "https://www.askamelia.com/blog/what-age-is-too-young-for-a-deep-plane-facelift",
+      "headline": "What Age Is Too Young for a Deep Plane Facelift?",
+      "datePublished": "2025-07-08",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/why-loose-skin-occurs-after-weight-loss#post",
+      "url": "https://www.askamelia.com/blog/why-loose-skin-occurs-after-weight-loss",
+      "headline": "Why Does Loose Skin Occur After Weight Loss?",
+      "datePublished": "2025-06-13",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/plastic-surgery-after-glp-1-weight-loss#post",
+      "url": "https://www.askamelia.com/blog/plastic-surgery-after-glp-1-weight-loss",
+      "headline": "Exploring Plastic Surgery After GLP-1 Weight Loss",
+      "datePublished": "2025-04-18",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/prepare-for-surgery-to-optimize-results#post",
+      "url": "https://www.askamelia.com/blog/prepare-for-surgery-to-optimize-results",
+      "headline": "Prepare for Surgery to Optimize Your Plastic Surgery Results",
+      "datePublished": "2025-05-01",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/rebecca-journey#post",
+      "url": "https://www.askamelia.com/blog/rebecca-journey",
+      "headline": "Rebecca’s Weight Loss and Skin Removal Journey",
+      "datePublished": "2024-11-06",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.askamelia.com/blog/nicole-journey#post",
+      "url": "https://www.askamelia.com/blog/nicole-journey",
+      "headline": "Nicole’s Weight Loss and Skin Removal Journey",
+      "datePublished": "2024-09-17",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    }
+  ]
+}
