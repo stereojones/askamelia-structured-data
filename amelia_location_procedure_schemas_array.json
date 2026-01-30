@@ -6246,7 +6246,8 @@
     "isBasedOn": {
       "@id": "https://www.askamelia.com/procedures/upper-eyelids#procedure"
     }
-    {
+  },
+  {
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -6476,8 +6477,7 @@
       ]
     }
   ]
-}
-
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -6707,5 +6707,4 @@
     }
   ]
 }
-  }
 ]
