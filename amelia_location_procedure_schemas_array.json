@@ -6246,5 +6246,88 @@
     "isBasedOn": {
       "@id": "https://www.askamelia.com/procedures/upper-eyelids#procedure"
     }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MedicalProcedure",
+    "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-st-louis-mo",
+    "name": "Preservé Breast Augmentation in St. Louis, MO",
+    "alternateName": [
+      "Preservation Breast Augmentation", "Preservé Breast Augmentation", "Awake Breast Augmentation"
+      ],
+    "keywords": "Awake breast augmentation St. Louis, preserve breast augmentation in st. louis, mo preserve breast augmentation cost st. louis, mo",
+    "url": "https://www.askamelia.com/local/preserve-breast-augmentation-st-louis-mo",
+    "description": "Preservé breast augmentation utilizes advanced techniques that preserve natural breast tissue, shorten recovery, and offer subtle, natural-looking results.",
+    "bodyLocation": "Breasts",
+    "howPerformed": "After numbing the area, your surgeon will create a tunnel in your breast with the Motiva Channel Separator. This provides access to the space where your breast implant will live without cutting the tissue. Your surgeon will insert the Motiva Inflatable Balloon to create a pocket that matches the size of your breast implant. Your Motiva SmoothSilk Ergonomix implant will be inserted using the insertion funnel. The last step is closing the incision. Because Preservé typically does not require general anesthesia, patients are able to comfortably continue their day after the procedure.",
+    "followup": "Follow-up typically includes appointments at 1 week, 6 weeks, and 6 months post-procedure.",
+    "availableAtOrFrom": {
+      "@id": "https://www.askamelia.com/locations/st-louis#clinic"
+    },
+    "provider": [
+      {
+        "@id": "https://www.askamelia.com/providers/dr-rafi-fredman#provider"
+    }
+    ],
+    "performer": [
+      {
+        "@id": "https://www.askamelia.com/providers/dr-rafi-fredman#provider"
+      }
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.askamelia.com/local/preserve-breast-augmentation-st-louis-mo",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    },
+    "isPartOf": {
+      "@id": "https://www.askamelia.com#organization"
+    },
+    "isBasedOn": {
+      "@id": "https://www.askamelia.com/procedures/preserve-breast-augmentation#procedure"
+    }
+},
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalProcedure",
+  "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-raleigh-nc",
+  "name": "Preservé Breast Augmentation in Raleigh, NC",
+  "alternateName": [
+    "Preservation Breast Augmentation", "Preservé Breast Augmentation", "Awake Breast Augmentation"
+  ],
+  "keywords": "Awake breast augmentation Raleigh, preserve breast augmentation in raleigh, nc, preserve breast augmentation cost raleigh, nc",
+  "url": "https://www.askamelia.com/local/preserve-breast-augmentation-raleigh-nc",
+  "description": "Preservé breast augmentation utilizes advanced techniques that preserve natural breast tissue, shorten recovery, and offer subtle, natural-looking results.",
+  "bodyLocation": "Breasts",
+  "howPerformed": "After numbing the area, your surgeon will create a tunnel in your breast with the Motiva Channel Separator. This provides access to the space where your breast implant will live without cutting the tissue. Your surgeon will insert the Motiva Inflatable Balloon to create a pocket that matches the size of your breast implant. Your Motiva SmoothSilk Ergonomix implant will be inserted using the insertion funnel. The last step is closing the incision. Because Preservé typically does not require general anesthesia, patients are able to comfortably continue their day after the procedure.",
+  "followup": "Follow-up typically includes appointments at 1 week, 6 weeks, and 3 months post-procedure.",
+  "availableAtOrFrom": {
+    "@id": "https://www.askamelia.com/locations/raleigh#clinic"
+  },
+  "provider": [
+  
+    {
+      "@id": "https://www.askamelia.com/providers/dr-michelle-roughton#provider"
   }
+  ],
+  "performer": [
+ 
+    {
+      "@id": "https://www.askamelia.com/providers/dr-michelle-roughton#provider"
+    }
+   
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.askamelia.com/local/preserve-breast-augmentation-raleigh-nc",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  },
+  "isPartOf": {
+    "@id": "https://www.askamelia.com#organization"
+  },
+  "isBasedOn": {
+    "@id": "https://www.askamelia.com/procedures/preserve-breast-augmentation#procedure"
+  }
+}
 ]
