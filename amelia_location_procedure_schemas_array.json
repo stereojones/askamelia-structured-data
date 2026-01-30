@@ -6246,5 +6246,466 @@
     "isBasedOn": {
       "@id": "https://www.askamelia.com/procedures/upper-eyelids#procedure"
     }
+    {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://askamelia.com/#website",
+      "name": "Amelia Aesthetics",
+      "url": "https://askamelia.com",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://askamelia.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Breast Procedures",
+          "item": "https://www.askamelia.com/breast-procedures"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Preservé Breast Augmentation",
+          "item": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo"
+        }
+      ]
+    },
+    {
+      "@type": ["MedicalBusiness", "PlasticSurgery"],
+      "@id": "https://www.askamelia.com/locations/st-louis#medicalbusiness",
+      "name": "Amelia Aesthetics St. Louis",
+      "url": "https://www.askamelia.com/locations/st-louis",
+      "telephone": "+1-636-329-4036",
+      "email": "patientcarestl@askamelia.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1551 Wall Street, Suite 420",
+        "addressLocality": "St. Charles",
+        "addressRegion": "MO",
+        "postalCode": "63303",
+        "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "17:00"
+        }
+      ],
+      "medicalSpecialty": [
+        "PlasticSurgery",
+        "CosmeticSurgery"
+      ],
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "St. Louis, MO Metro Area"
+        }
+      ]
+    },
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-rafi-fredman#person",
+      "name": "Dr. Rafi Fredman",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Board-Certified Plastic Surgeon",
+      "medicalSpecialty": "Plastic Surgery",
+      "url": "https://www.askamelia.com/providers/dr-rafi-fredman",
+      "worksFor": {
+        "@id": "https://www.askamelia.com/locations/st-louis#medicalbusiness"
+      },
+      "affiliation": {
+        "@id": "https://www.askamelia.com/locations/st-louis#medicalbusiness"
+      },
+      "sameAs": [
+        "https://www.instagram.com/dr.fredman.amelia/"
+      ]
+    },
+    {
+      "@type": ["MedicalWebPage", "WebPage"],
+      "@id": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo#webpage",
+      "url": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo",
+      "name": "Preservé Breast Augmentation in St. Louis, Missouri",
+      "description": "Preservé breast augmentation is a less invasive, tissue-preserving breast augmentation option designed for subtle, natural-looking results, shorter recovery, and the option to avoid general anesthesia.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://askamelia.com/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo#breadcrumb"
+      },
+      "about": [
+        {
+          "@type": "MedicalCondition",
+          "name": "Breast volume loss"
+        },
+        {
+          "@type": "Thing",
+          "name": "Natural-looking breast augmentation"
+        }
+      ],
+      "keywords": [
+        "Preservé breast augmentation St. Louis",
+        "awake breast augmentation Missouri",
+        "Motiva SmoothSilk Ergonomix implants",
+        "natural breast augmentation St. Louis",
+        "Preservé breast augmentation cost St. Louis"
+      ],
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com/providers/dr-rafi-fredman#person"
+      },
+      "provider": {
+        "@id": "https://www.askamelia.com/locations/st-louis#medicalbusiness"
+      },
+      "mainEntity": {
+        "@id": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo#procedure"
+      }
+    },
+    {
+      "@type": ["SurgicalProcedure", "MedicalProcedure"],
+      "@id": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo#procedure",
+      "name": "Preservé Breast Augmentation",
+      "alternateName": [
+        "Awake Breast Augmentation",
+        "Preservé Method Breast Augmentation", "Preservation Breast Augmentation"
+      ],
+      "description": "A less invasive breast augmentation approach designed to preserve natural tissue and chest muscles, reduce inflammation and scarring, and support subtle, natural-looking results using Motiva SmoothSilk Ergonomix® implants.",
+      "bodyLocation": "Breast",
+      "procedureType": "Cosmetic",
+      "followup": "Post-operative follow-up visits are included as part of the care plan.",
+      "howPerformed": "After numbing, a tunnel is created with a channel separator, an inflatable balloon creates an implant pocket, and the implant is inserted with minimal disruption before the incision is closed.",
+      "preparation": "A consultation and individualized pre-op planning are completed before surgery.",
+      "provider": [
+        {
+          "@id": "https://www.askamelia.com/locations/st-louis#medicalbusiness"
+        },
+        {
+          "@id": "https://www.askamelia.com/providers/dr-rafi-fredman#person"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "12500",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo",
+        "eligibleRegion": {
+          "@type": "AdministrativeArea",
+          "name": "Missouri"
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo#faq",
+      "url": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo",
+      "name": "Preservé Breast Augmentation FAQs (St. Louis, MO)",
+      "isPartOf": {
+        "@id": "https://askamelia.com/local/preserve-breast-augmentation-st-louis-mo#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Preservé breast augmentation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Preservé is a less invasive breast augmentation technique designed to preserve natural breast tissue structures and chest muscles, reduce disruption and inflammation, and support subtle, natural-looking results. It is commonly associated with shorter recovery and may be performed without general anesthesia for select patients."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Am I a candidate for Preservé breast augmentation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You may be a candidate if this is your first breast augmentation and you want a subtle enhancement with a natural look, shorter recovery, and a technique that preserves chest muscle integrity. A consultation is required to confirm candidacy based on anatomy, goals, and medical history."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Preservé breast augmentation performed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After numbing the area, a tunnel is created using specialized tools, an inflatable balloon helps form an implant pocket sized to the implant, and a Motiva SmoothSilk Ergonomix® implant is inserted with minimal disruption before the incision is closed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Preservé different from traditional breast augmentation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Preservé focuses on minimizing disruption to natural breast structures and keeping chest muscles intact with an over-the-muscle approach, which can support faster recovery and smaller scars for appropriate candidates. Traditional breast augmentation remains a safe, effective option and may be better for patients seeking larger sizes or more flexibility in implant selection and placement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Preservé be combined with a breast lift?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Preservé can be combined with a breast lift for patients who need both repositioning and volume enhancement. Your surgeon will advise whether a combined approach is appropriate, and anesthesia recommendations may differ when a lift is included."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the recovery timeline for Preservé breast augmentation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many patients return to light activities within 1–2 days, may resume moderate exercise around 1 week, can fully submerge in water and resume more intense exercise around 4 weeks, and typically see final results over 1–3 months as swelling resolves."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does Preservé breast augmentation cost in St. Louis, Missouri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pricing on this page is listed as $12,500, and commonly includes implants, pre-op and post-op appointments, surgeon and operating room fees, and individualized clinical support. Your exact quote can vary based on your surgical plan and needs."
+          }
+
+
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://askamelia.com/#website",
+      "name": "Amelia Aesthetics",
+      "url": "https://askamelia.com",
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://askamelia.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Breast Procedures",
+          "item": "https://www.askamelia.com/breast-procedures"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Preservé Breast Augmentation",
+          "item": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc"
+        }
+      ]
+    },
+    {
+      "@type": ["MedicalBusiness", "PlasticSurgery"],
+      "@id": "https://www.askamelia.com/locations/raleigh#medicalbusiness",
+      "name": "Amelia Aesthetics Raleigh",
+      "url": "https://www.askamelia.com/locations/raleigh",
+      "telephone": "+1-919-785-1220",
+      "email": "patientcare@askamelia.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2304 Wesvill Court, Suite 360",
+        "addressLocality": "Raleigh",
+        "addressRegion": "NC",
+        "postalCode": "27607",
+        "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+          "opens": "08:00",
+          "closes": "18:00"
+        }
+      ],
+      "medicalSpecialty": [
+        "PlasticSurgery",
+        "CosmeticSurgery"
+      ],
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Raleigh, NC and the Triangle"
+        }
+      ]
+    },
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://askamelia.com/providers/dr-michelle-roughton#person",
+      "name": "Dr. Michelle Roughton",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Board-Certified Plastic Surgeon",
+      "medicalSpecialty": "Plastic Surgery",
+      "url": "https://askamelia.com/providers/dr-michelle-roughton",
+      "worksFor": {
+        "@id": "https://www.askamelia.com/locations/raleigh#medicalbusiness"
+      },
+      "affiliation": {
+        "@id": "https://www.askamelia.com/locations/raleigh#medicalbusiness"
+      },
+      "sameAs": [
+        "https://www.instagram.com/dr.roughton.amelia/"
+      ]
+    },
+    {
+      "@type": ["MedicalWebPage", "WebPage"],
+      "@id": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc#webpage",
+      "url": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc",
+      "name": "Preservé Breast Augmentation in Raleigh, North Carolina",
+      "description": "Preservé breast augmentation is a less invasive, tissue-preserving breast augmentation option designed for subtle, natural-looking results and shorter recovery, with the option to avoid general anesthesia for select patients.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://askamelia.com/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc#breadcrumb"
+      },
+      "about": [
+        {
+          "@type": "MedicalCondition",
+          "name": "Breast volume loss"
+        },
+        {
+          "@type": "Thing",
+          "name": "Natural-looking breast augmentation"
+        }
+      ],
+      "keywords": [
+        "Preservé breast augmentation Raleigh",
+        "awake breast augmentation Raleigh NC",
+        "Motiva SmoothSilk Ergonomix implants",
+        "natural breast augmentation Raleigh",
+        "Preservé breast augmentation cost Raleigh"
+      ],
+      "reviewedBy": {
+        "@id": "https://askamelia.com/providers/dr-michelle-roughton#person"
+      },
+      "provider": {
+        "@id": "https://www.askamelia.com/locations/raleigh#medicalbusiness"
+      },
+      "mainEntity": {
+        "@id": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc#procedure"
+      }
+    },
+    {
+      "@type": ["SurgicalProcedure", "MedicalProcedure"],
+      "@id": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc#procedure",
+      "name": "Preservé Breast Augmentation",
+      "alternateName": [
+        "Awake Breast Augmentation",
+        "Preservé Method Breast Augmentation"
+      ],
+      "description": "A less invasive breast augmentation approach designed to preserve natural tissue and chest muscles, reduce disruption and inflammation, and support subtle, natural-looking results using Motiva SmoothSilk Ergonomix® silicone implants.",
+      "bodyLocation": "Breast",
+      "procedureType": "Cosmetic",
+      "followup": "Post-operative follow-up visits are included as part of the care plan.",
+      "howPerformed": "After numbing the area, a tunnel is created with the Motiva Channel Separator, an inflatable balloon creates an implant pocket sized to the implant, the implant is inserted using an insertion funnel, and the incision is closed.",
+      "preparation": "A consultation and individualized pre-op planning are completed before surgery.",
+      "provider": [
+        {
+          "@id": "https://www.askamelia.com/locations/raleigh#medicalbusiness"
+        },
+        {
+          "@id": "https://askamelia.com/providers/dr-michelle-roughton#person"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "15000",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc",
+        "eligibleRegion": {
+          "@type": "AdministrativeArea",
+          "name": "North Carolina"
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc#faq",
+      "url": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc",
+      "name": "Preservé Breast Augmentation FAQs (Raleigh, NC)",
+      "isPartOf": {
+        "@id": "https://askamelia.com/local/preserve-breast-augmentation-raleigh-nc#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Preservé breast augmentation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Preservé is a less invasive breast augmentation technique designed to preserve natural breast tissue structures and keep chest muscles intact, which can support a shorter recovery and subtle, natural-looking results. For select patients, it may be performed without general anesthesia, with the option for mild sedation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Am I a candidate for Preservé breast augmentation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You may be a candidate if this is your first breast augmentation and you want a subtle enhancement and natural result, along with a technique focused on preserving tissue structures and supporting a faster recovery. A consultation is required to confirm candidacy based on anatomy, goals, and medical history."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Preservé breast augmentation performed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After numbing the area, your surgeon creates a tunnel with the Motiva Channel Separator, uses an inflatable balloon to form an implant pocket sized to the implant, inserts a Motiva SmoothSilk Ergonomix® implant using an insertion funnel, and then closes the incision."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Preservé different from traditional breast augmentation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Preservé is designed to minimize disruption to natural support structures and keep chest muscles intact with an over-the-muscle approach for appropriate candidates, which can support a shorter recovery and smaller scars. Traditional breast augmentation remains a safe and effective option and may be better for patients seeking larger implant sizes or more flexibility in implant type, profile, and placement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Preservé be combined with a breast lift?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Preservé can be combined with a breast lift for patients who need both repositioning and volume enhancement. When a lift is included, general anesthesia is often preferred for comfort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the recovery timeline for Preservé breast augmentation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many patients return to routine activities within 1–2 days, may resume moderate exercise around 1 week, can fully submerge in water and resume intense exercise around 4 weeks, and typically see full results over 1–3 months as swelling resolves."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does Preservé breast augmentation cost in Raleigh, North Carolina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The page lists Preservé breast augmentation pricing as $15,000 in Raleigh. Your exact quote can vary based on your surgical plan and individualized needs, and a consultation is required to confirm candidacy and details."
+          }
+        }
+      ]
+    }
+  ]
+}
   }
 ]
