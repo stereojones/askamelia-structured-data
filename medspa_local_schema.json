@@ -7743,7 +7743,8 @@
       ]
     }
   ]
-},{
+},
+  {
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -7789,7 +7790,7 @@
       },
       "isPartOf": {
         "@type": "WebSite",
-        "name": "Amelia Medspa St. Charles,
+        "name": "Amelia Medspa St. Charles",
         "url": "https://www.askamelia.com/medspa/st-louis"
       }
       }
@@ -7814,7 +7815,7 @@
       },
       "isPartOf": {
         "@type": "WebSite",
-        "name": "Amelia Medspa St. Charles,
+        "name": "Amelia Medspa St. Charles",
         "url": "https://www.askamelia.com/medspa/st-louis"
      }
       }
@@ -7830,7 +7831,7 @@
       "name": "Red Light Therapy in Evansville, Indiana| Amelia Medspa",
       "description": "Red light therapy is a soothing, noninvasive treatment that uses low-level wavelengths of therapeutic red light to stimulate the skin at a cellular level. This gentle technology supports natural healing processes, helping improve skin health, reduce inflammation, and promote a brighter, more balanced complexion, all without needles, downtime, or discomfort.",
       "keywords": [
-       "Red light therapy in evansville, "Red light therapy near me", "Red light therapy indiana"
+       "Red light therapy in evansville", "Red light therapy near me", "Red light therapy indiana"
       ],
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -7838,11 +7839,10 @@
       },
       "isPartOf": {
         "@type": "WebSite",
-        "name": "Amelia Medspa Evansville,
-        "url": "https://www.askamelia.com/medspa/evansville
+        "name": "Amelia Medspa Evansville",
+        "url": "https://www.askamelia.com/medspa/evansville"
      }
       }
       ]
       }
-  
 ]
