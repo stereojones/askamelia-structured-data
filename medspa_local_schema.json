@@ -7743,5 +7743,106 @@
       ]
     }
   ]
-}
+},{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/local-medspa/iv-therapy-st-charles-mo",
+      "url": "https://www.askamelia.com/local-medspa/iv-therapy-st-charles-mo",
+      "name": "IV Therapy in St. Charles, Missouri | Amelia Medspa",
+      "description": "IV therapy is a fast, effective way to deliver hydration and essential vitamins directly into your bloodstream, helping your body absorb nutrients more efficiently and feel better, faster.",
+      "keywords": [
+        "IV Therapy in St. Charles",
+        "hangover cure in st.charles",
+        "IV Immunity Infusion st charles", "iv therapy near me",
+        "amelia medspa st charles",
+        "IV Energy Boost Infusion st charles", "IV Recovery Infusion st charles"
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1", ".intro"]
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Amelia Medspa St. Charles",
+        "url": "https://www.askamelia.com/medspa/st-louis"
+      },
+   }
+    ]
+    },
+    {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/local-medspa/facial-lymphatic-massage-st-charles-mo",
+      "url": "https://www.askamelia.com/local-medspa/facial-lymphatic-massage-st-charles-mo",
+      "name": "Lymphatic Facial Massage in St. Charles, Missouri | Amelia Medspa",
+      "description": "A gentle lymphatic facial massage that helps stimulate circulation and encourage natural drainage, reducing puffiness and supporting healthier-looking skin.",
+      "keywords": [
+       "Facial Massage st charles", "Manual Lymph Drainage st charles", "Lymphatic Drainage Facial st charles", "Facial Lymphatic Drainage (FLD) st charles"
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1", ".intro"]
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Amelia Medspa St. Charles,
+        "url": "https://www.askamelia.com/medspa/st-louis"
+      }
+      }
+      ]
+    },
+
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/local-medspa/red-light-therapy-st-charles-mo",
+      "url": "https://www.askamelia.com/local-medspa/red-light-therapy-st-charles-mo",
+      "name": "Red Light Therapy in St. Charles, Missouri | Amelia Medspa",
+      "description": "Red light therapy is a soothing, noninvasive treatment that uses low-level wavelengths of therapeutic red light to stimulate the skin at a cellular level. This gentle technology supports natural healing processes, helping improve skin health, reduce inflammation, and promote a brighter, more balanced complexion, all without needles, downtime, or discomfort.",
+      "keywords": [
+       "Red light therapy in st charles", "Red light therapy near me", "Red light therapy st lous"
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1", ".intro"]
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Amelia Medspa St. Charles,
+        "url": "https://www.askamelia.com/medspa/st-louis"
+     }
+      }
+      ]
+    },
+    {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/local-medspa/rred-light-therapy-evansville-in",
+      "url": "https://www.askamelia.com/local-medspa/red-light-therapy-evansville-in",
+      "name": "Red Light Therapy in Evansville, Indiana| Amelia Medspa",
+      "description": "Red light therapy is a soothing, noninvasive treatment that uses low-level wavelengths of therapeutic red light to stimulate the skin at a cellular level. This gentle technology supports natural healing processes, helping improve skin health, reduce inflammation, and promote a brighter, more balanced complexion, all without needles, downtime, or discomfort.",
+      "keywords": [
+       "Red light therapy in evansville, "Red light therapy near me", "Red light therapy indiana"
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1", ".intro"]
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Amelia Medspa Evansville,
+        "url": "https://www.askamelia.com/medspa/evansville
+     }
+      }
+      ]
+      }
+  
 ]
