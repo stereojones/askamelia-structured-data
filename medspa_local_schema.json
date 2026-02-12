@@ -7786,7 +7786,7 @@
       ],
       "speakable": {
         "@type": "SpeakableSpecification",
-        "cssSelector": ["h1]
+        "cssSelector": ["h1"]
       },
       "isPartOf": {
         "@type": "WebSite",
