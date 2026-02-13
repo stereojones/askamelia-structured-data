@@ -7826,7 +7826,7 @@
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://www.askamelia.com/local-medspa/rred-light-therapy-evansville-in",
+      "@id": "https://www.askamelia.com/local-medspa/red-light-therapy-evansville-in",
       "url": "https://www.askamelia.com/local-medspa/red-light-therapy-evansville-in",
       "name": "Red Light Therapy in Evansville, Indiana| Amelia Medspa",
       "description": "Red light therapy is a soothing, noninvasive treatment that uses low-level wavelengths of therapeutic red light to stimulate the skin at a cellular level. This gentle technology supports natural healing processes, helping improve skin health, reduce inflammation, and promote a brighter, more balanced complexion, all without needles, downtime, or discomfort.",
@@ -7838,11 +7838,67 @@
         "cssSelector": ["h1", ".intro"]
       },
       "isPartOf": {
-        "@type": "WebSite",
+        "@type": "Website",
         "name": "Amelia Medspa Evansville",
         "url": "https://www.askamelia.com/medspa/evansville"
      }
       }
       ]
+      },
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/local-medspa/iv-therapy-boynton-beach-fl",
+      "url": "https://www.askamelia.com/local-medspa/iv-therapy-boynton-beach-fl",
+      "name": "IV Therapy in Boynton Beach, Florida",
+      "description": "IV therapy is a fast, effective way to deliver hydration and essential vitamins directly into your bloodstream, helping your body absorb nutrients more efficiently and feel better, faster.",
+      "keywords": [
+        "IV Therapy in Boynton Beach, Florida",
+        "hangover cure in boynton beach",
+        "IV Immunity Infusion boynton beach", "iv therapy near me",
+        "amelia medspa south florida",
+        "IV Energy Boost Infusion boynton beach", "IV Recovery Infusion boynton beach"
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1"]
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Amelia Medspa South Florida",
+        "url": "https://www.askamelia.com/medspa/south-florida"
       }
+   }
+   ]
+   },
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/local-medspa/wellness-shots-st-charles",
+      "url": "https://www.askamelia.com/local-medspa/wellness-shots-st-charles",
+      "name": "Wellness Shots in St. Charles, MO",
+      "description": "Wellness shots can increase energy, support metabolic processes and overall health, improve mood, and sharpen focus.",
+      "keywords": [
+        "Wellness shots in st. Charles",
+        "B12 shots in st. Charles",
+        "B12 shots near me", "nad+ shots near me",
+        "Wellness injections near me",
+        "nad+ injections st. Charles", "b12 injections st. Charles"
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1"]
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Amelia Medspa St. Charles",
+        "url": "https://www.askamelia.com/medspa/st-louis"
+      }
+   }
+   ]
+   }
 ]
