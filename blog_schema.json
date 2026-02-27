@@ -108,6 +108,13 @@
             "item": {
               "@id": "https://www.askamelia.com/blog/nicole-journey#post"
             }
+          },
+            {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+              "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#post"
+            }
           }
         ]
       }
@@ -240,6 +247,16 @@
       "url": "https://www.askamelia.com/blog/nicole-journey",
       "headline": "Nicole’s Weight Loss and Skin Removal Journey",
       "datePublished": "2024-09-17",
+      "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
+      "author": { "@id": "https://www.askamelia.com/#organization" },
+      "publisher": { "@id": "https://www.askamelia.com/#organization" }
+    },
+        {
+      "@type": "BlogPosting",
+      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#post",
+      "url": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+      "headline": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
+      "datePublished": "2027-02-27",
       "isPartOf": { "@id": "https://www.askamelia.com/blog#blog" },
       "author": { "@id": "https://www.askamelia.com/#organization" },
       "publisher": { "@id": "https://www.askamelia.com/#organization" }
