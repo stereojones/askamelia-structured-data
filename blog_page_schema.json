@@ -1,0 +1,257 @@
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Thing",
+      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing",
+      "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
+      "description": "Breast surgery is one of the most personal, customizable procedures in plastic surgery. It’s also one of the most misunderstood. Whether you're considering breast augmentation, a lift, a reduction, or implant exchange, your questions deserve honest, clear answers. Board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions from the Bustmob Community.",
+      "url": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+      "owner": {
+        "@id": "https://askamelia.com/#organization"
+      },
+      "subjectOf": {
+        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage",
+      "url": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+      "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
+      "description": "Breast surgery questions, answered by a board-certified plastic surgeon in Raleigh, NC. Learn implants vs augmentation, lift vs reduction, over vs under, recovery, and exchange.",
+      "breadcrumb": {
+        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://askamelia.com/providers/dr-cedric-hunter#person"
+      },
+      "about": {
+        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
+      }
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://askamelia.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Blog",
+          "item": "https://askamelia.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
+          "item": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter"
+        }
+      ]
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#creativework",
+      "about": {
+        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
+      },
+      "abstract": "Below, board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions about cosmetic breast surgeries.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients seeking cosmetic breast procedures"
+      },
+      "author": {
+        "@id": "https://askamelia.com/#organization"
+      },
+      "datePublished": "2026-03-01",
+      "dateModified": "2026-03-01",
+      "keywords": [
+        "Breast Augmentation",
+        "Breast Lift", "Breast implants", "Breast reduction", "cosmetic breast surgery",
+        "Raleigh, North Carolina"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#article",
+      "isPartOf": {
+        "@id": "https://askamelia.com/#webpage"
+      },
+      "about": {
+        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
+      },
+      "author": {
+        "@id": "https://askamelia.com/#organization"
+      },
+      "datePublished": "2026-03-01",
+      "dateModified": "2026-03-01",
+      "articleBody": "Breast Surgery in Raleigh, NC: Your Top Questions Answered\nBreast surgery is one of the most personal, customizable procedures in plastic surgery. It’s also one of the most misunderstood. Whether you're considering breast augmentation, a lift, a reduction, or implant exchange, your questions deserve honest, clear answers.\n\nBelow, board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions from the Bustmob Community.\n\nboard-certified plastic surgeon in Raleigh, NC Dr. Cedric Hunter\nWhat’s the Difference Between Breast Augmentation and Breast Implants?\nBreast augmentation is the procedure. Breast implants are the tool used to achieve it. Augmentation simply means adding volume. While some surgeons use fat grafting, implants allow for:\n\nPredictable volume (300cc = 300cc)\nImmediate visible results\nBetter control over shape and projection\nFuller upper pole (top of the breast)\nIf you want more fullness, improved shape, or restored volume after pregnancy or weight loss, implants are typically the most reliable option.\n\nAre Breast Implants Only for Women Who Want to Go “Big”?\nNo, and this is one of the biggest misconceptions. Many patients in Raleigh seeking breast augmentation want:\n\nBetter shape\nRestored fullness after breastfeeding\nSubtle upper pole fullness\nMore balance in clothing\nSymmetry\nImplants range from very subtle to very dramatic. The right size is the one that fits your body and your goals, not trends.\n\nShould I Wait Until After Kids to Get Breast Implants?\nNot necessarily. There is no rule that you must wait until after pregnancy. Many patients choose augmentation before having children because:\n\nYou may not know when (or if) you’ll have kids\nYou deserve to feel confident now\nImplants do not automatically prevent breastfeeding\nIf changes happen after pregnancy, adjustments (like a lift) can be done later. Waiting isn’t required unless you personally prefer to.\n\nCan I Breastfeed After Breast Surgery?\nIn many cases, yes. Dr. Hunter’s goal during augmentation, lift, or reduction is to:\n\nPreserve breast tissue behind the nipple\nMaintain blood supply\nProtect nerve sensation\nGenerally, patients who could breastfeed before surgery can typically breastfeed after surgery. It’s also important to remember that about 10–15% of women have difficulty breastfeeding regardless of surgery.\n\nHow Do I Know If My Implants Are “Too Big” for Me?\nThere’s no universal equation. Implants are “too big” if:\n\nYou feel uncomfortable\nThey don’t fit your lifestyle\nClothing becomes frustrating\nYou don’t like the aesthetic\nHowever, proportional considerations do matter:\n\nBreast width\nChest diameter\nSkin thickness\nTissue coverage\nA skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision.\n\nOver vs. Under the Muscle: Which Is Better?\nNeither is universally better. It depends on your anatomy and lifestyle.\n\nImplants Under the Muscle (Submuscular)\nPros:\n\nMore natural slope\nBetter camouflage in thin patients\nMuscle helps support the implant\nConsiderations:\n\nPossible animation (movement when flexing)\nSlightly longer early recovery\nImplants Over the Muscle (Subglandular)\nPros:\n\nFaster initial recovery\nNo animation\nOften preferred for bodybuilders\nConsiderations:\n\nMore visible rippling in thin patients\nSkin provides primary support\nDoes Implant Placement Affect Mammograms?\nDetection rates are the same whether implants are over or under the muscle. Modern imaging (mammogram, ultrasound, MRI) is highly effective.\n\nWill I Be Able to Work Out After Breast Implants?\nYes. Typically, there are lifting restrictions for the first six weeks after surgery. However, many patients find that once they are healed and cleared, can still do their normal exercises, including: \n\nBench press\nPush-ups\nCrossFit\nPowerlift\nCompete in bodybuilding\nIf implants are under the muscle, workouts may feel different at first, but strength returns. The key restriction is no heavy chest activity for six weeks.\n\nHow Long Is Recovery After Breast Surgery?\nFor augmentation, lift, or reduction, the typical recovery timeline looks like:\n\nBack to desk work: 2–4 days\nLight activity: within 1–2 weeks\nNo heavy lifting: 6 weeks\nOver-the-muscle implants may feel better slightly faster, but long-term outcomes are similar.\n\nHow Do I Know If I Need a Breast Lift?\nYou may need a breast lift if:\n\nYour nipples sit low on the breast\nYou like the shape when you lift your arm (mirror test)\nYou want a higher, tighter look\nYou may only need implants (no lift) if:\n\nYou like your nipple position\nYou just want more fullness\nBorderline cases can be staged: Do implants first. Add a lift later only if needed. This avoids unnecessary scars.\n\nWhat’s the Difference Between a Breast Lift and a Breast Reduction?\nEvery breast reduction includes a breast lift, and both use the same incision pattern. The difference is how much tissue is removed. \n\nBreast Lift: Removes a small amount of tissue and reshapes.\nBreast Reduction: Removes a larger amount of tissue for a decrease in size.\nWhat Is an Implant Exchange?\nAn implant exchange replaces old implants with new ones. Breast implant exchanges are used to:\n\nChange implant size\nSwitch implant placement\nCorrect capsule issues\nUpdate older implants\nBreast implant exchanges can be done:\n\nAwake with local anesthesia (simple size swap)\nUnder general anesthesia (if pocket adjustments are needed)\nRisk increases slightly with each surgery, but multiple exchanges are possible.\nDo Implants Need to Be Replaced Every 10 Years?\nIt’s a myth that implants “expire” after 10 years. There is no expiration date. Generally, if you’re happy with your implants, there is no need to exchange them. However, older implants (15–20+ years old) may be replaced due to rupture risk. Newer cohesive “gummy bear” implants typically do not routinely require replacement and can remain for as long as there are no issues. That being said, implants are medical devices and are not intended to last forever.\n\nWhat About Breast Implant Illness?\nThere is currently no definitive scientific data proving a causal link. While some patients report symptom improvement after removal, many patients with implants do not experience systemic issues. If you have concerns, a personalized consultation is essential.\n\nHow Does Weight Loss Affect Breast Surgery Results?\nMajor weight changes can affect outcomes. Typically, the best practice is to be within 10–15 pounds of your goal weight before surgery. If you gain or lose significant weight after surgery:\n\nYou may lose breast tissue\nImplants may appear different\nA revision may be needed\nHow Young Can Someone Get a Breast Reduction?\nAt Amelia Aesthetics in Raleigh, you must be at least 18 years old. In reconstructive settings, the goal is function, not just appearance, and reductions may be performed earlier if:\n\nSevere back pain\nFunctional limitations\nSignificant asymmetry\nEmotional distress\nWhat Should I Research Before a Breast Surgery Consultation?\nHelpful things to consider before your appointment:\n\nDo you prefer a natural or round shape?\nOver vs under muscle (based on activity)?\nDo you think you might need a lift?\nBring 5–10 inspiration photos (not 100)\nAvoid getting overwhelmed by:\n\nProfile terminology\nImplant brand debates\nInternet horror stories\nYour consultation is where customization happens. Breast surgery isn’t one-size-fits-all. It’s highly personalized, and that’s what makes it powerful.\n\nAt Amelia, the goal isn’t to push one method. It’s to:\n\nUnderstand your anatomy\nUnderstand your lifestyle\nUnderstand your aesthetic goals\nCreate a plan that fits you\nWhether you’re considering breast implants, a lift, reduction, exchange, or revision, informed decisions lead to confident outcomes.\n\nIf you’re ready to explore your options, book a consultation and start the conversation.\n\nGet to Know Dr. Cedric Hunter\nDr. Hunter is a board-certified plastic surgeon at Amelia Aesthetics in Raleigh, North Carolina. He is certified by the American Board of Plastic Surgery and completed extensive surgical training in both cosmetic and reconstructive plastic surgery procedures.\n\nHis background includes years of experience treating patients across the full spectrum of breast care from cosmetic breast augmentation and lifts to breast reduction, and implant revision. This dual training allows him to approach every procedure with both aesthetic precision and a strong foundation in safety and long-term outcomes.\n\nKnown for his thoughtful, individualized approach, Dr. Hunter does not believe in a one-size-fits-all solution. He takes time to understand each patient’s anatomy, lifestyle, and goals to create results that feel balanced, natural, and aligned with their vision.\n\nAt Amelia Raleigh, Dr. Hunter is committed to education, transparency, and helping patients feel confident in every step of their decision-making process.\n\nboard-certified plastic surgeon in Raleigh, NC Dr. Cedric Hunter\n\n",
+      "wordCount": "1367"
+    },
+
+    {
+      "@type": "FAQPage",
+      "@id": "https://askamelia.com/providers/dr-cedric-hunter#faq",
+      "isPartOf": {
+        "@id": "https://askamelia.com/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What’s the Difference Between Breast Augmentation and Breast Implants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Breast augmentation is the procedure. Breast implants are the tool used to achieve it. Augmentation simply means adding volume. While some surgeons use fat grafting, implants allow for: Predictable volume (300cc = 300cc), Immediate visible results, Better control over shape and projection, Fuller upper pole (top of the breast). If you want more fullness, improved shape, or restored volume after pregnancy or weight loss, implants are typically the most reliable option."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Breast Implants Only for Women Who Want to Go “Big”?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, and this is one of the biggest misconceptions. Many patients in Raleigh seeking breast augmentation want: Better shape, Restored fullness after breastfeeding, Subtle upper pole fullness, More balance in clothing, Symmetry. Implants range from very subtle to very dramatic. The right size is the one that fits your body and your goals, not trends."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I Wait Until After Kids to Get Breast Implants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Not necessarily. There is no rule that you must wait until after pregnancy. Many patients choose augmentation before having children because: You may not know when (or if) you’ll have kids, You deserve to feel confident now, Implants do not automatically prevent breastfeeding. If changes happen after pregnancy, adjustments (like a lift) can be done later. Waiting isn’t required unless you personally prefer to."
+          }
+        },
+          {
+          "@type": "Question",
+          "name": "Can I Breastfeed After Breast Surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In many cases, yes. Dr. Hunter’s goal during augmentation, lift, or reduction is to: Preserve breast tissue behind the nipple, Maintain blood supply, Protect nerve sensation. Generally, patients who could breastfeed before surgery can typically breastfeed after surgery. It’s also important to remember that about 10–15% of women have difficulty breastfeeding regardless of surgery."
+          }
+        },
+          {
+          "@type": "Question",
+          "name": "How Do I Know If My Implants Are “Too Big” for Me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There’s no universal equation. Implants are “too big” if: You feel uncomfortable, They don’t fit your lifestyle, Clothing becomes frustrating, You don’t like the aesthetic. However, proportional considerations do matter: Breast width, Chest diameter, Skin thickness, Tissue coverage. A skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Over vs. Under the Muscle: Which Is Better?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There’s no universal equation. Implants are “too big” if: You feel uncomfortable, They don’t fit your lifestyle, Clothing becomes frustrating, You don’t like the aesthetic. However, proportional considerations do matter: Breast width, Chest diameter, Skin thickness, Tissue coverage. A skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision."
+          }
+        },
+         {
+          "@type": "Question",
+          "name": "Over vs. Under the Muscle: Which Is Better?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Neither is universally better. It depends on your anatomy and lifestyle. Implants Under the Muscle (Submuscular) Pros: More natural slope, Better camouflage in thin patients, Muscle helps support the implant. Considerations: Possible animation (movement when flexing), Slightly longer early recovery. Implants Over the Muscle (Subglandular) Pros: Faster initial recovery, No animation, Often preferred for bodybuilders. Considerations: More visible rippling in thin patients, Skin provides primary support"
+          }
+        },
+         {
+          "@type": "Question",
+          "name": "Does Implant Placement Affect Mammograms?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Detection rates are the same whether implants are over or under the muscle. Modern imaging (mammogram, ultrasound, MRI) is highly effective."
+          }
+        },
+         {
+          "@type": "Question",
+          "name": "Will I Be Able to Work Out After Breast Implants?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Typically, there are lifting restrictions for the first six weeks after surgery. However, many patients find that once they are healed and cleared, can still do their normal exercises, including: Bench press, Push-ups, CrossFit, Powerlift, Compete in bodybuilding. If implants are under the muscle, workouts may feel different at first, but strength returns. The key restriction is no heavy chest activity for six weeks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How Long Is Recovery After Breast Surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For augmentation, lift, or reduction, the typical recovery timeline looks like: Back to desk work: 2–4 days, Light activity: within 1–2 weeks, No heavy lifting: 6 weeks, Over-the-muscle implants may feel better slightly faster, but long-term outcomes are similar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How Do I Know If I Need a Breast Lift?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You may need a breast lift if: Your nipples sit low on the breast, You like the shape when you lift your arm (mirror test), You want a higher, tighter look, You may only need implants (no lift) if: You like your nipple position, You just want more fullness, Borderline cases can be staged: Do implants first. Add a lift later only if needed. This avoids unnecessary scars."
+          }
+        },
+         {
+          "@type": "Question",
+          "name": "What’s the Difference Between a Breast Lift and a Breast Reduction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Every breast reduction includes a breast lift, and both use the same incision pattern. The difference is how much tissue is removed. Breast Lift: Removes a small amount of tissue and reshapes. Breast Reduction: Removes a larger amount of tissue for a decrease in size."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What Is an Implant Exchange?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An implant exchange replaces old implants with new ones. Breast implant exchanges are used to: Change implant size, Switch implant placement, Correct capsule issues, Update older implants, Breast implant exchanges can be done: Awake with local anesthesia (simple size swap), Under general anesthesia (if pocket adjustments are needed), Risk increases slightly with each surgery, but multiple exchanges are possible."
+          }
+        },
+          {
+          "@type": "Question",
+          "name": "Do Implants Need to Be Replaced Every 10 Years?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It’s a myth that implants “expire” after 10 years. There is no expiration date. Generally, if you’re happy with your implants, there is no need to exchange them. However, older implants (15–20+ years old) may be replaced due to rupture risk. Newer cohesive “gummy bear” implants typically do not routinely require replacement and can remain for as long as there are no issues. That being said, implants are medical devices and are not intended to last forever."
+          }
+        },
+         {
+          "@type": "Question",
+          "name": "What About Breast Implant Illness?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There is currently no definitive scientific data proving a causal link. While some patients report symptom improvement after removal, many patients with implants do not experience systemic issues. If you have concerns, a personalized consultation is essential."
+          }
+        },
+          {
+          "@type": "Question",
+          "name": "How Does Weight Loss Affect Breast Surgery Results?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Major weight changes can affect outcomes. Typically, the best practice is to be within 10–15 pounds of your goal weight before surgery. If you gain or lose significant weight after surgery: You may lose breast tissue, Implants may appear different, A revision may be needed."
+          }
+        },
+         {
+          "@type": "Question",
+          "name": "How Young Can Someone Get a Breast Reduction?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At Amelia Aesthetics in Raleigh, you must be at least 18 years old. In reconstructive settings, the goal is function, not just appearance, and reductions may be performed earlier if: Severe back pain, Functional limitations, Significant asymmetry, Emotional distress."
+          }
+        },
+          {
+          "@type": "Question",
+          "name": "What Should I Research Before a Breast Surgery Consultation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Helpful things to consider before your appointment: Do you prefer a natural or round shape?, Over vs under muscle (based on activity)?, Do you think you might need a lift?, Bring 5–10 inspiration photos (not 100). Avoid getting overwhelmed by: Profile terminology, Implant brand debates, Internet horror stories. Your consultation is where customization happens. Breast surgery isn’t one-size-fits-all. It’s highly personalized, and that’s what makes it powerful. At Amelia, the goal isn’t to push one method. It’s to: Understand your anatomy, Understand your lifestyle, Understand your aesthetic goals, Create a plan that fits you. Whether you’re considering breast implants, a lift, reduction, exchange, or revision, informed decisions lead to confident outcomes. If you’re ready to explore your options, book a consultation and start the conversation."
+          }
+        }
+      ]
+    }
+
+  ]}
