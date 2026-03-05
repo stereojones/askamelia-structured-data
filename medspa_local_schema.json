@@ -1,4 +1,114 @@
 [
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo",
+      "url": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo",
+      "name": "Revision® DEJ BioStim Treatment in St. Charles | Amelia Medspa",
+      "description": "DEJ BioStim Treatment is a non-invasive, topical biostimulator that visibly improves skin firmness, elasticity, and luminosity without needles. Many patients experience minimal discomfort and downtime. For best results, DEJ BioStim Treatments are typically recommended in a series of three.",
+      "keywords": [
+        "Revision® DEJ BioStim Treatment in St. Charles", "non-invasive treatment for wrinkles", "get rid of wrinkles without needles"
+      ],
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com"
+      }
+    },
+{
+      "@type": "MedicalBusiness",
+      "@id": "https://www.askamelia.com/medspa/st-louis#business",
+      "name": "Amelia Medspa St. Charles",
+     
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1551 Wall Street, Suite 320",
+        "addressLocality": "St. Charles",
+        "addressRegion": "MO",
+        "postalCode": "63303",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "38.78017556569693",
+        "longitude": "-90.52501902863757"
+      },
+      "url": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo",
+      "telephone": "+1-636-329-4036",
+      "priceRange": "$$",
+        "brand": "Amelia Medspa",
+        "description": "Amelia Medspa St. Charles offers a curated collection of medspa treatments, injectables, and medical-grade skincare, all designed to give the best, most natural results. Our experienced and licensed providers are dedicated to helping you achieve your aesthetic goals in a comfortable and welcoming environment."
+    },
+{
+      "@type": "MedicalProcedure",
+      "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo#procedure",
+      "name": "Revision® DEJ BioStim Treatment",
+      "procedureType": "NonInvasiveProcedure",
+      "howPerformed": "The licensed and experienced providers will begin your treatment with a double cleanse using Revision Skincare cleanser, then prep your skin with an exfoliating facial rinse before applying the DEJ BioStim solution. Your treatment concludes with a hydrating facial mask and Revision Skincare products gently massaged into your skin.",
+      "preparation": "For optimal results, prime skin 1-2 weeks prior to treatment with your choice of Revision Skincare Cleanser, DEJ Daily Boosting Serum, DEJ Face Cream, and Intellishade SPF (AM only). Avoid retinol for 1 week prior. Patients should not have had recent laser or microneedling.",
+      "followup": "1-3 Days After: Follow the regimen as directed by your provider. 5 Days After: Begin using a post-care kit 5 days after each treatment.",
+      "bodyLocation": [
+        "Face"
+      ]
+    },
+{
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What to Expect for Your DEJ BioStim Treatment",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Offered exclusively at Amelia Mespda in St. Charles, the licensed and experienced providers will begin your treatment with a double cleanse using Revision Skincare cleanser, then prep your skin with an exfoliating facial rinse before applying the DEJ BioStim solution. Your treatment concludes with a hydrating facial mask and Revision Skincare products gently massaged into your skin. "
+          }
+        },
+{
+          "@type": "Question",
+          "name": "What is DEJ BioStim Treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DEJ BioStim Treatment is a non-invasive, topical biostimulator that visibly improves skin firmness, elasticity, and luminosity without needles. Many patients experience minimal discomfort and downtime. For best results, DEJ BioStim Treatments are typically recommended in a series of three."
+          }
+        },
+{
+          "@type": "Question",
+          "name": "Who Is a Good Candidate for DEJ BioStim Treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DEJ BioStim Treatment is suitable for all Fitzpatrick Skin Types V-VI. Always consult your provider about products and treatments that are right for you. Those looking for faster/better results, with minimal discomfort and downtime. Those looking for non-invasive or more cost-effective professional treatments. Those afraid of needles/injections. Those seeking professional anti-aging treatments with the latest technology/ treatments. Those looking for more natural results to reduce signs of aging (boosting skin’s natural collagen and elastin production). This treatment is not for patients looking to improve acne or hyperpigmentation."
+        }
+    },
+{
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo#procedure#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com"
+        },
+{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Medspa",
+          "item": "https://www.askamelia.com/medspa/st-louis"
+        },
+{
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DEJ BioStim Treatment",
+          "item": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo#procedure"
+        }
+      ]
+    }
+  ]
+}
+]
+},
 {
   "@context": "https://schema.org",
   "@graph": [
