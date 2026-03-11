@@ -8,38 +8,38 @@
 
     {
       "@type": "Thing",
-      "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing",
+      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing",
       "name": "Tummy Tuck FAQ With Dr. Alan Tom at Amelia Aesthetics St. Louis",
       "description": "Tummy tuck surgery questions, answered by a board-eligible plastic surgeon in St. Louis, MO. Learn about drainless tummy tucks, muscle repair, and recovery.",
-      "url": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
+      "url": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
       "owner": {
-        "@id": "https://askamelia.com/#organization"
+        "@id": "https://www.askamelia.com/#organization"
       },
       "subjectOf": {
-        "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
       }
     },
 
     {
       "@type": "WebPage",
-      "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage",
+      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage",
       "url": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
       "name": "Tummy Tuck FAQ - Plastic Surgeon Dr. Alan Tom | Amelia Blog",
       "description": "Tummy tuck surgery questions, answered by a board-eligible plastic surgeon in St. Louis, MO. Learn about drainless tummy tucks, muscle repair, and recovery.",
       "breadcrumb": {
-        "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#breadcrumb"
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#breadcrumb"
       },
       "reviewedBy": {
-        "@id": "https://askamelia.com/#organization"
+        "@id": "https://www.askamelia.com/#organization"
       },
       "about": {
-        "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
       }
     },
 
     {
       "@type": "BreadcrumbList",
-      "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#breadcrumb",
+      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -57,16 +57,16 @@
           "@type": "ListItem",
           "position": 3,
           "name": "Tummy Tuck FAQ With Dr. Alan Tom at Amelia Aesthetics St. Louis",
-          "item": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom"
+          "item": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom"
         }
       ]
     },
 
     {
       "@type": "CreativeWork",
-      "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#creativework",
+      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#creativework",
       "about": {
-        "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
       },
       "abstract": "A tummy tuck (abdominoplasty) is a body contouring surgery that removes excess abdominal skin, tightens separated abdominal muscles (diastasis recti), and improves waist and stomach shape, often using liposuction for additional contouring. It is not a weight-loss procedure and is most commonly performed for patients with loose skin or muscle separation after pregnancy or weight loss. Board-eligible plastic surgeon Dr. Alan Tom explains that ideal candidates are generally near their goal weight and medically healthy. Modern tummy tucks may include muscle repair, drainless techniques, and liposuction to improve contour and recovery. Recovery typically involves about two weeks off work and up to six weeks of limited activity while swelling and healing improve.",
       "audience": {
@@ -74,7 +74,7 @@
         "audienceType": "Patients seeking tummy tuck"
       },
       "author": {
-        "@id": "https://askamelia.com/#organization"
+        "@id": "https://www.askamelia.com/#organization"
       },
       "datePublished": "2026-03-27",
       "dateModified": "2026-03-27",
@@ -87,15 +87,15 @@
 
     {
       "@type": "Article",
-      "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#article",
+      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#article",
       "isPartOf": {
-        "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
       },
       "about": {
-        "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
       },
       "author": {
-        "@id": "https://askamelia.com/#organization"
+        "@id": "https://www.askamelia.com/#organization"
       },
       "datePublished": "2026-03-27",
       "dateModified": "2026-03-27",
@@ -105,9 +105,9 @@
 
     {
       "@type": "FAQPage",
-      "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#faq",
+      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#faq",
       "isPartOf": {
-        "@id": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
       },
       "mainEntity": [
         {
@@ -309,65 +309,65 @@
 },
     {
       "@type": "Thing",
-      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing",
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing",
       "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
       "description": "Breast surgery is one of the most personal, customizable procedures in plastic surgery. It’s also one of the most misunderstood. Whether you're considering breast augmentation, a lift, a reduction, or implant exchange, your questions deserve honest, clear answers. Board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions from the Bustmob Community.",
-      "url": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+      "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
       "owner": {
-        "@id": "https://askamelia.com/#organization"
+        "@id": "https://www.askamelia.com/#organization"
       },
       "subjectOf": {
-        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage"
+        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage"
       }
     },
 
     {
       "@type": "WebPage",
-      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage",
-      "url": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage",
+      "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
       "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
       "description": "Breast surgery questions, answered by a board-certified plastic surgeon in Raleigh, NC. Learn implants vs augmentation, lift vs reduction, over vs under, recovery, and exchange.",
       "breadcrumb": {
-        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb"
+        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb"
       },
       "reviewedBy": {
-        "@id": "https://askamelia.com/providers/dr-cedric-hunter#person"
+        "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#person"
       },
       "about": {
-        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
+        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
       }
     },
 
     {
       "@type": "BreadcrumbList",
-      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb",
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://askamelia.com"
+          "item": "https://www.askamelia.com"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Amelia Blog",
-          "item": "https://askamelia.com/blog"
+          "item": "https://www.askamelia.com/blog"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
-          "item": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter"
+          "item": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter"
         }
       ]
     },
 
     {
       "@type": "CreativeWork",
-      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#creativework",
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#creativework",
       "about": {
-        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
+        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
       },
       "abstract": "Below, board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions about cosmetic breast surgeries.",
       "audience": {
@@ -375,7 +375,7 @@
         "audienceType": "Patients seeking cosmetic breast procedures"
       },
       "author": {
-        "@id": "https://askamelia.com/#organization"
+        "@id": "https://www.askamelia.com/#organization"
       },
       "datePublished": "2026-03-01",
       "dateModified": "2026-03-01",
@@ -388,15 +388,15 @@
 
     {
       "@type": "Article",
-      "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#article",
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#article",
       "isPartOf": {
-        "@id": "https://askamelia.com/#webpage"
+        "@id": "https://www.askamelia.com/#webpage"
       },
       "about": {
-        "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
+        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
       },
       "author": {
-        "@id": "https://askamelia.com/#organization"
+        "@id": "https://www.askamelia.com/#organization"
       },
       "datePublished": "2026-03-01",
       "dateModified": "2026-03-01",
@@ -406,9 +406,9 @@
 
     {
       "@type": "FAQPage",
-      "@id": "https://askamelia.com/providers/dr-cedric-hunter#faq",
+      "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#faq",
       "isPartOf": {
-        "@id": "https://askamelia.com/#webpage"
+        "@id": "https://www.askamelia.com/#webpage"
       },
       "mainEntity": [
         {
