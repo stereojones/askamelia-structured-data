@@ -1,0 +1,630 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-aspinder-singh#provider",
+        "name": "Dr. Aspinder Singh, MD MBA",
+        "url": "https://www.askamelia.com/providers/dr-aspinder-singh",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66aa8e53788c555b1c097621_amelia-surgeon-dr-aspinder-singh.avif",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "Ohio State University of Medicine"
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "Baylor College of Medicine"
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "UPMC Plastic Surgery Fellowship"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2304 Wesvill Court, Suite 360",
+          "addressLocality": "Raleigh",
+          "addressRegion": "NC",
+          "postalCode": "27607",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/draspindersingh/",
+          "https://www.instagram.com/dr.singh.amelia/"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Rhinoplasty",
+            "url": "https://www.askamelia.com/procedures/rhinoplasty"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Facelift",
+            "url": "https://www.askamelia.com/procedures/facelift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Neck Lift",
+            "url": "https://www.askamelia.com/procedures/neck-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Lower Eyelid Surgery",
+            "url": "https://www.askamelia.com/procedures/lower-eyelids"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-michelle-roughton#provider",
+        "name": "Dr. Michelle Roughton, MD",
+        "url": "https://www.askamelia.com/providers/dr-michelle-roughton",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/664e01711334eea79494d00d_amelia-dr-michelle-roughton.avif",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "UNC School of Medicine"
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "University of Chicago Plastic Surgery Residency"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Raleigh",
+          "addressRegion": "NC",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.roughton.amelia",
+          "https://www.realself.com/dr/michelle-roughton-raleigh-nc"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Implant Exchange",
+            "url": "https://www.askamelia.com/procedures/breast-implant-exchange"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Mommy Makeover",
+            "url": "https://www.askamelia.com/procedures/mommy-makeover"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Liposuction",
+            "url": "https://www.askamelia.com/procedures/liposuction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Eyelid Surgery",
+            "url": "https://www.askamelia.com/procedures/upper-eyelids"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-jeremy-pyle#provider",
+        "name": "Dr. Jeremy Pyle, MD",
+        "url": "https://www.askamelia.com/providers/dr-jeremy-pyle",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6419de93bc6ba1a0a46848bd_amelia-surgeon-dr-jeremy-pyle-avatar.avif",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "University of Illinois College of Medicine"
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "Wake Forest University-Baptist Medical Center Residency"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2304 Wesvill Court, Suite 360",
+          "addressLocality": "Raleigh",
+          "addressRegion": "NC",
+          "postalCode": "27607",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.pyle.amelia/",
+          "https://www.realself.com/dr/jeremy-pyle-raleigh-nc"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Implant Exchange",
+            "url": "https://www.askamelia.com/procedures/breast-implant-exchange"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Mommy Makeover",
+            "url": "https://www.askamelia.com/procedures/mommy-makeover"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Liposuction",
+            "url": "https://www.askamelia.com/procedures/liposuction"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-marcos-lopez#provider",
+        "name": "Dr. Marcos Lopez, MD",
+        "url": "https://www.askamelia.com/providers/dr-marcos-lopez",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66fc477a454a30cb15c92879_amelia-surgeon-dr-marcos-lopez-headshot.avif",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "Columbia University Vagelos College of Physicians and Surgeons"
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "University of North Carolina Plastic Surgery Residency"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "150 E Sonterra Blvd., Suite 316 San Antonio, TX 78258",
+          "addressLocality": "San Antonio",
+          "addressRegion": "TX",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.lopez.amelia/"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Implant Exchange",
+            "url": "https://www.askamelia.com/procedures/breast-implant-exchange"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Mommy Makeover",
+            "url": "https://www.askamelia.com/procedures/mommy-makeover"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Liposuction",
+            "url": "https://www.askamelia.com/procedures/liposuction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Double Chin Liposuction",
+            "url": "https://www.askamelia.com/procedures/double-chin-liposuction"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-kamran-khan#provider",
+        "name": "Dr. Kamran Khan, MD",
+        "url": "https://www.askamelia.com/providers/dr-kamran-khan",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66a7a3cce20103641ffcd976_amelia-surgeon-dr-kamran-khan.avif",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": {
+          "@type": "EducationalOrganization",
+          "name": "Xavier University School of Medicine"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "7593 West Boynton Beach Blvd, Suite 160",
+          "addressLocality": "Boynton Beach",
+          "addressRegion": "FL",
+          "postalCode": "33437",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.khan.amelia/"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-kate-kottwitz#provider",
+        "name": "Dr. Kate Kottwitz, MD",
+        "url": "https://www.askamelia.com/providers/dr-kate-kottwitz",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/68025fc388c8fa8107015b47_amelia-evansville_dr-kate-kottwitz.avif",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "Southern Illinois University School of Medicine"
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "Southern Illinois University Plastic Surgery Residency"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "111 S Green River Rd, Suite F",
+          "addressLocality": "Evansville",
+          "addressRegion": "IN",
+          "postalCode": "47715",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.kate.amelia/",
+          "https://www.realself.com/dr/katherine-kottwitz-evansville-in"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Implant Exchange",
+            "url": "https://www.askamelia.com/procedures/breast-implant-exchange"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Mommy Makeover",
+            "url": "https://www.askamelia.com/procedures/mommy-makeover"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Liposuction",
+            "url": "https://www.askamelia.com/procedures/liposuction"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#provider",
+        "name": "Dr. Cedric Hunter, MD",
+        "url": "https://www.askamelia.com/providers/dr-cedric-hunter",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6419de8563629a9a1c1adc64_amelia-surgeon-dr-cedric-hunter-avatar.avif",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "Duke University School of Medicine"
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "Stanford University Plastic Surgery Residency"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2304 Wesvill Court, Suite 360",
+          "addressLocality": "Raleigh",
+          "addressRegion": "NC",
+          "postalCode": "27607",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.hunter.amelia/",
+          "https://www.realself.com/dr/cedric-hunter-raleigh-nc"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Implant Exchange",
+            "url": "https://www.askamelia.com/procedures/breast-implant-exchange"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Mommy Makeover",
+            "url": "https://www.askamelia.com/procedures/mommy-makeover"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Liposuction",
+            "url": "https://www.askamelia.com/procedures/liposuction"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-rafi-fredman#provider",
+        "name": "Dr. Rafi Fredman, MD",
+        "url": "https://www.askamelia.com/providers/dr-rafi-fredman",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/64b54e3058903daf7373135b_amelia-surgeon-dr-rafi-fredman-avatar.avif",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "Albert Einstein College of Medicine"
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "University of North Carolina Plastic Surgery Residency"
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1551 Wall Street, Suite 420",
+          "addressLocality": "St. Charles",
+          "addressRegion": "MO",
+          "postalCode": "63303",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/drfredman.amelia/",
+          "https://www.realself.com/dr/rafi-fredman-saint-charles-mo"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Implant Exchange",
+            "url": "https://www.askamelia.com/procedures/breast-implant-exchange"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Mommy Makeover",
+            "url": "https://www.askamelia.com/procedures/mommy-makeover"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Liposuction",
+            "url": "https://www.askamelia.com/procedures/liposuction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Double Chin Liposuction",
+            "url": "https://www.askamelia.com/procedures/double-chin-liposuction"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "@id": "https://www.askamelia.com/providers/dr-shabaaz-sandhu#provider",
+        "name": "Dr. Shabaaz Sandhu, MD",
+        "url": "https://www.askamelia.com/providers/dr-shabaaz-sandhu",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6851ffca5b31729f24fa859c_amelia-surgeon-dr-shabaaz-sandhu-credential.jpg",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": {
+          "@type": "EducationalOrganization",
+          "name": "University of South Florida, Morsani College of Medicine"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "13109 US Hwy 301 S.",
+          "addressLocality": "Riverview",
+          "addressRegion": "FL",
+          "postalCode": "33578",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.sandhu.amelia/"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          }
+        ]
+      }
+]
