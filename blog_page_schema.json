@@ -1,561 +1,549 @@
-
-{
-  "@context": "https://schema.org",
-  "@graph": [
-{
-  "@context": "https://schema.org",
-  "@graph": [
-
-    {
-      "@type": "Thing",
-      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing",
-      "name": "Tummy Tuck FAQ With Dr. Alan Tom at Amelia Aesthetics St. Louis",
-      "description": "Tummy tuck surgery questions, answered by a board-eligible plastic surgeon in St. Louis, MO. Learn about drainless tummy tucks, muscle repair, and recovery.",
-      "url": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
-      "owner": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
-      "subjectOf": {
-        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
-      }
-    },
-
-    {
-      "@type": "WebPage",
-      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage",
-      "url": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
-      "name": "Tummy Tuck FAQ - Plastic Surgeon Dr. Alan Tom | Amelia Blog",
-      "description": "Tummy tuck surgery questions, answered by a board-eligible plastic surgeon in St. Louis, MO. Learn about drainless tummy tucks, muscle repair, and recovery.",
-      "breadcrumb": {
-        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#breadcrumb"
-      },
-      "reviewedBy": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
-      "about": {
-        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
-      }
-    },
-
-    {
-      "@type": "BreadcrumbList",
-      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#breadcrumb",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://askamelia.com"
+[
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Thing",
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing",
+        "name": "Tummy Tuck FAQ With Dr. Alan Tom at Amelia Aesthetics St. Louis",
+        "description": "Tummy tuck surgery questions, answered by a board-eligible plastic surgeon in St. Louis, MO. Learn about drainless tummy tucks, muscle repair, and recovery.",
+        "url": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
+        "owner": {
+          "@id": "https://www.askamelia.com/#organization"
         },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Amelia Blog",
-          "item": "https://askamelia.com/blog"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Tummy Tuck FAQ With Dr. Alan Tom at Amelia Aesthetics St. Louis",
-          "item": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom"
+        "subjectOf": {
+          "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
         }
-      ]
-    },
-
-    {
-      "@type": "CreativeWork",
-      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#creativework",
-      "about": {
-        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
       },
-      "abstract": "A tummy tuck (abdominoplasty) is a body contouring surgery that removes excess abdominal skin, tightens separated abdominal muscles (diastasis recti), and improves waist and stomach shape, often using liposuction for additional contouring. It is not a weight-loss procedure and is most commonly performed for patients with loose skin or muscle separation after pregnancy or weight loss. Board-eligible plastic surgeon Dr. Alan Tom explains that ideal candidates are generally near their goal weight and medically healthy. Modern tummy tucks may include muscle repair, drainless techniques, and liposuction to improve contour and recovery. Recovery typically involves about two weeks off work and up to six weeks of limited activity while swelling and healing improve.",
-      "audience": {
-        "@type": "Audience",
-        "audienceType": "Patients seeking tummy tuck"
-      },
-      "author": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
-      "datePublished": "2026-03-27",
-      "dateModified": "2026-03-27",
-      "keywords": [
-        "tummy tucks",
-        "drainless tummy tuck",
-        "tummy tuck near me", "modern tummy tuck"
-      ]
-    },
-
-    {
-      "@type": "Article",
-      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#article",
-      "isPartOf": {
-        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
-      },
-      "about": {
-        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
-      },
-      "author": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
-      "datePublished": "2026-03-27",
-      "dateModified": "2026-03-27",
-      "articleBody": "Tummy Tuck in St. Louis: Your Top Questions Answered Tummy tucks can feel mysterious until you’ve heard someone break them down in plain English: what it really does, who it’s for, what it can’t fix, and what recovery is actually like now (hint: it’s not the horror story your mom’s friend told you 20 years ago). Below, board-eligible plastic surgeon Dr. Alan Tom of Amelia Aesthetics in St. Louis, Missouri, answers the most common questions about tummy tucks from the Bustmob Community. What Is a Tummy Tuck? A tummy tuck (abdominoplasty) is a body contouring surgery designed to remove excess lower abdominal skin, tighten the abdominal wall when needed (diastasis/muscle repair), and improve contour, often with strategic liposuction for shaping. It’s not a weight loss procedure. It’s a shape and skin procedure, most commonly for people who are already living a healthy lifestyle but can’t “crunch away” loose skin or stretched muscles. Who Is a Tummy Tuck Candidate? A tummy tuck is most commonly for people who have loose or hanging abdominal skin after pregnancy or weight loss, a persistent “pouch” or barreled abdomen from muscle separation (diastasis), or skin that won’t retract no matter how fit they get. Dr. Tom emphasizes that extra skin doesn’t disappear with more workouts, and many people blame themselves when the issue is anatomy. Tummy tucks can be for women and men, including post-pregnancy patients, weight loss patients (including GLP-1 and bariatric patients), and younger patients with genetic skin laxity who want contour improvement. Who Is Not a Candidate for a Tummy Tuck? Dr. Tom frames this as “candidate vs not a candidate,” because it helps people self-screen. You’re typically not a candidate right now if you are actively undergoing chemotherapy or radiation, fighting an active infection or serious illness, not medically optimized for elective surgery, or planning to lose a significant amount of weight soon. Do I Need to Be at My Goal Weight Before a Tummy Tuck? Ideally, yes, or at least close. If you plan to lose 30–40+ pounds after surgery, you may end up with loose skin again, and a “redo” tummy tuck is more complex than the first. Waiting until you are closer to your goal weight can save you money and surgery later. Being closer to your goal weight can also improve wound healing, lower complication risk, reduce fluid collections, and allow for a tighter, more predictable contour. Can I Get a Tummy Tuck If I Want More Kids? You can, but it’s not always ideal. Pregnancy after a tummy tuck can stretch the abdominal skin and muscles again, change the contour, and possibly require revision later. It doesn’t automatically “ruin” the repair, but it adds uncertainty and can make outcomes less predictable. If pregnancy is likely soon, most surgeons will recommend waiting. What Is Muscle Repair in a Tummy Tuck? Muscle repair is usually diastasis repair, which involves tightening the separated “six-pack” muscles (rectus abdominis) back toward the midline. Pregnancy and weight changes can push these muscles outward. When the muscles are separated, patients can look “round” or bloated even when they’re lean. Diastasis recti is the separation and stretching of the abdominal muscles that result in a loss of core strength and control. Pregnancy, weight loss, weight gain, and even aging cause the muscles to separate and stretch. Muscle repair is often included with a tummy tuck and acts as an internal corset to strengthen the core, relieve lower back pain, and provide additional shape to the torso. Dr. Tom describes it like restoring the core to a more optimal length so it can function better, often improving core strength, posture, comfort with exercise, and in some cases reducing back pain. Can a Tummy Tuck Help Back Pain or Other “Side Benefits”? Sometimes, yes. Dr. Tom notes emerging data and patient reports that tummy tuck and muscle repair may help back pain for some patients, stress urinary incontinence for some patients, and improve confidence, comfort in clothing, and activity level. These aren’t guaranteed outcomes, but they’re common “unexpected wins” many patients describe after recovery. Do I Have to Get Muscle Repair With a Tummy Tuck? Not always. Some patients mainly need skin removal and contouring, and muscle repair may not be necessary. But for many post-pregnancy patients, the muscle component is a major part of the transformation. This is one of the most important parts of a consult: what problem are we actually solving—excess skin, muscle separation, fat distribution, or all three? Why Do Surgeons Have BMI Cutoffs for Tummy Tucks? It’s not about being “the bad guy.” It’s about complication risk. As BMI increases, studies show higher rates of wound issues, infection, fluid collections, and healing problems. With thicker tissue, the blood supply has farther to travel, and there’s more “dead space” where fluid can accumulate. Some surgeons will still operate at higher BMIs, but the risk conversation becomes more serious. Should I Work Out Before Surgery? You don’t need a new intense training plan right before surgery, but being healthy and stable helps. Dr. Tom emphasizes not aggressively “cutting” weight right before surgery because a catabolic state can impair healing. Make sure nutrition is solid, especially if you’ve had bariatric surgery or suspect deficiencies. If you’re at risk, it can be worth checking labs for key nutrients like vitamin A, vitamin C, and zinc. In short, a stable weight and good nutrition beat last-minute gym panic. Does a Tummy Tuck Include Liposuction? Often, yes, especially in modern tummy tucks at Amelia. Dr. Tom uses liposuction not only to remove deeper fat but also to assist with safe contouring and improved flap movement, which he explains as “discontinuous undermining,” creating tunnels that help the tissue glide down while preserving vessels and nerves. He also prefers power-assisted liposuction, where vibration helps reduce surgeon fatigue rather than delivering energy into the body. What About Laser or Ultrasound “Energy” Liposuction? Dr. Tom is cautious. Energy-based lipo adds heat, which can create scarring, increase contour irregularities, and cause uneven tightening or dimpling. Some surgeons love it, but Dr. Tom prefers avoiding added heat-related risks in many cases. What’s the Difference Between Visceral Fat and Subcutaneous Fat? This is the key explanation for why a tummy tuck isn’t weight loss. Subcutaneous fat sits between the skin and muscle and can be addressed with liposuction or a tummy tuck. Visceral fat surrounds the organs inside the abdomen and cannot be removed surgically in a tummy tuck. Visceral fat is reduced through overall weight loss, not surgery. Even after a tummy tuck, visceral fat can still affect abdominal projection. Are There Visible Liposuction Scars After a Tummy Tuck? Usually no. Dr. Tom places tiny lipo access points within the area that is removed or within the incision zone so they don’t leave noticeable additional scars, especially in full tummy tucks. Mini tummy tucks can differ because less skin is removed, so access points may be outside the excision area. What Happens During a Tummy Tuck Surgery? A tummy tuck is typically performed in the following steps: tumescent fluid is placed (an IV-like fluid with epinephrine or adrenaline to reduce bleeding and protect vessels), liposuction is performed (often first), a football-shaped section of lower abdominal skin is removed, muscle or diastasis repair is performed by stitching the midline tight, skin is pulled down and the abdomen is closed, and the belly button is brought through and shaped carefully. How Is the Belly Button Created in a Tummy Tuck? The belly button is often the “dead giveaway” of a tummy tuck, so it matters to many patients. You want the scar to sit inside and the surrounding skin to curve inward so it’s less visible. Dr. Tom says the best way to predict your belly button outcome is to ask your surgeon to show their belly button results and discuss any prior belly button scars or hernias. What If I Have an “Outie” Belly Button or Belly Button Hernia? An outie can signal a hernia. Dr. Tom explains that hernias near the belly button are common, especially after prior laparoscopic surgery or natural abdominal wall weakness. If present, it can often be addressed during surgery, and the belly button can be re-secured to restore a more natural look. What Can I Do to Improve Scarring After a Tummy Tuck? If there were a miracle scar product, every surgeon would hand it out. Dr. Tom’s simple evidence-based approach is to wait about six weeks before starting scar creams or massage so incisions fully seal. The best data supports silicone gel or silicone sheets and massage. Expect scars to look most red or raised around two to three months, and final scar appearance can take up to 12–18 months. Avoid sun exposure, use SPF, and prevent early infection or tension issues. What Is a Drainless Tummy Tuck? A drainless tummy tuck is a combination of advanced techniques that often eliminate the need for post-operative drains, support an easier recovery, and result in more natural outcomes. A modern tummy tuck typically uses progressive tension sutures, also called quilting sutures, to reduce the empty space where fluid would collect, remove tension from the incision to help scars heal more nicely, and lower the chance of large seromas while reducing the need for drains. The modern tummy tuck doesn’t make fluid collections impossible, but it can make them smaller and less clinically significant. Why Doesn’t Every Surgeon Do Drainless Tummy Tucks? Because surgical technique evolves in waves. Many surgeons were trained with drains, have years of good outcomes with their method, and prefer gradual change for safety. Dr. Tom’s view is that drains aren’t automatically wrong, but he’s comfortable with modern methods like drainless closure and liposuction because outcomes support it in his hands. When Can I Shower After a Tummy Tuck? At Amelia St. Louis, patients can often shower around 48 hours after surgery, and sometimes sooner if needed depending on dressings and surgeon instructions. How Painful Is a Tummy Tuck Compared to a C-Section? It’s not a perfect comparison, but Dr. Tom’s timeline helps patients set expectations. During the first few days you’ll likely want help and may be bent over around 30 degrees. By five to seven days many patients are standing more upright and moving more easily. Ideally patients are off narcotics by the one-week visit. Two weeks off work is common, more if your job is physically demanding. Around six weeks most patients return to core workouts and a normal life progression. Modern recovery is also helped by long-acting local anesthesia like Exparel, multimodal pain control such as Tylenol, NSAIDs and muscle relaxers, and encouraged early mobility. How Long Do I Wear a Compression Garment After a Tummy Tuck? Dr. Tom is “Team Garment.” General guidance is to wear it as long as you can tolerate it, with up to six weeks being ideal. Garments are helpful but not a silver bullet. If you develop skin irritation, wounds, or can’t sleep, it can be adjusted or paused. Garments may help reduce dead space or fluid accumulation after liposuction, improve comfort by supporting the core, and protect clothing while holding gauze in place. Why Does My Mons Pubis Swell After a Tummy Tuck? This is incredibly common and can be startling if you don’t expect it. If garments compress everywhere except the bathroom opening area, swelling can collect there. Dr. Tom also notes that liposuction in the mons area is often included when appropriate. Some patients even want the opposite, with volume restored, and fat grafting can be discussed in select cases. What Do I Need to Buy for Tummy Tuck Recovery? Dr. Tom keeps it practical. You usually don’t need a recliner, toilet risers, a bunch of expensive gadgets, or new fitted clothes. The most helpful items tend to be hydration drinks, stool softeners especially if using opioids, meal prep or an easy food plan, loose clothing like leggings or baggy sets, pillows or a wedge setup to support your back and knees, and a helper for the first week. The biggest variable is your home setup, such as stairs versus elevator access, living alone versus having a support person, and bed height and bathroom layout. If you have questions about how to plan for your tummy tuck recovery, your surgeon and surgical team are there to help guide you. Get to Know Dr. Alan Tom Dr. Alan Tom is a board-eligible plastic surgeon at Amelia Aesthetics St. Louis with a unique surgical foundation. In addition to plastic surgery, he completed training in general surgery and surgical critical care. That deep understanding of the inside mechanics, combined with the aesthetic and sculpting principles of plastic surgery, shapes his approach to tummy tuck surgery: meticulous abdominal wall repair, thoughtful contouring, and modern recovery techniques designed to support both safety and beautiful outcomes.",
-      "wordCount": "2062"
-    },
-
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#faq",
-      "isPartOf": {
-        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
-      },
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What Is a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A tummy tuck (abdominoplasty) is a body contouring surgery designed to: Remove excess lower abdominal skin, Tighten the abdominal wall when needed (diastasis/muscle repair), Improve contour, often with strategic liposuction for shaping. It’s not a weight loss procedure. It’s a shape and skin procedure, most commonly for people who are already living a healthy lifestyle but can’t “crunch away” loose skin or stretched muscles."
-          }
+      {
+        "@type": "WebPage",
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage",
+        "url": "https://askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
+        "name": "Tummy Tuck FAQ - Plastic Surgeon Dr. Alan Tom | Amelia Blog",
+        "description": "Tummy tuck surgery questions, answered by a board-eligible plastic surgeon in St. Louis, MO. Learn about drainless tummy tucks, muscle repair, and recovery.",
+        "breadcrumb": {
+          "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#breadcrumb"
         },
-        {
-          "@type": "Question",
-          "name": "Who Is a Tummy Tuck Candidate?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A tummy tuck is most commonly for people who have: Loose or hanging abdominal skin after pregnancy or weight loss, A persistent “pouch” or barreled abdomen from muscle separation (diastasis), Skin that won’t retract, no matter how fit they get. Dr. Tom emphasizes that extra skin doesn’t disappear with more workouts, and many people blame themselves when the issue is anatomy. Tummy tucks can be for women and men, including: Post-pregnancy patients, Weight loss patients (including GLP-1 and bariatric patients), Younger patients with genetic skin laxity who want contour improvement."
-          }
+        "reviewedBy": {
+          "@id": "https://www.askamelia.com/#organization"
         },
-          {
-          "@type": "Question",
-          "name": "Who Is Not a Candidate for a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Dr. Tom frames this as “candidate vs not a candidate,” because it helps people self-screen. You’re typically not a candidate right now if you are: Actively undergoing chemotherapy/radiation, Fighting an active infection or serious illness, Not medically optimized for elective surgery, You plan to lose a significant amount of weight soon."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "Do I Need to Be at My Goal Weight Before a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Ideally, yes, or at least close. If you plan to lose 30-40+ pounds after surgery, you may end up with loose skin again, and a “redo” tummy tuck is more complex than the first. Waiting until you are closer to your goal weight can save you money and surgery later. Being closer to your goal weight can also: Improve wound healing, Lower complication risk, Reduce fluid collections, Allow for a tighter, more predictable contour."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "Can I Get a Tummy Tuck If I Want More Kids?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Muscle repair is usually diastasis repair, which involves tightening the separated “six-pack” muscles (rectus abdominis) back toward the midline. Pregnancy and weight changes can push these muscles outward. When the muscles are separated, patients can look “round” or bloated even when they’re lean. Dr. Tom describes it like restoring the core to a more optimal length so it can function better, often improving: Core strength, Posture, Comfort with exercise, In some cases, reducing back pain."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "Can a Tummy Tuck Help Back Pain or have other Side benefits?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Sometimes, yes. Dr. Tom notes emerging data and patient reports that tummy tuck and muscle repair may help: Back pain (for some patients), Stress urinary incontinence (for some patients), Confidence, comfort in clothing, and activity level. These aren’t guaranteed outcomes, but they’re common “unexpected wins” many patients describe after recovery."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do I Have to Get Muscle Repair With a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not always. Some patients mainly need skin removal and contouring, and muscle repair may not be necessary. But for many post-pregnancy patients, the muscle component is a major part of the transformation.This is one of the most important parts of a consult: what problem are we actually solving—excess skin, muscle separation, fat distribution, or all three?"
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "Why Do Surgeons Have BMI Cutoffs for Tummy Tucks?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It’s not about being “the bad guy.” It’s about complication risk. As BMI increases, studies show higher rates of: Wound issues, Infection, Fluid collections, Healing problems. With thicker tissue, the blood supply has farther to travel, and there’s more “dead space” where fluid can accumulate. Some surgeons will still operate at higher BMIs, but the risk conversation becomes more serious."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should I Work Out Before Surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You don’t need a new intense training plan right before surgery, but being healthy and stable helps. Dr. Tom emphasizes: Don’t be aggressively “cutting” weight right before surgery (catabolic state can impair healing), Make sure nutrition is solid, especially if you’ve had bariatric surgery or suspect deficiencies. If you’re at risk, it can be worth checking labs for key nutrients like vitamin A, vitamin C, and zinc In short, a stable weight and good nutrition beat last-minute gym panic."
-          }
-        },
-           {
-          "@type": "Question",
-          "name": "Does a Tummy Tuck Include Liposuction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Often, yes, especially in modern tummy tucks at Amelia. Dr. Tom uses liposuction not only to remove deeper fat but also to assist with safe contouring and improved flap movement (he explains this as “discontinuous undermining,” creating tunnels that help the tissue glide down while preserving vessels and nerves). He also prefers power-assisted liposuction (vibration helps reduce surgeon fatigue, not “energy” delivered into the body)."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "What About Laser/Ultrasound Energy Liposuction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Dr. Tom is cautious. Energy-based lipo adds heat, which can: Create scarring, Increase contour irregularities, May cause uneven tightening or dimpling. Some surgeons love it; Dr. Tom prefers avoiding added heat-related risks in many cases."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What’s the Difference Between Visceral Fat and Subcutaneous Fat?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "This is the key “why tummy tuck isn’t weight loss” explanation. Subcutaneous fat = between skin and muscle (can be addressed with lipo/tummy tuck). Visceral fat = around organs inside the abdomen (cannot be removed surgically in a tummy tuck). Visceral fat is reduced by overall weight loss, not surgery. Even after a tummy tuck, visceral fat can still affect abdominal projection."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "Are There Visible Liposuction Scars After a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Usually, no. Dr. Tom places tiny lipo access points within the area that is removed or within the incision zone, so they don’t leave noticeable additional scars, especially in full tummy tucks. Mini tummy tucks can differ because less skin is removed, so access points may be outside the excision area."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "What Happens During a Tummy Tuck Surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A tummy tuck is typically performed in the following steps: 1. Tumescent fluid is placed (IV-like fluid + epinephrine/adrenaline to reduce bleeding and protect vessels)2. Liposuction is performed (often first) 3. A “football-shaped” section of lower abdominal skin is removed 4. Muscle/diastasis repair is performed (stitching the midline tight) 5. Skin is pulled down, and the abdomen is closed 6. Belly button is brought through and shaped carefully"
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "How Is the Belly Button Created in a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The belly button is often the “dead giveaway” of a tummy tuck, so this matters to a lot of patients. You want the scar to sit inside and the surrounding skin to curve inward so it’s less visible. Dr. Tom says the best way to predict your belly button outcome is: Ask your surgeon to show their belly button results, Discuss any prior belly button scars or hernias."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What If I Have an Outie Belly Button or Belly Button Hernia?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An outie can signal a hernia. Dr. Tom explains that hernias near the belly button are common, especially after prior laparoscopic surgery or natural abdominal wall weakness. If present, it can often be addressed during surgery, and the belly button can be re-secured to restore a more natural look."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "What Can I Do to Improve Scarring After a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Truth is, if there were a miracle scar product, every surgeon would hand it out. Dr. Tom’s simple, evidence-based approach: Wait ~6 weeks before starting scar creams/massage (let incisions fully seal), Best data supports silicone gel/silicone sheets and massage, Expect scars to look most red/raised around 2–3 months, Final scar appearance can take up to 12-18 months, Avoid sun exposure, use SPF, and prevent early infection/tension issues."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "What Is a Drainless Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A drainless tummy tuck is a combination of advanced techniques that often eliminate the need for post-op drains, support an easier recovery, and result in more natural outcomes. A modern tummy tuck typically uses progressive tension sutures (also called “quilting sutures”) to: Reduce the “empty space” where fluid would collect, Remove tension from the incision (helps scars heal nicer), Lower the chance of large seromas and reduce the need for drains. The modern tummy tuck doesn’t make fluid collections impossible, but it can make them smaller and less clinically significant."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why Doesn’t Every Surgeon Do Drainless Tummy Tucks?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Because surgical technique evolves in waves. Many surgeons: Were trained with drains, Have years of good outcomes with their method, Prefer gradual change for safety. Dr. Tom’s view: drains aren’t automatically “wrong,” but he’s comfortable with modern methods like drainless closure and liposuction because outcomes support it in his hands."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "When Can I Shower After a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "At Amelia St. Louis, patients can often shower around 48 hours after surgery (and sometimes sooner if needed), depending on dressings and surgeon instructions."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "How Painful Is a Tummy Tuck Compared to a C-Section?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It’s not a perfect comparison, but Dr. Tom’s timeline helps patients set expectations: First few days: you’ll want help; you’ll likely be bent over ~30 degrees, By 5–7 days: standing more upright; moving more easily, Ideally off narcotics by the 1-week visit, 2 weeks off work is common (more if your job is physically demanding), 6 weeks: back to core workouts and “normal life” progression. Modern recovery is also helped by: Long-acting local anesthesia (Exparel), Multimodal pain control (Tylenol/NSAIDs, muscle relaxers), Encouraged early mobility."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How Long Do I Wear a Compression Garment After a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Dr. Tom is Team Garment. General guidance when it comes to garments includes: Wear it as long as you can tolerate it, up to 6 weeks is ideal, Garments are helpful, but they are not a silver bullet. If you develop skin irritation, wounds, or you can’t sleep, it can be adjusted or paused Garments may help: Reduce dead space / fluid accumulation after liposuction, Improve comfort by supporting the core, Protect clothing and hold the gauze in place."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "Why Does My Mons Pubis Swell After a Tummy Tuck?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "This is incredibly common, and startling if you don’t expect it. If garments compress everywhere except the bathroom opening area, swelling can “collect” there. Dr. Tom also notes liposuction in the mons area is often included when appropriate. Some patients even want the opposite (volume restored), and fat grafting can be discussed in select cases."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "What Do I Need to Buy for Tummy Tuck Recovery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Dr. Tom keeps it practical. You usually don’t need:A recliner, Toilet risers, A bunch of expensive gadgets, New fitted clothes. Dr. Tom finds the most helpful items in tummy tuck recovery are the following: Hydration drinks, Stool softeners (especially with opioids), Meal prep / easy food plan, Loose clothing (leggings, baggy sets), Pillows/wedge setup to support back and knees, A helper for the first week. His biggest variable is your home setup: stairs vs elevator, living alone vs. support person, bed height and bathroom layout. If you have questions about how to plan for your tummy tuck recovery, your surgeon and surgical team are there to help guide you."
-          }
+        "about": {
+          "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
         }
-      ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://askamelia.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Amelia Blog",
+            "item": "https://askamelia.com/blog"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Tummy Tuck FAQ With Dr. Alan Tom at Amelia Aesthetics St. Louis",
+            "item": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom"
+          }
+        ]
+      },
+      {
+        "@type": "CreativeWork",
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#creativework",
+        "about": {
+          "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
+        },
+        "abstract": "A tummy tuck (abdominoplasty) is a body contouring surgery that removes excess abdominal skin, tightens separated abdominal muscles (diastasis recti), and improves waist and stomach shape, often using liposuction for additional contouring. It is not a weight-loss procedure and is most commonly performed for patients with loose skin or muscle separation after pregnancy or weight loss. Board-eligible plastic surgeon Dr. Alan Tom explains that ideal candidates are generally near their goal weight and medically healthy. Modern tummy tucks may include muscle repair, drainless techniques, and liposuction to improve contour and recovery. Recovery typically involves about two weeks off work and up to six weeks of limited activity while swelling and healing improve.",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Patients seeking tummy tuck"
+        },
+        "author": {
+          "@id": "https://www.askamelia.com/#organization"
+        },
+        "datePublished": "2026-03-27",
+        "dateModified": "2026-03-27",
+        "keywords": [
+          "tummy tucks",
+          "drainless tummy tuck",
+          "tummy tuck near me",
+          "modern tummy tuck"
+        ]
+      },
+      {
+        "@type": "Article",
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#article",
+        "isPartOf": {
+          "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
+        },
+        "about": {
+          "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#thing"
+        },
+        "author": {
+          "@id": "https://www.askamelia.com/#organization"
+        },
+        "datePublished": "2026-03-27",
+        "dateModified": "2026-03-27",
+        "articleBody": "Tummy Tuck in St. Louis: Your Top Questions Answered Tummy tucks can feel mysterious until you’ve heard someone break them down in plain English: what it really does, who it’s for, what it can’t fix, and what recovery is actually like now (hint: it’s not the horror story your mom’s friend told you 20 years ago). Below, board-eligible plastic surgeon Dr. Alan Tom of Amelia Aesthetics in St. Louis, Missouri, answers the most common questions about tummy tucks from the Bustmob Community. What Is a Tummy Tuck? A tummy tuck (abdominoplasty) is a body contouring surgery designed to remove excess lower abdominal skin, tighten the abdominal wall when needed (diastasis/muscle repair), and improve contour, often with strategic liposuction for shaping. It’s not a weight loss procedure. It’s a shape and skin procedure, most commonly for people who are already living a healthy lifestyle but can’t “crunch away” loose skin or stretched muscles. Who Is a Tummy Tuck Candidate? A tummy tuck is most commonly for people who have loose or hanging abdominal skin after pregnancy or weight loss, a persistent “pouch” or barreled abdomen from muscle separation (diastasis), or skin that won’t retract no matter how fit they get. Dr. Tom emphasizes that extra skin doesn’t disappear with more workouts, and many people blame themselves when the issue is anatomy. Tummy tucks can be for women and men, including post-pregnancy patients, weight loss patients (including GLP-1 and bariatric patients), and younger patients with genetic skin laxity who want contour improvement. Who Is Not a Candidate for a Tummy Tuck? Dr. Tom frames this as “candidate vs not a candidate,” because it helps people self-screen. You’re typically not a candidate right now if you are actively undergoing chemotherapy or radiation, fighting an active infection or serious illness, not medically optimized for elective surgery, or planning to lose a significant amount of weight soon. Do I Need to Be at My Goal Weight Before a Tummy Tuck? Ideally, yes, or at least close. If you plan to lose 30–40+ pounds after surgery, you may end up with loose skin again, and a “redo” tummy tuck is more complex than the first. Waiting until you are closer to your goal weight can save you money and surgery later. Being closer to your goal weight can also improve wound healing, lower complication risk, reduce fluid collections, and allow for a tighter, more predictable contour. Can I Get a Tummy Tuck If I Want More Kids? You can, but it’s not always ideal. Pregnancy after a tummy tuck can stretch the abdominal skin and muscles again, change the contour, and possibly require revision later. It doesn’t automatically “ruin” the repair, but it adds uncertainty and can make outcomes less predictable. If pregnancy is likely soon, most surgeons will recommend waiting. What Is Muscle Repair in a Tummy Tuck? Muscle repair is usually diastasis repair, which involves tightening the separated “six-pack” muscles (rectus abdominis) back toward the midline. Pregnancy and weight changes can push these muscles outward. When the muscles are separated, patients can look “round” or bloated even when they’re lean. Diastasis recti is the separation and stretching of the abdominal muscles that result in a loss of core strength and control. Pregnancy, weight loss, weight gain, and even aging cause the muscles to separate and stretch. Muscle repair is often included with a tummy tuck and acts as an internal corset to strengthen the core, relieve lower back pain, and provide additional shape to the torso. Dr. Tom describes it like restoring the core to a more optimal length so it can function better, often improving core strength, posture, comfort with exercise, and in some cases reducing back pain. Can a Tummy Tuck Help Back Pain or Other “Side Benefits”? Sometimes, yes. Dr. Tom notes emerging data and patient reports that tummy tuck and muscle repair may help back pain for some patients, stress urinary incontinence for some patients, and improve confidence, comfort in clothing, and activity level. These aren’t guaranteed outcomes, but they’re common “unexpected wins” many patients describe after recovery. Do I Have to Get Muscle Repair With a Tummy Tuck? Not always. Some patients mainly need skin removal and contouring, and muscle repair may not be necessary. But for many post-pregnancy patients, the muscle component is a major part of the transformation. This is one of the most important parts of a consult: what problem are we actually solving—excess skin, muscle separation, fat distribution, or all three? Why Do Surgeons Have BMI Cutoffs for Tummy Tucks? It’s not about being “the bad guy.” It’s about complication risk. As BMI increases, studies show higher rates of wound issues, infection, fluid collections, and healing problems. With thicker tissue, the blood supply has farther to travel, and there’s more “dead space” where fluid can accumulate. Some surgeons will still operate at higher BMIs, but the risk conversation becomes more serious. Should I Work Out Before Surgery? You don’t need a new intense training plan right before surgery, but being healthy and stable helps. Dr. Tom emphasizes not aggressively “cutting” weight right before surgery because a catabolic state can impair healing. Make sure nutrition is solid, especially if you’ve had bariatric surgery or suspect deficiencies. If you’re at risk, it can be worth checking labs for key nutrients like vitamin A, vitamin C, and zinc. In short, a stable weight and good nutrition beat last-minute gym panic. Does a Tummy Tuck Include Liposuction? Often, yes, especially in modern tummy tucks at Amelia. Dr. Tom uses liposuction not only to remove deeper fat but also to assist with safe contouring and improved flap movement, which he explains as “discontinuous undermining,” creating tunnels that help the tissue glide down while preserving vessels and nerves. He also prefers power-assisted liposuction, where vibration helps reduce surgeon fatigue rather than delivering energy into the body. What About Laser or Ultrasound “Energy” Liposuction? Dr. Tom is cautious. Energy-based lipo adds heat, which can create scarring, increase contour irregularities, and cause uneven tightening or dimpling. Some surgeons love it, but Dr. Tom prefers avoiding added heat-related risks in many cases. What’s the Difference Between Visceral Fat and Subcutaneous Fat? This is the key explanation for why a tummy tuck isn’t weight loss. Subcutaneous fat sits between the skin and muscle and can be addressed with liposuction or a tummy tuck. Visceral fat surrounds the organs inside the abdomen and cannot be removed surgically in a tummy tuck. Visceral fat is reduced through overall weight loss, not surgery. Even after a tummy tuck, visceral fat can still affect abdominal projection. Are There Visible Liposuction Scars After a Tummy Tuck? Usually no. Dr. Tom places tiny lipo access points within the area that is removed or within the incision zone so they don’t leave noticeable additional scars, especially in full tummy tucks. Mini tummy tucks can differ because less skin is removed, so access points may be outside the excision area. What Happens During a Tummy Tuck Surgery? A tummy tuck is typically performed in the following steps: tumescent fluid is placed (an IV-like fluid with epinephrine or adrenaline to reduce bleeding and protect vessels), liposuction is performed (often first), a football-shaped section of lower abdominal skin is removed, muscle or diastasis repair is performed by stitching the midline tight, skin is pulled down and the abdomen is closed, and the belly button is brought through and shaped carefully. How Is the Belly Button Created in a Tummy Tuck? The belly button is often the “dead giveaway” of a tummy tuck, so it matters to many patients. You want the scar to sit inside and the surrounding skin to curve inward so it’s less visible. Dr. Tom says the best way to predict your belly button outcome is to ask your surgeon to show their belly button results and discuss any prior belly button scars or hernias. What If I Have an “Outie” Belly Button or Belly Button Hernia? An outie can signal a hernia. Dr. Tom explains that hernias near the belly button are common, especially after prior laparoscopic surgery or natural abdominal wall weakness. If present, it can often be addressed during surgery, and the belly button can be re-secured to restore a more natural look. What Can I Do to Improve Scarring After a Tummy Tuck? If there were a miracle scar product, every surgeon would hand it out. Dr. Tom’s simple evidence-based approach is to wait about six weeks before starting scar creams or massage so incisions fully seal. The best data supports silicone gel or silicone sheets and massage. Expect scars to look most red or raised around two to three months, and final scar appearance can take up to 12–18 months. Avoid sun exposure, use SPF, and prevent early infection or tension issues. What Is a Drainless Tummy Tuck? A drainless tummy tuck is a combination of advanced techniques that often eliminate the need for post-operative drains, support an easier recovery, and result in more natural outcomes. A modern tummy tuck typically uses progressive tension sutures, also called quilting sutures, to reduce the empty space where fluid would collect, remove tension from the incision to help scars heal more nicely, and lower the chance of large seromas while reducing the need for drains. The modern tummy tuck doesn’t make fluid collections impossible, but it can make them smaller and less clinically significant. Why Doesn’t Every Surgeon Do Drainless Tummy Tucks? Because surgical technique evolves in waves. Many surgeons were trained with drains, have years of good outcomes with their method, and prefer gradual change for safety. Dr. Tom’s view is that drains aren’t automatically wrong, but he’s comfortable with modern methods like drainless closure and liposuction because outcomes support it in his hands. When Can I Shower After a Tummy Tuck? At Amelia St. Louis, patients can often shower around 48 hours after surgery, and sometimes sooner if needed depending on dressings and surgeon instructions. How Painful Is a Tummy Tuck Compared to a C-Section? It’s not a perfect comparison, but Dr. Tom’s timeline helps patients set expectations. During the first few days you’ll likely want help and may be bent over around 30 degrees. By five to seven days many patients are standing more upright and moving more easily. Ideally patients are off narcotics by the one-week visit. Two weeks off work is common, more if your job is physically demanding. Around six weeks most patients return to core workouts and a normal life progression. Modern recovery is also helped by long-acting local anesthesia like Exparel, multimodal pain control such as Tylenol, NSAIDs and muscle relaxers, and encouraged early mobility. How Long Do I Wear a Compression Garment After a Tummy Tuck? Dr. Tom is “Team Garment.” General guidance is to wear it as long as you can tolerate it, with up to six weeks being ideal. Garments are helpful but not a silver bullet. If you develop skin irritation, wounds, or can’t sleep, it can be adjusted or paused. Garments may help reduce dead space or fluid accumulation after liposuction, improve comfort by supporting the core, and protect clothing while holding gauze in place. Why Does My Mons Pubis Swell After a Tummy Tuck? This is incredibly common and can be startling if you don’t expect it. If garments compress everywhere except the bathroom opening area, swelling can collect there. Dr. Tom also notes that liposuction in the mons area is often included when appropriate. Some patients even want the opposite, with volume restored, and fat grafting can be discussed in select cases. What Do I Need to Buy for Tummy Tuck Recovery? Dr. Tom keeps it practical. You usually don’t need a recliner, toilet risers, a bunch of expensive gadgets, or new fitted clothes. The most helpful items tend to be hydration drinks, stool softeners especially if using opioids, meal prep or an easy food plan, loose clothing like leggings or baggy sets, pillows or a wedge setup to support your back and knees, and a helper for the first week. The biggest variable is your home setup, such as stairs versus elevator access, living alone versus having a support person, and bed height and bathroom layout. If you have questions about how to plan for your tummy tuck recovery, your surgeon and surgical team are there to help guide you. Get to Know Dr. Alan Tom Dr. Alan Tom is a board-eligible plastic surgeon at Amelia Aesthetics St. Louis with a unique surgical foundation. In addition to plastic surgery, he completed training in general surgery and surgical critical care. That deep understanding of the inside mechanics, combined with the aesthetic and sculpting principles of plastic surgery, shapes his approach to tummy tuck surgery: meticulous abdominal wall repair, thoughtful contouring, and modern recovery techniques designed to support both safety and beautiful outcomes.",
+        "wordCount": "2062"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#faq",
+        "isPartOf": {
+          "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#webpage"
+        },
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What Is a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A tummy tuck (abdominoplasty) is a body contouring surgery designed to: Remove excess lower abdominal skin, Tighten the abdominal wall when needed (diastasis/muscle repair), Improve contour, often with strategic liposuction for shaping. It’s not a weight loss procedure. It’s a shape and skin procedure, most commonly for people who are already living a healthy lifestyle but can’t “crunch away” loose skin or stretched muscles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who Is a Tummy Tuck Candidate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A tummy tuck is most commonly for people who have: Loose or hanging abdominal skin after pregnancy or weight loss, A persistent “pouch” or barreled abdomen from muscle separation (diastasis), Skin that won’t retract, no matter how fit they get. Dr. Tom emphasizes that extra skin doesn’t disappear with more workouts, and many people blame themselves when the issue is anatomy. Tummy tucks can be for women and men, including: Post-pregnancy patients, Weight loss patients (including GLP-1 and bariatric patients), Younger patients with genetic skin laxity who want contour improvement."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who Is Not a Candidate for a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Dr. Tom frames this as “candidate vs not a candidate,” because it helps people self-screen. You’re typically not a candidate right now if you are: Actively undergoing chemotherapy/radiation, Fighting an active infection or serious illness, Not medically optimized for elective surgery, You plan to lose a significant amount of weight soon."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I Need to Be at My Goal Weight Before a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ideally, yes, or at least close. If you plan to lose 30-40+ pounds after surgery, you may end up with loose skin again, and a “redo” tummy tuck is more complex than the first. Waiting until you are closer to your goal weight can save you money and surgery later. Being closer to your goal weight can also: Improve wound healing, Lower complication risk, Reduce fluid collections, Allow for a tighter, more predictable contour."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I Get a Tummy Tuck If I Want More Kids?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Muscle repair is usually diastasis repair, which involves tightening the separated “six-pack” muscles (rectus abdominis) back toward the midline. Pregnancy and weight changes can push these muscles outward. When the muscles are separated, patients can look “round” or bloated even when they’re lean. Dr. Tom describes it like restoring the core to a more optimal length so it can function better, often improving: Core strength, Posture, Comfort with exercise, In some cases, reducing back pain."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can a Tummy Tuck Help Back Pain or have other Side benefits?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sometimes, yes. Dr. Tom notes emerging data and patient reports that tummy tuck and muscle repair may help: Back pain (for some patients), Stress urinary incontinence (for some patients), Confidence, comfort in clothing, and activity level. These aren’t guaranteed outcomes, but they’re common “unexpected wins” many patients describe after recovery."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do I Have to Get Muscle Repair With a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not always. Some patients mainly need skin removal and contouring, and muscle repair may not be necessary. But for many post-pregnancy patients, the muscle component is a major part of the transformation.This is one of the most important parts of a consult: what problem are we actually solving—excess skin, muscle separation, fat distribution, or all three?"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why Do Surgeons Have BMI Cutoffs for Tummy Tucks?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It’s not about being “the bad guy.” It’s about complication risk. As BMI increases, studies show higher rates of: Wound issues, Infection, Fluid collections, Healing problems. With thicker tissue, the blood supply has farther to travel, and there’s more “dead space” where fluid can accumulate. Some surgeons will still operate at higher BMIs, but the risk conversation becomes more serious."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Should I Work Out Before Surgery?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You don’t need a new intense training plan right before surgery, but being healthy and stable helps. Dr. Tom emphasizes: Don’t be aggressively “cutting” weight right before surgery (catabolic state can impair healing), Make sure nutrition is solid, especially if you’ve had bariatric surgery or suspect deficiencies. If you’re at risk, it can be worth checking labs for key nutrients like vitamin A, vitamin C, and zinc In short, a stable weight and good nutrition beat last-minute gym panic."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does a Tummy Tuck Include Liposuction?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Often, yes, especially in modern tummy tucks at Amelia. Dr. Tom uses liposuction not only to remove deeper fat but also to assist with safe contouring and improved flap movement (he explains this as “discontinuous undermining,” creating tunnels that help the tissue glide down while preserving vessels and nerves). He also prefers power-assisted liposuction (vibration helps reduce surgeon fatigue, not “energy” delivered into the body)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What About Laser/Ultrasound Energy Liposuction?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Dr. Tom is cautious. Energy-based lipo adds heat, which can: Create scarring, Increase contour irregularities, May cause uneven tightening or dimpling. Some surgeons love it; Dr. Tom prefers avoiding added heat-related risks in many cases."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What’s the Difference Between Visceral Fat and Subcutaneous Fat?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This is the key “why tummy tuck isn’t weight loss” explanation. Subcutaneous fat = between skin and muscle (can be addressed with lipo/tummy tuck). Visceral fat = around organs inside the abdomen (cannot be removed surgically in a tummy tuck). Visceral fat is reduced by overall weight loss, not surgery. Even after a tummy tuck, visceral fat can still affect abdominal projection."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are There Visible Liposuction Scars After a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Usually, no. Dr. Tom places tiny lipo access points within the area that is removed or within the incision zone, so they don’t leave noticeable additional scars, especially in full tummy tucks. Mini tummy tucks can differ because less skin is removed, so access points may be outside the excision area."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What Happens During a Tummy Tuck Surgery?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A tummy tuck is typically performed in the following steps: 1. Tumescent fluid is placed (IV-like fluid + epinephrine/adrenaline to reduce bleeding and protect vessels)2. Liposuction is performed (often first) 3. A “football-shaped” section of lower abdominal skin is removed 4. Muscle/diastasis repair is performed (stitching the midline tight) 5. Skin is pulled down, and the abdomen is closed 6. Belly button is brought through and shaped carefully"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How Is the Belly Button Created in a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The belly button is often the “dead giveaway” of a tummy tuck, so this matters to a lot of patients. You want the scar to sit inside and the surrounding skin to curve inward so it’s less visible. Dr. Tom says the best way to predict your belly button outcome is: Ask your surgeon to show their belly button results, Discuss any prior belly button scars or hernias."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What If I Have an Outie Belly Button or Belly Button Hernia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An outie can signal a hernia. Dr. Tom explains that hernias near the belly button are common, especially after prior laparoscopic surgery or natural abdominal wall weakness. If present, it can often be addressed during surgery, and the belly button can be re-secured to restore a more natural look."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What Can I Do to Improve Scarring After a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Truth is, if there were a miracle scar product, every surgeon would hand it out. Dr. Tom’s simple, evidence-based approach: Wait ~6 weeks before starting scar creams/massage (let incisions fully seal), Best data supports silicone gel/silicone sheets and massage, Expect scars to look most red/raised around 2–3 months, Final scar appearance can take up to 12-18 months, Avoid sun exposure, use SPF, and prevent early infection/tension issues."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What Is a Drainless Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A drainless tummy tuck is a combination of advanced techniques that often eliminate the need for post-op drains, support an easier recovery, and result in more natural outcomes. A modern tummy tuck typically uses progressive tension sutures (also called “quilting sutures”) to: Reduce the “empty space” where fluid would collect, Remove tension from the incision (helps scars heal nicer), Lower the chance of large seromas and reduce the need for drains. The modern tummy tuck doesn’t make fluid collections impossible, but it can make them smaller and less clinically significant."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why Doesn’t Every Surgeon Do Drainless Tummy Tucks?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Because surgical technique evolves in waves. Many surgeons: Were trained with drains, Have years of good outcomes with their method, Prefer gradual change for safety. Dr. Tom’s view: drains aren’t automatically “wrong,” but he’s comfortable with modern methods like drainless closure and liposuction because outcomes support it in his hands."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When Can I Shower After a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "At Amelia St. Louis, patients can often shower around 48 hours after surgery (and sometimes sooner if needed), depending on dressings and surgeon instructions."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How Painful Is a Tummy Tuck Compared to a C-Section?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "It’s not a perfect comparison, but Dr. Tom’s timeline helps patients set expectations: First few days: you’ll want help; you’ll likely be bent over ~30 degrees, By 5–7 days: standing more upright; moving more easily, Ideally off narcotics by the 1-week visit, 2 weeks off work is common (more if your job is physically demanding), 6 weeks: back to core workouts and “normal life” progression. Modern recovery is also helped by: Long-acting local anesthesia (Exparel), Multimodal pain control (Tylenol/NSAIDs, muscle relaxers), Encouraged early mobility."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How Long Do I Wear a Compression Garment After a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Dr. Tom is Team Garment. General guidance when it comes to garments includes: Wear it as long as you can tolerate it, up to 6 weeks is ideal, Garments are helpful, but they are not a silver bullet. If you develop skin irritation, wounds, or you can’t sleep, it can be adjusted or paused Garments may help: Reduce dead space / fluid accumulation after liposuction, Improve comfort by supporting the core, Protect clothing and hold the gauze in place."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Why Does My Mons Pubis Swell After a Tummy Tuck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This is incredibly common, and startling if you don’t expect it. If garments compress everywhere except the bathroom opening area, swelling can “collect” there. Dr. Tom also notes liposuction in the mons area is often included when appropriate. Some patients even want the opposite (volume restored), and fat grafting can be discussed in select cases."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What Do I Need to Buy for Tummy Tuck Recovery?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Dr. Tom keeps it practical. You usually don’t need:A recliner, Toilet risers, A bunch of expensive gadgets, New fitted clothes. Dr. Tom finds the most helpful items in tummy tuck recovery are the following: Hydration drinks, Stool softeners (especially with opioids), Meal prep / easy food plan, Loose clothing (leggings, baggy sets), Pillows/wedge setup to support back and knees, A helper for the first week. His biggest variable is your home setup: stairs vs elevator, living alone vs. support person, bed height and bathroom layout. If you have questions about how to plan for your tummy tuck recovery, your surgeon and surgical team are there to help guide you."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@type": "Thing",
+    "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing",
+    "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
+    "description": "Breast surgery is one of the most personal, customizable procedures in plastic surgery. It’s also one of the most misunderstood. Whether you're considering breast augmentation, a lift, a reduction, or implant exchange, your questions deserve honest, clear answers. Board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions from the Bustmob Community.",
+    "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+    "owner": {
+      "@id": "https://www.askamelia.com/#organization"
+    },
+    "subjectOf": {
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage"
     }
-
-  ]
-},
-    {
-      "@type": "Thing",
-      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing",
-      "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
-      "description": "Breast surgery is one of the most personal, customizable procedures in plastic surgery. It’s also one of the most misunderstood. Whether you're considering breast augmentation, a lift, a reduction, or implant exchange, your questions deserve honest, clear answers. Board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions from the Bustmob Community.",
-      "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
-      "owner": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
-      "subjectOf": {
-        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage"
-      }
+  },
+  {
+    "@type": "WebPage",
+    "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage",
+    "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+    "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
+    "description": "Breast surgery questions, answered by a board-certified plastic surgeon in Raleigh, NC. Learn implants vs augmentation, lift vs reduction, over vs under, recovery, and exchange.",
+    "breadcrumb": {
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb"
     },
-
-    {
-      "@type": "WebPage",
-      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage",
-      "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
-      "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
-      "description": "Breast surgery questions, answered by a board-certified plastic surgeon in Raleigh, NC. Learn implants vs augmentation, lift vs reduction, over vs under, recovery, and exchange.",
-      "breadcrumb": {
-        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb"
-      },
-      "reviewedBy": {
-        "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#person"
-      },
-      "about": {
-        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
-      }
+    "reviewedBy": {
+      "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#person"
     },
-
-    {
-      "@type": "BreadcrumbList",
-      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://www.askamelia.com"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Amelia Blog",
-          "item": "https://www.askamelia.com/blog"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
-          "item": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter"
-        }
-      ]
-    },
-
-    {
-      "@type": "CreativeWork",
-      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#creativework",
-      "about": {
-        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
-      },
-      "abstract": "Below, board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions about cosmetic breast surgeries.",
-      "audience": {
-        "@type": "Audience",
-        "audienceType": "Patients seeking cosmetic breast procedures"
-      },
-      "author": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
-      "datePublished": "2026-03-01",
-      "dateModified": "2026-03-01",
-      "keywords": [
-        "Breast Augmentation",
-        "Breast Lift", "Breast implants", "Breast reduction", "cosmetic breast surgery",
-        "Raleigh, North Carolina"
-      ]
-    },
-
-    {
-      "@type": "Article",
-      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#article",
-      "isPartOf": {
-        "@id": "https://www.askamelia.com/#webpage"
-      },
-      "about": {
-        "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
-      },
-      "author": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
-      "datePublished": "2026-03-01",
-      "dateModified": "2026-03-01",
-      "articleBody": "Breast Surgery in Raleigh, NC: Your Top Questions Answered\nBreast surgery is one of the most personal, customizable procedures in plastic surgery. It’s also one of the most misunderstood. Whether you're considering breast augmentation, a lift, a reduction, or implant exchange, your questions deserve honest, clear answers.\n\nBelow, board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions from the Bustmob Community.\n\nboard-certified plastic surgeon in Raleigh, NC Dr. Cedric Hunter\nWhat’s the Difference Between Breast Augmentation and Breast Implants?\nBreast augmentation is the procedure. Breast implants are the tool used to achieve it. Augmentation simply means adding volume. While some surgeons use fat grafting, implants allow for:\n\nPredictable volume (300cc = 300cc)\nImmediate visible results\nBetter control over shape and projection\nFuller upper pole (top of the breast)\nIf you want more fullness, improved shape, or restored volume after pregnancy or weight loss, implants are typically the most reliable option.\n\nAre Breast Implants Only for Women Who Want to Go “Big”?\nNo, and this is one of the biggest misconceptions. Many patients in Raleigh seeking breast augmentation want:\n\nBetter shape\nRestored fullness after breastfeeding\nSubtle upper pole fullness\nMore balance in clothing\nSymmetry\nImplants range from very subtle to very dramatic. The right size is the one that fits your body and your goals, not trends.\n\nShould I Wait Until After Kids to Get Breast Implants?\nNot necessarily. There is no rule that you must wait until after pregnancy. Many patients choose augmentation before having children because:\n\nYou may not know when (or if) you’ll have kids\nYou deserve to feel confident now\nImplants do not automatically prevent breastfeeding\nIf changes happen after pregnancy, adjustments (like a lift) can be done later. Waiting isn’t required unless you personally prefer to.\n\nCan I Breastfeed After Breast Surgery?\nIn many cases, yes. Dr. Hunter’s goal during augmentation, lift, or reduction is to:\n\nPreserve breast tissue behind the nipple\nMaintain blood supply\nProtect nerve sensation\nGenerally, patients who could breastfeed before surgery can typically breastfeed after surgery. It’s also important to remember that about 10–15% of women have difficulty breastfeeding regardless of surgery.\n\nHow Do I Know If My Implants Are “Too Big” for Me?\nThere’s no universal equation. Implants are “too big” if:\n\nYou feel uncomfortable\nThey don’t fit your lifestyle\nClothing becomes frustrating\nYou don’t like the aesthetic\nHowever, proportional considerations do matter:\n\nBreast width\nChest diameter\nSkin thickness\nTissue coverage\nA skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision.\n\nOver vs. Under the Muscle: Which Is Better?\nNeither is universally better. It depends on your anatomy and lifestyle.\n\nImplants Under the Muscle (Submuscular)\nPros:\n\nMore natural slope\nBetter camouflage in thin patients\nMuscle helps support the implant\nConsiderations:\n\nPossible animation (movement when flexing)\nSlightly longer early recovery\nImplants Over the Muscle (Subglandular)\nPros:\n\nFaster initial recovery\nNo animation\nOften preferred for bodybuilders\nConsiderations:\n\nMore visible rippling in thin patients\nSkin provides primary support\nDoes Implant Placement Affect Mammograms?\nDetection rates are the same whether implants are over or under the muscle. Modern imaging (mammogram, ultrasound, MRI) is highly effective.\n\nWill I Be Able to Work Out After Breast Implants?\nYes. Typically, there are lifting restrictions for the first six weeks after surgery. However, many patients find that once they are healed and cleared, can still do their normal exercises, including: \n\nBench press\nPush-ups\nCrossFit\nPowerlift\nCompete in bodybuilding\nIf implants are under the muscle, workouts may feel different at first, but strength returns. The key restriction is no heavy chest activity for six weeks.\n\nHow Long Is Recovery After Breast Surgery?\nFor augmentation, lift, or reduction, the typical recovery timeline looks like:\n\nBack to desk work: 2–4 days\nLight activity: within 1–2 weeks\nNo heavy lifting: 6 weeks\nOver-the-muscle implants may feel better slightly faster, but long-term outcomes are similar.\n\nHow Do I Know If I Need a Breast Lift?\nYou may need a breast lift if:\n\nYour nipples sit low on the breast\nYou like the shape when you lift your arm (mirror test)\nYou want a higher, tighter look\nYou may only need implants (no lift) if:\n\nYou like your nipple position\nYou just want more fullness\nBorderline cases can be staged: Do implants first. Add a lift later only if needed. This avoids unnecessary scars.\n\nWhat’s the Difference Between a Breast Lift and a Breast Reduction?\nEvery breast reduction includes a breast lift, and both use the same incision pattern. The difference is how much tissue is removed. \n\nBreast Lift: Removes a small amount of tissue and reshapes.\nBreast Reduction: Removes a larger amount of tissue for a decrease in size.\nWhat Is an Implant Exchange?\nAn implant exchange replaces old implants with new ones. Breast implant exchanges are used to:\n\nChange implant size\nSwitch implant placement\nCorrect capsule issues\nUpdate older implants\nBreast implant exchanges can be done:\n\nAwake with local anesthesia (simple size swap)\nUnder general anesthesia (if pocket adjustments are needed)\nRisk increases slightly with each surgery, but multiple exchanges are possible.\nDo Implants Need to Be Replaced Every 10 Years?\nIt’s a myth that implants “expire” after 10 years. There is no expiration date. Generally, if you’re happy with your implants, there is no need to exchange them. However, older implants (15–20+ years old) may be replaced due to rupture risk. Newer cohesive “gummy bear” implants typically do not routinely require replacement and can remain for as long as there are no issues. That being said, implants are medical devices and are not intended to last forever.\n\nWhat About Breast Implant Illness?\nThere is currently no definitive scientific data proving a causal link. While some patients report symptom improvement after removal, many patients with implants do not experience systemic issues. If you have concerns, a personalized consultation is essential.\n\nHow Does Weight Loss Affect Breast Surgery Results?\nMajor weight changes can affect outcomes. Typically, the best practice is to be within 10–15 pounds of your goal weight before surgery. If you gain or lose significant weight after surgery:\n\nYou may lose breast tissue\nImplants may appear different\nA revision may be needed\nHow Young Can Someone Get a Breast Reduction?\nAt Amelia Aesthetics in Raleigh, you must be at least 18 years old. In reconstructive settings, the goal is function, not just appearance, and reductions may be performed earlier if:\n\nSevere back pain\nFunctional limitations\nSignificant asymmetry\nEmotional distress\nWhat Should I Research Before a Breast Surgery Consultation?\nHelpful things to consider before your appointment:\n\nDo you prefer a natural or round shape?\nOver vs under muscle (based on activity)?\nDo you think you might need a lift?\nBring 5–10 inspiration photos (not 100)\nAvoid getting overwhelmed by:\n\nProfile terminology\nImplant brand debates\nInternet horror stories\nYour consultation is where customization happens. Breast surgery isn’t one-size-fits-all. It’s highly personalized, and that’s what makes it powerful.\n\nAt Amelia, the goal isn’t to push one method. It’s to:\n\nUnderstand your anatomy\nUnderstand your lifestyle\nUnderstand your aesthetic goals\nCreate a plan that fits you\nWhether you’re considering breast implants, a lift, reduction, exchange, or revision, informed decisions lead to confident outcomes.\n\nIf you’re ready to explore your options, book a consultation and start the conversation.\n\nGet to Know Dr. Cedric Hunter\nDr. Hunter is a board-certified plastic surgeon at Amelia Aesthetics in Raleigh, North Carolina. He is certified by the American Board of Plastic Surgery and completed extensive surgical training in both cosmetic and reconstructive plastic surgery procedures.\n\nHis background includes years of experience treating patients across the full spectrum of breast care from cosmetic breast augmentation and lifts to breast reduction, and implant revision. This dual training allows him to approach every procedure with both aesthetic precision and a strong foundation in safety and long-term outcomes.\n\nKnown for his thoughtful, individualized approach, Dr. Hunter does not believe in a one-size-fits-all solution. He takes time to understand each patient’s anatomy, lifestyle, and goals to create results that feel balanced, natural, and aligned with their vision.\n\nAt Amelia Raleigh, Dr. Hunter is committed to education, transparency, and helping patients feel confident in every step of their decision-making process.\n\nboard-certified plastic surgeon in Raleigh, NC Dr. Cedric Hunter\n\n",
-      "wordCount": "1367"
-    },
-
-    {
-      "@type": "FAQPage",
-      "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#faq",
-      "isPartOf": {
-        "@id": "https://www.askamelia.com/#webpage"
-      },
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What’s the Difference Between Breast Augmentation and Breast Implants?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Breast augmentation is the procedure. Breast implants are the tool used to achieve it. Augmentation simply means adding volume. While some surgeons use fat grafting, implants allow for: Predictable volume (300cc = 300cc), Immediate visible results, Better control over shape and projection, Fuller upper pole (top of the breast). If you want more fullness, improved shape, or restored volume after pregnancy or weight loss, implants are typically the most reliable option."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are Breast Implants Only for Women Who Want to Go “Big”?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No, and this is one of the biggest misconceptions. Many patients in Raleigh seeking breast augmentation want: Better shape, Restored fullness after breastfeeding, Subtle upper pole fullness, More balance in clothing, Symmetry. Implants range from very subtle to very dramatic. The right size is the one that fits your body and your goals, not trends."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Should I Wait Until After Kids to Get Breast Implants?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Not necessarily. There is no rule that you must wait until after pregnancy. Many patients choose augmentation before having children because: You may not know when (or if) you’ll have kids, You deserve to feel confident now, Implants do not automatically prevent breastfeeding. If changes happen after pregnancy, adjustments (like a lift) can be done later. Waiting isn’t required unless you personally prefer to."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "Can I Breastfeed After Breast Surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "In many cases, yes. Dr. Hunter’s goal during augmentation, lift, or reduction is to: Preserve breast tissue behind the nipple, Maintain blood supply, Protect nerve sensation. Generally, patients who could breastfeed before surgery can typically breastfeed after surgery. It’s also important to remember that about 10–15% of women have difficulty breastfeeding regardless of surgery."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "How Do I Know If My Implants Are “Too Big” for Me?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "There’s no universal equation. Implants are “too big” if: You feel uncomfortable, They don’t fit your lifestyle, Clothing becomes frustrating, You don’t like the aesthetic. However, proportional considerations do matter: Breast width, Chest diameter, Skin thickness, Tissue coverage. A skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Over vs. Under the Muscle: Which Is Better?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "There’s no universal equation. Implants are “too big” if: You feel uncomfortable, They don’t fit your lifestyle, Clothing becomes frustrating, You don’t like the aesthetic. However, proportional considerations do matter: Breast width, Chest diameter, Skin thickness, Tissue coverage. A skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "Over vs. Under the Muscle: Which Is Better?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Neither is universally better. It depends on your anatomy and lifestyle. Implants Under the Muscle (Submuscular) Pros: More natural slope, Better camouflage in thin patients, Muscle helps support the implant. Considerations: Possible animation (movement when flexing), Slightly longer early recovery. Implants Over the Muscle (Subglandular) Pros: Faster initial recovery, No animation, Often preferred for bodybuilders. Considerations: More visible rippling in thin patients, Skin provides primary support"
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "Does Implant Placement Affect Mammograms?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Detection rates are the same whether implants are over or under the muscle. Modern imaging (mammogram, ultrasound, MRI) is highly effective."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "Will I Be Able to Work Out After Breast Implants?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Typically, there are lifting restrictions for the first six weeks after surgery. However, many patients find that once they are healed and cleared, can still do their normal exercises, including: Bench press, Push-ups, CrossFit, Powerlift, Compete in bodybuilding. If implants are under the muscle, workouts may feel different at first, but strength returns. The key restriction is no heavy chest activity for six weeks."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How Long Is Recovery After Breast Surgery?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For augmentation, lift, or reduction, the typical recovery timeline looks like: Back to desk work: 2–4 days, Light activity: within 1–2 weeks, No heavy lifting: 6 weeks, Over-the-muscle implants may feel better slightly faster, but long-term outcomes are similar."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How Do I Know If I Need a Breast Lift?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You may need a breast lift if: Your nipples sit low on the breast, You like the shape when you lift your arm (mirror test), You want a higher, tighter look, You may only need implants (no lift) if: You like your nipple position, You just want more fullness, Borderline cases can be staged: Do implants first. Add a lift later only if needed. This avoids unnecessary scars."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "What’s the Difference Between a Breast Lift and a Breast Reduction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Every breast reduction includes a breast lift, and both use the same incision pattern. The difference is how much tissue is removed. Breast Lift: Removes a small amount of tissue and reshapes. Breast Reduction: Removes a larger amount of tissue for a decrease in size."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What Is an Implant Exchange?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "An implant exchange replaces old implants with new ones. Breast implant exchanges are used to: Change implant size, Switch implant placement, Correct capsule issues, Update older implants, Breast implant exchanges can be done: Awake with local anesthesia (simple size swap), Under general anesthesia (if pocket adjustments are needed), Risk increases slightly with each surgery, but multiple exchanges are possible."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "Do Implants Need to Be Replaced Every 10 Years?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "It’s a myth that implants “expire” after 10 years. There is no expiration date. Generally, if you’re happy with your implants, there is no need to exchange them. However, older implants (15–20+ years old) may be replaced due to rupture risk. Newer cohesive “gummy bear” implants typically do not routinely require replacement and can remain for as long as there are no issues. That being said, implants are medical devices and are not intended to last forever."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "What About Breast Implant Illness?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "There is currently no definitive scientific data proving a causal link. While some patients report symptom improvement after removal, many patients with implants do not experience systemic issues. If you have concerns, a personalized consultation is essential."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "How Does Weight Loss Affect Breast Surgery Results?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Major weight changes can affect outcomes. Typically, the best practice is to be within 10–15 pounds of your goal weight before surgery. If you gain or lose significant weight after surgery: You may lose breast tissue, Implants may appear different, A revision may be needed."
-          }
-        },
-         {
-          "@type": "Question",
-          "name": "How Young Can Someone Get a Breast Reduction?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "At Amelia Aesthetics in Raleigh, you must be at least 18 years old. In reconstructive settings, the goal is function, not just appearance, and reductions may be performed earlier if: Severe back pain, Functional limitations, Significant asymmetry, Emotional distress."
-          }
-        },
-          {
-          "@type": "Question",
-          "name": "What Should I Research Before a Breast Surgery Consultation?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Helpful things to consider before your appointment: Do you prefer a natural or round shape?, Over vs under muscle (based on activity)?, Do you think you might need a lift?, Bring 5–10 inspiration photos (not 100). Avoid getting overwhelmed by: Profile terminology, Implant brand debates, Internet horror stories. Your consultation is where customization happens. Breast surgery isn’t one-size-fits-all. It’s highly personalized, and that’s what makes it powerful. At Amelia, the goal isn’t to push one method. It’s to: Understand your anatomy, Understand your lifestyle, Understand your aesthetic goals, Create a plan that fits you. Whether you’re considering breast implants, a lift, reduction, exchange, or revision, informed decisions lead to confident outcomes. If you’re ready to explore your options, book a consultation and start the conversation."
-          }
-        }
-      ]
+    "about": {
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
     }
-
-  ]}
+  },
+  {
+    "@type": "BreadcrumbList",
+    "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#breadcrumb",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.askamelia.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Amelia Blog",
+        "item": "https://www.askamelia.com/blog"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
+        "item": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter"
+      }
+    ]
+  },
+  {
+    "@type": "CreativeWork",
+    "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#creativework",
+    "about": {
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
+    },
+    "abstract": "Below, board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions about cosmetic breast surgeries.",
+    "audience": {
+      "@type": "Audience",
+      "audienceType": "Patients seeking cosmetic breast procedures"
+    },
+    "author": {
+      "@id": "https://www.askamelia.com/#organization"
+    },
+    "datePublished": "2026-03-01",
+    "dateModified": "2026-03-01",
+    "keywords": [
+      "Breast Augmentation",
+      "Breast Lift",
+      "Breast implants",
+      "Breast reduction",
+      "cosmetic breast surgery",
+      "Raleigh, North Carolina"
+    ]
+  },
+  {
+    "@type": "Article",
+    "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#article",
+    "isPartOf": {
+      "@id": "https://www.askamelia.com/#webpage"
+    },
+    "about": {
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
+    },
+    "author": {
+      "@id": "https://www.askamelia.com/#organization"
+    },
+    "datePublished": "2026-03-01",
+    "dateModified": "2026-03-01",
+    "articleBody": "Breast Surgery in Raleigh, NC: Your Top Questions Answered\nBreast surgery is one of the most personal, customizable procedures in plastic surgery. It’s also one of the most misunderstood. Whether you're considering breast augmentation, a lift, a reduction, or implant exchange, your questions deserve honest, clear answers.\n\nBelow, board-certified plastic surgeon Dr. Cedric Hunter of Amelia Aesthetics in Raleigh, North Carolina, answers the most common questions from the Bustmob Community.\n\nboard-certified plastic surgeon in Raleigh, NC Dr. Cedric Hunter\nWhat’s the Difference Between Breast Augmentation and Breast Implants?\nBreast augmentation is the procedure. Breast implants are the tool used to achieve it. Augmentation simply means adding volume. While some surgeons use fat grafting, implants allow for:\n\nPredictable volume (300cc = 300cc)\nImmediate visible results\nBetter control over shape and projection\nFuller upper pole (top of the breast)\nIf you want more fullness, improved shape, or restored volume after pregnancy or weight loss, implants are typically the most reliable option.\n\nAre Breast Implants Only for Women Who Want to Go “Big”?\nNo, and this is one of the biggest misconceptions. Many patients in Raleigh seeking breast augmentation want:\n\nBetter shape\nRestored fullness after breastfeeding\nSubtle upper pole fullness\nMore balance in clothing\nSymmetry\nImplants range from very subtle to very dramatic. The right size is the one that fits your body and your goals, not trends.\n\nShould I Wait Until After Kids to Get Breast Implants?\nNot necessarily. There is no rule that you must wait until after pregnancy. Many patients choose augmentation before having children because:\n\nYou may not know when (or if) you’ll have kids\nYou deserve to feel confident now\nImplants do not automatically prevent breastfeeding\nIf changes happen after pregnancy, adjustments (like a lift) can be done later. Waiting isn’t required unless you personally prefer to.\n\nCan I Breastfeed After Breast Surgery?\nIn many cases, yes. Dr. Hunter’s goal during augmentation, lift, or reduction is to:\n\nPreserve breast tissue behind the nipple\nMaintain blood supply\nProtect nerve sensation\nGenerally, patients who could breastfeed before surgery can typically breastfeed after surgery. It’s also important to remember that about 10–15% of women have difficulty breastfeeding regardless of surgery.\n\nHow Do I Know If My Implants Are “Too Big” for Me?\nThere’s no universal equation. Implants are “too big” if:\n\nYou feel uncomfortable\nThey don’t fit your lifestyle\nClothing becomes frustrating\nYou don’t like the aesthetic\nHowever, proportional considerations do matter:\n\nBreast width\nChest diameter\nSkin thickness\nTissue coverage\nA skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision.\n\nOver vs. Under the Muscle: Which Is Better?\nNeither is universally better. It depends on your anatomy and lifestyle.\n\nImplants Under the Muscle (Submuscular)\nPros:\n\nMore natural slope\nBetter camouflage in thin patients\nMuscle helps support the implant\nConsiderations:\n\nPossible animation (movement when flexing)\nSlightly longer early recovery\nImplants Over the Muscle (Subglandular)\nPros:\n\nFaster initial recovery\nNo animation\nOften preferred for bodybuilders\nConsiderations:\n\nMore visible rippling in thin patients\nSkin provides primary support\nDoes Implant Placement Affect Mammograms?\nDetection rates are the same whether implants are over or under the muscle. Modern imaging (mammogram, ultrasound, MRI) is highly effective.\n\nWill I Be Able to Work Out After Breast Implants?\nYes. Typically, there are lifting restrictions for the first six weeks after surgery. However, many patients find that once they are healed and cleared, can still do their normal exercises, including: \n\nBench press\nPush-ups\nCrossFit\nPowerlift\nCompete in bodybuilding\nIf implants are under the muscle, workouts may feel different at first, but strength returns. The key restriction is no heavy chest activity for six weeks.\n\nHow Long Is Recovery After Breast Surgery?\nFor augmentation, lift, or reduction, the typical recovery timeline looks like:\n\nBack to desk work: 2–4 days\nLight activity: within 1–2 weeks\nNo heavy lifting: 6 weeks\nOver-the-muscle implants may feel better slightly faster, but long-term outcomes are similar.\n\nHow Do I Know If I Need a Breast Lift?\nYou may need a breast lift if:\n\nYour nipples sit low on the breast\nYou like the shape when you lift your arm (mirror test)\nYou want a higher, tighter look\nYou may only need implants (no lift) if:\n\nYou like your nipple position\nYou just want more fullness\nBorderline cases can be staged: Do implants first. Add a lift later only if needed. This avoids unnecessary scars.\n\nWhat’s the Difference Between a Breast Lift and a Breast Reduction?\nEvery breast reduction includes a breast lift, and both use the same incision pattern. The difference is how much tissue is removed. \n\nBreast Lift: Removes a small amount of tissue and reshapes.\nBreast Reduction: Removes a larger amount of tissue for a decrease in size.\nWhat Is an Implant Exchange?\nAn implant exchange replaces old implants with new ones. Breast implant exchanges are used to:\n\nChange implant size\nSwitch implant placement\nCorrect capsule issues\nUpdate older implants\nBreast implant exchanges can be done:\n\nAwake with local anesthesia (simple size swap)\nUnder general anesthesia (if pocket adjustments are needed)\nRisk increases slightly with each surgery, but multiple exchanges are possible.\nDo Implants Need to Be Replaced Every 10 Years?\nIt’s a myth that implants “expire” after 10 years. There is no expiration date. Generally, if you’re happy with your implants, there is no need to exchange them. However, older implants (15–20+ years old) may be replaced due to rupture risk. Newer cohesive “gummy bear” implants typically do not routinely require replacement and can remain for as long as there are no issues. That being said, implants are medical devices and are not intended to last forever.\n\nWhat About Breast Implant Illness?\nThere is currently no definitive scientific data proving a causal link. While some patients report symptom improvement after removal, many patients with implants do not experience systemic issues. If you have concerns, a personalized consultation is essential.\n\nHow Does Weight Loss Affect Breast Surgery Results?\nMajor weight changes can affect outcomes. Typically, the best practice is to be within 10–15 pounds of your goal weight before surgery. If you gain or lose significant weight after surgery:\n\nYou may lose breast tissue\nImplants may appear different\nA revision may be needed\nHow Young Can Someone Get a Breast Reduction?\nAt Amelia Aesthetics in Raleigh, you must be at least 18 years old. In reconstructive settings, the goal is function, not just appearance, and reductions may be performed earlier if:\n\nSevere back pain\nFunctional limitations\nSignificant asymmetry\nEmotional distress\nWhat Should I Research Before a Breast Surgery Consultation?\nHelpful things to consider before your appointment:\n\nDo you prefer a natural or round shape?\nOver vs under muscle (based on activity)?\nDo you think you might need a lift?\nBring 5–10 inspiration photos (not 100)\nAvoid getting overwhelmed by:\n\nProfile terminology\nImplant brand debates\nInternet horror stories\nYour consultation is where customization happens. Breast surgery isn’t one-size-fits-all. It’s highly personalized, and that’s what makes it powerful.\n\nAt Amelia, the goal isn’t to push one method. It’s to:\n\nUnderstand your anatomy\nUnderstand your lifestyle\nUnderstand your aesthetic goals\nCreate a plan that fits you\nWhether you’re considering breast implants, a lift, reduction, exchange, or revision, informed decisions lead to confident outcomes.\n\nIf you’re ready to explore your options, book a consultation and start the conversation.\n\nGet to Know Dr. Cedric Hunter\nDr. Hunter is a board-certified plastic surgeon at Amelia Aesthetics in Raleigh, North Carolina. He is certified by the American Board of Plastic Surgery and completed extensive surgical training in both cosmetic and reconstructive plastic surgery procedures.\n\nHis background includes years of experience treating patients across the full spectrum of breast care from cosmetic breast augmentation and lifts to breast reduction, and implant revision. This dual training allows him to approach every procedure with both aesthetic precision and a strong foundation in safety and long-term outcomes.\n\nKnown for his thoughtful, individualized approach, Dr. Hunter does not believe in a one-size-fits-all solution. He takes time to understand each patient’s anatomy, lifestyle, and goals to create results that feel balanced, natural, and aligned with their vision.\n\nAt Amelia Raleigh, Dr. Hunter is committed to education, transparency, and helping patients feel confident in every step of their decision-making process.\n\nboard-certified plastic surgeon in Raleigh, NC Dr. Cedric Hunter\n\n",
+    "wordCount": "1367"
+  },
+  {
+    "@type": "FAQPage",
+    "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#faq",
+    "isPartOf": {
+      "@id": "https://www.askamelia.com/#webpage"
+    },
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What’s the Difference Between Breast Augmentation and Breast Implants?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Breast augmentation is the procedure. Breast implants are the tool used to achieve it. Augmentation simply means adding volume. While some surgeons use fat grafting, implants allow for: Predictable volume (300cc = 300cc), Immediate visible results, Better control over shape and projection, Fuller upper pole (top of the breast). If you want more fullness, improved shape, or restored volume after pregnancy or weight loss, implants are typically the most reliable option."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are Breast Implants Only for Women Who Want to Go “Big”?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, and this is one of the biggest misconceptions. Many patients in Raleigh seeking breast augmentation want: Better shape, Restored fullness after breastfeeding, Subtle upper pole fullness, More balance in clothing, Symmetry. Implants range from very subtle to very dramatic. The right size is the one that fits your body and your goals, not trends."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I Wait Until After Kids to Get Breast Implants?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Not necessarily. There is no rule that you must wait until after pregnancy. Many patients choose augmentation before having children because: You may not know when (or if) you’ll have kids, You deserve to feel confident now, Implants do not automatically prevent breastfeeding. If changes happen after pregnancy, adjustments (like a lift) can be done later. Waiting isn’t required unless you personally prefer to."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I Breastfeed After Breast Surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In many cases, yes. Dr. Hunter’s goal during augmentation, lift, or reduction is to: Preserve breast tissue behind the nipple, Maintain blood supply, Protect nerve sensation. Generally, patients who could breastfeed before surgery can typically breastfeed after surgery. It’s also important to remember that about 10–15% of women have difficulty breastfeeding regardless of surgery."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How Do I Know If My Implants Are “Too Big” for Me?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "There’s no universal equation. Implants are “too big” if: You feel uncomfortable, They don’t fit your lifestyle, Clothing becomes frustrating, You don’t like the aesthetic. However, proportional considerations do matter: Breast width, Chest diameter, Skin thickness, Tissue coverage. A skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Over vs. Under the Muscle: Which Is Better?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "There’s no universal equation. Implants are “too big” if: You feel uncomfortable, They don’t fit your lifestyle, Clothing becomes frustrating, You don’t like the aesthetic. However, proportional considerations do matter: Breast width, Chest diameter, Skin thickness, Tissue coverage. A skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Over vs. Under the Muscle: Which Is Better?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Neither is universally better. It depends on your anatomy and lifestyle. Implants Under the Muscle (Submuscular) Pros: More natural slope, Better camouflage in thin patients, Muscle helps support the implant. Considerations: Possible animation (movement when flexing), Slightly longer early recovery. Implants Over the Muscle (Subglandular) Pros: Faster initial recovery, No animation, Often preferred for bodybuilders. Considerations: More visible rippling in thin patients, Skin provides primary support"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does Implant Placement Affect Mammograms?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Detection rates are the same whether implants are over or under the muscle. Modern imaging (mammogram, ultrasound, MRI) is highly effective."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will I Be Able to Work Out After Breast Implants?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Typically, there are lifting restrictions for the first six weeks after surgery. However, many patients find that once they are healed and cleared, can still do their normal exercises, including: Bench press, Push-ups, CrossFit, Powerlift, Compete in bodybuilding. If implants are under the muscle, workouts may feel different at first, but strength returns. The key restriction is no heavy chest activity for six weeks."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How Long Is Recovery After Breast Surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "For augmentation, lift, or reduction, the typical recovery timeline looks like: Back to desk work: 2–4 days, Light activity: within 1–2 weeks, No heavy lifting: 6 weeks, Over-the-muscle implants may feel better slightly faster, but long-term outcomes are similar."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How Do I Know If I Need a Breast Lift?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You may need a breast lift if: Your nipples sit low on the breast, You like the shape when you lift your arm (mirror test), You want a higher, tighter look, You may only need implants (no lift) if: You like your nipple position, You just want more fullness, Borderline cases can be staged: Do implants first. Add a lift later only if needed. This avoids unnecessary scars."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What’s the Difference Between a Breast Lift and a Breast Reduction?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Every breast reduction includes a breast lift, and both use the same incision pattern. The difference is how much tissue is removed. Breast Lift: Removes a small amount of tissue and reshapes. Breast Reduction: Removes a larger amount of tissue for a decrease in size."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What Is an Implant Exchange?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An implant exchange replaces old implants with new ones. Breast implant exchanges are used to: Change implant size, Switch implant placement, Correct capsule issues, Update older implants, Breast implant exchanges can be done: Awake with local anesthesia (simple size swap), Under general anesthesia (if pocket adjustments are needed), Risk increases slightly with each surgery, but multiple exchanges are possible."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do Implants Need to Be Replaced Every 10 Years?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It’s a myth that implants “expire” after 10 years. There is no expiration date. Generally, if you’re happy with your implants, there is no need to exchange them. However, older implants (15–20+ years old) may be replaced due to rupture risk. Newer cohesive “gummy bear” implants typically do not routinely require replacement and can remain for as long as there are no issues. That being said, implants are medical devices and are not intended to last forever."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What About Breast Implant Illness?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "There is currently no definitive scientific data proving a causal link. While some patients report symptom improvement after removal, many patients with implants do not experience systemic issues. If you have concerns, a personalized consultation is essential."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How Does Weight Loss Affect Breast Surgery Results?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Major weight changes can affect outcomes. Typically, the best practice is to be within 10–15 pounds of your goal weight before surgery. If you gain or lose significant weight after surgery: You may lose breast tissue, Implants may appear different, A revision may be needed."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How Young Can Someone Get a Breast Reduction?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "At Amelia Aesthetics in Raleigh, you must be at least 18 years old. In reconstructive settings, the goal is function, not just appearance, and reductions may be performed earlier if: Severe back pain, Functional limitations, Significant asymmetry, Emotional distress."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What Should I Research Before a Breast Surgery Consultation?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Helpful things to consider before your appointment: Do you prefer a natural or round shape?, Over vs under muscle (based on activity)?, Do you think you might need a lift?, Bring 5–10 inspiration photos (not 100). Avoid getting overwhelmed by: Profile terminology, Implant brand debates, Internet horror stories. Your consultation is where customization happens. Breast surgery isn’t one-size-fits-all. It’s highly personalized, and that’s what makes it powerful. At Amelia, the goal isn’t to push one method. It’s to: Understand your anatomy, Understand your lifestyle, Understand your aesthetic goals, Create a plan that fits you. Whether you’re considering breast implants, a lift, reduction, exchange, or revision, informed decisions lead to confident outcomes. If you’re ready to explore your options, book a consultation and start the conversation."
+        }
+      }
+    ]
+  }
+]
