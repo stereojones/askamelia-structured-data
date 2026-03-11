@@ -626,5 +626,105 @@
             "url": "https://www.askamelia.com/procedures/tummy-tuck"
           }
         ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "name": "Dr. Anthony Azzolini, MD",
+        "url": "https://www.askamelia.com/providers/dr-anthony-azzolini",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/686ef07a91bed98ef106966b_ilm-azzolini-headshot.webp",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": {
+          "@type": "EducationalOrganization",
+          "name": "Rutgers University, Medical School, and General Surgery Residency"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1911 S. 17th St. Suite 100.",
+          "addressLocality": "Wilmington",
+          "addressRegion": "NC",
+          "postalCode": "28401",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.azzolini.amelia/"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "name": "Dr. Trace Browne, MD",
+        "url": "https://www.askamelia.com/providers/dr-trace-browne",
+        "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/686ef0fe4857ec0e5dd5b095_amelia-surgeon-rdu-browne-headshot.webp",
+        "medicalSpecialty": "Plastic Surgery",
+        "affiliation": {
+          "@type": "MedicalOrganization",
+          "name": "Amelia Aesthetics",
+          "url": "https://www.askamelia.com"
+        },
+        "alumniOf": {
+          "@type": "EducationalOrganization",
+          "name": "Medical College of Georgia, Medical School"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2304 Wesvill Ct. Suite 360",
+          "addressLocality": "Raleigh",
+          "addressRegion": "NC",
+          "postalCode": "27607",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://www.instagram.com/dr.browne.amelia/"
+        ],
+        "performProcedure": [
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Augmentation",
+            "url": "https://www.askamelia.com/procedures/breast-augmentation"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Lift",
+            "url": "https://www.askamelia.com/procedures/breast-lift"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Breast Reduction",
+            "url": "https://www.askamelia.com/procedures/breast-reduction"
+          },
+          {
+            "@type": "MedicalProcedure",
+            "name": "Tummy Tuck",
+            "url": "https://www.askamelia.com/procedures/tummy-tuck"
+          }
+        ]
       }
 ]

@@ -29,7 +29,7 @@
       "description": "Plastic surgery in Raleigh, NC at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "URL" },
+      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/648b148ffaeca56eaf93bd70_amelia-raleigh-03.avif" },
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/raleigh#breadcrumb" },
       "about": [
         { "@id": "https://www.askamelia.com/locations/raleigh#medicalbusiness" },
@@ -324,7 +324,7 @@
       "description": "Plastic surgery in St. Louis, MO at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "URL" },
+      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/65b00cfe54e9a7cdea401757_amelia-st-louis-02-min.avif" },
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/st-louis#breadcrumb" },
       "about": [
         { "@id": "https://www.askamelia.com/locations/st-louis#medicalbusiness" },
@@ -594,7 +594,7 @@
       "description": "Plastic surgery in Evansville, IN at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "URL" },
+      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66abcea0b9b3fb049cd7c79d_amelia-evv-office-03.avif" },
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/Evansville#breadcrumb" },
       "about": [
         { "@id": "https://www.askamelia.com/locations/Evansville#medicalbusiness" },
@@ -865,7 +865,7 @@
       "description": "Plastic surgery in San Antonio at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "URL" },
+      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66fc3eb80f0e28afd267607c_sat-photos-04.avif" },
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/san-antonio#breadcrumb" },
       "about": [
         { "@id": "https://www.askamelia.com/locations/san-antonio#medicalbusiness" },
@@ -1109,7 +1109,7 @@
       "description": "Plastic surgery in South Florida at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "URL" },
+      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6892254a17be53a875522362_sfl-office-08.webp" },
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/sfl#breadcrumb" },
       "about": [
         { "@id": "https://www.askamelia.com/locations/sfl#medicalbusiness" },
@@ -1353,7 +1353,7 @@
       "description": "Plastic surgery in Wilmington, NC at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "URL" },
+      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/69553315a597ae56e05847e7_ilm-office-01.webp" },
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/wilmington#breadcrumb" },
       "about": [
         { "@id": "https://www.askamelia.com/locations/wilmington#medicalbusiness" },
@@ -1606,7 +1606,7 @@
       "description": "Plastic surgery in Tampa Bay, FL at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "URL" },
+      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/68c82d59b6fd32caa2222a58_tpa-office-02.webp" },
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/tampa-bay#breadcrumb" },
       "about": [
         { "@id": "https://www.askamelia.com/locations/tampa-bay#medicalbusiness" },
