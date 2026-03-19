@@ -1,4 +1,117 @@
 [
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+   {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo",
+      "url": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo",
+      "name": "Revision® DEJ BioStim Treatment in St. Charles | Amelia Medspa",
+      "description": "DEJ BioStim Treatment is a non-invasive, topical biostimulator that visibly improves skin firmness, elasticity, and luminosity without needles. Many patients experience minimal discomfort and downtime. For best results, DEJ BioStim Treatments are typically recommended in a series of three.",
+      "keywords": [
+        "Revision® DEJ BioStim Treatment in St. Charles", "non-invasive treatment for wrinkles", "get rid of wrinkles without needles"
+      ],
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com"
+      }
+    },
+{
+      "@type": "MedicalBusiness",
+      "@id": "https://www.askamelia.com/medspa/st-louis#business",
+      "name": "Amelia Medspa St. Charles",
+     
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1551 Wall Street, Suite 320",
+        "addressLocality": "St. Charles",
+        "addressRegion": "MO",
+        "postalCode": "63303",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "38.78017556569693",
+        "longitude": "-90.52501902863757"
+      },
+      "url": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo",
+      "telephone": "+1-636-329-4036",
+      "priceRange": "$$",
+        "brand": "Amelia Medspa",
+        "description": "Amelia Medspa St. Charles offers a curated collection of medspa treatments, injectables, and medical-grade skincare, all designed to give the best, most natural results. Our experienced and licensed providers are dedicated to helping you achieve your aesthetic goals in a comfortable and welcoming environment."
+    },
+{
+      "@type": "MedicalProcedure",
+      "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo#procedure",
+      "name": "Revision® DEJ BioStim Treatment",
+      "procedureType": "NonInvasiveProcedure",
+      "howPerformed": "The licensed and experienced providers will begin your treatment with a double cleanse using Revision Skincare cleanser, then prep your skin with an exfoliating facial rinse before applying the DEJ BioStim solution. Your treatment concludes with a hydrating facial mask and Revision Skincare products gently massaged into your skin.",
+      "preparation": "For optimal results, prime skin 1-2 weeks prior to treatment with your choice of Revision Skincare Cleanser, DEJ Daily Boosting Serum, DEJ Face Cream, and Intellishade SPF (AM only). Avoid retinol for 1 week prior. Patients should not have had recent laser or microneedling.",
+      "followup": "1-3 Days After: Follow the regimen as directed by your provider. 5 Days After: Begin using a post-care kit 5 days after each treatment.",
+      "bodyLocation": [
+        "Face"
+      ]
+    },
+{
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What to Expect for Your DEJ BioStim Treatment",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Offered exclusively at Amelia Mespda in St. Charles, the licensed and experienced providers will begin your treatment with a double cleanse using Revision Skincare cleanser, then prep your skin with an exfoliating facial rinse before applying the DEJ BioStim solution. Your treatment concludes with a hydrating facial mask and Revision Skincare products gently massaged into your skin. "
+          }
+        },
+{
+          "@type": "Question",
+          "name": "What is DEJ BioStim Treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DEJ BioStim Treatment is a non-invasive, topical biostimulator that visibly improves skin firmness, elasticity, and luminosity without needles. Many patients experience minimal discomfort and downtime. For best results, DEJ BioStim Treatments are typically recommended in a series of three."
+          }
+        },
+{
+          "@type": "Question",
+          "name": "Who Is a Good Candidate for DEJ BioStim Treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DEJ BioStim Treatment is suitable for all Fitzpatrick Skin Types V-VI. Always consult your provider about products and treatments that are right for you. Those looking for faster/better results, with minimal discomfort and downtime. Those looking for non-invasive or more cost-effective professional treatments. Those afraid of needles/injections. Those seeking professional anti-aging treatments with the latest technology/ treatments. Those looking for more natural results to reduce signs of aging (boosting skin’s natural collagen and elastin production). This treatment is not for patients looking to improve acne or hyperpigmentation."
+        }
+    }
+    ]
+    },
+{
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo#procedure#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com"
+        },
+{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Medspa",
+          "item": "https://www.askamelia.com/medspa/st-louis"
+        },
+{
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DEJ BioStim Treatment",
+          "item": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo#procedure"
+        }
+      ]
+    }
+  ]
+},
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -70,7 +183,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-wilmington-nc#procedure",
       "name": "Microneedling",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "Uses precise, controlled micro-channels created with fine needles to stimulate collagen and elastin for smoother, firmer skin.",
       "preparation": "Avoid retinoids, harsh exfoliants, and sun exposure 24–48 hours prior to treatment and arrive with clean, makeup-free skin.",
       "followup": "Mild redness and sensitivity typically resolve within 24–48 hours; collagen production and visible results continue to improve over the following weeks.",
@@ -218,7 +331,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peel-wilmington-nc#procedure",
       "name": "Chemical Peel",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A customized chemical solution is applied to the skin to remove the top layers and stimulate new collagen and cell turnover, revealing fresher skin underneath.",
       "preparation": "Avoid recent sunburn or tanning, stop retinoids and harsh acids 1 week prior, arrive with clean, makeup-free skin and disclose medications that increase light sensitivity.",
       "followup": "You may experience mild peeling, redness or flaking for a few days; apply sunscreen, avoid picking skin, and results improve over weeks as texture and tone rejuvenate.",
@@ -366,7 +479,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-filler-wilmington-nc#procedure",
       "name": "Dermal Filler",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A hyaluronic acid or other biocompatible filler is injected beneath the skin to replenish lost volume, lift facial structures, smooth lines and enhance features.",
       "preparation": "Avoid blood-thinning medications, alcohol, and strenuous exercise 24 hours prior; arrive with a clean, makeup-free face and inform the provider of any cold sores, medications, or health changes.",
       "followup": "Mild bruising, swelling or tenderness may occur for 1-3 days; results are visible immediately and continue to settle over 1–2 weeks; avoid heavy exercise/use of sauna for 24 hours and keep upright for a few hours after treatment.",
@@ -658,7 +771,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplane-wilmington-nc#procedure",
       "name": "Dermaplaning (Dermaplane Facial)",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A trained provider uses a sterile surgical blade at a precise angle to gently skim away dead skin cells and vellus hair (peach fuzz) from the surface of the skin.",
       "preparation": "Avoid retinoids, waxing, and aggressive exfoliants 3–5 days prior to your appointment, and arrive with clean, makeup-free skin.",
       "followup": "There is little to no downtime. Mild pinkness may occur but typically resolves quickly; apply gentle moisturizer and daily SPF, and avoid harsh exfoliants for a few days.",
@@ -804,7 +917,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-wilmington-nc#procedure",
       "name": "Wrinkle Relaxer Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A qualified provider injects a neuromodulator (e.g. botulinum toxin) into facial muscles responsible for dynamic wrinkles to reduce muscle movement and smooth lines.",
       "preparation": "Avoid blood-thinners and alcohol 24 hours before, disclose medications and medical conditions; arrive with a clean face. Avoid heavy exercise or anti-inflammatory medications just before your appointment if advised.",
       "followup": "Mild swelling or pinpoint bruising may occur; results appear within several days and last for months. Follow any aftercare instructions, avoid rubbing the treated area for 24 hrs, and schedule maintenance treatments as needed.",
@@ -949,7 +1062,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/anti-aging-facial-evansville-in#procedure",
       "name": "Anti-Aging Facial",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "This multi-step treatment typically includes a double cleanse to remove impurities, followed by radiofrequency to stimulate collagen and tighten the skin, a hydrating mask paired with LED light therapy to nourish and rejuvenate, and targeted aftercare products to lock in moisture and support results.",
       "preparation": "Arrive with clean, makeup-free skin and avoid retinoids, harsh exfoliants, and tanning 3–5 days before treatment. Inform your provider about any recent skin treatments, active breakouts, or sensitivities.",
       "followup": "Most patients experience little to no downtime. Mild warmth or temporary redness may occur and usually resolves quickly. Maintain gentle skincare, use daily broad-spectrum SPF, and follow your provider’s recommendations for home care and future treatments.",
@@ -977,7 +1090,7 @@
           "name": "What is the Anti-Aging Facial at Amelia Medspa?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Anti-Aging Facial at Amelia Medspa in Evansville is a noninvasive treatment that combines a deep cleanse, radiofrequency, LED light therapy, and intensive hydration to smooth fine lines, improve firmness, and restore a youthful glow."
+            "text": "The Anti-Aging Facial at Amelia Medspa in Evansville is a non-invasive treatment that combines a deep cleanse, radiofrequency, LED light therapy, and intensive hydration to smooth fine lines, improve firmness, and restore a youthful glow."
           }
         },
 {
@@ -1094,7 +1207,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-evansville-in#procedure",
       "name": "Biostimulator Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A qualified provider injects a biostimulator substance beneath the skin, which gradually stimulates the body's natural collagen and elastin production to restore volume and improve skin quality over time. :contentReference[oaicite:2]{index=2}",
       "preparation": "Begin hydrating at least 72 hours prior. Avoid blood-thinning medications, NSAIDs, fish oil and alcohol 1-week ahead if possible. Arrive with clean skin and disclose all medications. :contentReference[oaicite:3]{index=3}",
       "followup": "Expect mild redness, swelling or bruising initially. Gradual results build over weeks (often noticeable 4-6 weeks after a series of treatments). Maintenance may be advised. :contentReference[oaicite:4]{index=4}",
@@ -1239,7 +1352,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-evansville-in#procedure",
       "name": "Chemical Peel Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A customized chemical solution is applied to the skin’s surface to remove the top layers, triggering cell turnover and collagen stimulation to reveal fresher, smoother skin.",
       "preparation": "Avoid sunburn, tanning, and stop using retinoids or strong acids 1 week prior. Arrive with a clean, makeup-free face and disclose any medications or skin sensitivities.",
       "followup": "You may experience mild peeling, redness or flaking over a few days; use gentle skincare, apply broad-spectrum sunscreen daily, and avoid picking your skin. Visible improvements often appear within one week and continue over time. :contentReference[oaicite:0]{index=0}",
@@ -1385,7 +1498,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-evansville-in#procedure",
       "name": "Dermal Filler Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A licensed provider injects hyaluronic acid or other biocompatible filler beneath the skin at targeted facial sites to replenish lost volume, define facial contours, and smooth wrinkles and folds. :contentReference[oaicite:0]{index=0}",
       "preparation": "Avoid blood-thinning medications and alcohol for 24–48 hours before treatment, arrive with clean makeup-free face and inform your provider of any health changes or cold-sore history. :contentReference[oaicite:1]{index=1}",
       "followup": "Mild swelling or bruising may occur for 1-3 days; results are visible immediately and continue to settle over 1–2 weeks. Avoid strenuous exercise and alcohol for 24 hours. :contentReference[oaicite:2]{index=2}",
@@ -1531,7 +1644,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-evansville-in#procedure",
       "name": "Microneedling Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "Fine, controlled micro-channels are created in the skin using tiny needles (or an automated device) to trigger the skin’s natural healing response, boosting collagen and elastin production for rejuvenated texture and tone.",
       "preparation": "Avoid retinoids, waxing, and recent tanning 1-2 weeks prior; arrive with a clean, makeup-free face and inform your provider of any current medications or skin treatments. :contentReference[oaicite:0]{index=0}",
       "followup": "You may experience mild redness or sensitivity immediately after; most patients resume normal activities quickly. Improvements in skin texture and tone develop over weeks, and a series of treatments often provides optimal results. :contentReference[oaicite:1]{index=1}",
@@ -1677,7 +1790,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-evansville-in#procedure",
       "name": "Wrinkle Relaxer Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider injects a wrinkle relaxer, such as Botox, into facial muscles responsible for dynamic wrinkles to reduce muscle movement and smooth fine lines and creases.",
       "preparation": "Avoid blood-thinning medications and alcohol 24–48 hours before; inform your provider of any medical conditions. Avoid strenuous exercise and anti-inflammatory medications the day of treatment if advised.",
       "followup": "Mild swelling or pinpoint bruising may occur; results typically appear within several days and can last for 3–6 months. Follow aftercare instructions, avoid rubbing the treatment area for 24 hours, and schedule maintenance treatments as recommended.",
@@ -1822,7 +1935,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/aveli-evansville-in#procedure",
       "name": "Aveli® Cellulite Reduction",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A provider inserts a small wand beneath the skin to identify and mechanically release the fibrous septa bands responsible for visible cellulite dimples. Once released, the skin surface becomes smoother and less dimpled.",
       "preparation": "Avoid blood-thinning medications and alcohol 48–72 hours prior. Arrive with clean skin and disclose any medical conditions, medications, or past procedures. Follow any personalized instructions from your provider.",
       "followup": "Mild soreness, tenderness, or bruising is common for a few days. Most patients resume normal activity quickly. Visible smoothing appears as swelling resolves, with final results developing over several weeks as tissue settles.",
@@ -1965,7 +2078,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/co2-lift-mask-evansville-in#procedure",
       "name": "CO2 Lift Mask Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A topical CO2 Lift gel mask is applied to clean skin and left on for a set period of time, infusing the area with carbon dioxide. This triggers increased oxygen-rich blood flow, enhances circulation, and stimulates collagen and elastin for smoother, more hydrated skin.",
       "preparation": "Avoid harsh exfoliants, retinoids, and irritating products for several days prior; arrive with clean, makeup-free skin and inform your provider of any active skin conditions or recent procedures.",
       "followup": "Most patients experience little to no downtime. Mild warmth or temporary redness may occur and typically fades within hours. Hydration and radiance are often noticeable within the first few days, with continued improvements in texture and fine lines over time.",
@@ -1976,7 +2089,7 @@
         "Calmed redness and post-treatment irritation",
         "Boosted oxygen flow and circulation to the skin",
         "Support for collagen and elastin production",
-        "Noninvasive treatment with minimal downtime"
+        "Non-invasive treatment with minimal downtime"
       ],
       "bodyLocation": [
         "Face",
@@ -1994,7 +2107,7 @@
           "name": "What is the CO2 Lift Mask?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The CO2 Lift Mask is a noninvasive carboxytherapy treatment that delivers carbon dioxide to the skin, triggering increased oxygen-rich blood flow to improve hydration, texture, and overall radiance."
+            "text": "The CO2 Lift Mask is a non-invasive carboxytherapy treatment that delivers carbon dioxide to the skin, triggering increased oxygen-rich blood flow to improve hydration, texture, and overall radiance."
           }
         },
 {
@@ -2104,14 +2217,14 @@
           "@id": "https://www.askamelia.com/medspa/evansville#business"
         },
         "brand": "Amelia Medspa",
-        "description": "Dermaplaning in Evansville, IN — a noninvasive facial exfoliation treatment that removes dead skin cells and vellus hair (peach fuzz) to reveal smoother, brighter skin and enhance product absorption."
+        "description": "Dermaplaning in Evansville, IN — a non-invasive facial exfoliation treatment that removes dead skin cells and vellus hair (peach fuzz) to reveal smoother, brighter skin and enhance product absorption."
       }
     },
 {
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-evansville-in#procedure",
       "name": "Dermaplaning Facial",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A trained provider uses a sterile surgical blade held at a precise angle to gently and carefully remove the outermost layer of dead skin cells and vellus hair from the face for a smoother surface.",
       "preparation": "Avoid retinoids, waxing, and aggressive exfoliants for 3–5 days prior to your appointment; arrive with a clean, makeup-free face and disclose any skin sensitivities or active conditions.",
       "followup": "There is minimal to no downtime. Some mild pinkness or sensitivity may occur but typically resolves quickly. Use gentle skin care afterward and sunscreen, and avoid harsh exfoliation for several days.",
@@ -2137,7 +2250,7 @@
           "name": "What is dermaplaning?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Dermaplaning is a noninvasive exfoliating facial treatment where a trained provider uses a sterile blade to gently remove dead skin cells and vellus hair (peach fuzz) from the surface of the skin, leaving it smooth and refreshed."
+            "text": "Dermaplaning is a non-invasive exfoliating facial treatment where a trained provider uses a sterile blade to gently remove dead skin cells and vellus hair (peach fuzz) from the surface of the skin, leaving it smooth and refreshed."
           }
         },
 {
@@ -2247,14 +2360,14 @@
           "@id": "https://www.askamelia.com/medspa/evansville#business"
         },
         "brand": "Amelia Medspa",
-        "description": "GLO2 Facial in Evansville, IN — a noninvasive oxygen-enhanced treatment that infuses hydration, boosts circulation, brightens dull skin, and improves overall texture and radiance."
+        "description": "GLO2 Facial in Evansville, IN — a non-invasive oxygen-enhanced treatment that infuses hydration, boosts circulation, brightens dull skin, and improves overall texture and radiance."
       }
     },
 {
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/glo2facial-evansville-in#procedure",
       "name": "GLO2 Facial Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "After cleansing, a specialized oxygen-infusion serum or gel is applied to the face (and optionally neck/decolletage). Gentle massage or oxygen delivery helps enhance circulation, deeply hydrate skin, and promote better absorption of nutrients and serums.",
       "preparation": "Arrive with clean skin and avoid heavy exfoliation, retinoids, or strong actives for 3–5 days prior. Disclose any active skin conditions or recent procedures.",
       "followup": "There is little to no downtime. Skin may feel refreshed and hydrated immediately. Mild temporary redness is possible but usually subsides quickly. Maintain a gentle skincare routine and daily sunscreen to preserve results.",
@@ -2282,7 +2395,7 @@
           "name": "What is the GLO2 Facial?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The GLO2 Facial is a gentle, noninvasive oxygen-infusion treatment that hydrates and revitalizes skin, improves texture and tone, and helps achieve a brighter, more radiant complexion."
+            "text": "The GLO2 Facial is a gentle, non-invasive oxygen-infusion treatment that hydrates and revitalizes skin, improves texture and tone, and helps achieve a brighter, more radiant complexion."
           }
         },
 {
@@ -2442,7 +2555,7 @@
           "name": "Is there downtime after just a consultation?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No — there is no downtime after a consultation itself. Any recommended treatments may have their own recovery, but the consultation visit is simple and noninvasive."
+            "text": "No — there is no downtime after a consultation itself. Any recommended treatments may have their own recovery, but the consultation visit is simple and non-invasive."
           }
         }
       ]
@@ -2538,7 +2651,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-raleigh-nc#procedure",
       "name": "Biostimulator Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A qualified provider injects a biostimulator product beneath the skin in targeted areas. Over time, the treatment stimulates your body’s natural collagen and elastin production to improve skin quality, restore volume, and smooth fine lines and wrinkles.",
       "preparation": "Increase water intake in the days leading up to treatment and avoid blood-thinning medications, NSAIDs, fish oil, and alcohol for several days if approved by your prescribing provider. Arrive with clean, makeup-free skin and inform your injector of all medications and medical conditions.",
       "followup": "Mild redness, swelling, or bruising at injection sites is common and typically resolves within a few days. Results develop gradually over several weeks as new collagen forms, with optimal improvement often seen after a series of treatments. Your provider may recommend follow-up visits and maintenance sessions based on your goals.",
@@ -2679,7 +2792,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-raleigh-nc#procedure",
       "name": "Chemical Peel Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A customized chemical solution is applied to the skin to remove the top layers, prompting cell turnover and collagen production for renewed, smoother skin.",
       "preparation": "Avoid retinoids, harsh exfoliants, and direct sun exposure for at least one week before treatment. Arrive with clean, makeup-free skin and inform your provider of any active skin conditions or recent procedures.",
       "followup": "You may experience redness, peeling or flaking for several days depending on peel depth; apply gentle skincare and daily broad-spectrum SPF, avoid picking or harsh products. Visible improvements often appear within one week and continue as the skin heals and regenerates.",
@@ -2813,14 +2926,14 @@
           "@id": "https://www.askamelia.com/medspa/raleigh#business"
         },
         "brand": "Amelia Medspa",
-        "description": "Dermaplaning in Raleigh, NC — a noninvasive facial exfoliation treatment that removes dead skin cells and vellus hair (peach fuzz) to reveal smoother, brighter skin and improve the effectiveness of skincare products."
+        "description": "Dermaplaning in Raleigh, NC — a non-invasive facial exfoliation treatment that removes dead skin cells and vellus hair (peach fuzz) to reveal smoother, brighter skin and improve the effectiveness of skincare products."
       }
     },
 {
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-raleigh-nc#procedure",
       "name": "Dermaplaning Facial Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A trained provider uses a sterile surgical blade at a precise angle to gently and carefully remove the outermost layer of dead skin cells along with vellus hair from the skin’s surface, resulting in a smoother and refreshed skin texture.",
       "preparation": "Avoid retinoids, waxing, and aggressive exfoliation 3–5 days prior to the treatment; arrive with clean, makeup-free skin and inform your provider of any skin sensitivities or recent treatments.",
       "followup": "There is minimal to no downtime. Some patients may experience mild pinkness or sensitivity immediately after treatment, but this typically resolves quickly. Use gentle skincare and daily SPF, and avoid harsh exfoliants for several days.",
@@ -2846,7 +2959,7 @@
           "name": "What is dermaplaning?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Dermaplaning is a noninvasive exfoliating facial treatment where a trained provider uses a sterile blade to gently remove dead skin cells and vellus hair (peach fuzz) from the skin’s surface, leaving skin smoother and refreshed."
+            "text": "Dermaplaning is a non-invasive exfoliating facial treatment where a trained provider uses a sterile blade to gently remove dead skin cells and vellus hair (peach fuzz) from the skin’s surface, leaving skin smoother and refreshed."
           }
         },
 {
@@ -2958,7 +3071,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-raleigh-nc#procedure",
       "name": "Dermal Filler Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A qualified provider injects hyaluronic acid or other biocompatible filler beneath the skin at targeted areas to replenish volume, lift and contour facial structures, soften folds and wrinkles, and restore youthful proportions.",
       "preparation": "Avoid blood-thinning medications and alcohol 24–48 hours before treatment. Arrive with a clean, makeup-free face and inform your provider of any current medications, cold sore history, or medical conditions. Follow any pre-treatment instructions provided by your clinician.",
       "followup": "Mild swelling, bruising, or tenderness at injection sites may occur for 1–3 days. Results are visible immediately and continue to settle over 1–2 weeks. Patients should avoid strenuous exercise, excessive sun, and direct heat for 24 hours post-treatment, and follow after-care advice for optimal results.",
@@ -3101,7 +3214,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-raleigh-nc#procedure",
       "name": "HydraFacial Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "The HydraFacial device uses gentle suction and vortex technology to simultaneously cleanse, exfoliate, extract impurities, and infuse the skin with hydrating serums and nutrients, followed by a hydrating mask and protective antioxidants for lasting glow.",
       "preparation": "Arrive with clean, makeup-free skin and avoid heavy exfoliation, retinoids, or harsh treatments 3–5 days prior. Disclose any active skin conditions or recent procedures. Stay hydrated and avoid tanning before your appointment.",
       "followup": "There is minimal to no downtime. Skin may feel refreshed and hydrated immediately; mild redness is possible but usually subsides within hours. Use sunscreen daily, and follow a gentle skincare routine to maintain results.",
@@ -3242,7 +3355,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-dermaplaning-raleigh-nc#procedure",
       "name": "HydraFacial + Dermaplaning Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "First, a trained provider uses a sterile blade to gently dermaplane the skin, removing dead skin cells and vellus hair (peach fuzz). Then, a HydraFacial device is used to cleanse, exfoliate, extract impurities, and infuse hydrating serums and nutrients. The treatment ends with a hydrating mask or protective antioxidants to lock in moisture and glow.",
       "preparation": "Arrive with clean, makeup-free skin. Avoid retinoids, aggressive exfoliants, waxing, or harsh treatments 3–5 days prior. Disclose any recent procedures, active skin conditions, or medications to your provider.",
       "followup": "There is minimal downtime. Skin may feel soft, refreshed, and hydrated immediately; mild redness or sensitivity may occur but typically subsides within hours. Apply sunscreen daily, and follow a gentle skincare routine. Results — smoother texture, brighter tone, deeper hydration, and improved softness — are often visible right away and last several days to weeks depending on skin care maintenance.",
@@ -3384,7 +3497,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/kybella-raleigh-nc#procedure",
       "name": "Kybella® Submental Fat Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider injects Kybella® (deoxycholic acid) into carefully mapped points under the chin. The active ingredient helps break down and destroy fat cells, which the body then gradually clears, leading to a reduction in submental fullness over time.",
       "preparation": "Avoid blood-thinning medications, NSAIDs, and alcohol for several days before treatment if approved by your prescribing provider. Arrive with a clean, makeup-free lower face and neck, and inform your injector of any medical conditions, prior neck procedures, or difficulty swallowing.",
       "followup": "Swelling, tenderness, firmness, or bruising under the chin is common and can last for several days to a couple of weeks. Results develop gradually over weeks as the body processes destroyed fat cells, and multiple sessions are often recommended for optimal contouring. Once desired results are achieved, further treatment is usually not needed since the targeted fat cells are permanently destroyed.",
@@ -3523,7 +3636,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/laser-hair-removal-raleigh-nc#procedure",
       "name": "Laser Hair Removal Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A certified provider uses a laser device to target hair follicles with concentrated light energy. The heat damages the follicle to inhibit future hair growth while leaving surrounding skin unharmed. Multiple sessions are scheduled to treat hairs in different growth cycles for optimal results.",
       "preparation": "Avoid waxing, plucking, electrolysis, or other hair removal methods that remove hair from the root for at least 4–6 weeks prior; shave the treatment area 24–48 hours before; avoid sun exposure and tanning prior; arrive with clean skin free of lotions, oils, or makeup.",
       "followup": "Mild redness or swelling may occur immediately after treatment but usually resolves within a few hours to a day. Avoid sun exposure, tanning, and irritants on treated areas; use gentle skincare and sunscreen. Hair reduction becomes noticeable after several weeks, with multiple sessions required for long-lasting results.",
@@ -3665,7 +3778,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/laser-skin-treatments-raleigh-nc#procedure",
       "name": "Laser Skin Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A qualified provider uses a specialized medical-grade laser device to target skin irregularities — such as pigmentation, vascular lesions, sun damage, fine lines, or uneven texture — delivering controlled light energy to the skin to stimulate regeneration, collagen production, and resurfacing.",
       "preparation": "Avoid tanning, sun exposure, and self-tanning products for 2–4 weeks before treatment. Discontinue use of strong retinoids, exfoliants, and harsh acids 1–2 weeks prior. Arrive with clean, makeup-free skin and inform your provider of any skin history, recent procedures, or medications.",
       "followup": "Redness or mild swelling may occur and typically subsides within a few hours to a few days depending on the laser type. Use gentle skincare, avoid sun exposure, apply broad-spectrum SPF daily, and follow aftercare instructions. Skin tone and texture often improve over days to weeks, and multiple sessions may be recommended for optimal results.",
@@ -3807,7 +3920,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-raleigh-nc#procedure",
       "name": "Microneedling Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses fine, controlled micro-needles (or an automated device) to create micro-channels in the skin, triggering the skin’s natural healing response which boosts collagen and elastin production, leading to smoother, firmer skin over time.",
       "preparation": "Avoid retinoids, waxing, chemical peels, or sun exposure 1–2 weeks prior to treatment. Arrive with clean, makeup-free skin and inform your provider of any medications or recent skin treatments.",
       "followup": "You may experience mild redness or sensitivity for 24–48 hours. Most clients return to normal activities soon after; visible improvements in skin texture, tone, and firmness typically develop over several weeks. Multiple sessions may be recommended for optimal results.",
@@ -3949,7 +4062,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/morpheus8-raleigh-nc#procedure",
       "name": "Morpheus8 RF Microneedling Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses a handheld RF-microneedling device to deliver controlled micro-injuries and radiofrequency energy deep into the skin, triggering collagen and elastin remodeling, skin tightening, improved tone, and scar reduction.",
       "preparation": "Avoid retinoids, chemical peels, and strong exfoliants 1–2 weeks before treatment. Avoid tanning, excessive sun exposure and self-tanners; arrive with clean, makeup-free skin and disclose any skin conditions or medications to your provider.",
       "followup": "Mild redness, swelling, or slight bruising may occur and typically resolves within a few days; skin may feel tight and warm. Improvements in skin texture, firmness, and tone gradually emerge over weeks to months as collagen remodels. Follow aftercare instructions including gentle skincare and sunscreen use. A series of treatments may be recommended for optimal results.",
@@ -4090,7 +4203,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/skin-tightening-ultherapy-raleigh-nc#procedure",
       "name": "Ultherapy® Skin Tightening Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A trained provider uses a medical-grade ultrasound device to deliver focused ultrasound energy to deep layers of the skin, stimulating collagen and elastin remodeling, which gradually lifts and tightens the skin over several months.",
       "preparation": "Avoid excessive sun exposure and tanning for 2–4 weeks prior; arrive with clean, makeup-free skin and inform your provider of any recent skin procedures or treatments. Do not apply topical irritants or strong exfoliants before the appointment.",
       "followup": "Some patients may experience mild redness or swelling immediately after treatment, which usually resolves within a day. Visible lifting and skin tightening results develop gradually over 2–3 months as collagen rebuilds. Maintain proper skincare and sun protection to maximize and prolong results.",
@@ -4273,7 +4386,7 @@
           "name": "Is there downtime after a skincare consultation?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No — the consultation itself is noninvasive and requires no downtime. Any recommended treatments may have their own recovery period, but the visit just provides guidance and a tailored plan."
+            "text": "No — the consultation itself is non-invasive and requires no downtime. Any recommended treatments may have their own recovery period, but the visit just provides guidance and a tailored plan."
           }
         }
       ]
@@ -4369,7 +4482,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/vaginal-rejuvenation-raleigh-nc#procedure",
       "name": "Non-Surgical Vaginal Rejuvenation",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses a specialized energy-based device to deliver controlled heat to internal vaginal tissues and surrounding areas. This gentle thermal effect stimulates collagen remodeling, supports tissue tone, and can improve moisture and comfort over time.",
       "preparation": "A consultation is performed to review your health history and goals. Patients should not be pregnant or actively bleeding and should let their provider know about recent infections, procedures, or implanted devices. Follow any personalized instructions given before treatment.",
       "followup": "Most patients experience little to no downtime and may notice a sensation of warmth or mild swelling that typically resolves quickly. Improvements are gradual as collagen remodels over weeks, and a series of treatments is often recommended. Your provider will review when it is appropriate to resume certain activities.",
@@ -4507,7 +4620,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-raleigh-nc#procedure",
       "name": "Wrinkle Relaxer Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A qualified provider injects a neuromodulator (e.g. botulinum toxin) into targeted facial muscles responsible for dynamic wrinkles. The neuromodulator reduces muscle activity, softening lines and preventing new deep wrinkles from forming over time.",
       "preparation": "Avoid blood-thinning medications and alcohol 24–48 hours before treatment; arrive with a clean, makeup-free face and inform your provider of any medical conditions or medications. Avoid strenuous exercise on the day of treatment if advised.",
       "followup": "Mild swelling, redness or pinpoint bruising may occur; results typically develop over several days and last for months. Follow after-care instructions, avoid rubbing treated areas for 24 hours, and schedule maintenance injections as needed.",
@@ -4652,7 +4765,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-boynton-beach-fl#procedure",
       "name": "Aveli® Cellulite Reduction Procedure",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses a specialized device with a small cannula to identify and mechanically release the fibrous septa responsible for cellulite dimples through tiny access points under the skin. Once released, the skin surface smooths as tissue settles and heals.",
       "preparation": "Avoid blood thinners, NSAIDs, fish oil, and alcohol 48–72 hours before treatment if medically safe; arrive with clean skin and disclose any medical conditions or medications to your provider. Follow any individualized pre-procedure instructions provided.",
       "followup": "You may experience mild swelling, tenderness, or bruising for a few days; most return to normal activities quickly. Visible improvement often appears as swelling subsides, with full smoothing and contouring developing over several weeks as tissue heals.",
@@ -4796,7 +4909,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-boynton-beach-fl#procedure",
       "name": "Aveli® Cellulite Reduction Procedure",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses a specialized device with a small cannula to identify and mechanically release the fibrous septa responsible for cellulite dimples through tiny access points under the skin. Once released, the skin surface smooths as tissue settles and heals.",
       "preparation": "Avoid blood thinners, NSAIDs, fish oil, and alcohol 48–72 hours before treatment if medically safe; arrive with clean skin and disclose any medical conditions or medications to your provider. Follow any individualized pre-procedure instructions provided.",
       "followup": "You may experience mild swelling, tenderness, or bruising for a few days; most return to normal activities quickly. Visible improvement often appears as swelling subsides, with full smoothing and contouring developing over several weeks as tissue heals.",
@@ -4940,7 +5053,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-south-florida#procedure",
       "name": "Biostimulator Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider injects a biostimulator beneath the skin in targeted facial areas. Over time, the treatment stimulates your body's natural collagen and elastin production to restore volume, smooth lines, and enhance skin texture and elasticity.",
       "preparation": "Increase hydration in the days prior; avoid blood-thinning medications, NSAIDs, fish oil, and alcohol 1–7 days before treatment when safe. Arrive with clean, makeup-free skin and disclose any medications, health conditions, or prior treatments.",
       "followup": "Mild swelling, redness, or bruising at injection sites is common and usually resolves within days. Results develop gradually over several weeks as new collagen forms; optimal improvement often occurs after a series of treatments. Maintenance treatments may be advised for ongoing results.",
@@ -5086,7 +5199,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peels-boynton-beach-fl#procedure",
       "name": "Chemical Peel Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A trained provider applies a tailored chemical solution to the skin surface, which exfoliates and removes the top layers of damaged skin. This prompts skin regeneration and collagen production for smoother, refreshed skin.",
       "preparation": "Avoid sun exposure, tanning, and tanning beds for at least 1–2 weeks before treatment. Discontinue retinoids, strong acids, and exfoliating products about 1 week prior. Arrive with a clean, makeup-free face and disclose any active skin conditions or recent procedures.",
       "followup": "Expect mild peeling, redness or flaking in the days following the peel depending on depth. Use gentle skincare, keep skin hydrated, and apply broad-spectrum sunscreen daily. Visible improvements often emerge within a week, with ongoing skin renewal over subsequent weeks.",
@@ -5232,7 +5345,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-south-florida#procedure",
       "name": "Dermaplaning Facial Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A licensed provider uses a sterile surgical blade at a precise angle to gently scrape off the outermost layer of dead skin cells and fine vellus hair (peach fuzz) from the face, revealing smoother, refreshed skin underneath.",
       "preparation": "Avoid retinoids, waxing, or aggressive exfoliation 3–5 days prior. Arrive with clean, makeup-free skin and disclose any skin sensitivities or recent treatments. Ensure skin is free from active acne or open lesions.",
       "followup": "There is minimal to no downtime. Some mild pinkness or sensitivity may occur but typically resolves quickly. Use gentle skin care, avoid harsh exfoliants for several days, and apply daily sunscreen to protect newly revealed skin.",
@@ -5375,7 +5488,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-filler-south-florida#procedure",
       "name": "Dermal Filler Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A qualified provider injects hyaluronic acid or other safe biocompatible filler beneath the skin at targeted areas to replenish lost volume, smooth folds and wrinkles, enhance lips or cheeks, and contour facial structures for a refreshed appearance.",
       "preparation": "Avoid blood-thinning medications and alcohol 24–48 hours before your appointment; arrive with a clean, makeup-free face and inform your provider of any cold sore history, medications, or medical conditions. Follow any pre-treatment guidance from your clinician.",
       "followup": "Mild swelling or bruising at injection sites may occur for 1–3 days; results are visible immediately and settle over 1–2 weeks. Avoid strenuous exercise, excessive heat or sun exposure for 24 hours post-treatment, and follow after-care instructions for optimal results.",
@@ -5522,7 +5635,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-boynton-beach-fl#procedure",
       "name": "Microneedling Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses fine, controlled micro-needles (or an automated device) to create micro-channels in the skin, which triggers the skin’s natural healing response; this boosts collagen and elastin production, improving texture, tone, and firmness over time.",
       "preparation": "Avoid retinoids, waxing, and recent tanning at least 1–2 weeks prior; arrive with a clean, makeup-free face and inform your provider of any medications or recent skin treatments.",
       "followup": "You may experience mild redness or sensitivity for 24–48 hours; most clients return to normal activities soon after. Visible improvements in skin texture, tone, scars, and firmness typically develop over several weeks. Multiple sessions may be recommended for best results.",
@@ -5712,7 +5825,7 @@
           "name": "Is there downtime after just a consultation?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No — the consultation itself is noninvasive and requires no downtime. If treatments are recommended, their own recovery periods will apply, but the consultation itself is simple."
+            "text": "No — the consultation itself is non-invasive and requires no downtime. If treatments are recommended, their own recovery periods will apply, but the consultation itself is simple."
           }
         }
       ]
@@ -5813,7 +5926,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-south-florida#procedure",
       "name": "Wrinkle Relaxer Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A licensed provider injects a neuromodulator (such as a botulinum toxin) into facial muscles responsible for dynamic wrinkles. The neuromodulator temporarily reduces muscle activity, softening expression lines and preventing new deep wrinkles from forming over time.",
       "preparation": "Avoid blood-thinning medications and alcohol 24–48 hours before treatment; arrive with a clean, makeup-free face and disclose any medical conditions or medications. Avoid strenuous activity or heavy exercise on the day of treatment, if advised.",
       "followup": "Mild swelling, redness or pinpoint bruising may occur; results typically develop over several days and last for several months. Follow after-care instructions including avoiding rubbing treated areas for 24 hours, and schedule maintenance injections as recommended.",
@@ -5953,7 +6066,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/aveli-cellulite-treatment-st-charles-mo#procedure",
       "name": "Aveli® Cellulite Reduction Procedure",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses a specialized device with a small cannula to identify and mechanically release the fibrous septa responsible for cellulite dimples through tiny access points under the skin. Once released, the skin surface smooths as tissue settles and heals.",
       "preparation": "Avoid blood thinners, NSAIDs, fish oil, and alcohol 48–72 hours before treatment if medically safe; arrive with clean skin and disclose any medical history, medications, or prior procedures. Follow any personalized pre-procedure instructions provided.",
       "followup": "Mild swelling, bruising, or tenderness may occur for a few days. Most patients return to light activities soon after. Visible smoothing often becomes noticeable as swelling dissipates, with final contour improvements developing over several weeks as tissue heals.",
@@ -6092,7 +6205,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/biostimulator-st-charles-mo#procedure",
       "name": "Biostimulator Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider injects a biostimulator beneath the skin in targeted facial areas. Over time, the product stimulates your body’s natural collagen and elastin production to restore volume, smooth lines, and enhance skin texture and firmness.",
       "preparation": "Increase hydration in the days before treatment. When medically safe, avoid blood-thinning medications, NSAIDs, fish oil, and alcohol 1–7 days before your appointment. Arrive with clean, makeup-free skin and disclose any medications, medical conditions, or prior aesthetic treatments.",
       "followup": "Mild swelling, redness, or bruising at injection sites is common and usually improves within a few days. Results build gradually over several weeks to months as new collagen forms. A series of treatments and periodic maintenance sessions may be recommended for optimal, long-lasting results.",
@@ -6233,7 +6346,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/chemical-peel-st-charles-mo#procedure",
       "name": "Chemical Peel Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A customized chemical solution is applied to the skin to remove the top layers, prompting cell turnover and collagen production for renewed, smoother skin.",
       "preparation": "Avoid retinoids, harsh exfoliants, and direct sun exposure for at least one week before treatment. Arrive with clean, makeup-free skin and inform your provider of any active skin conditions or recent procedures.",
       "followup": "You may experience redness, peeling or flaking for several days depending on peel depth; apply gentle skincare and daily broad-spectrum SPF, avoid picking or harsh products. Visible improvements often appear within one week and continue as the skin heals and regenerates.",
@@ -6374,7 +6487,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermaplaning-st-charles-mo#procedure",
       "name": "Dermaplaning Facial Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A trained esthetician uses a sterile surgical blade at a shallow angle to gently and precisely remove the outermost layer of dead skin cells and peach fuzz (fine facial hair) from the skin’s surface, revealing a smoother complexion underneath.",
       "preparation": "Avoid waxing, retinoid creams, chemical exfoliants, and strong scrubs for at least 3–5 days before treatment. Arrive with clean, makeup-free skin and disclose any recent skin treatments or sensitivities to your provider.",
       "followup": "There is minimal downtime. Some clients may experience slight pinkness or temporary sensitivity immediately after treatment, which typically resolves within hours. Use gentle skincare, avoid harsh products, and apply broad-spectrum sunscreen daily to protect newly revealed skin.",
@@ -6497,7 +6610,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/dermal-fillers-st-charles-mo#procedure",
       "name": "Dermal Filler Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A certified injector administers biocompatible dermal filler beneath the skin at targeted areas to replenish volume, lift and contour facial features, smooth wrinkles and folds, and restore youthful facial balance.",
       "preparation": "Avoid blood-thinning medications and alcohol 24–48 hours before treatment, arrive with a clean, makeup-free face, and disclose any medical history, current medications, or history of cold sores or filler treatments. Follow provider’s pre-treatment guidance.",
       "followup": "Mild swelling, bruising, or tenderness at injection sites is common and typically resolves within a few days. Results are visible immediately and settle over 1–2 weeks. Avoid strenuous exercise, excessive heat, pressure to treated areas, and follow after-care instructions for optimal healing and appearance.",
@@ -6625,7 +6738,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/hydrafacial-st-charles-mo#procedure",
       "name": "HydraFacial® Treatment",
-      "procedureType": "Noninvasive",
+      "procedureType": "NoninvasiveProcedure",
       "howPerformed": "A licensed provider uses a HydraFacial® device that cleanses and exfoliates the skin, performs painless extractions, and infuses the skin with antioxidant-rich serums and hydrating agents. The procedure typically ends with a protective mask or moisturizer to lock in hydration and glow.",
       "preparation": "Avoid strong exfoliants, retinoids, or acid-based products for at least 3–5 days prior. Inform your provider of any skin sensitivities, recent procedures, or active skin conditions. Arrive with clean skin when possible.",
       "followup": "There’s minimal to no downtime. Most patients experience immediate skin refreshment and glow; some may notice mild redness that resolves quickly. To maintain results, use gentle skincare, stay hydrated, and apply broad-spectrum SPF daily.",
@@ -6764,7 +6877,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/microneedling-st-charles-mo#procedure",
       "name": "Microneedling Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses fine, sterile micro-needles (or an automated device) to create controlled micro-injuries in the skin, prompting the body’s natural healing response which boosts collagen and elastin production for smoother, firmer skin over time.",
       "preparation": "Avoid retinoids, waxing, chemical peels, or tanning 1–2 weeks prior; arrive with clean, makeup-free skin and share any skin history or medications with your provider.",
       "followup": "Mild redness or sensitivity may occur for 24–48 hours, after which most patients resume normal activities. Noticeable improvements in skin texture, tone, scars, and fine lines often appear over several weeks; multiple sessions may be recommended for optimal results.",
@@ -7044,7 +7157,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local-medspa/wrinkle-relaxers-st-charles-mo#procedure",
       "name": "Wrinkle Relaxer Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A licensed provider injects a neuromodulator (e.g. botulinum toxin) into targeted facial muscles responsible for dynamic wrinkles. The neuromodulator temporarily reduces muscle activity, softening lines and slowing future wrinkle formation while preserving natural facial expression.",
       "preparation": "Avoid blood-thinning medications and alcohol 24–48 hours before treatment when medically safe. Arrive with a clean, makeup-free face and disclose any medical conditions or medications. Avoid strenuous exercise or heavy physical activity the day of the treatment if advised.",
       "followup": "Mild swelling, pinpoint bruising or redness may occur at injection sites, usually resolving within a day or two. Results often appear within several days and can last for several months. Follow after-care instructions such as avoiding rubbing the area, lying flat, or strenuous activity for 12–24 hours, and schedule maintenance as recommended.",
@@ -7080,7 +7193,7 @@
           "name": "How long do wrinkle relaxer results last?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Results typically last around 3–6 months depending on the product used, treatment area, muscle activity, and individual metabolism. Maintenance sessions may be recommended to sustain results."
+            "text": "Results typically last around 3–6 months, depending on the product used, treatment area, muscle activity, and individual metabolism. Maintenance sessions may be recommended to sustain results."
           }
         },
 {
@@ -7168,7 +7281,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/aveli-cellulite-treatment-san-antonio-tx#procedure",
       "name": "Avéli® Cellulite Reduction Procedure",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider uses a small cannula and specialized device to locate and mechanically release fibrous septa under the skin that cause cellulite dimples through tiny access points. Once released, the skin surface gradually smooths as tissues settle and heal.",
       "preparation": "Avoid blood thinners, NSAIDs, fish oil, and alcohol 48–72 hours before the procedure if medically safe; arrive with clean skin; disclose any medical history, medications or prior cosmetic procedures. Follow provider’s pre-treatment instructions carefully.",
       "followup": "Mild bruising, swelling, or tenderness may occur for a few days; most patients resume light activity shortly after. Visible smoothing often emerges as swelling subsides, with full contour improvement developing over several weeks as tissues settle.",
@@ -7291,7 +7404,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/dermal-filler-san-antonio-tx#procedure",
       "name": "Dermal Filler Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A trained provider injects biocompatible dermal filler beneath the skin at targeted facial areas to replenish volume, smooth lines and wrinkles, enhance lips or cheeks, and contour facial structures for a more youthful appearance.",
       "preparation": "Avoid alcohol and blood-thinning medications when medically safe 24–48 hours before treatment; arrive with clean, makeup-free skin; disclose any medical conditions, medications, or prior facial procedures. Follow any pre-treatment guidance from your clinician.",
       "followup": "Mild swelling, redness or bruising at injection sites is common and usually resolves within a few days. Results are visible immediately and refine over 1–2 weeks. Avoid strenuous exercise, excessive heat, or pressure to treated areas for the first 24 hours, and follow after-care instructions for optimal healing and appearance.",
@@ -7418,7 +7531,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/wrinkle-relaxers-san-antonio-tx#procedure",
       "name": "Wrinkle Relaxer Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A licensed provider injects small amounts of neuromodulator (such as botulinum toxin) into specific facial muscles responsible for dynamic wrinkles. By temporarily relaxing these muscles, the overlying skin appears smoother and fine lines and wrinkles soften while preserving natural facial movement.",
       "preparation": "When medically safe, avoid blood-thinning medications, certain supplements, and alcohol 24–48 hours before treatment. Arrive with a clean, makeup-free face and inform your provider of any medical conditions, medications, or prior neuromodulator treatments. Follow any personalized pre-treatment instructions.",
       "followup": "You may experience mild redness, swelling, or pinpoint bruising at injection sites that typically resolves within a day or two. Results usually begin to appear within a few days and continue to improve over 1–2 weeks, lasting several months. Avoid rubbing or massaging treated areas, lying flat, or strenuous exercise for a short period after treatment as directed by your provider.",
@@ -7557,7 +7670,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/dermal-filler-tampa-bay-fl#procedure",
       "name": "Dermal Filler Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A licensed provider injects biocompatible dermal filler beneath the skin at targeted facial areas to replace lost volume, smooth wrinkles and folds, enhance lips or cheeks, and contour facial structures for youthful appearance.",
       "preparation": "Avoid alcohol and blood-thinning medications 24–48 hours before treatment where medically safe; arrive with a clean face, makeup-free, and disclose any medications or medical conditions. Follow any pre-treatment guidance from your provider.",
       "followup": "Mild swelling, redness, or bruising at injection sites is common and usually subsides within a few days. Results are visible immediately and refine over 1–2 weeks as filler integrates. Avoid strenuous exercise, excessive heat, and pressure to treated areas for the first 24 hours, and follow after-care recommendations for best results.",
@@ -7684,7 +7797,7 @@
       "@type": "MedicalProcedure",
       "@id": "https://www.askamelia.com/local/wrinkle-relaxers-tampa-bay-fl#procedure",
       "name": "Wrinkle Relaxer Treatment",
-      "procedureType": "Minimally Invasive",
+      "procedureType": "PercutaneousProcedure",
       "howPerformed": "A licensed provider injects a neuromodulator (such as Botox) into specific facial muscles responsible for dynamic wrinkles. This temporarily reduces muscle activity, smoothing out expression lines and softening wrinkles while preserving natural facial movement. :contentReference[oaicite:1]{index=1}",
       "preparation": "Avoid blood-thinning medications and alcohol 24–48 hours before treatment if medically safe; arrive with clean, makeup-free skin; inform your provider of any neuromuscular conditions or medications. Follow any personalized pre-treatment instructions provided. :contentReference[oaicite:2]{index=2}",
       "followup": "Some patients may experience mild swelling, redness, or pinpoint bruising that typically resolves within a day or two. Results develop over several days and often fully appear within 1–2 weeks, lasting for several months depending on the product used and individual metabolism. :contentReference[oaicite:3]{index=3}",
@@ -7805,7 +7918,7 @@
       "@id": "https://www.askamelia.com/local-medspa/red-light-therapy-st-charles-mo",
       "url": "https://www.askamelia.com/local-medspa/red-light-therapy-st-charles-mo",
       "name": "Red Light Therapy in St. Charles, Missouri | Amelia Medspa",
-      "description": "Red light therapy is a soothing, noninvasive treatment that uses low-level wavelengths of therapeutic red light to stimulate the skin at a cellular level. This gentle technology supports natural healing processes, helping improve skin health, reduce inflammation, and promote a brighter, more balanced complexion, all without needles, downtime, or discomfort.",
+      "description": "Red light therapy is a soothing, non-invasive treatment that uses low-level wavelengths of therapeutic red light to stimulate the skin at a cellular level. This gentle technology supports natural healing processes, helping improve skin health, reduce inflammation, and promote a brighter, more balanced complexion, all without needles, downtime, or discomfort.",
       "keywords": [
        "Red light therapy in st charles", "Red light therapy near me", "Red light therapy st lous"
       ],
@@ -7829,7 +7942,7 @@
       "@id": "https://www.askamelia.com/local-medspa/red-light-therapy-evansville-in",
       "url": "https://www.askamelia.com/local-medspa/red-light-therapy-evansville-in",
       "name": "Red Light Therapy in Evansville, Indiana| Amelia Medspa",
-      "description": "Red light therapy is a soothing, noninvasive treatment that uses low-level wavelengths of therapeutic red light to stimulate the skin at a cellular level. This gentle technology supports natural healing processes, helping improve skin health, reduce inflammation, and promote a brighter, more balanced complexion, all without needles, downtime, or discomfort.",
+      "description": "Red light therapy is a soothing, non-invasive treatment that uses low-level wavelengths of therapeutic red light to stimulate the skin at a cellular level. This gentle technology supports natural healing processes, helping improve skin health, reduce inflammation, and promote a brighter, more balanced complexion, all without needles, downtime, or discomfort.",
       "keywords": [
        "Red light therapy in evansville", "Red light therapy near me", "Red light therapy indiana"
       ],
@@ -7878,8 +7991,8 @@
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://www.askamelia.com/local-medspa/wellness-shots-st-charles",
-      "url": "https://www.askamelia.com/local-medspa/wellness-shots-st-charles",
+      "@id": "https://www.askamelia.com/local-medspa/wellness-shots-st-charles-mo",
+      "url": "https://www.askamelia.com/local-medspa/wellness-shots-st-charles-mo",
       "name": "Wellness Shots in St. Charles, MO",
       "description": "Wellness shots can increase energy, support metabolic processes and overall health, improve mood, and sharpen focus.",
       "keywords": [
@@ -7898,6 +8011,8 @@
         "name": "Amelia Medspa St. Charles",
         "url": "https://www.askamelia.com/medspa/st-louis"
       }
+   }
+   ]
    }
    ]
    }
