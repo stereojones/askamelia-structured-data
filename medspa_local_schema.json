@@ -2,6 +2,9 @@
   {
   "@context": "https://schema.org",
   "@graph": [
+   {
+  "@context": "https://schema.org",
+  "@graph": [
     {
       "@type": "WebPage",
       "@id": "https://www.askamelia.com/local-medspa/revision-dej-biostim-treatment-st-charles-mo",
@@ -80,6 +83,8 @@
             "@type": "Answer",
             "text": "DEJ BioStim Treatment is suitable for all Fitzpatrick Skin Types V-VI. Always consult your provider about products and treatments that are right for you. Those looking for faster/better results, with minimal discomfort and downtime. Those looking for non-invasive or more cost-effective professional treatments. Those afraid of needles/injections. Those seeking professional anti-aging treatments with the latest technology/ treatments. Those looking for more natural results to reduce signs of aging (boosting skin’s natural collagen and elastin production). This treatment is not for patients looking to improve acne or hyperpigmentation."
         }
+    }
+    ]
     },
 {
       "@type": "BreadcrumbList",
@@ -106,8 +111,6 @@
       ]
     }
   ]
-}
-]
 },
 {
   "@context": "https://schema.org",
