@@ -652,7 +652,6 @@
  {
   "@type": "FAQPage",
   "@id": "https://www.askamelia.com/locations/evansville#faq",
-  "url": "https://www.askamelia.com/locations/evansville#faq",
   "about": [
     { "@id": "https://www.askamelia.com/locations/evansville#medicalbusiness" },
     { "@id": "https://www.askamelia.com/locations/evansville#localbusiness" }
