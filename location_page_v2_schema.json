@@ -620,17 +620,20 @@
       "description": "Plastic surgery in Evansville, IN at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66abcea0b9b3fb049cd7c79d_amelia-evv-office-03.avif" },
-      "breadcrumb": { "@id": "https://www.askamelia.com/locations/evansville#breadcrumb" },
+  "primaryImageOfPage": {
+  "@type": "ImageObject",
+  "url": "https://www.cdn.prod.website-files.com/6408a31d539dcd3386171be0/66abcea0b9b3fb049cd7c79d_amelia-evv-office-03.avif"
+},
+      "breadcrumb": {"@id": "https://www.askamelia.com/locations/evansville#breadcrumb"},
       "about": [
-        { "@id": "https://www.askamelia.com/locations/evansville#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/evansville#localbusiness" }
+        {"@id": "https://www.askamelia.com/locations/evansville#business"}
       ],
-      "mainEntity": [
-        { "@id": "https://www.askamelia.com/locations/evansville#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/evansville#localbusiness" },
-        { "@id": "https://www.askamelia.com/locations/evansville#faq" }
-      ],
+  "mainEntity": {
+  "@id": "https://www.askamelia.com/locations/evansville#business"
+},
+"hasPart": {
+  "@id": "https://www.askamelia.com/locations/evansville#faq"
+},
       "potentialAction": [
         {
           "@type": "ReserveAction",
@@ -656,8 +659,8 @@
       ]
     },
     {
-      "@type": "LocalBusiness",
-      "@id": "https://www.askamelia.com/locations/evansville#localbusiness",
+      "@type": ["LocalBusiness", "MedicalBusiness"],
+      "@id": "https://www.askamelia.com/locations/evansville#business",
       "name": "Amelia Aesthetics Evansville",
       "url": "https://www.askamelia.com/locations/evansville",
       "parentOrganization": {
@@ -683,18 +686,9 @@
       ],
           "hasMap": "https://maps.app.goo.gl/gmcGXZap1fo1AT4m8",
       "paymentAccepted": ["credit card", "debit", "cash", "cashier check", "personal check", "Apple Pay", "Care Credit", "Alphaeon", "Cherry"],
-      "priceRange": "$$$"
-    },
-    {
-      "@type": "MedicalBusiness",
-      "@id": "https://www.askamelia.com/locations/evansville#medicalbusiness",
-      "name": "Amelia Aesthetics Evansville",
-      "url": "https://www.askamelia.com/locations/evansville",
-      "parentOrganization": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
+      "priceRange": "$$$",
       "employee": [
-        { "@id": "https://www.askamelia.com/providers/dr-kate-kottwitz#physician" }
+        {"@id": "https://www.askamelia.com/providers/dr-kate-kottwitz#physician"}
       ]
       },
        {
@@ -704,133 +698,167 @@
       "medicalSpecialty": "PlasticSurgery",
       "url": "https://www.askamelia.com/providers/dr-kate-kottwitz"
     },
-
  {
   "@type": "FAQPage",
   "@id": "https://www.askamelia.com/locations/evansville#faq",
-   "@url": "https://www.askamelia.com/locations/evansville",
+   "url": "https://www.askamelia.com/locations/evansville",
+ "isPartOf": {
+    "@id": "https://www.askamelia.com/locations/evansville#webpage"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.askamelia.com/locations/evansville#webpage"
+  },
   "about": [
-    { "@id": "https://www.askamelia.com/locations/evansville#medicalbusiness" },
-    { "@id": "https://www.askamelia.com/locations/evansville#localbusiness" }
+    { "@id": "https://www.askamelia.com/locations/evansville#business" }
   ],
   "mainEntity": [
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q1",
       "name": "Do you offer financing options for plastic surgery and medspa treatments?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a1",
         "text": "Yes. Amelia Aesthetics in Evansville works with reputable third-party financing partners to help make treatment more accessible. Financing options and payment plans can be discussed during your consultation, and our team is happy to walk you through what may be available based on your treatment plan and individual needs."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q2",
       "name": "How much do procedures typically cost at Amelia Evansville?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a2",
         "text": "Because every treatment plan is personalized, pricing varies based on your procedure and surgical plan. To get an idea of what your procedure might cost, you can view pricing for medspa and surgical procedures at AskAmelia.com/pricing. During your consultation, you’ll receive a finalized quote that includes all anesthesia, OR, and surgeon fees, so there are no surprises."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q3",
       "name": "How do I book a consultation at Amelia Evansville?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a3",
         "text": "You can easily book your surgical consultation or medspa treatment online at AskAmelia.com/book. If you have additional questions, you can always reach out to our team at patientcare.evv@askamelia.com or (812) 541-4388."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q4",
       "name": "Who is the plastic surgeon at Amelia Aesthetics in Evansville?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a4",
         "text": "Amelia Evansville is home to board-certified plastic surgeon Dr. Kate Kottwitz. Dr. Kate is fully trained in aesthetic plastic surgery and provides personalized surgical care focused on safety, natural-looking results, and long-term confidence."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q5",
       "name": "Does Dr. Kate Kottwitz operate in an accredited facility?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a5",
         "text": "Yes. All surgical procedures are performed in a state-of-the-art outpatient operating room accredited by the American Association for Accreditation of Ambulatory Surgery Facilities (AAAASF). This accreditation ensures rigorous national standards for anesthesia safety, infection prevention, emergency preparedness, and patient monitoring."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q6",
       "name": "What surgical procedures are offered at Amelia Evansville?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a6",
         "text": "Patients commonly seek breast and body procedures such as breast augmentation, breast reduction, breast lifts, mommy makeover, drainless tummy tuck, body contouring after weight loss, and revision surgery."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q7",
       "name": "Does Amelia Evansville have a medspa?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a7",
         "text": "Yes. Amelia Evansville includes a full-service medical spa offering Botox and other wrinkle relaxers, dermal fillers, skin rejuvenation treatments, facials, and medical-grade skincare, all provided by licensed professionals under physician supervision."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q8",
       "name": "What makes Amelia Aesthetics different from other plastic surgery practices in Evansville?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a8",
         "text": "Amelia Aesthetics combines advanced medical care with a patient-first philosophy, focusing on long-term results rather than short-term trends. That means honest recommendations, transparent education and pricing, accredited surgical facilities, and coordinated surgical and medspa care."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q9",
       "name": "Where is Amelia Evansville located?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a9",
         "text": "Amelia Aesthetics is conveniently located at 111 South Green River Road, Suite F, serving patients from across the greater Evansville area. The practice is easy to access and designed to provide a comfortable, private, and welcoming environment for both surgical and medspa patients."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q10",
       "name": "What are Amelia Evansville’s hours?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a10",
         "text": "Amelia Evansville is open Monday through Friday from 8:30 am to 4:30 pm."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q11",
       "name": "Can I bring someone or kids to my consultation?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a11",
         "text": "Yes. You are welcome to bring someone and children with you to your consultation."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q12",
       "name": "What forms of payment does Amelia Evansville accept?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a12",
         "text": "Amelia Evansville accepts credit, debit, cash, cashier check, Apple Pay, Care Credit, Alphaeon, and Cherry."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q13",
       "name": "Is on-site parking available?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a13",
         "text": "Yes, Amelia Evansville has free on-site parking."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q14",
       "name": "How is patient safety prioritized at Amelia Evansville?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a14",
         "text": "Patient safety is supported through an AAAASF-accredited operating room, board-certified plastic surgeon, licensed anesthesia providers, and strict clinical protocols for infection control, monitoring, and recovery. Safety is considered at every stage of care, from consultation through follow-up."
       }
     },
     {
       "@type": "Question",
+      "@id": "https://www.askamelia.com/locations/evansville#faq-q15",
       "name": "Do you offer treatment plans for long-term aesthetic care?",
       "acceptedAnswer": {
         "@type": "Answer",
+        "@id": "https://www.askamelia.com/locations/evansville#faq-a15",
         "text": "Yes. Many patients choose to combine surgical procedures with ongoing medspa treatments and skincare to maintain and enhance their results over time. Your providers can help build a long-term care plan that evolves with your needs and goals."
       }
     }
@@ -861,24 +889,27 @@
       }
     },
       {
-      "@type": ["WebPage", "MedicalWebPage", "FAQPage"],
+      "@type": ["WebPage", "MedicalWebPage"],
       "@id": "https://www.askamelia.com/locations/san-antonio#webpage",
       "url": "https://www.askamelia.com/locations/san-antonio",
       "name": "Amelia Aesthetics San Antonio",
-      "description": "Plastic surgery in San Antonio at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
+      "description": "Plastic surgery practice in San Antonio at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "https://www.cdn.prod.website-files.com/6408a31d539dcd3386171be0/66fc3eb80f0e28afd267607c_sat-photos-04.avif" },
+"primaryImageOfPage": {
+  "@type": "ImageObject",
+  "url": "https://www.cdn.prod.website-files.com/6408a31d539dcd3386171be0/66fc3eb80f0e28afd267607c_sat-photos-04.avif"
+},
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/san-antonio#breadcrumb" },
       "about": [
-        { "@id": "https://www.askamelia.com/locations/san-antonio#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/san-antonio#localbusiness" }
+        {"@id": "https://www.askamelia.com/locations/san-antonio#business"}
       ],
-      "mainEntity": [
-        { "@id": "https://www.askamelia.com/locations/san-antonio#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/san-antonio#localbusiness" },
-        { "@id": "https://www.askamelia.com/locations/san-antonio#faq" }
-      ],
+"mainEntity": {
+  "@id": "https://www.askamelia.com/locations/san-antonio#business"
+},
+"hasPart": {
+  "@id": "https://www.askamelia.com/locations/san-antonio#faq"
+},
       "potentialAction": [
         {
           "@type": "ReserveAction",
@@ -904,8 +935,8 @@
       ]
     },
     {
-      "@type": "LocalBusiness",
-      "@id": "https://www.askamelia.com/locations/san-antonio#localbusiness",
+      "@type": ["LocalBusiness", "MedicalBusiness"],
+      "@id": "https://www.askamelia.com/locations/san-antonio#business",
       "name": "Amelia Aesthetics San Antonio",
       "url": "https://www.askamelia.com/locations/san-antonio",
       "parentOrganization": {
@@ -931,20 +962,10 @@
       ],
           "hasMap": "https://maps.app.goo.gl/LR7Qi67rRXmRJghn9",
       "paymentAccepted": ["credit", "debit", "cash", "cashier check", "personal check", "ACH", "Apple Pay", "Google Pay", "Care Credit", "Alphaeon", "Cherry"],
-      "priceRange": "$$$"
-    },
-    {
-      "@type": "MedicalBusiness",
-      "@id": "https://www.askamelia.com/locations/san-antonio#medicalbusiness",
-      "name": "Amelia Aesthetics San Antonio",
-      "url": "https://www.askamelia.com/locations/san-antonio",
-      "parentOrganization": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
+      "priceRange": "$$$",
       "employee": [
-        { "@id": "https://www.askamelia.com/providers/dr-marcos-lopez#physician" }
-      ]
-      },
+          {"@id": "https://www.askamelia.com/providers/dr-marcos-lopez#physician"}]
+          },
        {
       "@type": ["Person", "Physician"],
       "@id": "https://www.askamelia.com/providers/dr-marcos-lopez#physician",
@@ -952,116 +973,146 @@
       "medicalSpecialty": "PlasticSurgery",
       "url": "https://www.askamelia.com/providers/dr-marcos-lopez"
     },
-
  {"@type": "FAQPage",
   "@id": "https://www.askamelia.com/locations/san-antonio#faq",
-  "url": "https://www.askamelia.com/locations/san-antonio#faq",
+  "url": "https://www.askamelia.com/locations/san-antonio",
+ "isPartOf": {
+    "@id": "https://www.askamelia.com/locations/san-antonio#webpage"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.askamelia.com/locations/san-antonio#webpage"
+  },
   "about": [
-    { "@id": "https://www.askamelia.com/locations/san-antonio#medicalbusiness" },
-    { "@id": "https://www.askamelia.com/locations/san-antonio#localbusiness" }
+    { "@id": "https://www.askamelia.com/locations/san-antonio#business" }
   ],
   "mainEntity": [
     {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q1",
       "name": "Do you offer financing options for plastic surgery and medspa treatments?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a1",
         "text": "Yes. Amelia Aesthetics in San Antonio works with reputable third-party financing partners to help make treatment more accessible. Financing options and payment plans can be discussed during your consultation, and our team is happy to walk you through what may be available based on your treatment plan and individual needs."
       }
       },
     {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q2",
       "name": "How much do procedures typically cost at Amelia San Antonio?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a2",
         "text": "Because every treatment plan is personalized, pricing varies based on your procedure and surgical plan. To get an idea of what your procedure might cost, you can view pricing for medspa and surgical procedures at AskAmelia.com/pricing. During your consultation, you’ll receive a finalized quote that includes all anesthesia, OR, and surgeon fees, so there are no surprises. "
       }
     },
     {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q3",
       "name": "How do I book a consultation at Amelia San Antonio?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a3",
         "text": "You can easily book your surgical consultation or medspa treatment online at AskAmelia.com/book. If you have additional questions, you can always reach out to our team at patientcare.sat@askamelia.com or (210) 934-1747."
       }
     },
         {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q4",
       "name": "Who is the plastic surgeon at Amelia Aesthetics in San Antonio?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a4",
         "text": "Amelia San Antonio is home to board-certified plastic surgeon Dr. Marcos Lopez. Dr. Lopez is fully trained in aesthetic plastic surgery and provides personalized surgical care focused on safety, natural-looking results, and long-term confidence."
       }
     },
     {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q5",
       "name": "Does Dr. Marcos Lopez operate in an accredited facility?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a5",
         "text": "Yes. All surgical procedures are performed in a state-of-the-art outpatient operating room accredited by the American Association for Accreditation of Ambulatory Surgery Facilities (AAAASF). This accreditation ensures rigorous national standards for anesthesia safety, infection prevention, emergency preparedness, and patient monitoring."
       }
     },
       {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q6",
       "name": "What surgical procedures are offered at Amelia San Antonio?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a6",
         "text": "Patients commonly seek breast and body procedures such as breast augmentation, breast reduction, breast lifts, mommy makeover, drainless tummy tuck, body contouring after weight loss, and revision surgery."
       }
     },
     {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q7",
       "name": "What makes Amelia Aesthetics different from other plastic surgery practices in San Antonio?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a7",
         "text": "Amelia Aesthetics combines advanced medical care with a patient-first philosophy, focusing on long-term results rather than short-term trends. That means honest recommendations, transparent education and pricing, accredited surgical facilities, and coordinated surgical care."
       }
     },
     {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q8",
       "name": "Where is Amelia San Antonio located?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a8",
         "text": "Amelia Aesthetics is conveniently located at 150 E Sonterra Blvd., Suite 316, serving patients from across the greater San Antonio area. The practice is easy to access and designed to provide a comfortable, private, and welcoming environment for both surgical and medspa patients."
       }
     },
       {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q9",
       "name": "What are Amelia San Antonio’s hours?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a9",
         "text": "Amelia San Antonio is open Monday through Friday from 8:00 am to 5:00 pm."
       }
     },
      {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q10",
       "name": "Can I bring someone or kids to my consultation?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a10",
         "text": "Yes! You are welcome to bring someone and children with you to your consultation."
       }
     },
     {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q11",
       "name": "What forms of payment does Amelia San Antonio accept?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a11",
         "text": "Amelia San Antonio accepts credit, debit, cash, cashier’s and personal checks, ACH, Apple Pay, Google Pay, Care Credit, Alphaeon, and Cherry."
       }
     },
      {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q12",
       "name": "Is on-site parking available?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a12",
         "text": "Yes, Amelia San Antonio has free on-site parking."
       }
     },
         {
       "@type": "Question",
+        "url": "https://www.askamelia.com/locations/san-antonio#faq-q13",
       "name": "How is patient safety prioritized at Amelia San Antonio?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "url": "https://www.askamelia.com/locations/san-antonio#faq-a13",
         "text": "Patient safety is supported through an AAAASF-accredited operating room, board-certified plastic surgeon, licensed anesthesia providers, and strict clinical protocols for infection control, monitoring, and recovery. Safety is considered at every stage of care, from consultation through follow-up."
       }
     }
@@ -1092,24 +1143,27 @@
       }
     },
       {
-      "@type": ["WebPage", "MedicalWebPage", "FAQPage"],
+      "@type": ["WebPage", "MedicalWebPage"],
       "@id": "https://www.askamelia.com/locations/south-florida#webpage",
       "url": "https://www.askamelia.com/locations/south-florida",
       "name": "Amelia Aesthetics South Florida",
       "description": "Plastic surgery in South Florida at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6892254a17be53a875522362_sfl-office-08.webp" },
+   "primaryImageOfPage": {
+  "@type": "ImageObject",
+  "url": "https://www.cdn.prod.website-files.com/6408a31d539dcd3386171be0/6892254a17be53a875522362_sfl-office-08.webp"
+},
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/south-florida#breadcrumb" },
-      "about": [
-        { "@id": "https://www.askamelia.com/locations/south-florida#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/south-florida#localbusiness" }
+        "about": [
+        { "@id": "https://www.askamelia.com/locations/south-florida#business" }
       ],
-      "mainEntity": [
-        { "@id": "https://www.askamelia.com/locations/south-florida#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/south-florida#localbusiness" },
-        { "@id": "https://www.askamelia.com/locations/south-florida#faq" }
-      ],
+"mainEntity": {
+  "@id": "https://www.askamelia.com/locations/south-florida#business"
+},
+"hasPart": {
+  "@id": "https://www.askamelia.com/locations/south-florida#faq"
+},
       "potentialAction": [
         {
           "@type": "ReserveAction",
@@ -1135,8 +1189,8 @@
       ]
     },
     {
-      "@type": "LocalBusiness",
-      "@id": "https://www.askamelia.com/locations/south-florida#localbusiness",
+      "@type": ["LocalBusiness", "MedicalBusiness"],
+      "@id": "https://www.askamelia.com/locations/south-florida#business",
       "name": "Amelia Aesthetics South Florida",
       "url": "https://www.askamelia.com/locations/south-florida",
       "parentOrganization": {
@@ -1162,16 +1216,7 @@
       ],
           "hasMap": "https://maps.app.goo.gl/B7aHBLT1S9iKMZzb8",
       "paymentAccepted": ["credit", "debit", "cash"],
-      "priceRange": "$$$"
-    },
-    {
-      "@type": "MedicalBusiness",
-      "@id": "https://www.askamelia.com/locations/south-florida#medicalbusiness",
-      "name": "Amelia Aesthetics South Florida",
-      "url": "https://www.askamelia.com/locations/south-florida",
-      "parentOrganization": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
+      "priceRange": "$$$",
       "employee": [
         { "@id": "https://www.askamelia.com/providers/dr-kamran-khan#physician" }
       ]
@@ -1186,114 +1231,145 @@
 
  {"@type": "FAQPage",
   "@id": "https://www.askamelia.com/locations/south-florida#faq",
-  "url": "https://www.askamelia.com/locations/south-florida#faq",
+  "url": "https://www.askamelia.com/locations/south-florida",
+ "isPartOf": {
+    "@id": "https://www.askamelia.com/locations/south-florida#webpage"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.askamelia.com/locations/south-florida#webpage"
+  },
   "about": [
-    { "@id": "https://www.askamelia.com/locations/south-florida#medicalbusiness" },
-    { "@id": "https://www.askamelia.com/locations/south-florida#localbusiness" }
+    { "@id": "https://www.askamelia.com/locations/south-florida#business" }
   ],
   "mainEntity": [
     {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q1",
       "name": "Do you offer financing options for plastic surgery and medspa treatments?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a1",
         "text": "Yes. Amelia South Florida works with reputable third-party financing partners to help make treatment more accessible. Financing options and payment plans can be discussed during your consultation, and our team is happy to walk you through what may be available based on your treatment plan and individual needs."
       }
       },
     {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q2",
       "name": "How much do procedures typically cost at Amelia South Florida?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a2",
         "text": "Because every treatment plan is personalized, pricing varies based on your procedure and surgical plan. To get an idea of what your procedure might cost, you can view pricing for medspa and surgical procedures at AskAmelia.com/pricing. During your consultation, you’ll receive a finalized quote that includes all anesthesia, OR, and surgeon fees, so there are no surprises."
       }
     },
     {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q3",
       "name": "How do I book a consultation at Amelia South Florida?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a3",
         "text": "You can easily book your surgical consultation or medspa treatment online at AskAmelia.com/book. If you have additional questions, you can always reach out to our team at patientcare.sfl@askamelia.com or (561) 905-1821."
       }
     },
         {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q4",
       "name": "Who is the plastic surgeon at Amelia Aesthetics in South Florida?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a4",
         "text": "Amelia South Florida is home to board-eligible plastic surgeon Dr. Kamran Khan. Dr. Khan is fully trained in aesthetic plastic surgery and provides personalized surgical care focused on safety, natural-looking results, and long-term confidence."
       }
     },
     {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q5",
       "name": "Does Dr. Kamran Khan operate in an accredited facility?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a5",
         "text": "Yes. All surgical procedures are performed in a state-of-the-art outpatient operating room accredited by the American Association for Accreditation of Ambulatory Surgery Facilities (AAAASF). This accreditation ensures rigorous national standards for anesthesia safety, infection prevention, emergency preparedness, and patient monitoring."
       }
     },
       {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q6",
       "name": "What surgical procedures are offered at Amelia South Florida?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a6",
         "text": "Patients commonly seek breast and body procedures such as breast augmentation, breast reduction, breast lifts, mommy makeover, drainless tummy tuck, body contouring after weight loss, and revision surgery."
       }
     },
     {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q7",
       "name": "Does Amelia South Florida have a medspa?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a7",
         "text": "Yes. The Amelia South Florida includes a full-service medical spa offering Botox and other wrinkle relaxers, dermal fillers, IV therapy, and medical-grade skincare, all provided by licensed professionals under physician supervision."
       }
     },
     {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q8",
       "name": "Where is Amelia South Florida located?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a8",
         "text": "Amelia Aesthetics is conveniently located at 10151 Enterprise Center Blvd., Suite 109 Boynton Beach, Florida, serving patients from across the greater Miami metropolitan area. The practice is easy to access and designed to provide a comfortable, private, and welcoming environment for both surgical and medspa patients."
         }
     },
       {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q9",
       "name": "What are Amelia South Florida’s hours?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a9",
         "text": "Amelia South Florida is open Monday through Friday from 8:00 am to 5:00 pm."
       }
     },
      {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q10",
       "name": "Can I bring someone or kids to my consultation?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a10",
         "text": "Yes! You are welcome to bring someone and children with you to your consultation."
       }
     },
     {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q11",
       "name": "What forms of payment does Amelia South Florida accept?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Amelia San Florida accepts credit, debit, and cash."
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a11",
+        "text": "Amelia South Florida accepts credit, debit, and cash."
       }
     },
      {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q12",
       "name": "Is on-site parking available?",
       "acceptedAnswer": {
         "@type": "Answer",
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a12",
         "text": "Yes, Amelia South Florida has free on-site parking."
       }
     },
         {
       "@type": "Question",
+       "@id": "https://www.askamelia.com/locations/south-florida#faq-q13",
       "name": "How is patient safety prioritized at Amelia South Florida?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Patient safety is supported through an AAAASF-accredited operating room, board-certified plastic surgeon, licensed anesthesia providers, and strict clinical protocols for infection control, monitoring, and recovery. Safety is considered at every stage of care, from consultation through follow-up."
+         "@id": "https://www.askamelia.com/locations/south-florida#faq-a13",
+        "text": "Patient safety is supported through an AAAASF-accredited operating room, board-eligible plastic surgeon, licensed anesthesia providers, and strict clinical protocols for infection control, monitoring, and recovery. Safety is considered at every stage of care, from consultation through follow-up."
       }
     }
  ]
@@ -1323,24 +1399,27 @@
       }
     },
       {
-      "@type": ["WebPage", "MedicalWebPage", "FAQPage"],
+      "@type": ["WebPage", "MedicalWebPage"],
       "@id": "https://www.askamelia.com/locations/wilmington#webpage",
       "url": "https://www.askamelia.com/locations/wilmington",
       "name": "Amelia Aesthetics Wilmington",
       "description": "Plastic surgery in Wilmington, NC at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "https://www.cdn.prod.website-files.com/6408a31d539dcd3386171be0/69553315a597ae56e05847e7_ilm-office-01.webp" },
+  "primaryImageOfPage": {
+  "@type": "ImageObject",
+  "url": "https://www.cdn.prod.website-files.com/6408a31d539dcd3386171be0/69553315a597ae56e05847e7_ilm-office-01.webp"
+},
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/wilmington#breadcrumb" },
-      "about": [
-        { "@id": "https://www.askamelia.com/locations/wilmington#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/wilmington#localbusiness" }
+  "about": [
+        { "@id": "https://www.askamelia.com/locations/wilmington#business" }
       ],
-      "mainEntity": [
-        { "@id": "https://www.askamelia.com/locations/wilmington#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/wilmington#localbusiness" },
-        { "@id": "https://www.askamelia.com/locations/wilmington#faq" }
-      ],
+"mainEntity": {
+  "@id": "https://www.askamelia.com/locations/wilmington#business"
+},
+"hasPart": {
+  "@id": "https://www.askamelia.com/locations/wilmington#faq"
+},
       "potentialAction": [
         {
           "@type": "ReserveAction",
@@ -1366,8 +1445,8 @@
       ]
     },
     {
-      "@type": "LocalBusiness",
-      "@id": "https://www.askamelia.com/locations/wilmington#localbusiness",
+      "@type": ["LocalBusiness", "MedicalBusiness"],
+      "@id": "https://www.askamelia.com/locations/wilmington#business",
       "name": "Amelia Aesthetics Wilmington",
       "url": "https://www.askamelia.com/locations/wilmington",
       "parentOrganization": {
@@ -1393,16 +1472,7 @@
       ],
           "hasMap": "https://maps.app.goo.gl/L5X9SYiCKS4j61XU7",
       "paymentAccepted": ["credit", "debit", "cash", "cashier check", "personal check", "ACH", "Apple Pay", "Google Pay", "Care Credit", "Alphaeon", "PatientFi"],
-      "priceRange": "$$$"
-    },
-    {
-      "@type": "MedicalBusiness",
-      "@id": "https://www.askamelia.com/locations/wilmington#medicalbusiness",
-      "name": "Amelia Aesthetics Wilmington",
-      "url": "https://www.askamelia.com/locations/wilmington",
-      "parentOrganization": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
+      "priceRange": "$$$",
       "employee": [
         { "@id": "https://www.askamelia.com/providers/dr-anthony-azzolini#physician" }
       ]
@@ -1417,121 +1487,154 @@
 
  {"@type": "FAQPage",
   "@id": "https://www.askamelia.com/locations/wilmington#faq",
-  "url": "https://www.askamelia.com/locations/wilmington#faq",
+  "url": "https://www.askamelia.com/locations/wilmington",
+ "isPartOf": {
+    "@id": "https://www.askamelia.com/locations/wilmington#webpage"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.askamelia.com/locations/wilmington#webpage"
+  },
   "about": [
-    { "@id": "https://www.askamelia.com/locations/wilmington#medicalbusiness" },
-    { "@id": "https://www.askamelia.com/locations/wilmington#localbusiness" }
+    { "@id": "https://www.askamelia.com/locations/wilmington#business" }
   ],
   "mainEntity": [
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q1",
       "name": "Do you offer financing options for plastic surgery and medspa treatments?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a1",
         "text": "Yes. Amelia Wilmington works with reputable third-party financing partners to help make treatment more accessible. Financing options and payment plans can be discussed during your consultation, and our team is happy to walk you through what may be available based on your treatment plan and individual needs."
       }
       },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q2",
       "name": "How much do procedures typically cost at Amelia Wilmington?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a2",
         "text": "Because every treatment plan is personalized, pricing varies based on your procedure and surgical plan. To get an idea of what your procedure might cost, you can view pricing for medspa and surgical procedures at AskAmelia.com/pricing. During your consultation, you’ll receive a finalized quote that includes all anesthesia, OR, and surgeon fees, so there are no surprises."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q3",
       "name": "How do I book a consultation at Amelia Wilmington?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a3",
         "text": "You can easily book your surgical consultation or medspa treatment online at AskAmelia.com/book. If you have additional questions, you can always reach out to our team at patientcare.ilm@askamelia.com or (910) 225-4842."
       }
     },
         {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q4",
       "name": "Who is the plastic surgeon at Amelia Aesthetics in Wilmington?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Amelia Wilmington is home to board-eligible plastic surgeon Dr. Anthony Azzolni. Dr. Azzolini is fully trained in aesthetic plastic surgery and provides personalized surgical care focused on safety, natural-looking results, and long-term confidence."
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a4",
+        "text": "Amelia Wilmington is home to board-eligible plastic surgeon Dr. Anthony Azzolini. Dr. Azzolini is fully trained in aesthetic plastic surgery and provides personalized surgical care focused on safety, natural-looking results, and long-term confidence."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q5",
       "name": "Is the operating room at Amelia Wilmington accredited?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a5",
         "text": "Yes. All surgical procedures are performed in an on-site, state-of-the-art outpatient operating room accredited by the American Association for Accreditation of Ambulatory Surgery Facilities (AAAASF). This accreditation ensures rigorous national standards for anesthesia safety, infection prevention, emergency preparedness, and patient monitoring."
       }
     },
       {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q6",
       "name": "What surgical procedures are offered at Amelia Wilmington?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a6",
         "text": "Patients commonly seek breast and body procedures such as breast augmentation, breast reduction, breast lifts, mommy makeover, drainless tummy tuck, body contouring after weight loss, and revision surgery."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q7",
       "name": "Does Amelia Wilmington have a medspa?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a7",
         "text": "Yes. The Amelia Wilmington includes a full-service medical spa offering Botox and other wrinkle relaxers, dermal fillers, skin rejuvenation treatments, and medical-grade skincare, all provided by licensed professionals under physician supervision."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q8",
       "name": "What makes Amelia Aesthetics different from other plastic surgery practices in Wilmington?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a8",
         "text": "Amelia Aesthetics combines advanced medical care with a patient-first philosophy, focusing on long-term results rather than short-term trends. That means honest recommendations, transparent education and pricing, accredited surgical facilities, and coordinated surgical and medspa care."
         }
     },
       {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q9",
       "name": "Where is Amelia Wilmington located?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a9",
         "text": "Amelia Aesthetics is conveniently located at 1911 S. 17th St., Suite 100, Wilmington, NC, serving patients from across the greater Wilmington area. The practice is easy to access and designed to provide a comfortable, private, and welcoming environment for both surgical and medspa patients."
       }
     },
      {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q10",
       "name": "What are Amelia Wilmington’s hours?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a10",
         "text": "Amelia Wilmington is open Monday through Friday from 8:00 am to 5:00 pm."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q11",
       "name": "What forms of payment does Amelia Wilmington accept?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Amelia Wilmington accepts credit, debit, cash, cashier’s and personal checks, ACH, Apple Pay, Google Pay, Care Credit, Alphaeon, and PatientFi."
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a11",
+        "text": "Amelia Wilmington accepts credit, debit, cash, cashier and personal checks, ACH, Apple Pay, Google Pay, Care Credit, Alphaeon, and PatientFi."
       }
     },
      {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q12",
       "name": "Is on-site parking available?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a12",
         "text": "Yes, Amelia Wilmington has free on-site parking."
       }
     },
         {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q13",
       "name": "How is patient safety prioritized at Amelia Wilmington?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a13",
         "text": "Patient safety is supported through an AAAASF-accredited operating room, board-eligible plastic surgeon, licensed anesthesia providers, and strict clinical protocols for infection control, monitoring, and recovery. Safety is considered at every stage of care, from consultation through follow-up."
       }
     },
      {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/wilmington#faq-q14",
       "name": "Do you offer treatment plans for long-term aesthetic care?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/wilmington#faq-a14",
         "text": "Yes. Many patients choose to combine surgical procedures with ongoing medspa treatments and skincare to maintain and enhance their results over time. Your providers can help build a long-term care plan that evolves with your needs and goals."
       }
     }
@@ -1562,24 +1665,27 @@
       }
     },
       {
-      "@type": ["WebPage", "MedicalWebPage", "FAQPage"],
+      "@type": ["WebPage", "MedicalWebPage"],
       "@id": "https://www.askamelia.com/locations/tampa-bay#webpage",
       "url": "https://www.askamelia.com/locations/tampa-bay",
       "name": "Amelia Aesthetics Tampa Bay",
       "description": "Plastic surgery in Tampa Bay, FL at Amelia Aesthetics. Meet the surgeons, explore procedures, review practice information, and book a consultation.",
       "isPartOf": { "@id": "https://www.askamelia.com/#website" },
       "inLanguage": "en",
-      "primaryImageOfPage": { "@id": "https://www.cdn.prod.website-files.com/6408a31d539dcd3386171be0/68c82d59b6fd32caa2222a58_tpa-office-02.webp" },
+        "primaryImageOfPage": {
+  "@type": "ImageObject",
+  "url": "https://www.cdn.prod.website-files.com/6408a31d539dcd3386171be0/68c82d59b6fd32caa2222a58_tpa-office-02.webp"
+},
       "breadcrumb": { "@id": "https://www.askamelia.com/locations/tampa-bay#breadcrumb" },
       "about": [
-        { "@id": "https://www.askamelia.com/locations/tampa-bay#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/tampa-bay#localbusiness" }
+        { "@id": "https://www.askamelia.com/locations/tampa-bay#business" }
       ],
-      "mainEntity": [
-        { "@id": "https://www.askamelia.com/locations/tampa-bay#medicalbusiness" },
-        { "@id": "https://www.askamelia.com/locations/tampa-bay#localbusiness" },
-        { "@id": "https://www.askamelia.com/locations/tampa-bay#faq" }
-      ],
+"mainEntity": {
+  "@id": "https://www.askamelia.com/locations/tampa-bay#business"
+},
+"hasPart": {
+  "@id": "https://www.askamelia.com/locations/tampa-bay#faq"
+},
       "potentialAction": [
         {
           "@type": "ReserveAction",
@@ -1605,8 +1711,8 @@
       ]
     },
     {
-      "@type": "LocalBusiness",
-      "@id": "https://www.askamelia.com/locations/tampa-bay#localbusiness",
+      "@type": ["LocalBusiness", "MedicalBusiness"],
+      "@id": "https://www.askamelia.com/locations/tampa-bay#business",
       "name": "Amelia Aesthetics Tampa Bay",
       "url": "https://www.askamelia.com/locations/tampa-bay",
       "parentOrganization": {
@@ -1616,7 +1722,7 @@
       "email": "patientcare.tpa@askamelia.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "113109 US Hwy 301 S.",
+        "streetAddress": "13109 US Hwy 301 S.",
         "addressLocality": "Riverview",
         "addressRegion": "FL",
         "postalCode": "33578",
@@ -1632,16 +1738,7 @@
       ],
           "hasMap": "https://maps.app.goo.gl/smECQrhtdY3cr8n47",
       "paymentAccepted": ["credit", "debit", "cash", "cashier check", "personal check", "Apple Pay", "Google Pay", "Care Credit", "Alphaeon", "Cherry"],
-      "priceRange": "$$$"
-    },
-    {
-      "@type": "MedicalBusiness",
-      "@id": "https://www.askamelia.com/locations/tampa-bay#medicalbusiness",
-      "name": "Amelia Aesthetics Tampa Bay",
-      "url": "https://www.askamelia.com/locations/tampa-bay",
-      "parentOrganization": {
-        "@id": "https://www.askamelia.com/#organization"
-      },
+      "priceRange": "$$$",
       "employee": [
         { "@id": "https://www.askamelia.com/providers/dr-shabaaz-sandhu#physician" }
       ]
@@ -1656,113 +1753,144 @@
 
  {"@type": "FAQPage",
   "@id": "https://www.askamelia.com/locations/tampa-bay#faq",
-  "url": "https://www.askamelia.com/locations/tampa-bay#faq",
+  "url": "https://www.askamelia.com/locations/tampa-bay",
+  "isPartOf": {
+    "@id": "https://www.askamelia.com/locations/tampa-bay#webpage"
+  },
+  "mainEntityOfPage": {
+    "@id": "https://www.askamelia.com/locations/tampa-bay#webpage"
+  },
   "about": [
-    { "@id": "https://www.askamelia.com/locations/tampa-bay#medicalbusiness" },
-    { "@id": "https://www.askamelia.com/locations/tampa-bay#localbusiness" }
+    { "@id": "https://www.askamelia.com/locations/tampa-bay#business" }
   ],
   "mainEntity": [
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q1",
       "name": "Do you offer financing options for plastic surgery and medspa treatments?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a1",
         "text": "Yes. Amelia Aesthetics in Tampa Bay works with reputable third-party financing partners to help make treatment more accessible. Financing options and payment plans can be discussed during your consultation, and our team is happy to walk you through what may be available based on your treatment plan and individual needs."
       }
       },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q2",
       "name": "How much do procedures typically cost at Amelia Tampa Bay?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a2",
         "text": "Because every treatment plan is personalized, pricing varies based on your procedure and surgical plan. To get an idea of what your procedure might cost, you can view pricing for medspa and surgical procedures at AskAmelia.com/pricing. During your consultation, you’ll receive a finalized quote that includes all anesthesia, OR, and surgeon fees, so there are no surprises."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q3",
       "name": "How do I book a consultation at Amelia Tampa Bay?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a3",
         "text": "You can easily book your surgical consultation or medspa treatment online at AskAmelia.com/book. If you have additional questions, you can always reach out to our team at patientcare.tpa@askamelia.com or (813) 531-8515."
       }
     },
         {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q4",
       "name": "Who is the plastic surgeon at Amelia Aesthetics in Tampa Bay?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a4",
         "text": "Amelia Tampa Bay is home to board-eligible plastic surgeon Dr. Shabaaz Sandhu. Dr. Sandhu is fully trained in aesthetic plastic surgery and provides personalized surgical care focused on safety, natural-looking results, and long-term confidence."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q5",
       "name": "Does Dr. Sandhu operate in an accredited facility?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "YYes. All surgical procedures are performed in a state-of-the-art outpatient operating room accredited by the American Association for Accreditation of Ambulatory Surgery Facilities (AAAASF). This accreditation ensures rigorous national standards for anesthesia safety, infection prevention, emergency preparedness, and patient monitoring."
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a5",
+        "text": "Yes. All surgical procedures are performed in a state-of-the-art outpatient operating room accredited by the American Association for Accreditation of Ambulatory Surgery Facilities (AAAASF). This accreditation ensures rigorous national standards for anesthesia safety, infection prevention, emergency preparedness, and patient monitoring."
       }
     },
       {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q6",
       "name": "What surgical procedures are offered at Amelia Tampa Bay?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a6",
         "text": "Patients commonly seek breast and body procedures such as breast augmentation, breast reduction, breast lifts, mommy makeover, drainless tummy tuck, body contouring after weight loss, and revision surgery."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q7",
       "name": "What makes Amelia Aesthetics different from other plastic surgery practices in Tampa Bay?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a7",
         "text": "Amelia Aesthetics combines advanced medical care with a patient-first philosophy, focusing on long-term results rather than short-term trends. That means honest recommendations, transparent education and pricing, accredited surgical facilities, and coordinated surgical care."
       }
     },
     {
       "@type": "Question",
-      "name": "WWhere is Amelia Tampa Bay located?",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q8",
+      "name": "Where is Amelia Tampa Bay located?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a8",
         "text": "Amelia Aesthetics is conveniently located at 13109 US Hwy 301 S., Riverview, FL, serving patients from across the greater Tampa Bay area. The practice is easy to access and designed to provide a comfortable, private, and welcoming environment for both surgical and medspa patients."
         }
     },
       {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q9",
       "name": "What are Amelia Tampa Bay’s hours?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a9",
         "text": "Amelia Tampa Bay is open Monday through Friday from 8:00 am to 5:00 pm."
       }
     },
      {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q10",
       "name": "Can I bring someone or kids to my consultation?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a10",
         "text": "Yes! You are welcome to bring someone and children with you to your consultation."
       }
     },
     {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q11",
       "name": "What forms of payment does Amelia Tampa Bay accept?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Amelia Tampa Bay accepts credit, debit, cash, cashier’s and personal checks, Apple Pay, Google Pay, Care Credit, Alphaeon, and Cherry."
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a11",
+        "text": "Amelia Tampa Bay accepts credit, debit, cash, cashier and personal checks, Apple Pay, Google Pay, Care Credit, Alphaeon, and Cherry."
       }
     },
      {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q12",
       "name": "Is on-site parking available?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a12",
         "text": "Yes, Amelia Tampa Bay has free on-site parking."
       }
     },
         {
       "@type": "Question",
+        "@id": "https://www.askamelia.com/locations/tampa-bay#faq-q13",
       "name": "How is patient safety prioritized at Amelia Tampa Bay?",
       "acceptedAnswer": {
         "@type": "Answer",
+          "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a13",
         "text": "Patient safety is supported through an AAAASF-accredited operating room, board-eligible plastic surgeon, licensed anesthesia providers, and strict clinical protocols for infection control, monitoring, and recovery. Safety is considered at every stage of care, from consultation through follow-up."
       }
     }
