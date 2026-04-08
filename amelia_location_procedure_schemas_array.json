@@ -1,11 +1,176 @@
 [
   {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.askamelia.com/#website",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com/",
+      "inLanguage": "en",
+      "publisher": {
+        "@id": "https://www.askamelia.com/#organization"
+      }
+    },
+    {
+      "@type": ["Organization", "MedicalOrganization"],
+      "@id": "https://www.askamelia.com/#organization",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.askamelia.com/#logo",
+        "url": "https://www.cdn.prod.website-files.com/6408a31d539dcd1879171bbb/68424f2bd747bbaa5d046ea1_amelia-horizontal-primary.svg"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-wilmington-nc#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Aesthetics Wilmington",
+          "item": "https://www.askamelia.com/locations/wilmington"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Preservé Breast Augmentation",
+          "item": "https://www.askamelia.com/local/preserve-breast-augmentation-wilmington-nc"
+        }
+      ]
+    },
+    {
+      "@type": ["MedicalBusiness", "PlasticSurgery"],
+      "@id": "https://www.askamelia.com/locations/wilmington#business",
+      "name": "Amelia Aesthetics Wilmington",
+      "url": "https://www.askamelia.com/locations/wilmington",
+      "telephone": "+1 910-225-4842",
+      "email": "patientcare.ilm@askamelia.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1911 S. 17th Street, Suite 100",
+        "addressLocality": "Wilmington",
+        "addressRegion": "NC",
+        "postalCode": "28401",
+        "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "17:00"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Cape Fear Region"
+        }
+      ]
+    },
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-anthony-azzolini#physician",
+      "name": "Dr. Anthony Azzolini",
+      "honorificPrefix": "Dr.",
+      "jobTitle": "Board-Eligible Plastic Surgeon",
+      "medicalSpecialty": "PlasticSurgery",
+      "url": "https://www.askamelia.com/providers/dr-anthony-azzolini",
+      "worksFor": {
+        "@id": "https://www.askamelia.com/locations/wilmington#business"
+      },
+      "affiliation": {
+        "@id": "https://www.askamelia.com/locations/wilmington#business"
+      },
+      "sameAs": [
+        "https://www.instagram.com/dr.azzolini.amelia/"
+      ]
+    },
+    {
+      "@type": ["MedicalWebPage", "WebPage"],
+      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-wilmington-nc#webpage",
+      "url": "https://www.askamelia.com/local/preserve-breast-augmentation-wilmington-nc",
+      "name": "Preservé Breast Augmentation in Wilmington, North Carolina",
+      "description": "Preservé breast augmentation is a less invasive, tissue-preserving breast augmentation option designed for subtle, natural-looking results, shorter recovery, and the option to avoid general anesthesia.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/#website"
+      },
+      "about": [
+        {
+          "@id": "https://www.askamelia.com/locations/wilmington#business"
+        },
+        {
+          "@type": "MedicalCondition",
+          "name": "Breast volume loss"
+        },
+        {
+          "@type": "Thing",
+          "name": "Natural-looking breast augmentation"
+        }
+      ],
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-wilmington-nc#breadcrumb"
+      },
+      "keywords": [
+        "Preservé breast augmentation Wilmington",
+        "awake breast augmentation near me",
+        "Motiva SmoothSilk Ergonomix implants near me",
+        "natural breast augmentation near me",
+        "Preservé breast augmentation cost",
+        "yoga boobs near me",
+        "ballerina boobs near me",
+        "fashion boob job near me"
+      ],
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com/providers/dr-anthony-azzolini#physician"
+      },
+      "provider": {
+        "@id": "https://www.askamelia.com/locations/wilmington#business"
+      },
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-wilmington-nc#procedure"
+      }
+    },
+    {
+      "@type": ["SurgicalProcedure", "MedicalProcedure"],
+      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-wilmington-nc#procedure",
+      "name": "Preservé Breast Augmentation",
+      "alternateName": [
+        "Awake Breast Augmentation",
+        "Preservé Method Breast Augmentation",
+        "Preservation breast augmentation"
+      ],
+      "description": "A less invasive breast augmentation approach designed to preserve natural tissue and chest muscles, reduce inflammation and scarring, and support subtle, natural-looking results using Motiva SmoothSilk Ergonomix® implants.",
+      "bodyLocation": "Breast",
+      "followup": "Post-operative follow-up visits are included as part of the care plan.",
+      "howPerformed": "After numbing, a tunnel is created with a channel separator, an inflatable balloon creates an implant pocket, and the implant is inserted with minimal disruption before the incision is closed.",
+      "preparation": "A consultation and individualized pre-op planning are completed before surgery."
+    }
+  ]
+},
+  {
     "@context": "https://schema.org",
     "@type": "MedicalProcedure",
     "@id": "https://www.askamelia.com/local/arm-lift-raleigh-nc",
     "name": "Arm Lift in Raleigh, NC",
     "alternateName": [
-      "Arm Lift, brachioplasty"
+      "Arm Lift", "brachioplasty"
     ],
     "keywords": "Arm Lift Raleigh, brachioplasty in raleigh, nc, arm lift cost raleigh, nc",
     "url": "https://www.askamelia.com/local/arm-lift-raleigh-nc",
