@@ -1,5 +1,5 @@
 [
-  {
+ {
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -48,11 +48,11 @@
       ]
     },
     {
-      "@type": ["MedicalBusiness", "PlasticSurgery"],
+      "@type": ["LocalBusiness", "MedicalBusiness"],
       "@id": "https://www.askamelia.com/locations/wilmington#business",
       "name": "Amelia Aesthetics Wilmington",
       "url": "https://www.askamelia.com/locations/wilmington",
-      "telephone": "+1 910-225-4842",
+      "telephone": "+1-910-225-4842",
       "email": "patientcare.ilm@askamelia.com",
       "address": {
         "@type": "PostalAddress",
