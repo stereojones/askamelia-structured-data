@@ -1,5 +1,110 @@
 [
   {
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#thing",
+      "name": "A Deeper Dive Into Breast Augmentation With Dr. Marcos Lopez",
+      "description": "Advanced concepts in breast augmentation, explained by board-certified plastic surgeon Dr. Marcos Lopez of Amelia Aesthetics in San Antonio, Texas. This article covers implant selection, profile and projection, over-the-muscle vs. under-the-muscle placement, subfascial techniques, cleavage anatomy, mesh support, revision considerations, and how breast anatomy and patient goals shape surgical planning.",
+      "url": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez",
+      "owner": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "subjectOf": {
+        "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#webpage"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#webpage",
+      "url": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez",
+      "name": "A Deeper Dive Into Breast Augmentation | Amelia Blog",
+      "description": "Confused about implant size, profile, or placement? Dr. Marcos Lopez breaks down advanced breast augmentation concepts in a clear, patient-first way.",
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com/providers/dr-marcos-lopez#physician"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#thing"
+      }
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Blog",
+          "item": "https://www.askamelia.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "A Deeper Dive Into Breast Augmentation With Dr. Marcos Lopez",
+          "item": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez"
+        }
+      ]
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#creativework",
+      "about": {
+        "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#thing"
+      },
+      "abstract": "A Deeper Dive Into Breast Augmentation With Dr. Marcos Lopez",
+      "description": "Advanced concepts in breast augmentation, explained by board-certified plastic surgeon Dr. Marcos Lopez of Amelia Aesthetics in San Antonio, Texas. This article covers implant selection, profile and projection, over-the-muscle vs. under-the-muscle placement, subfascial techniques, cleavage anatomy, mesh support, revision considerations, and how breast anatomy and patient goals shape surgical planning.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients seeking breast augmentation"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2026-04-17",
+      "dateModified": "2026-04-17",
+      "keywords": [
+        "breast augmentation in san antonio texas",
+        "breast implants in san antonio texas",
+        "boob job in san antonio texas", "best breast implant for natural look", "how to choose breast implants"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#article",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#webpage"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#thing"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "datePublished": "2026-04-17",
+      "dateModified": "2026-04-17",
+      "articleBody": "Here it is with all hard returns removed (single continuous line for JSON use):
+
+Title Tag: A Deeper Dive Into Breast Augmentation | Amelia Blog Meta Description: Confused about implant size, profile, or placement? Dr. Marcos Lopez breaks down advanced breast augmentation concepts in a clear, patient-first way. A Deeper Dive Into Breast Augmentation With Dr. Lopez I’m Dr. Marcos Lopez, a board-certified plastic surgeon and CEO of Amelia Aesthetics in San Antonio, Texas. A big part of my practice focuses on breast and body contouring, and I spend a lot of my time thinking about how to take patients from where they’re starting to where they want to be, while being realistic about anatomy and limitations. This conversation is all about what I would call “advanced concepts” in breast augmentation. That doesn’t mean you have to be an expert to follow along; it just means we’re going a little deeper than the basics. We’re talking about the why behind decisions, newer research, and how to approach more complex cases. “Advanced” Concepts in Breast Augmentation When I think about advanced breast augmentation, there are really two parts to it. One is updated research. There are a lot of things we used to say, especially around implant placement, that were based on older data that don’t really hold up the same way anymore. The second part is complexity. I do a lot of revision surgery, and those cases are never straightforward. They’re not cookie-cutter. You have to think through every single one differently, and honestly, that’s something I really enjoy. There’s a part of my brain that likes to take things apart and figure them out. In another life, I probably would have worked for NASA. So for me, a lot of this is how do I take someone’s anatomy, their goal photos, and the limitations in between, and figure out how to get them as close as possible? Not Everyone Needs to Know Everything. And That’s Okay I always tell patients there are two types of people: the people who are like, “Just tell me what to do. I trust you,” and the people who want to understand every detail. Both are totally fine. My job is to know all of the details either way. But if you’re someone who likes to understand what’s going on, this is where we can start to go a little deeper. How I Think About Choosing Implants One of the most common questions I get is: how do I choose the right implant? And honestly, the first step is not size. It’s understanding what you actually like. Goal Photos Are Everything I’ll ask patients all the time, “Describe what you want,” and they’ll say something like, “I want a natural look.” Then they show me a photo that, from my perspective, is a very full, very augmented look. And that’s not wrong. It just means that the word “natural” means something different to them. Usually, what they mean is proportional. So instead of focusing on the words, I focus on what your goal photos actually look like, whether you like more upper pole fullness or a softer slope, and whether you like more width or more projection. That’s where we start. Bustmob’s GoalFinder is a really helpful, free resource when searching for your goal photos. It’s an online database with thousands of photos from real patients that you can search by your stats, like height, weight, and even implant size. As you find what you like, you can save them in a private collection and share the link with your surgeon at your consultation. Having these photos on hand helps kickstart and guide the conversation for choosing the right implant for you. Why Implant Size Is So Misleading One of the biggest misconceptions is that implant size alone determines your result. It doesn’t. Your final result is implant plus your existing breast tissue plus your proportions. That’s why 300cc can look larger on one person and smaller on another. The analogy I use is imagine a party hat. You put it on a Chihuahua, and then you put that same hat on a Doberman. Same hat, completely different look. That’s exactly how implants work. Profile, Width, and Why This Gets Confusing Profile is one of those things that people ask about all the time: how do I pick my profile? The reason profile is confusing is that it’s not just one thing. You’re balancing width, projection, and volume. That’s three variables changing at once, which is a lot for anyone to process. So instead of trying to think about it in technical terms, I try to bring it back to what you actually like visually. Do you want more side fullness? Do you want more forward projection? Then your anatomy helps guide what’s actually possible. This is a conversation I highly recommend leaning into your surgeon to help you figure out which profile will get you to your goals. Tools Like AI, Sizers, and 3D Imaging People are always looking for a shortcut or a way to “hack” implant selection. There are tools that can help, but they all have limitations. If we’re using something like 3D imaging together, it can be really useful to see proportions on your body. Where things get tricky is that AI images can create anatomy that you don’t actually have, and sizers don’t behave like real implants. Sizers tend to sit on top of the breast tissue instead of interacting with it. They often overestimate projection, which can make people nervous about going too big. In some cases, they come back later wishing they had gone bigger. So they can be helpful, but they’re not the final answer. How I Think About Over vs. Under the Muscle Breast Implant Placement Now When I say implant placement, I mean where the surgeon puts the implant. The three most common placements are subglandular placement, also known as over the muscle; subfascial placement, where the implant is placed under the fascia covering the muscle; and submuscular placement, also known as under the muscle. For a long time, breast implant placement was a very simple conversation. Over the muscle was considered higher risk, and under the muscle became the standard. But that was based on older techniques. The old version of over the muscle placement did have higher complication rates, with some studies showing capsular contracture rates as high as 30 percent. That’s why the field moved toward under the muscle implant placement. Now we have subfascial placement, which is different. You’re still above the muscle, but under the fascia, a thin but strong layer that covers the muscle. With modern techniques and implants, the complication rates for subfascial are much closer to under the muscle, more like 2 to 4 percent. Now it’s not about which is safer. It’s about which is better for your anatomy and your goals. Why Anatomy Matters More Than the Technique A big part of my job is matching the technique to the patient. If you have thinner tissue and want a very smooth transition, you might benefit from muscle coverage. If you want a more defined look, you might actually do better without the muscle. Another factor that doesn’t get talked about enough is rib cage shape. You can have two patients with the same implant and the same spacing, and one will look like they have more cleavage than the other. That’s because of rib cage shape, whether it’s flat or rounded, and breast bone width. There are some anatomical limits that surgery can’t fully overcome, and that’s an important part of the conversation. When I Start Thinking About Mesh Mesh is one of the tools we use in more advanced cases. It’s basically a support system that your body grows into over time. I start talking about mesh when I see things like significant weight loss, usually over about 50 pounds, larger implants around 500cc or more, thinner or stretched tissue, and revision surgery. And then there are situations where I feel strongly that it’s needed, including bottoming out, implants shifting laterally toward the armpit, and significant asymmetry in the folds. I customize how I use it depending on the situation, but the goal is always the same: more support, more predictability, and better long-term results. Why Some Cases Are More Complex Some patients’ cases are just more straightforward than others. Things that make a case more complex include asymmetry, even if both sides look good individually, tuberous breast anatomy with tight, constricted tissue, widely spaced nipples, and previous surgeries. In those cases, I’m almost always doing something slightly different on each side to bring things together. Because there’s no template for those cases, that’s where the advanced part really comes in. The Honest Truth About Revisions Even with the best planning, revisions are a part of this field. Not because someone did something wrong, but because bodies change, tissue behaves unpredictably, and life happens. I always say there are two things I need for a revision: I need to see what you see and I need to have a tool to fix it. If both of those are true, then we can move forward. I think it’s really important to be honest about that. No surgeon has a zero complication rate. What matters is how they handle it. Final Thoughts At the end of the day, this is what it comes down to: breast augmentation is not just about picking an implant and placing it. It’s about understanding your anatomy, understanding your goals, and figuring out how to bridge the gap between the two. That’s where the nuance is. And whether you’re someone who wants to know every detail or someone who just wants to trust the process, the most important thing is finding a surgeon who thinks critically, stays up to date, and is willing to have these conversations with you. Because that’s how you get the best outcome, not just in the short term, but long term too.",
+      "wordCount": "1724"
+    }
+  ]
+},
+  {
     "@context": "https://schema.org",
     "@graph": [
       {
