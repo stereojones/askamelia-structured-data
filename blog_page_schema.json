@@ -1,6 +1,9 @@
 [
   {
   "@context": "https://schema.org",
+    "@type": "thing",
+  "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez",
+    "url": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez",
   "@graph": [
 
     {
@@ -16,7 +19,6 @@
         "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#webpage"
       }
     },
-
     {
       "@type": "WebPage",
       "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#webpage",
@@ -58,7 +60,6 @@
         }
       ]
     },
-
     {
       "@type": "CreativeWork",
       "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#creativework",
@@ -103,6 +104,9 @@
 },
   {
     "@context": "https://schema.org",
+     "@type": "thing",
+  "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
+    "url": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
     "@graph": [
       {
         "@type": "Thing",
@@ -401,6 +405,12 @@
     ]
   },
   {
+   "@context": "https://schema.org",
+    "@type": "thing",
+  "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+    "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+  "@graph": [
+  {
     "@type": "Thing",
     "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing",
     "name": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
@@ -648,4 +658,6 @@
       }
     ]
   }
+  ]
+    }
 ]
