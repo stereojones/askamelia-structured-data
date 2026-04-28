@@ -1,0 +1,1242 @@
+[
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-kate-kottwitz",
+  "url": "https://www.askamelia.com/providers/dr-kate-kottwitz",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-kate-kottwitz#physician",
+      "name": "Kate Kottwitz, MD",
+      "description": "Dr. Kate Kottwitz is a board-certified plastic surgeon at Amelia Aesthetics in Evansville, Indiana, where she specializes in aesthetic plastic surgery. Known for her thoughtful, patient-first approach, Dr. Kottwitz takes the time to understand your goals and create a personalized treatment plan designed to achieve natural-looking, balanced results. She is deeply committed to helping patients feel confident, comfortable, and supported throughout every step of their journey.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/68025fc388c8fa8107015b47_amelia-evansville_dr-kate-kottwitz.avif",
+      "url": "https://www.askamelia.com/providers/dr-kate-kottwitz",
+      "sameAs": [
+        "https://www.realself.com/dr/katherine-kottwitz-evansville-in",
+        "https://www.healthgrades.com/physician/dr-katherine-kottwitz-xylntdw",
+        "https://www,doctor.webmd.com/doctor/katherine-mckenna-2c626649-8384-43c8-9ba1-b3ad23a19d52-overview",
+        "https://www.vitals.com/doctors/1tbstp/katherine-mckenna", "https://www.instagram.com/dr.kate.amelia/", "https://www.facebook.com/dr.kate.amelia/"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Certified Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "Southeastern Society of Plastic and Reconstructive Surgeons"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Saint Mary’s College"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Southern Illinois University School of Medicine"
+        }
+      ],
+      "award": [
+        "Mark A. Codner Aesthetic and Breast Fellow",
+        "3rd Place Outstanding Poster Presentation Award", "Resident Excellence in Teaching Award", "Saint Marys College Music Award", "Kappa Gamma Pi Honor Society"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Certification",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": [
+      "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck",
+        "Body Contouring", "skin removal after weight loss"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        }
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "Southeastern Society of Plastic and Reconstructive Surgeons"
+        }
+      ],
+      "pronouns": "she/her",
+      "skills": [
+        "Aesthetic Plastic Surgery",
+        "Patient Education",
+        "Surgical Planning", "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck",
+        "Body Contouring", "skin removal after weight loss"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-michelle-roughton",
+  "url": "https://www.askamelia.com/providers/dr-michelle-roughton",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-michelle-roughton#physician",
+      "name": "Michelle Roughton, MD",
+      "description": "Dr. Michelle Roughton is a board-certified plastic surgeon at Amelia Aesthetics in Raleigh, North Carolina. She is known for her thoughtful, patient-first approach and her deep commitment to education, safety, and individualized care. With a background that blends academic leadership and clinical expertise, Dr. Roughton takes the time to help patients fully understand their options so they can feel confident in every decision they make.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6419de7abc6ba1ebe56847db_amelia-surgeon-dr-michelle-roughton-avatar.avif",
+      "url": "https://www.askamelia.com/providers/dr-michelle-roughton",
+      "sameAs": [
+        "https://www.realself.com/dr/michelle-roughton-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-michelle-roughton-38j9t",
+        "https://doctor.webmd.com/doctor/michelle-roughton-6bfdf5a0-2081-4d9e-bc6b-898db8676ca7-overview",
+        "https://www.vitals.com/doctors/Dr_Michelle_Roughton.html", "https://www.instagram.com/dr.roughton.amelia/", "https://www.facebook.com/p/Dr-Roughton-at-Amelia-100063981016997/"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Certified Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        },
+          {
+          "@type": "Organization",
+          "name": "American Society of Aesthetic Plastic Surgeons"
+        },
+         {
+          "@type": "Organization",
+          "name": "North Carolina Society of Plastic Surgeons"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of North Carolina at Chapel Hill"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of North Carolina at Chapel Hill, School of Medicine"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Chicago"
+        }
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Certification",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": [
+      "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck", "Body Contouring", "skin removal after weight loss"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        }
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Society of Aesthetic Plastic Surgeons"
+        },
+          {
+          "@type": "Organization",
+          "name": "North Carolina Society of Plastic Surgeons"
+        }
+      ],
+      "pronouns": "she/her",
+      "skills": [
+        "Aesthetic Plastic Surgery", "Patient Education","Surgical Planning", "Breast Augmentation", "plastic surgery", "breast surgery","Tummy Tuck", "drainless tummy tuck", "Body Contouring", "skin removal after weight loss"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-jeremy-pyle",
+  "url": "https://www.askamelia.com/providers/dr-jeremy-pyle",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-jeremy-pyle#physician",
+      "name": "Dr. Jeremy Pyle MD",
+      "description": "Dr. Jeremy Pyle is a board-certified plastic surgeon in Raleigh, North Carolina, and the CEO and founder of Amelia Aesthetics and Amelia HQ. He’s known for a patient-first approach to breast and body surgery that prioritizes trust, education, and thoughtful decision-making at every step.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6419de93bc6ba1a0a46848bd_amelia-surgeon-dr-jeremy-pyle-avatar.avif",
+      "url": "https://www.askamelia.com/providers/dr-jeremy-pyle",
+      "sameAs": [
+        "https://www.realself.com/dr/jeremy-pyle-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-jeremy-pyle-yjt83",
+        "https://doctor.webmd.com/doctor/jeremy-pyle-29128773-3df8-438f-98f2-ecc23230081f-overview",
+        "https://www.vitals.com/doctors/Dr_Jeremy_Pyle.html", "https://www.instagram.com/dr.pyle.amelia/", "https://www.facebook.com/DrPyleatAmelia/"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Certified Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        },
+        {
+          "@type": "Organization",
+          "name": "American College of Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "Southeastern Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "North Carolina Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "North Carolina Medical Society"
+        },
+        {
+          "@type": "Organization",
+          "name": "Wake County Medical Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Alpha Omega Alpha"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University Name"
+        }
+      ],
+      "award": [
+        "Top Plastic Surgeon – Newsweek 2025",
+        "Excellence in Patient Care Award"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Certification",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": ["Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck",
+        "Body Contouring", "skin removal after weight loss", "Preserve breast augmentation", "breast lift", "breast reduction"],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        }
+      ],
+      "memberOf": [
+         {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        },
+        {
+          "@type": "Organization",
+          "name": "American College of Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "Southeastern Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "North Carolina Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "North Carolina Medical Society"
+        },
+        {
+          "@type": "Organization",
+          "name": "Wake County Medical Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Alpha Omega Alpha"
+        }
+      ],
+      "pronouns": "he/him",
+      "skills": [
+        "Aesthetic Plastic Surgery",
+        "Patient Education",
+        "Surgical Planning", "Breast Augmentation", "plastic surgery", "breast surgery", "Tummy Tuck", "drainless tummy tuck", "Body Contouring", "skin removal after weight loss", "Preserve breast augmentation", "breast lift", "breast reduction"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-cedric-hunter",
+  "url": "https://www.askamelia.com/providers/dr-cedric-hunter",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#physician",
+      "name": "Cedric Hunter, MD",
+      "description": "Dr. Cedric L. Hunter is a board-certified plastic surgeon at Amelia Aesthetics in Raleigh, North Carolina, where he specializes in breast and body contouring procedures. Known for his thoughtful approach and commitment to individualized care, Dr. Hunter works closely with each patient to create treatment plans that align with their goals and prioritize safety.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6419de8563629a9a1c1adc64_amelia-surgeon-dr-cedric-hunter-avatar.avif",
+      "url": "https://www.askamelia.com/providers/dr-cedric-hunter",
+      "sameAs": [
+        "https://www.realself.com/dr/cedric-hunter-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-cedric-hunter-gd4wf",
+        "https://www.linkedin.com/in/cedrichuntermd",
+        "https://www.instagram.com/dr.hunter.amelia/", "https://www.tiktok.com/@realdrhunter"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Certified Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Heart Association – ACLS"
+        },
+        {
+          "@type": "Organization",
+          "name": "Alpha Omega Alpha Honor Medical Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Phi Beta Kappa Society"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Medical Association"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Stanford University Medical Center Division of Plastic and Reconstructive Surgery"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Chicago Medical Center Section of Plastic and Reconstructive Surgery"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "Duke University School of Medicine"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "University of North Carolina at Chapel Hill"
+        }
+      ],
+      "award": [
+        "Castle Connolly Top Doctor Award",
+        "Stanford MD Program Teaching Award Nominee", "California Society of Plastic Surgery (CSPS) 2014 Meeting Resident Paper Competition Finalist", "Top 10 Medical Student Abstract at 2011 Academic Surgical Congress Meeting; Finalist for Association for Academic Surgery (AAS) Outstanding Medical Student Award", "Wilson Award for Excellence in Research in Cellular and Molecular Biology – University of North Carolina at Chapel Hill"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Certification",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": [
+      "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck", "Body Contouring", "skin removal after weight loss", "breast reduction", "liposuction","Brazilian Butt Lift", "breast lift", "reconstructive microsurgery"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        }
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+         {
+          "@type": "Organization",
+          "name": "Phi Beta Kappa Society"
+        },
+        {
+          "@type": "Organization",
+          "name": "Alpha Omega Alpha Honor Medical Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "American Medical Association"
+        }
+      ],
+      "pronouns": "he/him",
+      "skills": [
+        "Aesthetic Plastic Surgery", "Patient Education", "Surgical Planning", "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck", "Body Contouring", "skin removal after weight loss", "breast reduction", "liposuction","Brazilian Butt Lift", "breast lift", "reconstructive microsurgery"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-marcos-lopez",
+  "url": "https://www.askamelia.com/providers/dr-marcos-lopez",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-marcos-lopez#physician",
+      "name": "Marcos Lopez, MD",
+      "description": "Dr. Marcos Lopez is a board-certified plastic surgeon and CEO of Amelia Aesthetics in San Antonio, Texas. Known for his thoughtful, patient-first approach to breast and body procedures, he combines advanced surgical expertise with a deep commitment to natural, individualized results.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66fc477a454a30cb15c92879_amelia-surgeon-dr-marcos-lopez-headshot.avif",
+      "url": "https://www.askamelia.com/providers/dr-marcos-lopez",
+      "sameAs": [
+        "https://www.realself.com/dr/marcos-lopez-san-antonio-tx",
+        "https://www.healthgrades.com/physician/dr-marcos-lopez-xyn9hx8",
+        "https://www.instagram.com/dr.lopez.amelia/"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Certified Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "The University of Florida"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "Columbia University College of Physician & Surgeons"
+        }
+      ],
+      "award": [
+        "Cefalo House Officer award",
+        "Award for highest Plastic Surgery Inservice Exam score", "Amos Award for outstanding PGY-2 on Breast Surgical Oncology", "Messick Award for Excellence in Surgical Critical Care", "Knapp Award (Columbia student(s) with highest academic achievement)", "Alpha Omega Alpha
+UF Anderson Scholar (>60 credit hours with a 4.0 GPA)", "Golden Key International Honors Society (top 15% of class)", "Presidents list (4.0 GPA at University of Florida)"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Certification",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": [
+      "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck",
+        "Body Contouring", "skin removal after weight loss"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Spanish"
+        }
+      ],
+      "pronouns": "he/him",
+      "skills": [
+        "Aesthetic Plastic Surgery", "breast surgery", "body contouring", "skin removal after weight loss",
+        "Patient Education",
+        "Surgical Planning"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-aspinder-singh",
+  "url": "https://www.askamelia.com/providers/dr-aspinder-singh",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-aspinder-singh#physician",
+      "name": "Aspinder Singh, MD",
+      "description": "Dr. Aspinder Singh is a board-eligible plastic surgeon known for his thoughtful, holistic approach to facial plastic surgery. He combines advanced surgical training with a strong emphasis on natural results, taking the time to understand your goals and help you feel confident in every step of your journey. Dr. Singh is committed to delivering natural, balanced results that align with how you want to look and feel.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66aa8e53788c555b1c097621_amelia-surgeon-dr-aspinder-singh.avif",
+      "url": "https://www.askamelia.com/providers/dr-aspinder-singh",
+      "sameAs": [
+        "https://www.realself.com/dr/aspinder-singh-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-aspinder-singh-xymqc2l",
+        "https://www.instagram.com/dr.singh.amelia/",
+        "https://www.linkedin.com/in/aspinder-singh-86686626/es"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Eligible Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+    
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        },
+        {
+          "@type": "Organization",
+          "name": "The Aesthetics Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Arnold P. Gold Humanism Honor Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Landacre Medical Research Honors Society"
+        },
+        {
+          "@type": "Organization",
+          "name": "Beta Gamma Sigma Business Honor Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Phi Beta Kappa Honor Society"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Pittsburgh Medical Center"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "Michael E. DeBakey Department of Surgery at Baylor College of Medicine"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "The Ohio State University College of Medicine"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "The Ohio State University College of Medicine"
+        },
+          {
+          "@type": "CollegeOrUniversity",
+          "name": "The Ohio State University"
+        }
+      ],
+      "award": [
+        "Williams Award (academic excellence) – May 2016",
+        "Daniel Howland Prize (healthcare administration) – May 2016", "OSU Humanitarian Award for Service to Community – October 2012"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Eligible",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": [
+      "Breast Augmentation", "plastic surgery", "breast surgery", "deep plane facelift", "facial plastic surgery", "face rejuventation", "deep plane neck lift", "brow lift", "blepharoplasty", "rhinoplasty",
+        "Tummy Tuck", "drainless tummy tuck",
+        "Body Contouring", "skin removal after weight loss"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Spanish"
+        }
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "The Aesthetics Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Arnold P. Gold Humanism Honor Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Landacre Medical Research Honors Society"
+        },
+        {
+          "@type": "Organization",
+          "name": "Beta Gamma Sigma Business Honor Society"
+        },
+         {
+          "@type": "Organization",
+          "name": "Phi Beta Kappa Honor Society"
+        }
+      ],
+      "pronouns": "he/him",
+      "skills": [
+        "Aesthetic Plastic Surgery", "facial rejuventation", "deep plane facelift", "natural results", "deep plane neck lift", "blepharoplasty", "rhinoplasty", "brow lift", 
+        "Patient Education",
+        "Surgical Planning"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-kamran-khan",
+  "url": "https://www.askamelia.com/providers/dr-kamran-khan",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-kamran-khan#physician",
+      "name": "Kamran Khan, MD",
+      "description": "Dr. Kamran Khan is a board-eligible plastic surgeon and CEO of Amelia Aesthetics South Florida in Boynton Beach. Dr. Khan believes that every patient’s journey is personal and deserves a plan that reflects that. Known for his ability to blend advanced surgical training with emerging technologies, he works closely with each patient to understand their goals and create a plan that prioritizes safety, your goals, and natural-looking results.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/66a7a3cce20103641ffcd976_amelia-surgeon-dr-kamran-khan.avif",
+      "url": "https://www.askamelia.com/providers/dr-kamran-khan",
+      "sameAs": [
+        "https://www.healthgrades.com/physician/dr-kamran-khan-xyn6hg2",
+        "https://scholar.google.com/citations?user=TLh5gFAAAAAJ&hl=en",
+        "https://www.linkedin.com/in/kamran-khan-8a7058107",
+        "https://www.tiktok.com/@dr.kam.khan", "https://www.instagram.com/dr.khan.amelia/", "https://www.facebook.com/p/Dr-Khan-at-Amelia-61563802611435/"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Eligible Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+      
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of North Carolina Chapel Hill"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of New Mexico"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Xavier University School of Medicine"
+        }
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Eligible",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": [
+      "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck", "Body Contouring", "skin removal after weight loss"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Spanish"
+        }
+      ],
+      "pronouns": "he/him",
+      "skills": [
+        "Aesthetic Plastic Surgery",
+        "Patient Education",
+        "Surgical Planning", "Breast Augmentation", "plastic surgery", "breast surgery", "Tummy Tuck", "drainless tummy tuck",
+        "Body Contouring", "skin removal after weight loss"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-trace-browne",
+  "url": "https://www.askamelia.com/providers/dr-trace-browne",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-trace-browne#physician",
+      "name": "Trace Browne III, MD",
+      "alternateName": "Donald Trace Browne III, MD",
+      "description": "Dr. Trace Browne is a board-eligible plastic surgeon at Amelia Aesthetics in Raleigh, North Carolina. He’s known for a thoughtful, patient-first approach that prioritizes listening, education, and creating a plan that feels right for you. Whether you’re just starting to explore your options or you’ve been thinking about surgery for a while, Dr. Browne takes the time to understand your goals, answer your questions, and help you feel confident in every step of the process.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/686ef0fe4857ec0e5dd5b095_amelia-surgeon-rdu-browne-headshot.webp",
+      "url": "https://www.askamelia.com/providers/dr-trace-browne",
+      "sameAs": [
+        "https://www.realself.com/dr/trace-browne-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-donald-browne-xynq76m",
+        "https://www.linkedin.com/in/donald-t-browne-md-6125689b",
+        "https://www.instagram.com/dr.browne.amelia/", "https://www.tiktok.com/@dr.browne.amelia"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Eligible Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+           {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        },
+         {
+          "@type": "Organization",
+          "name": "American Association of Hand Surgery"
+        },
+        {
+          "@type": "Organization",
+          "name": "North Carolina Society of Plastic Surgery"
+        },
+         {
+          "@type": "Organization",
+          "name": "Southeastern Society of Plastic Surgery"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Medical Association"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Wake Forest Baptist Health"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "Medical College of Georgia at Augusta University"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "The University of Georgia"
+        }
+      ],
+      "award": [
+        "2nd Place Surgical Sciences Research Day Wake Forest Baptist Health",
+        "Highest Inservice Score, Wake Forest Dept. Plastic Surgery", "Deans Clinical Honor Society", "Award for earning 4.0 GPA in all 3rd medical school year clerkships", "Alpha Upsilon Phi Service and Leadership Honor Society", "St. Rocco Award for Compassionate Care", "J.C. Lewis Scholarship Award Winner", "Community Foundation for Greater Atlanta Scholarship Winner", "The Honor Society of Phi Kappa Phi, Inducted"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Eligible",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Board- Eligible Plastic Surgeon"
+      },
+      "knowsAbout": [
+      "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck", "fat transfer to breast", "yoga boobs", "natural breast augmentation", "fashion boobs", "pilates boobs", "small breast implants", "Body Contouring", "skin removal after weight loss"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Spanish"
+        }
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        }
+      ],
+      "pronouns": "he/him",
+      "skills": [
+        "Aesthetic Plastic Surgery",
+        "Patient Education",
+        "Surgical Planning", "Breast Augmentation", "plastic surgery", "breast surgery", "Tummy Tuck", "drainless tummy tuck", "fat transfer to breast", "yoga boobs", "natural breast augmentation", "fashion boobs", "pilates boobs", "small breast implants", "Body Contouring", "skin removal after weight loss"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-shabaaz-sandhu",
+  "url": "https://www.askamelia.com/providers/dr-shabaaz-sandhu",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-shabaaz-sandhu#physician",
+      "name": "Shabaaz Sandhu, MD",
+      "description": "Dr. Shabaaz Sandhu is a board-eligible plastic surgeon and CEO at Amelia Aesthetics in Tampa Bay, Florida. He’s known for his thoughtful, patient-first approach and commitment to delivering natural, balanced results. Dr. Sandhu combines advanced surgical training with a strong foundation in patient-centered care, taking the time to understand your goals and guide you through each step of your journey with clarity and compassion. Dr. Sandhu is dedicated to creating results that are aligned with your individual anatomy and vision.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6851ffc4c832bba3986c472c_amelia-surgeon-dr-shabaaz-sandhu.jpg",
+      "url": "https://www.askamelia.com/providers/dr-shabaaz-sandhu",
+      "sameAs": [
+        "https://www.realself.com/review/tummy-tuck-dr-sandhu-amelia-aesthetics-tampa",
+        "https://www.healthgrades.com/physician/dr-shabaaz-sandhu-1g7uin0706",
+        "https://www.instagram.com/dr.sandhu.amelia",
+        "https://www.tiktok.com/@shahbaz.sandhu", "https://www.facebook.com/people/Dr-Sandhu-at-Amelia/61576612701744/#"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Eligible Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+        {
+          "@type": "Organization",
+          "name": "Florida Society of Plastic Surgeons"
+        },
+          {
+          "@type": "Organization",
+          "name": "AΩA Honor Society – University of South Florida, Gamma Chapter"
+        },
+         {
+          "@type": "Organization",
+          "name": "International Association of Medical Science Educators"
+        },
+         {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of North Carolina Chapel Hill"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "University of South Florida Morsani College of Medicine"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of South Florida"
+        }
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Eligible",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": [
+        "Breast Augmentation", "plastic surgery", "breast surgery",
+        "Tummy Tuck", "drainless tummy tuck",
+        "Body Contouring", "skin removal after weight loss"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Spanish"
+        }
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+        {
+          "@type": "Organization",
+          "name": "Florida Society of Plastic Surgeons"
+        },
+          {
+          "@type": "Organization",
+          "name": "AΩA Honor Society – University of South Florida, Gamma Chapter"
+        },
+         {
+          "@type": "Organization",
+          "name": "International Association of Medical Science Educators"
+        },
+         {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        }
+      ],
+      "pronouns": "he/him",
+      "skills": [
+        "Aesthetic Plastic Surgery", "breast surgery", "body contouring surgery", "skin removal after major weight loss",
+        "Patient Education",
+        "Surgical Planning"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@type": "thing",
+  "@id": "https://www.askamelia.com/providers/dr-anthony-azzolini",
+  "url": "https://www.askamelia.com/providers/dr-anthony-azzolini",
+  "@graph": [
+    {
+      "@type": ["Person", "Physician"],
+      "@id": "https://www.askamelia.com/providers/dr-anthony-azzolini#physician",
+      "name": "Anthony Azzolini, MD",
+      "description": "Dr. Anthony Azzolini is a plastic surgeon at Amelia Aesthetics in Wilmington, North Carolina. He’s known for his thoughtful, patient-first approach to breast and body surgery. With a strong foundation in both reconstructive and aesthetic surgery, Dr. Azzolini takes the time to understand your goals, ensuring you feel informed, supported, and confident throughout your entire experience.",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/686ef07a91bed98ef106966b_ilm-azzolini-headshot.webp",
+      "url": "https://www.askamelia.com/providers/dr-anthony-azzolini",
+      "sameAs": [
+        "https://www.realself.com/dr/anthony-azzolini-wilmington-nc",
+        "https://www.healthgrades.com/physician/dr-anthony-azzolini-xynxfxn",
+        "https://www.tiktok.com/@dr.azzolini?lang=en",
+        "https://www.instagram.com/dr.azzolini.amelia/"
+      ],
+      "honorificSuffix": "MD",
+      "jobTitle": "Board-Eligible Plastic Surgeon",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.askamelia.com/#organization",
+        "name": "Amelia Aesthetics",
+        "url": "https://www.askamelia.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+        {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+         {
+          "@type": "Organization",
+          "name": "American Medical Association"
+        },
+        {
+          "@type": "Organization",
+          "name": "American College of Surgeons"
+        },
+         {
+          "@type": "Organization",
+          "name": "Alpha Omega Alpha (AOA) Medical Honors Society"
+        },
+        {
+          "@type": "Organization",
+          "name": "Greater Louisville Medical Society (GLMS)"
+        },
+        {
+          "@type": "Organization",
+          "name": "Amelia Aesthetics"
+        }
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "UNIVERSITY OF LOUISVILLE"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "RUTGERS – ROBERT WOOD JOHNSON MEDICAL SCHOOL"
+        },
+         {
+          "@type": "CollegeOrUniversity",
+          "name": "WILLIAM PATERSON UNIVERSITY"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "STEVEN’S INSTITUTE OF TECHNOLOGY"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "THE UNIVERSITY OF TENNESSEE (Knoxville, TN)"
+        }
+      ],
+      "award": [
+        "Research Award – University of Louisville School of Medicine 2025",
+        "Clinical Excellence Award – University of Louisville School of Medicine 2025", "Outstanding Research Presentation Award – Kentucky Society of Plastic Surgery 2024", "Outstanding Research Presentation Award – Kentucky Society of Plastic Surgery 2022", "John H. Landor, MD, FACS – Excellence in Teaching Award 2022", "Humanism and Excellence in Teaching Award: For exemplary compassion, empathy, and respect for patients and for excellence in the art of medicine 2017", "The Alpha Omega Alpha (AOA) Medical Honors Society 2017", "Gold Humanism Honor society 2017", "University Scholarship for Academic Achievement 2006-2010", "Dean’s Honor List: The University of Tennessee 2006-2008"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Amelia Aesthetics"
+      },
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "Board Eligble",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "American Board of Plastic Surgery"
+          }
+        }
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Plastic Surgeon"
+      },
+      "knowsAbout": [
+        "Breast Augmentation",
+        "Tummy Tuck",
+        "Body Contouring",
+        "Facial Rejuvenation", "Preservé Breast Augmentation", "Skin Removal after weight loss"
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        }
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "American Society of Plastic Surgeons"
+        },
+         {
+          "@type": "Organization",
+          "name": "American Board of Plastic Surgery"
+        },
+         {
+          "@type": "Organization",
+          "name": "American Medical Association"
+        },
+        {
+          "@type": "Organization",
+          "name": "American College of Surgeons"
+        },
+         {
+          "@type": "Organization",
+          "name": "Alpha Omega Alpha (AOA) Medical Honors Society"
+        },
+        {
+          "@type": "Organization",
+          "name": "Greater Louisville Medical Society (GLMS)"
+        }
+      ],
+      "pronouns": "he/him",
+      "skills": [
+        "Aesthetic Plastic Surgery",
+        "Patient Education",
+        "Surgical Planning", "body contouring after weight loss", "breast syrgery", "body contouring surgery"
+      ]
+    }
+  ]
+}
+]
