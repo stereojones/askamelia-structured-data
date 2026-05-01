@@ -910,7 +910,7 @@
   },
   {
     "@type": "FAQPage",
-    "@id": "https://www.askamelia.com/providers/dr-cedric-hunter#faq",
+    "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#faq",
     "isPartOf": {
       "@id": "https://www.askamelia.com/#webpage"
     },
@@ -1024,7 +1024,7 @@
         "name": "Do Implants Need to Be Replaced Every 10 Years?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "It’s a myth that implants expire after 10 years. There is no expiration date. Generally, if you’re happy with your implants, there is no need to exchange them. However, older implants (15–20+ years old) may be replaced due to rupture risk. Newer cohesive “gummy bear” implants typically do not routinely require replacement and can remain for as long as there are no issues. That being said, implants are medical devices and are not intended to last forever."
+          "text": "It’s a myth that implants “expire” after 10 years. There is no expiration date. Generally, if you’re happy with your implants, there is no need to exchange them. However, older implants (15–20+ years old) may be replaced due to rupture risk. Newer cohesive “gummy bear” implants typically do not routinely require replacement and can remain for as long as there are no issues. That being said, implants are medical devices and are not intended to last forever."
         }
       },
       {
