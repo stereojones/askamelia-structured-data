@@ -1686,10 +1686,10 @@
       "email": "patientcare.tpa@askamelia.com",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "13109 US Hwy 301 S.",
-        "addressLocality": "Riverview",
+        "streetAddress": "12321 W Linebaugh Ave.",
+        "addressLocality": "Westchase",
         "addressRegion": "FL",
-        "postalCode": "33578",
+        "postalCode": "33626",
         "addressCountry": "US"
       },
       "openingHoursSpecification": [
@@ -1700,7 +1700,7 @@
           "closes": "17:00"
         }
       ],
-          "hasMap": "https://maps.app.goo.gl/smECQrhtdY3cr8n47",
+          "hasMap": "https://maps.app.goo.gl/3cCP8HXoWxtv83iNA",
       "paymentAccepted": ["credit", "debit", "cash", "cashier check", "personal check", "Apple Pay", "Google Pay", "Care Credit", "Alphaeon", "Cherry"],
       "priceRange": "$$$",
       "employee": [
@@ -1851,7 +1851,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
           "@id": "https://www.askamelia.com/locations/tampa-bay#faq-a8",
-        "text": "Amelia Aesthetics is conveniently located at 13109 US Hwy 301 S., Riverview, FL, serving patients from across the greater Tampa Bay area. The practice is easy to access and designed to provide a comfortable, private, and welcoming environment for both surgical and medspa patients."
+        "text": "Amelia Aesthetics is conveniently located at 12321 W Linebaugh Ave, Westchase, FL, serving patients from across the greater Tampa Bay area. The practice is easy to access and designed to provide a comfortable, private, and welcoming environment for both surgical and medspa patients."
         }
     },
       {
