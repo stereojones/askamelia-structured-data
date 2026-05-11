@@ -124,6 +124,27 @@
           "item": {
             "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#post"
           }
+        },
+         {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#post"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#post"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@id": "https://www.askamelia.com/blog/mini-and-mighty-a-thoughtful-guide-to-subtle-breast-augmentation#post"
+          }
         }
       ]
     }
@@ -328,10 +349,58 @@
   },
   {
     "@type": "BlogPosting",
-    "@id": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#post",
-    "url": "https://askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
+    "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#post",
+    "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
     "headline": "Breast Surgery FAQ With Board-Certified Plastic Surgeon Dr. Hunter",
     "datePublished": "2027-02-27",
+    "isPartOf": {
+      "@id": "https://www.askamelia.com/blog#blog"
+    },
+    "author": {
+      "@id": "https://www.askamelia.com/#organization"
+    },
+    "publisher": {
+      "@id": "https://www.askamelia.com/#organization"
+    }
+  },
+  {
+    "@type": "BlogPosting",
+    "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom#post",
+    "url": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
+    "headline": "Tummy Tuck FAQ With Dr. Alan Tom at Amelia Aesthetics St. Louis",
+    "datePublished": "2027-04-17",
+    "isPartOf": {
+      "@id": "https://www.askamelia.com/blog#blog"
+    },
+    "author": {
+      "@id": "https://www.askamelia.com/#organization"
+    },
+    "publisher": {
+      "@id": "https://www.askamelia.com/#organization"
+    }
+  },
+  {
+    "@type": "BlogPosting",
+    "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez#post",
+    "url": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez",
+    "headline": "A Deeper Dive Into Breast Augmentation With Dr. Marcos Lopez",
+    "datePublished": "2027-04-17",
+    "isPartOf": {
+      "@id": "https://www.askamelia.com/blog#blog"
+    },
+    "author": {
+      "@id": "https://www.askamelia.com/#organization"
+    },
+    "publisher": {
+      "@id": "https://www.askamelia.com/#organization"
+    }
+    },
+    {
+    "@type": "BlogPosting",
+    "@id": "https://www.askamelia.com/blog/post-weight-loss-plastic-surgery-what-to-know-before-you-start#post",
+    "url": "https://www.askamelia.com/blog/post-weight-loss-plastic-surgery-what-to-know-before-you-start",
+    "headline": "Post-Weight Loss Plastic Surgery: What to Know Before You Start",
+    "datePublished": "2027-06-26",
     "isPartOf": {
       "@id": "https://www.askamelia.com/blog#blog"
     },
