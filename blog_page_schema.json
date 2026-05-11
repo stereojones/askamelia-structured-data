@@ -1,4 +1,106 @@
 [
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/blog/nicole-journey#thing",
+      "name": "Nicole’s Weight Loss and Skin Removal Journey",
+      "description": "After losing 130 pounds, Nicole enters the third and final phase of her skin removal journey. Here's what she had to say about her weight loss and skin removal journey.",
+      "url": "ttps://www.askamelia.com/blog/nicole-journey",
+      "owner": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "subjectOf": {
+        "@id": "https://www.askamelia.com/blog/nicole-journey#webpage"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/blog/nicole-journey#webpage",
+      "url": "https://www.askamelia.com/blog/nicole-journey",
+      "name": "Nicole’s Weight Loss and Skin Removal Journey | Amelia Aesthetics",
+      "description": "After losing 130 pounds, Nicole enters the third and final phase of her skin removal journey. Here&#x27;s what she had to say about her weight loss and skin removal journey.",
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/blog/nicole-journey#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/nicole-journey#thing"
+      }
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/blog/nicole-journey#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Blog",
+          "item": "https://www.askamelia.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nicole’s Weight Loss and Skin Removal Journey",
+          "item": "https://www.askamelia.com/blog/nicole-journey"
+        }
+      ]
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/blog/nicole-journey#creativework",
+      "about": {
+        "@id": "https://www.askamelia.com/blog/nicole-journey#thing"
+      },
+      "abstract": "Nicole’s story shares her experience losing 130 pounds and undergoing multiple skin removal procedures after years of struggling with weight, body image, and self-confidence. The article explores the emotional and physical realities of major weight loss, including bariatric surgery, maintaining long-term lifestyle changes, excess skin removal, and the ongoing mental adjustment that can come with body transformation. Through honest reflections on confidence, recovery, relationships, and self-worth, Nicole highlights how procedures like a fleur-de-lis tummy tuck, breast lift, lower body lift, arm lift, and thigh lift helped her feel more comfortable, capable, and aligned with how she sees herself internally. The piece emphasizes that weight loss and plastic surgery are deeply personal journeys centered on health, healing, and reclaiming quality of life.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients seeking plastic surgery after weight loss"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "datePublished": "2025-06-11",
+      "dateModified": "2025-06-11",
+      "keywords": [
+        "post weight loss surgery St Louis",
+        "excess skin removal St Louis",
+        "body contouring after weight loss St Louis", "skin removal surgery St Louis MO", "plastic surgery after weight loss St Louis", "lower body lift St Louis", "fleur de lis tummy tuck St Louis", "tummy tuck after weight loss St Louis", "breast lift after weight loss St Louis", "arm lift (brachioplasty) St Louis", "thigh lift St Louis MO"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://www.askamelia.com/blog/nicole-journey#article",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/nicole-journey#webpage"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/nicole-journey#thing"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2025-06-11",
+      "dateModified": "2025-06-11",
+      "articleBody": "The Stuff They Don’t Tell You About Weight Loss Something they don’t tell you when you’re losing weight is how much things change for the better and how some things don’t change at all. After losing 130 pounds, I’m now the type of person to volunteer to give a speech at the event I organized, host a podcast, and willingly pose for photos. Even more so, I don’t die inside when I see those photos posted online. I feel I deserve the good things that happen to me. I’m not afraid to be heard and to advocate for my needs. I know I’m worth that “excuse me” from the person who bumped into me and the “you got it” without a judgmental glance from the waiter when I order a side of fries instead of a salad. But that budding confidence hasn’t replaced the old narratives, loops of shame and embarrassment, feelings of otherness and exclusion—instead, they coexist, bleeding together, taking turns overpowering the other. It’s confusing. The world changes when you aren’t fat anymore. People treat you differently when they don’t see you as “fat” anymore. Strangers smile at you, say thank you when you hold the door, don’t cringe when you walk onto the plane. Someone might strike up a conversation as you’re waiting in line at the supermarket. All of that seems like it would be nice, but honestly, it’s a little frustrating. In the back of my mind, I wonder if these people would have been this nice if I were still heavier. Sometimes, I’m resentful that the world is suddenly kinder to me. I’m still battling my “fat head.” I still believe things about myself that aren't true—beliefs based on what society, media, and culture told me about people, like me, who carry a lot of weight on their bodies. I can hear what others are thinking and echo their thoughts, lazy with no self-control, fat. Just like them, I don’t consider the fact that there are different body types and genetics or that food does more than just satiate hunger. I look at my body and I call myself a failure. I feel the weight of every shameful bite that turned into pounds, a physical reminder of every moment I tried to forget. Not enough, too much, unworthy embedded themselves in my brain and became a part of who I am. It’s difficult to flip that switch completely. Even after years of keeping off the weight and in the midst of my skin removal journey, there's this part of me that has those lingering thoughts about myself. I call it my “fat head.” As a person who carried a tremendous amount of weight for a long time and then lost that weight, my brain is taking longer to catch up with the changes. I needed, and still do need, time to adjust. I know I’m not big or heavier anymore. I’m in a much smaller size of clothing. The number on the scale is lower. I know these things rationally in my brain, but there's this part of me that still doesn't really believe it. Yes, losing physical weight, and having skin removal surgeries have been huge for me. It's been an improvement. I mean a huge change, but the mental and emotional work of changing the way I see and talk to myself is ongoing, probably forever. And though it is work, it kind of excites me. Gaining, Losing, and Maintaining Weight Over the Years I started gaining weight when I was about nineteen years old after I married my first husband. Truth is I was too young to get married, but you couldn't tell me that then. In the decade we were married I gained 120 pounds and at my heaviest weighed around 280 pounds. Thinking back, a lot of that was just putting myself last and emotional eating. Stuff like that just builds up over time. In 2003, I had bariatric surgery and lost 110 pounds in ten months. After losing weight, I realized that the relationship wasn't for me anymore and the marriage ended. Divorced, Re-Married, Became a Mom Shortly after my divorce, I met my current husband, Dan. We got married and I got pregnant with our son pretty quickly. As one does when growing a human, I gained weight during my pregnancy. After my son was born I lost nearly all the baby weight and was feeling proud and ready for this next chapter. Bariatric surgery isn’t cheating—it’s a tool. Ten years into my son’s life, I found myself 80 pounds heavier. I’ve heard more times than I can count, as I’m sure all bariatric patients have, “You cheated and took the easy way out.” That's just not true. It's a tool that you choose to utilize or not. During that time after my son was born, I wasn’t using the tool. I got cocky and I started finding foods I could eat a lot of—the foods that just kind of move on through your body and don’t make you feel full as a bariatric patient. I found a loophole and settled into old habits. I fell off, but I got back up. In 2022, I realized I didn’t want to age like that. I wanted to be mobile and participate in my life and my family’s lives. I didn’t want to observe from the sidelines anymore. I decided right then and there that I would lose the weight for the last time and once I did, I would finally get all the loose skin removed. I started to work with a trainer, hired an online health coach, and started a GLP-1. Six months later, I had a balanced lifestyle with a solid exercise routine and was in a place mentally and physically that I could maintain. Finally, it was time to do something about the excess skin. My Skin Removal and Plastic Surgery Journey The first time Dan and I talked about skin removal surgery after weight loss, I surprised both of us. Dan had always known me with loose skin. And though he was never bothered by the excess skin, he understood and supported the surgery. Intertwined with his support were well-meaning comments like, “You know you don’t need to do this” or “You don’t need to do this for me.” To which I replied confidently, without hesitation, shame, or guilt, “I’m not. I’m doing it for me. All of this has been for me.” In that moment, I knew just how much my confidence, self-respect, and the feeling I deserve good things had grown. Finding a Skin Removal Plastic Surgeon Near Me When it came time to find a plastic surgeon for skin removal surgery, I got lucky. Dr. Rafi Fredman came highly recommended by my sister who was no rookie in the world of plastic surgery. The moment I went to the website I knew I was in the right place. As of today, I've had three procedures done in two phases, and am about to have my final one at the end of August of this year. Skin Removal Surgery Phase 1: Fleur de Lis Abdominoplasty and Mastopexy My first phase was in December 2022. I had a fleur de lis tummy tuck, muscle repair to correct diastasis recti, ten pounds of skin removed, waistline liposuction, and a breast lift with bra line lipo. I remember when I took the garment off for the first time to take a shower two days post-op and I just started to cry. My husband panicked thinking I was in pain. But really, I was so very happy. I couldn’t believe this was my body. Skin Removal Surgery Phase 2: Lower Body Lift In December 2023, I had my second phase—a posterior body lift, also known as a lower body lift. This removes excess skin and fat from the lower back to lift the thighs and glutes. Recovery included about a week off completely, gradual return to normal activity by week three, and six weeks of lifting restrictions. The Mental Side of Recovery Healing was both physical and emotional. With downtime, my “fat head” resurfaced. I questioned my decisions, whether I was selfish, and whether it was worth it. But it wasn’t just about appearance—it was about comfort. For the first time, I felt comfortable in my clothes. I wasn’t hiding. I was just being. When Your Physical Body Matches How You Feel on the Inside For most of my life, my body defined me. Pain and perception shaped how I moved through the world. Now, my outward appearance is beginning to match how I feel internally, opening new opportunities for connection and confidence. Skin Removal Surgery Phase 3: Brachioplasty and Thighplasty My third and final phase includes an arm lift and thigh lift to remove excess skin. I feel prepared and excited, even knowing recovery will be challenging. Final Results Timeline for Skin Removal Surgery Final results typically take about twelve months as swelling resolves and scars mature. However, noticeable improvements happen early in recovery.",
+      "wordCount": "2713"
+    }
+  ]
+},
   {
   "@context": "https://schema.org",
     "@type": "Thing",
