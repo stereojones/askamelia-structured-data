@@ -407,8 +407,6 @@
   {
   "@context": "https://schema.org",
     "@type": "Thing",
-  "@id": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez",
-    "url": "https://www.askamelia.com/blog/a-deeper-dive-into-breast-augmentation-with-dr-marcos-lopez",
   "@graph": [
     {
       "@type": "Thing",
@@ -506,10 +504,8 @@
   ]
 },
   {
-    "@context": "https://schema.org",
+   "@context": "https://schema.org",
      "@type": "Thing",
-  "@id": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
-    "url": "https://www.askamelia.com/blog/tummy-tuck-faq-with-dr-alan-tom",
     "@graph": [
       {
         "@type": "Thing",
@@ -810,8 +806,6 @@
   {
    "@context": "https://schema.org",
     "@type": "Thing",
-  "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
-    "url": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter",
   "@graph": [
   {
     "@type": "Thing",
@@ -895,7 +889,7 @@
     "@type": "Article",
     "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#article",
     "isPartOf": {
-      "@id": "https://www.askamelia.com/#webpage"
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage"
     },
     "about": {
       "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#thing"
@@ -912,7 +906,7 @@
     "@type": "FAQPage",
     "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#faq",
     "isPartOf": {
-      "@id": "https://www.askamelia.com/#webpage"
+      "@id": "https://www.askamelia.com/blog/breast-surgery-faq-with-board-certified-plastic-surgeon-dr-hunter#webpage"
     },
     "mainEntity": [
       {
@@ -950,14 +944,6 @@
       {
         "@type": "Question",
         "name": "How Do I Know If My Implants Are “Too Big” for Me?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "There’s no universal equation. Implants are “too big” if: You feel uncomfortable, They don’t fit your lifestyle, Clothing becomes frustrating, You don’t like the aesthetic. However, proportional considerations do matter: Breast width, Chest diameter, Skin thickness, Tissue coverage. A skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Over vs. Under the Muscle: Which Is Better?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "There’s no universal equation. Implants are “too big” if: You feel uncomfortable, They don’t fit your lifestyle, Clothing becomes frustrating, You don’t like the aesthetic. However, proportional considerations do matter: Breast width, Chest diameter, Skin thickness, Tissue coverage. A skilled surgeon will balance your goals with your anatomy, but size is ultimately a personal decision."

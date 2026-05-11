@@ -1,0 +1,313 @@
+##blog page schema injector##
+<script>
+    (function() {
+      var path = window.location.pathname.replace(/\/$/, "");
+      if (path.indexOf("/blog/") !== 0) return;
+    
+      function getPathname(url) {
+        if (!url) return "";
+        var a = document.createElement("a");
+        a.href = url;
+        return (a.pathname || "").replace(/\/$/, "");
+      }
+    
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "https://stereojones.github.io/askamelia-structured-data/blog_page_schema.json", true);
+    
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+          if (xhr.status !== 200) {
+            console.error("Blog page schema request failed", xhr.status);
+            return;
+          }
+    
+          try {
+            var data = JSON.parse(xhr.responseText);
+            var outerGraph = Array.isArray(data)
+      ? data
+      : (data && typeof data === "object" && data["@graph"] ? [data] : []);
+            var matchedObject = null;
+            var i, j, entry, innerGraph, graphItem, itemPath;
+    
+            for (i = 0; i < outerGraph.length; i++) {
+              entry = outerGraph[i];
+              innerGraph = entry && entry["@graph"] ? entry["@graph"] : [];
+    
+              for (j = 0; j < innerGraph.length; j++) {
+                graphItem = innerGraph[j];
+    
+                if (graphItem && graphItem["@type"] === "WebPage" && graphItem.url) {
+                  itemPath = getPathname(graphItem.url);
+    
+                  if (itemPath === path) {
+                    matchedObject = entry;
+                    break;
+                  }
+                }
+              }
+    
+              if (matchedObject) break;
+            }
+    
+            if (matchedObject) {
+              var script = document.createElement("script");
+              script.type = "application/ld+json";
+              script.text = JSON.stringify(matchedObject);
+              document.head.appendChild(script);
+              console.log("Injected blog page schema for:", path);
+            } else {
+              console.warn("No matching blog page schema found for:", path);
+            }
+          } catch (e) {
+            console.error("Blog page schema injection error", e);
+          }
+        }
+      };
+    
+      xhr.send();
+    })();
+    </script>
+
+##Blog schema injector##
+    <script>
+        (function() {
+          /* blog_schema.json root is a flat array of nodes (not { "@graph": [...] }). */
+          var path = (window.location.pathname || "").replace(/\/+$/, "") || "/";
+          if (path !== "/blog") return;
+        
+          var xhr = new XMLHttpRequest();
+          xhr.open("GET", "https://stereojones.github.io/askamelia-structured-data/blog_schema.json", true);
+        
+          xhr.onreadystatechange = function() {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+              try {
+                var data = JSON.parse(xhr.responseText);
+                var graph = Array.isArray(data)
+                  ? data
+                  : (data && typeof data === "object" && data["@graph"] ? data["@graph"] : []);
+                for (var i = 0; i < graph.length; i++) {
+                  var obj = graph[i];
+                  if (
+                    (obj["@type"] === "CollectionPage" && obj.url === "https://www.askamelia.com/blog") ||
+                    obj["@type"] === "Blog"
+                  ) {
+                    var script = document.createElement("script");
+                    script.type = "application/ld+json";
+                    script.text = JSON.stringify(obj);
+                    document.head.appendChild(script);
+                  }
+                }
+              } catch (e) {
+                console.error("Blog index schema injection error", e);
+              }
+            }
+          };
+        
+          xhr.send();
+        })();
+        </script>
+
+##location page schema injector##
+
+<script>
+    (function() {
+      var path = window.location.pathname;
+      if (path.indexOf("/locations/") !== 0) return;
+    
+      var currentUrl = window.location.href.replace(/\/$/, "");
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "https://stereojones.github.io/askamelia-structured-data/location_page_v2_schema.json", true);
+    
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          try {
+            var data = JSON.parse(xhr.responseText);
+            if (!data || !data.length) return;
+    
+            var matchedObject = null;
+            var i, j, graphItem, pageUrl;
+    
+            for (i = 0; i < data.length; i++) {
+              if (data[i] && data[i]["@graph"] && data[i]["@graph"].length) {
+                for (j = 0; j < data[i]["@graph"].length; j++) {
+                  graphItem = data[i]["@graph"][j];
+                  if (graphItem && graphItem.url) {
+                    pageUrl = String(graphItem.url).replace(/\/$/, "");
+                    if (pageUrl === currentUrl) {
+                      matchedObject = data[i];
+                      break;
+                    }
+                  }
+                }
+              }
+              if (matchedObject) break;
+            }
+    
+            if (matchedObject) {
+              var script = document.createElement("script");
+              script.type = "application/ld+json";
+              script.text = JSON.stringify(matchedObject);
+              document.head.appendChild(script);
+            }
+          } catch (e) {
+            console.error("Location schema injection error", e);
+          }
+        }
+      };
+    
+      xhr.send();
+    })();
+    </script>
+
+##medspa local page schema injector##
+
+<script>
+    (function() {
+      var currentPath = window.location.pathname || "";
+      currentPath = currentPath.replace(/\/+$/, "");
+      if (!currentPath) return;
+    
+      function normalizePath(url) {
+        if (!url) return "";
+        var a = document.createElement("a");
+        a.href = url;
+        var path = a.pathname || "";
+        if (path.length > 1) {
+          path = path.replace(/\/+$/, "");
+        }
+        return path;
+      }
+    
+      function findMatchingEntry(node, targetPath) {
+        var i, result, graph, item, nestedGraph;
+    
+        if (!node) return null;
+    
+        if (Object.prototype.toString.call(node) === "[object Array]") {
+          for (i = 0; i < node.length; i++) {
+            result = findMatchingEntry(node[i], targetPath);
+            if (result) return result;
+          }
+          return null;
+        }
+    
+        if (typeof node === "object") {
+          if (node["@graph"] && Object.prototype.toString.call(node["@graph"]) === "[object Array]") {
+            graph = node["@graph"];
+    
+            for (i = 0; i < graph.length; i++) {
+              item = graph[i];
+    
+              if (item && item["@type"] === "WebPage" && item.url) {
+                if (normalizePath(item.url) === targetPath) {
+                  return node;
+                }
+              }
+    
+              if (item && item["@graph"]) {
+                nestedGraph = findMatchingEntry(item, targetPath);
+                if (nestedGraph) {
+                  return node;
+                }
+              }
+            }
+          }
+        }
+    
+        return null;
+      }
+    
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "https://stereojones.github.io/askamelia-structured-data/medspa_local_schema.json", true);
+    
+      xhr.onload = function() {
+        if (xhr.status < 200 || xhr.status >= 300) {
+          if (window.console && console.error) {
+            console.error("JSON-LD: failed to load file", xhr.status, xhr.statusText);
+          }
+          return;
+        }
+    
+        try {
+          var data = JSON.parse(xhr.responseText);
+          var matchedEntry = findMatchingEntry(data, currentPath);
+    
+          if (matchedEntry) {
+            var script = document.createElement("script");
+            script.type = "application/ld+json";
+            script.text = JSON.stringify(matchedEntry);
+            document.head.appendChild(script);
+    
+            if (window.console && console.log) {
+              console.log("JSON-LD: matched and injected for path:", currentPath);
+            }
+          } else if (window.console && console.warn) {
+            console.warn("JSON-LD: no matching entry for path:", currentPath);
+          }
+    
+        } catch (e) {
+          if (window.console && console.error) {
+            console.error("JSON-LD: failed to parse or inject", e);
+          }
+        }
+      };
+    
+      xhr.onerror = function() {
+        if (window.console && console.error) {
+          console.error("JSON-LD: network error loading file");
+        }
+      };
+    
+      xhr.send();
+    })();
+    </script>
+
+##provider page schema injector V1##
+
+<script>
+    (function() {
+      var path = window.location.pathname;
+      if (path.indexOf("/providers/") !== 0) return;
+    
+      var currentUrl = window.location.href.replace(/\/$/, "");
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "https://stereojones.github.io/askamelia-structured-data/provider_page_v1_schema.json", true);
+    
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          try {
+            var data = JSON.parse(xhr.responseText);
+            if (!data || !data.length) return;
+    
+            var matchedObject = null;
+            var i, obj, objUrl;
+    
+            for (i = 0; i < data.length; i++) {
+              obj = data[i];
+              if (obj && obj.url) {
+                objUrl = String(obj.url).replace(/\/$/, "");
+                if (objUrl === currentUrl) {
+                  matchedObject = obj;
+                  break;
+                }
+              }
+            }
+    
+            if (matchedObject) {
+              var script = document.createElement("script");
+              script.type = "application/ld+json";
+              script.text = JSON.stringify(matchedObject);
+              document.head.appendChild(script);
+            }
+          } catch (e) {
+            console.error("Provider schema injection error", e);
+          }
+        }
+      };
+    
+      xhr.send();
+    })();
+    </script>
+
+##provider page schema injector V2 TBD##
+

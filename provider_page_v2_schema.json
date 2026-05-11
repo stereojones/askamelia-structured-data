@@ -545,9 +545,7 @@
         }
       ],
       "award": [
-        "Cefalo House Officer award",
-        "Award for highest Plastic Surgery Inservice Exam score", "Amos Award for outstanding PGY-2 on Breast Surgical Oncology", "Messick Award for Excellence in Surgical Critical Care", "Knapp Award (Columbia student(s) with highest academic achievement)", "Alpha Omega Alpha
-UF Anderson Scholar (>60 credit hours with a 4.0 GPA)", "Golden Key International Honors Society (top 15% of class)", "Presidents list (4.0 GPA at University of Florida)"
+        "Cefalo House Officer award", "Award for highest Plastic Surgery Inservice Exam score", "Amos Award for outstanding PGY-2 on Breast Surgical Oncology", "Messick Award for Excellence in Surgical Critical Care", "Knapp Award (Columbia student(s) with highest academic achievement)", "Alpha Omega Alpha", "UF Anderson Scholar (>60 credit hours with a 4.0 GPA)", "Golden Key International Honors Society (top 15% of class)", "Presidents list (4.0 GPA at University of Florida)"
       ],
       "brand": {
         "@type": "Brand",
