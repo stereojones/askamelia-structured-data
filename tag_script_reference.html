@@ -309,5 +309,54 @@
     })();
     </script>
 
-##provider page schema injector V2 TBD##
+##provider page schema injector V2##
+
+<script>
+    (function() {
+      var path = window.location.pathname;
+      if (path.indexOf("/providers/") !== 0) return;
+
+      /* provider_page_v2_schema.json: root array of { @context, @type, @id, url, @graph } bundles */
+      var currentUrl = window.location.href.replace(/\/$/, "");
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "https://stereojones.github.io/askamelia-structured-data/provider_page_v2_schema.json", true);
+
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          try {
+            var data = JSON.parse(xhr.responseText);
+            var bundles = Array.isArray(data)
+              ? data
+              : (data && typeof data === "object" && data["@graph"] ? [data] : []);
+            if (!bundles.length) return;
+
+            var matchedObject = null;
+            var i, entry, entryUrl;
+
+            for (i = 0; i < bundles.length; i++) {
+              entry = bundles[i];
+              if (entry && entry.url) {
+                entryUrl = String(entry.url).replace(/\/$/, "");
+                if (entryUrl === currentUrl) {
+                  matchedObject = entry;
+                  break;
+                }
+              }
+            }
+
+            if (matchedObject) {
+              var script = document.createElement("script");
+              script.type = "application/ld+json";
+              script.text = JSON.stringify(matchedObject);
+              document.head.appendChild(script);
+            }
+          } catch (e) {
+            console.error("Provider V2 schema injection error", e);
+          }
+        }
+      };
+
+      xhr.send();
+    })();
+    </script>
 
