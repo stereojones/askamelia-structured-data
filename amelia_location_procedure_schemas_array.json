@@ -6547,22 +6547,6 @@
     "availableAtOrFrom": {
       "@id": "https://www.askamelia.com/locations/st-louis#clinic"
     },
-    "provider": [
-      {
-        "@id": "https://www.askamelia.com/providers/dr-rafi-fredman#provider"
-    }
-    ],
-    "performer": [
-      {
-        "@id": "https://www.askamelia.com/providers/dr-rafi-fredman#provider"
-      }
-    ],
-    "offers": {
-      "@type": "Offer",
-      "url": "https://www.askamelia.com/local/preserve-breast-augmentation-st-louis-mo",
-      "priceCurrency": "USD",
-      "availability": "https://schema.org/InStock"
-    },
     "isPartOf": {
       "@id": "https://www.askamelia.com#organization"
     },
