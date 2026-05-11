@@ -5,6 +5,109 @@
 
     {
       "@type": "Thing",
+      "@id": "https://www.askamelia.com/blog/rebecca-journey#thing",
+      "name": "Rebecca’s Weight Loss and Skin Removal Journey",
+      "description": "What started as a weight loss journey evolved into growth, discovery, and self-love that goes beyond the physical. Overcoming every obstacle thrown her way, Rebecca carved chaos into transformation for herself, her daughters, and the generations to come.",
+      "url": "https://www.askamelia.com/blog/rebecca-journey",
+      "owner": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "subjectOf": {
+        "@id": "https://www.askamelia.com/blog/rebecca-journey#webpage"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/blog/rebecca-journey#webpage",
+      "url": "https://www.askamelia.com/blog/rebecca-journey",
+      "name": "Rebecca’s Weight Loss and Skin Removal Journey | Amelia Aesthetics",
+      "description": "What started as a weight loss journey evolved into growth, discovery, and self-love that goes beyond the physical. Overcoming every obstacle thrown her way, Rebecca carved chaos into transformation for herself, her daughters, and the generations to come.",
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/blog/rebecca-journey#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/rebecca-journey#thing"
+      }
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/blog/rebecca-journey#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Blog",
+          "item": "https://www.askamelia.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rebecca’s Weight Loss and Skin Removal Journey",
+          "item": "https://www.askamelia.com/blog/rebecca-journey"
+        }
+      ]
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/blog/rebecca-journey#creativework",
+      "about": {
+        "@id": "https://www.askamelia.com/blog/rebecca-journey#thing"
+      },
+      "abstract": "Rebecca’s journey shares the emotional and physical transformation that followed significant weight loss and skin removal surgery. More than just a cosmetic change, her story highlights resilience, self-discovery, and rebuilding confidence after years of struggling with weight and excess skin. The article explores how body contouring and skin removal procedures became the final step in aligning her appearance with the hard work, growth, and healing she experienced throughout her weight loss journey.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients seeking plastic surgery after weight loss"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "datePublished": "2025-06-11",
+      "dateModified": "2025-06-11",
+      "keywords": [
+        "tummy tuck after weight loss Raleigh NC",
+        "arm lift brachioplasty Raleigh NC",
+        "thigh lift surgery Raleigh NC", "lower body lift Raleigh NC", "post bariatric body contouring Raleigh NC","skin tightening surgery Raleigh NC", "surgical body contouring Raleigh NC", "after weight loss plastic surgery Raleigh NC"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://www.askamelia.com/blog/rebecca-journey#article",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/rebecca-journey#webpage"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/rebecca-journey#thing"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "datePublished": "2025-06-11",
+      "dateModified": "2025-06-11",
+      "articleBody": "My weight gain started right after I graduated high school. People who have never experienced major weight gain love to oversimplify how one actually becomes obese. It isn’t just sitting on the couch and overeating, though that certainly played a part in my journey. As I’m sure anyone who’s been obese will tell you, my path to being almost 300 pounds was more than just overeating. It was a blend of things in and out of my control. To start, I had a terrible relationship with food. I grew up very poor with my single mom and younger siblings. There were a lot of times when we didn’t have a lot of food to eat. Maybe that’s what fueled my desire to keep eating as an adult—knowing there was food now and I should take advantage of it. As the oldest kid, I was expected to play a role in raising my siblings. I spent my childhood caring for them without a ton of support from the adults in my life. The stress of parenting my younger siblings paved the way for anxiety and depression. The medication I was prescribed to manage my depression came with side effects, two major ones being hormonal changes that further fueled my PCOS and weight gain. PCOS, polycystic ovary syndrome, is a lifelong and hereditary disease—almost every woman in my family has it and it also comes with a long list of side effects including weight gain and increased risk of type 2 diabetes and other chronic health conditions. I started noticing the effects of PCOS in high school. It was slow at first, but as soon as I graduated, the weight just came and stayed. Within three years of graduating high school, I put on 100 pounds. It didn’t help that after graduation I lived with people who enjoyed cooking sweets, desserts, and carbs. Though if I’m being honest, it wasn’t even so much what I was eating, it was how much I was eating. When everything felt dark and gloomy and I felt very alone, food was comfortable. Everything combined just kind of blew up, and before I knew it I was almost 300 pounds. My weight loss journey started at rock bottom. I was pregnant with our youngest when I found out my husband was cheating on me. As dark as it sounds, if he didn’t do what he did, I wouldn’t be here today in this self-love era of wanting to improve. Neither of us came from a healthy family environment and it showed in how we managed our relationship. We had no money, were living with family, and had jobs that barely paid the bills. I was overweight and struggling to play with our toddler without getting tired. I was battling anxiety and depression and felt like I was at rock bottom at 24 years old. The infidelity sparked a fire in me. I was tired of choosing everyone else and not myself. I realized I needed help. We both started individual therapy and couples therapy. My therapist told me I didn’t love myself, and she was right. I had never learned how. With therapy, I began to trust myself, validate myself, and believe I was worthy. Slowly, I started to heal. My husband started to heal. We started to heal together. From there, things began to fall into place. I kept seeing people on TikTok going through weight loss surgery and wanted more for myself. I decided it was time to make my weight loss dream a reality. It’s been three years since I had gastric bypass surgery. Anyone who hasn’t gone through it thinks it’s easy, but it’s one of the most physically and mentally demanding things you can do. I lost 60 pounds before plateauing and then worked with a personal trainer to lose another 70 pounds, totaling 145 pounds lost. After losing over 100 pounds, I noticed people treated me differently, which was frustrating. I had to lose that much weight just for people to see me as powerful. After losing over 140 pounds, I felt skinny but still didn’t feel good due to loose skin and body dysmorphia. I was 28 with excess skin that didn’t reflect how hard I had worked. I felt driven to become my best self and was inspired by Dr. Hunter’s work. I booked a consultation and began my skin removal journey. I’ve had two phases of surgery in Raleigh, NC. My first was a mommy makeover including a breast lift with implants and a tummy tuck with liposuction and muscle repair. The experience and aftercare exceeded my expectations. My second surgery was a thigh lift to remove excess skin and fat. Recovery was manageable, even as a working mom with two kids. For me, skin removal was necessary. Losing weight gave me health, but removing the excess skin gave me confidence. I feel like I can finally show the world who I am. If someone says I’m not the same person, they’re right. That’s what transformation is. I used to hide, avoid attention, and lack confidence. Now I want to be seen, heard, and live fully. The past three years have been fast and full of growth—weight loss, surgery, healing my marriage, buying a house, and advancing my career. While the infidelity was painful, it sparked the change that led me here. I wouldn’t choose a different path. Through this journey, I’ve realized my worth and potential. The weight loss was for me, but the lifestyle is for my daughters. I want them to see what it looks like to love and care for yourself and to know they can achieve anything. Everything I do now is for them and future generations. The growth is beautiful and worth it, and I want every woman to know they deserve to feel confident and empowered in their own body.",
+      "wordCount": "979"
+    }
+
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Thing",
       "@id": "https://www.askamelia.com/blog/nicole-journey#thing",
       "name": "Nicole’s Weight Loss and Skin Removal Journey",
       "description": "After losing 130 pounds, Nicole enters the third and final phase of her skin removal journey. Here's what she had to say about her weight loss and skin removal journey.",
