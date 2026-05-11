@@ -39,7 +39,7 @@
       "@id": "https://www.askamelia.com/blog#itemlist",
       "name": "Amelia Aesthetics Blog Articles",
       "itemListOrder": "https://schema.org/ItemListOrderDescending",
-      "numberOfItems": 11,
+      "numberOfItems": 16,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -144,6 +144,13 @@
           "position": 15,
           "item": {
             "@id": "https://www.askamelia.com/blog/mini-and-mighty-a-thoughtful-guide-to-subtle-breast-augmentation#post"
+          }
+        },
+         {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@id": "https://www.askamelia.com/blog/post-weight-loss-plastic-surgery-what-to-know-before-you-start#post"
           }
         }
       ]
