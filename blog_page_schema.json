@@ -5,6 +5,109 @@
 
     {
       "@type": "Thing",
+      "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#thing",
+      "name": "What’s the difference between a cosmetic surgeon and a plastic surgeon?",
+      "description": "Learn the key differences between cosmetic and board-certified plastic surgeons, training programs, patient care, and tips for choosing the right surgeon for you.",
+      "url": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon",
+      "owner": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "subjectOf": {
+        "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#webpage"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#webpage",
+      "url": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon",
+      "name": "What’s the difference between a cosmetic surgeon and a plastic surgeon?",
+      "description": "Learn the key differences between cosmetic and board-certified plastic surgeons, training programs, patient care, and tips for choosing the right surgeon for you.",
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#thing"
+      }
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Blog",
+          "item": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "What’s the difference between a cosmetic surgeon and a plastic surgeon?",
+          "item": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon"
+        }
+      ]
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#creativework",
+      "about": {
+        "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#thing"
+      },
+      "abstract": "This article explains the differences between plastic surgeons and cosmetic surgeons, focusing on the training, residency programs, board certifications, and safety standards associated with each path. It outlines how board-eligible and board-certified plastic surgeons complete extensive accredited residency training in reconstructive and cosmetic surgery through programs recognized by the American Board of Medical Specialties (ABMS) and the American Board of Plastic Surgery (ABPS). The article also discusses how cosmetic surgeons may come from unrelated medical specialties with varying levels of surgical training. Additionally, it highlights the specialized training pathways of oculoplastic surgeons and ENT-trained facial plastic surgeons. Overall, the article helps patients understand how surgical training, accreditation, and board certification can impact safety, expertise, and surgical outcomes when choosing a surgeon.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients seeking cosmetic surgery"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2026-01-13",
+      "dateModified": "2026-01-13",
+      "keywords": [
+        "plastic surgeon vs cosmetic surgeon",
+        "cosmetic surgeon vs plastic surgeon",
+        "cosmetic surgery credentials", "how to choose a plastic surgeon"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#article",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#webpage"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/plastic-surgeon-vs-cosmetic-surgeon#thing"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2026-01-13",
+      "dateModified": "2026-01-13",
+      "articleBody": "Plastic Surgeon vs. Cosmetic Surgeon Did you know a cosmetic surgeon isn’t the same as a plastic surgeon? In fact, the training behind each title can be very different. In some cases, those differences matter when you’re choosing who to trust with your care. A board-eligible or board-certified plastic surgeon has followed a clearly defined path: four years of medical school, 6–8 years of accredited residency training in both reconstructive and cosmetic surgery, and thousands of hours in the operating room under supervision. This is all part of a plastic surgery residency program that is accredited and designed to prepare surgeons for both plastic and reconstructive surgeries as well as aesthetic procedures. Board-eligible plastic surgeons are fully trained and practicing while preparing to take their exams with the American Board of Plastic Surgery (ABPS), a 1-2 year process. Board-certified plastic surgeons have already passed those exams, earning an additional credential that confirms they are certified in plastic surgery and recognized as certified plastic surgeons with proven expertise, surgical skill, and commitment to lifelong learning. A cosmetic surgeon, on the other hand, may come from a different medical specialty altogether. Some are trained in dermatology, family practice, gynecology, or another field, and then later choose to perform aesthetic surgery or cosmetic surgical procedures such as breast augmentation. While cosmetic surgeons may be experienced in the treatments they offer, their training program in surgery can vary in length, scope, and setting, and most do not spend any time in a plastic surgery residency program. In fact, some cosmetic surgeons have no formal, specialized training in the procedures they are offering. This is possible because the American Board of Cosmetic Surgery is not an accredited governing board and is not held to the same standards as the American Board of Medical Specialties (ABMS). The most rigorous boards are those that fall under the ABMS. These boards act as governing bodies to ensure physicians practice medicine with the highest ethical and professional standards. When we talk about board-eligible and board-certified plastic surgeons, we’re specifically referring to the American Board of Plastic Surgery (ABPS), which is a member of the ABMS and recognized as the gold standard. By contrast, other boards that are not part of the ABMS can be misleading. They may sound official, but they lack the strict requirements, residency programs, and oversight that patients assume are in place. That’s why the type of board truly matters. A Note About Oculoplastic Surgeons and ENT-Facial Plastic Surgeons It’s also important to understand that not all surgeons offering aesthetic procedures fall into the category of cosmetic surgeons. Oculoplastic surgeons begin their training in ophthalmology and then complete additional fellowship training that focuses on the eyes, eyelids, orbit, and surrounding facial structures. This makes them uniquely skilled in delicate procedures around the eyes where precision is critical. ENT-trained facial plastic surgeons (otolaryngologists) complete residency training in ear, nose, and throat surgery before pursuing specialized fellowship training in facial plastic and reconstructive surgery. Their expertise is centered on procedures such as rhinoplasty, facelift, and reconstructive surgery of the head and neck. Both of these paths involve rigorous, accredited specialization training programs that are very different from cosmetic surgery alone. Unlike cosmetic surgeons, whose training may not include formal surgical residencies, oculoplastic and ENT-trained facial plastic surgeons follow structured, accredited pathways that emphasize both function and aesthetics, ensuring a strong foundation in patient care. Why These Differences Matter for You as a Patient As a patient, knowing these distinctions isn’t just about terminology. In many cases, it directly impacts your safety, results, and overall experience. Surgeons with accredited, residency-based training (such as board-eligible and board-certified plastic surgeons, oculoplastic surgeons, and ENT-trained facial plastic surgeons) are prepared to manage not only the procedure itself but also any complications that might arise. This depth of training means they have: Extensive clinical and surgical experience across a wide range of surgical procedures. Hospital privileges, which allow them to care for you in accredited medical centers if needed. A foundation in both reconstructive and aesthetic surgery, ensuring results that look natural and preserve or restore proper function. Rigorous safety standards require them to operate in accredited facilities with qualified anesthesia providers. In contrast, a cosmetic surgeon without formal residency or specialization training may not have the same background in managing complications or the same level of oversight. This doesn’t mean every cosmetic surgeon delivers poor results, but it does mean the variability in training can create a higher risk for patients. When you understand the difference in pathways, you’re better equipped to evaluate credentials, ask the right questions, and choose a surgeon who prioritizes your safety as much as your outcome. How to Choose the Right Plastic Surgeon for You Your comfort, trust, and safety are the most important when choosing the right surgeon for you. Here are some tips to help you feel confident in your choice: Check credentials: Look up whether your surgeon is a cosmetic surgeon or board-certified/board-eligible with the American Board of Plastic Surgery. Membership in the American Society of Plastic Surgeons or the American Society of Plastic and Reconstructive Surgery is another strong sign of training and accountability. Ask about training: Find out where they completed their residency and ensure that it is an accredited training program by the American Board of Medical Specialties. Review before-and-after photos: Make sure you like their aesthetic style and see results that align with your goals. Meet Virtually or In-Person: The consultation is your chance to gauge the surgeon’s communication style, how they answer questions, and how comfortable you feel in their care. Ask about safety: Confirm the procedure will be performed in an accredited surgical facility with appropriate anesthesia providers. At the end of the day, choosing a surgeon is about more than titles. It’s about trust, training, and how comfortable you feel in their care. Understanding the difference between board-eligible, board-certified, and cosmetic surgeons gives you the clarity to ask the right questions and make the choice that feels right for you. Whether you’re just starting your research or ready to schedule a consultation, knowing your surgeon’s background ensures you can move forward with confidence, peace of mind, and excitement about your results.",
+      "wordCount": "1035"
+    }
+
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Thing",
       "@id": "https://www.askamelia.com/blog/preserve-breast-augmentation-vs-traditional#thing",
       "name": "Preservé Breast Augmentation vs. Traditional Breast Augmentation",
       "description": "Explore the differences between Preservé and traditional breast augmentation. Compare recovery, implant options, and candidacy.",
