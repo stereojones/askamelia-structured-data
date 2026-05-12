@@ -5,6 +5,108 @@
 
     {
       "@type": "Thing",
+      "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#thing",
+      "name": "How to Choose Your Breast Implant Size",
+      "description": "Learn how to pick the perfect fit for your body type using goal photos, implant volume tips, and expert guidance. Discover how to decide on breast implant size with confidence—from small implants to high profile options.",
+      "url": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size",
+      "owner": {
+        "@id": "https://www.askamelia.com/#organization"
+      },
+      "subjectOf": {
+        "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#webpage"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#webpage",
+      "url": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size",
+      "name": "How to Choose Your Breast Implant Size | Amelia Aesthetics",
+      "description": "Learn how to pick the perfect fit for your body type using goal photos, implant volume tips, and expert guidance. Discover how to decide on breast implant size with confidence—from small implants to high profile options.",
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#thing"
+      }
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Blog",
+          "item": "https://www.askamelia.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How to Choose Your Breast Implant Size",
+          "item": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size"
+        }
+      ]
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#creativework",
+      "about": {
+        "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#thing"
+      },
+      "abstract": "Choosing the right breast implant size is a highly personal decision that goes far beyond bra cup size. This article explains how factors like body frame, chest width, natural breast tissue, implant volume, and implant profile all influence breast augmentation results. It also shares practical tips for selecting implant size, including using goal photos, exploring real patient results with the Bustmob GoalFinder, and working closely with a plastic surgeon to create realistic expectations. The guide emphasizes that there is no one-size-fits-all approach to breast augmentation—only the size and shape that best aligns with your anatomy, lifestyle, and aesthetic goals.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients seeking breast augmentation"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "{{YYYY-MM-DD}}",
+      "dateModified": "{{YYYY-MM-DD}}",
+      "keywords": [
+        "{{Primary Keyword}}",
+        "{{Secondary Keyword}}",
+        "{{Location Modifier}}"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#article",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#webpage"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/how-to-choose-your-breast-implant-size#thing"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2025-10-07",
+      "dateModified": "2025-10-07",
+      "articleBody": "Choosing Your Breast Implant Size Choosing to undergo breast augmentation surgery is an exciting and personal decision. But once you've decided you're ready to move forward, a big question still remains: How do you choose your implant size? This part of the process can feel overwhelming for many. With so many sizes and shapes available—not to mention different profiles, volumes, and body types to consider—it’s easy to get lost in the options. But the good news is, you don’t have to figure it out alone. With the right tools, resources, and guidance, you can choose the right breast implant size for you with confidence. Whether you’re looking for a subtle enhancement or dreaming of larger breasts, this guide will walk you through what you need to know about breast implant sizing, what matters most, how to visualize your results, and how to work with your plastic surgeon to get the look you love. First, Let’s Talk About Size: It's More Than Just Cup Size One of the biggest misconceptions around breast augmentation is the idea that implants are chosen based on bra cup size. In reality, plastic surgeons use implant volume, measured in cubic centimeters (ccs), to determine size. Here’s why that matters: A 300cc implant can look very different on someone who is 5'1 and 110 pounds compared to someone who is 5'9 and 160 pounds. Your body frame, chest wall, natural breast tissue, and overall body type will all influence how implants look on you. That’s why the same implant size can produce dramatically different results for different people. So when you ask, What is the smallest breast implant size?, the answer may depend on your body and goals. But technically, implants start around 100cc and can go over 800cc. Tip #1: Look for Results on Bodies Like Yours Here’s the #1 tip for how to decide on breast implant size: find goal photos on people with similar body types to yours. Not models or celebrities—real people who’ve had breast augmentation and share your general frame, height, and weight. These photos can give you a much clearer and more realistic expectation of how various implant sizes and profiles such as high profile implants will actually look on you. This process helps you understand how factors like bra sizing, chest width, body shape, and natural breast anatomy can all influence your final result. We call these images goal photos—and they’re essential. Tip #2: Bring 3–5 Goal Photos to Your Consultation Once you find 3–5 goal photos that show the kind of look you love, bring them to your consultation. Your surgeon isn’t a mind-reader, and showing them visual examples will take the guesswork out of the process. It also helps them understand what natural means to you. One person's natural might be another’s too big or too small. When your plastic surgeon can see the results you’re aiming for, they’ll better understand your aesthetic goals and can match your desired look with the appropriate implant volume, shape, and profile. Tip #3: Use the Bustmob GoalFinder Finding realistic goal photos used to be time-consuming. That’s where the Bustmob GoalFinder comes in. This powerful tool is a unique database of thousands of real patient results, searchable by height, weight, and even implant size. So you can filter by your own stats and only see results from people who look like you who have undergone breast augmentation surgery. You can also save your favorite results into a personalized collection with a unique that is easily shared your surgeon and Patient Care Coordinator. This is a huge time-saver and makes it much easier to clearly communicate your goals during your consult. Pro Tip: Don’t just look for your dream size—look for examples of what you don’t want, too. Knowing what you don’t like is just as valuable in narrowing down the perfect implant size for your body. It’s important to remember every person’s body frame, chest wall, skin elasticity, and healing journeys are different. Even if you get the same size and brand of implant, your results are likely to be a little different than the person in the photo. Goal photos help show your plastic surgeon the look and general size you’re hoping for. From there, you’ll work together to set realistic expectation and create a plan that honors your anatomy and your goals. Understanding Implant Volume, Shape, and Profile We mentioned earlier that implants are sized in cubic centimeters (ccs). A rough estimate is that every 150–200ccs equals about one to one-and-a-half cup sizes, though cup sizes vary between brands and even between styles in the same brand. That’s why bra cup size is a loose reference point—not a precise science. When choosing implant volume, your plastic surgeon will also consider: Body frame: Smaller frames may not accommodate wider or larger implants comfortably or naturally. Chest wall: A wide or narrow chest may influence which implant shape or profile will look best. Breast tissue: Your current natural breast volume affects how an implant will sit and how natural the result will look. Your Aesthetic Goals: Some want a subtle, natural breast result, while others want larger sizes for a more dramatic change. You’ll also talk about implant profile. Implant profile refers to how far the implant projects outward from your chest. For example: Low profile: Wider base, less projection Moderate profile: Balanced base and projection High profile implants: Narrow base, more projection Multiple factors like anatomy, your goals, and desired size play into choosing the right implant profile. Your surgeon is there to guide you after an exam and thorough conversation about your goals. Considering the Long Term Here’s something that often brings peace of mind: You don’t have to get it perfect the first time. Choosing your implant size is important, but it’s not a one-time, permanent decision you’re stuck with forever. If down the road you decide you want a different look, whether that means going bigger, smaller, switching from saline to silicone or vice versa, changing brands, or even adjusting the implant profile, implant exchange is often a straightforward solution with typically a shorter recovery and results timeline. In fact, many people choose to update their implants as their lifestyle, aesthetic preferences, or body changes. So while it’s great to feel confident in your choice now, you don’t need to put pressure on yourself to predict exactly how you’ll feel 10 or 15 years from today. The most important thing is choosing something that feels right for right now. Your surgeon can walk you through what’s possible in the future, so you feel empowered—not locked in—as you move forward with your breast augmentation journey. Bra Cups Can Be Misleading It’s worth repeating: bra cup sizes are not a reliable way to choose implant size. One brand’s C cup is another brand’s D. And implants may fit differently in sports bras versus traditional underwire bras. That’s why plastic surgeons don’t often measure implants by cup size, but by volume in ccs. When you're thinking in terms of cup sizes like going from an A to a full C, it's best to express this as a goal photo rather than a lettered size. Your body shape, breast width, and current tissue play a huge role in how the implants will actually look in bras. How to Decide on Breast Implant Size—Step-by-Step Here’s a quick summary of the process: Step 1: Know your body Get familiar with your body frame, height, weight, chest wall, and natural breast shape. These will all influence the best implant size for you. Step 2: Use the Bustmob GoalFinder Find women with similar stats and browse their breast augmentation surgery results. Save 3–5 goal photos of looks you love, and a few photos of looks you want to avoid. Step 3: Book your consultation Bring your photos and talk through your goals, lifestyle, and concerns. You may also have the opportunity to use 3D imaging to virtually try on different sizes at your consultation. Choosing your breast implant size is one of the most exciting, and personal, parts of the journey. Don’t rush it. Take your time, do your research, and remember that there is no perfect size—just the size that’s perfect for you. With the help of tools like GoalFinder, a trusted plastic surgeon, and a thoughtful look at your lifestyle and goals, you’ll be well-equipped to choose a size that helps you feel confident, balanced, and beautiful for years to come.",
+      "wordCount": "1407"
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Thing",
       "@id": "https://www.askamelia.com/blog/why-loose-skin-occurs-after-weight-loss#thing",
       "name": "Why Does Loose Skin Occur After Weight Loss?",
       "description": "Learn how age, genetics, and weight loss factors cause loose skin after weight loss, skin elasticity, and explore solutions for addressing excess skin.",
