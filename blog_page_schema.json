@@ -5,6 +5,109 @@
 
     {
       "@type": "Thing",
+      "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#thing",
+      "name": "What Does Board-Certified vs. Board-Eligible Plastic Surgeon Mean?",
+      "description": "Wondering what “board-certified” and “board-eligible plastic surgeon” mean? Discover the training, experience, and requirements for each.",
+      "url": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon",
+      "owner": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "subjectOf": {
+        "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#webpage"
+      }
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#webpage",
+      "url": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon",
+      "name": "What Does Board-Certified vs. Board-Eligible Plastic Surgeon Mean?",
+      "description": "Wondering what “board-certified” and “board-eligible plastic surgeon” mean? Discover the training, experience, and requirements for each.",
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#thing"
+      }
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Blog",
+          "item": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{Current Page Name}}",
+          "item": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon"
+        }
+      ]
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#creativework",
+      "about": {
+        "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#thing"
+      },
+      "abstract": "This article explains the difference between board-eligible and board-certified plastic surgeons and why these credentials matter when choosing a surgeon. It outlines the rigorous education, residency training, clinical experience, and oversight required through the American Board of Plastic Surgery (ABPS), which is part of the American Board of Medical Specialties (ABMS). The article emphasizes that both board-eligible and board-certified plastic surgeons are fully trained and qualified to practice plastic surgery, with board certification representing an additional step of passing written and oral examinations. It also highlights the importance of patient safety, ethical standards, accredited training programs, and choosing a surgeon who combines technical expertise with compassionate, patient-centered care.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients seeking plastic surgery"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2025-12-16",
+      "dateModified": "2025-12-16",
+      "keywords": [
+        "board-certified vs board-eligible plastic surgeon",
+        "what does board-eligible mean for plastic surgeons",
+        "ABPS plastic surgeon near me"
+      ]
+    },
+
+    {
+      "@type": "Article",
+      "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#article",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#webpage"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/board-eligible-vs-board-certified-plastic-surgeon#thing"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2025-12-16",
+      "dateModified": "2025-12-16",
+      "articleBody": "What does board-certified vs. board-eligible plastic surgeon mean? When you start researching plastic surgery, you’ll likely come across terms such as board-certified or board-eligible. But what do these titles actually mean, and why do they matter for patients considering breast augmentation, cosmetic surgery, or other procedures? First, it’s worth defining what board-certified or board eligible means in medicine. There are many different kinds of boards, and not all of them carry the same weight. Some are created by nonprofit organizations with rigorous standards, while others are established by smaller governing bodies with very loose requirements. Depending on the type of board a surgeon belongs to, the level of training, oversight, and patient care requirements can look very different. Understanding the Role of Governing Boards The most rigorous boards are those that fall under the American Board of Medical Specialties (ABMS). These boards act as governing bodies to ensure physicians practice medicine with the highest ethical and professional standards. The ABMS works much like a governing board or board of directors in a nonprofit organization. Its job is to set rules, oversee quality, and maintain public trust. By contrast, other boards that are not part of the ABMS can be misleading. They may sound official, but they lack the strict requirements, residency programs, and oversight that patients assume are in place. That’s why the type of board truly matters. When we talk about board-eligible and board-certified plastic surgeons, we’re specifically referring to the American Board of Plastic Surgery (ABPS), which is a member of the ABMS and recognized as the gold standard. Board-Eligible vs. Board-Certified at a Glance So, what’s the difference between a board-eligible plastic surgeon and a board-certified plastic surgeon, and what does it mean for you as a patient? The good news is that both board-eligible and board-certified plastic surgeons have already completed years of training and clinical experience in accredited medical centers and residency programs. Both groups represent doctors who have dedicated a decade or more of full-time education and practice to this specialty. Board-Eligible Plastic Surgeon Completed medical school and an accredited plastic surgery training program Fully trained and qualified to practice plastic surgery Has not yet taken, or is awaiting results from, the American Board of Plastic Surgery (ABPS) exams. (a 1-2 year process) Often in the earlier years of independent practice Meets the same high standards of training as board-certified surgeons Board-Certified Plastic Surgeon Completed medical school and plastic surgery residency training Fully trained and qualified to practice plastic surgery Has passed the rigorous ABPS written and oral exams Typically, more established in practice Holds an additional credential proving mastery, ethics, and ongoing education No matter the title, both board-certified and board-eligible surgeons have walked the same path: Medical School: Four years of advanced medical education. Residency Training: 6–8 years of general or plastic surgery training. Hands-On Experience: Thousands of hours in the operating room, performing both reconstructive and cosmetic procedures under supervision. Accredited Programs: Training programs overseen by the American Council for Graduate Medical Education (ACGME), with strict faculty oversight, ensuring strict standards for patient care and surgical safety. By the time they’re ready to practice on their own, these surgeons have already spent nearly a decade treating patients in every type of setting, from life-saving trauma and burn repair to cosmetic breast surgery and facial rejuvenation. Why This Matters for You For patients, this distinction matters because it provides peace of mind. Whether your surgeon is board-eligible or board-certified, you can trust they have gone through extensive training, rigorous residency programs, and years of clinical practice and medical experience. Board-eligible surgeons are fully trained, capable, and often earlier in their career paths while awaiting certification. Board-certified surgeons have the added credential of passing their exams and ongoing education, which serves as an extra layer of accountability. In either case, patients benefit from the surgeon’s years of training, their focus on safety, and their dedication to excellent patient care. At Amelia Aesthetics, we believe that board certification is only part of the story. Along with the high standards set by the American Board of Plastic Surgery, Amelia surgeons are held to an additional set of values, ones that focus on empathy, collaboration, and your overall experience. Just as advisory board members in nonprofit organizations help guide missions and protect integrity, Amelia surgeons are selected not only for their technical expertise but also for their warmth, kindness, and commitment to patient care. From breast augmentation to multi-stage skin removal procedures, you’ll find that Amelia’s surgeons take time to listen, understand your goals, and design a safe, personalized treatment plan. From your first consultation to your recovery, Amelia’s approach is collaborative and patient-centered. We know that choosing plastic surgery is a deeply personal decision. That’s why we foster an environment where patients feel empowered, informed, and supported at every step. Whether your surgeon is board-eligible or board-certified, the journey to becoming a plastic surgeon involves years of training, full-time residency programs, clinical experience in medical centers, and oversight from the most respected governing bodies in health care. But at Amelia, you’ll find more than just credentials. You’ll find partners who care deeply about your goals and well-being. Because at the end of the day, exceptional surgical outcomes are important, but so is the way you feel throughout your journey. And at Amelia, you don’t have to choose between the two. You get both.",
+      "wordCount": "898"
+    }
+
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Thing",
       "@id": "https://www.askamelia.com/blog/prepare-for-surgery-to-optimize-results#thing",
       "name": "How to Prepare for Plastic Surgery & Optimize Your Results",
       "description": "Prehabilitation, or getting ready before surgery, can improve your plastic surgery results. Get actionable steps to prep for surgery for better results and a smoother recovery.",
