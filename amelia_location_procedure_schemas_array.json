@@ -28,7 +28,7 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Amelia Aesthetics Wilmington",
+          "name": "Amelia Aesthetics San Antonio",
           "item": "https://www.askamelia.com/locations/san-antonio"
         },
         {
@@ -48,7 +48,7 @@
       "medicalSpecialty": "PlasticSurgery",
       "url": "https://www.askamelia.com/providers/dr-marcos-lopez",
       "sameAs": [
-        "https://www.instagram.com/dr.lopez.amelia/"
+        "https://www.instagram.com/dr.lopez.amelia/", "https://www.doctor.webmd.com/providers/specialty/plastic-surgery/texas/san-antonio", "https://www.realself.com/dr/marcos-lopez-san-antonio-tx"
       ]
     },
     {
@@ -74,9 +74,6 @@
           "name": "Natural-looking breast augmentation"
         }
       ],
-      "breadcrumb": {
-        "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio#breadcrumb"
-      },
       "keywords": [
         "Preservé breast augmentation San Antonio",
         "awake breast augmentation San Antonio",
