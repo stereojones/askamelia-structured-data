@@ -1,1 +1,1131 @@
+[
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/health/gut-health#thing",
+      "name": "Gut Health Treatment in Raleigh, NC",
+      "alternateName": "Digestive Healthcare",
+      "description": "Gut Health at Amelia Health in Raleigh, NC focuses on identifying and addressing the underlying causes of digestive symptoms and gut-related health concerns through advanced testing and personalized care. Because gut health influences digestion, immunity, hormone balance, energy levels, mood, and overall wellness, Amelia Health takes a comprehensive approach to evaluating microbiome health, inflammation, gut permeability, digestive function, and food sensitivities. Personalized treatment plans may include targeted nutrition strategies, supplementation, gut healing protocols, and lifestyle modifications designed to restore balance, improve digestive health, reduce symptoms, and support long-term wellness. By addressing root causes rather than simply managing symptoms, the program helps patients achieve better digestion, increased energy, improved mental clarity, and enhanced overall health.",
+      "url": "https://www.askamelia.com/health/gut-health",
+      "owner": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      }
+    },
 
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/health/gut-health#creativework",
+      "name": "Gut Health Treatment in Raleigh NC",
+      "headline": "Your Gut Has Been Trying to Tell You Something. It's Time to Listen.",
+      "alternativeHeadline": "Amelia Health uses advanced testing and personalized care to understand exactly what’s happening inside your gut and how to restore balance from the inside out.",
+      "abstract": "Amelia Health's Gut Health program helps uncover and treat the root causes of digestive and gut-related health concerns through advanced testing and personalized treatment plans. By evaluating factors such as microbiome balance, inflammation, digestive function, and gut permeability, the program aims to improve digestion, energy, immune function, mental clarity, and overall well-being.",
+      "about": {
+        "@id": "https://www.askamelia.com/health/gut-health#thing"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients"
+      },
+      "author": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "provider": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "dateCreated": "2026-06-01",
+      "dateModified": "2026-06-02",
+      "datePublished": "2026-06-01",
+      "inLanguage": "en-US",
+      "keywords": ["Gut Health Raleigh NC", "Gut Health Specialist Raleigh NC", "Digestive Health Raleigh NC", "Gut Health Program Raleigh NC", "Leaky Gut Treatment Raleigh NC", "Microbiome Testing Raleigh NC", "Gut Microbiome Health", "Digestive Wellness Raleigh NC", "Bloating Treatment Raleigh NC", "Food Sensitivity Testing Raleigh NC", "Functional Gut Health", "Gut Healing Program", "Inflammation and Gut Health", "Personalized Gut Health Care", "Digestive Function Testing", "Gut-Brain Connection", "Hormones and Gut Health", "Autoimmune and Gut Health", "Integrative Gut Health Raleigh", "Amelia Health Raleigh"],
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/gut-health#thing"
+      },
+      "teaches": ["Gut health", "Digestive health", "The gut microbiome", "Microbiome imbalances", "Gut-brain connection", "Gut health and immunity", "Gut health and hormone balance", "Inflammation and gut health", "Leaky gut syndrome", "Gut permeability", "Digestive function", "Food sensitivities", "Root causes of digestive symptoms", "Advanced gut health testing", "Microbiome testing", "Personalized nutrition", "Gut healing protocols", "Targeted supplementation", "Lifestyle factors affecting gut health", "Bloating and digestive discomfort", "Fatigue and gut health", "Brain fog and gut health", "Skin health and the gut", "Mood and gut health", "Autoimmune conditions and gut health", "Personalized treatment plans", "Preventive healthcare", "Whole-body wellness", "Integrative health approaches", "Long-term digestive wellness"],
+      "wordCount": 776
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/health/gut-health#webpage",
+      "url": "https://www.askamelia.com/health/gut-health",
+      "name": "Gut Health Treatment in Raleigh NC | Amelia Health",
+      "description": "Advanced gut health testing and personalized treatment in Raleigh, NC. Find the root cause of bloating fatigue brain fog and more.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.askamelia.com/health/gut-health#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/gut-health#thing"
+      },
+      "lastReviewed": "2026-06-01",
+      "reviewedBy": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "specialty": ["DietNutrition", "Gastroenterologic", "Gynecologic", "Endocrine", "Pathology", "PrimaryCare"]
+    },
+
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://www.askamelia.com/health/gut-health#medicalwebpage",
+      "url": "https://www.askamelia.com/health/gut-health",
+      "name": "Medical Webpage Title",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Patient"
+      }
+    },
+
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/health/gut-health#faq",
+      "mainEntity": [
+     {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/gut-health#faq-q1",
+          "name": "How is your testing different?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/gut-health#faq-a1",
+            "text": "Amelia Health’s approach is more comprehensive and functional than standard labs. Instead of only identifying disease, we look at how your gut is functioning as a whole, helping your provider to uncover imbalances that are often missed in traditional testing."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/gut-health#faq-q2",
+          "name": "How long does it take to heal the gut?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/gut-health#faq-a2",
+            "text": "Healing timelines vary depending on the individual and the severity of the imbalance. Many patients begin to notice improvements within a few weeks, with continued progress over time as the gut is restored."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/gut-health#faq-q3",
+          "name": "Do I need testing to get started?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/gut-health#faq-a3",
+            "text": "Not always, but testing allows us to be more precise. Some patients may begin with foundational support, while others benefit from deeper diagnostics to guide their plan."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/gut-health#faq-q4",
+          "name": "Can gut health affect hormones and mood?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/gut-health#faq-a4",
+            "text": "Yes. Your gut plays a major role in hormone regulation, neurotransmitter production, and inflammation, all of which can impact how you feel physically and emotionally."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/gut-health#faq-q5",
+          "name": "What causes gut imbalance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/gut-health#faq-a5",
+            "text": "Common contributors include stress, poor diet, antibiotics, chronic inflammation, and underlying health conditions. Identifying your specific triggers is a key part of your treatment plan."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/gut-health#faq-q6",
+          "name": "Is this just about digestion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/gut-health#faq-a6",
+            "text": "Not at all. While digestion is a big part of gut health, the gut influences nearly every system in the body, including immunity, hormones, brain function, and overall well-being."
+          }
+        }
+      ]
+    },
+
+ {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/health/weight-management#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+         {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Health",
+          "item": "https://www.askamelia.com/health"
+        },
+         {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gut Health in Raleigh NC",
+          "item": "https://www.askamelia.com/health/gut-health"
+        }
+      ]
+    }
+
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/health/health-coaching#thing",
+      "name": "Health Coaching in Raleigh NC",
+      "alternateName": "Health Advice in Raleigh NC",
+      "description": "Health Coaching at Amelia Health in Raleigh, NC provides personalized guidance, accountability, and support to help patients build sustainable habits and achieve their health goals. Through one-on-one coaching, patients work with a dedicated member of their care team to create practical strategies that fit their lifestyle, overcome obstacles to success, and stay consistent with healthy behaviors. Whether focused on nutrition, stress management, sleep, weight management, hormone health, or overall wellness, Health Coaching helps transform knowledge into action through personalized education, goal setting, ongoing support, and evidence-based behavior change strategies designed for long-term success.",
+      "url": "https://www.askamelia.com/health/health-coaching",
+      "mainEntityOfPage": {
+        "@id": "https://www.askamelia.com/health/health-coaching#webpage"
+      },
+      "owner": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      }
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/health/health-coaching#creativework",
+      "name": "Health Coaching in Raleigh NC",
+      "headline": "You Already Know What to Do. Let’s Figure Out What’s Stopping You.",
+      "alternativeHeadline": "Health Coaching at Amelia Health closes the gap between knowing and doing – with personalized guidance, real accountability, and a plan that actually fits your life.",
+      "abstract": "Amelia Health's Health Coaching program helps patients turn health goals into lasting habits through personalized guidance, accountability, and ongoing support. By working one-on-one with a health coach, patients develop practical strategies for improving nutrition, sleep, stress management, consistency, and overall wellness while receiving encouragement and support throughout their health journey.",
+      "about": {
+        "@id": "https://www.askamelia.com/health/health-coaching#thing"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients"
+      },
+      "author": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "provider": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "dateCreated": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "datePublished": "2026-06-01",
+      "inLanguage": "en-US",
+      "keywords": ["Health Coaching Raleigh NC", "Health Coach Raleigh NC", "Wellness Coaching Raleigh NC", "Personalized Health Coaching", "Health and Wellness Coach", "Lifestyle Coaching Raleigh NC", "Health Accountability Coaching", "Nutrition Coaching Raleigh NC", "Stress Management Coaching", "Sleep Health Coaching", "Behavior Change Coaching", "Healthy Habit Coaching", "Personalized Wellness Program", "Preventive Health Coaching", "Wellness Optimization", "Health Goal Setting", "Lifestyle Medicine Raleigh NC", "Long-Term Health Improvement", "Patient-Centered Wellness", "Amelia Health Raleigh"],
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/health-coaching#thing"
+      },
+      "teaches": ["Health coaching", "Personalized health coaching", "Behavior change", "Healthy habit formation", "Goal setting for health", "Accountability and support", "Nutrition habits", "Stress management", "Sleep optimization", "Lifestyle medicine", "Wellness coaching", "Sustainable behavior change", "Health education", "Personalized wellness plans", "Building healthy routines", "Long-term health improvement", "Motivational support", "Overcoming barriers to change", "Consistency and accountability", "Self-efficacy and confidence", "Preventive healthcare", "Personalized healthcare", "Patient-centered care", "Whole-body wellness", "Mindset and behavior change", "Health goal achievement", "Long-term lifestyle modification", "Health and wellness optimization", "Personalized support systems", "Evidence-based health coaching"],
+      "wordCount": 611
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/health/health-coaching#webpage",
+      "url": "https://www.askamelia.com/health/health-coaching",
+      "name": "Health Coaching in Raleigh, NC | Amelia Health",
+      "description": "Amelia Health’s health coaching program in Raleigh, NC closes the gap between knowing and doing – with personalized guidance real accountability and a plan that fits your life.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.askamelia.com/health/health-coaching#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/health-coaching#thing"
+      },
+      "lastReviewed": "2026-06-02",
+      "reviewedBy": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "specialty": ["DietNutrition", "Gastroenterologic", "Gynecologic", "Endocrine", "Pathology", "PrimaryCare"]
+    },
+
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://www.askamelia.com/health/health-coaching#medicalwebpage",
+      "url": "https://www.askamelia.com/health/health-coaching",
+      "name": "Health Coaching in Raleigh NC",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Patient"
+      }
+    },
+
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/health/health-coaching#faq",
+      "mainEntity": [
+     {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/health-coaching#faq-q1",
+          "name": "How often will I meet with my health coach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/health-coaching#faq-a1",
+            "text": "Your coaching schedule is based on your personalized plan and goals. Some patients benefit from more frequent check-ins early on, while others transition to a maintenance rhythm over time. Your provider will help determine what’s best for you."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/health-coaching#faq-q2",
+          "name": "Is Health Coaching included in other services?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/health-coaching#faq-a2",
+            "text": "Health coaching is often recommended alongside other treatments to enhance results and improve long-term outcomes. While it complements many services, it is typically offered as a separate, dedicated component of your care plan."
+          }
+        }
+      ]
+    },
+
+ {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/health/health-coaching#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+         {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Health",
+          "item": "https://www.askamelia.com/health"
+        },
+         {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Health Coaching in Raleigh NC",
+          "item": "https://www.askamelia.com/health/health-coaching"
+        }
+      ]
+    }
+
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#thing",
+      "name": "Hormone Balancing in Raleigh, NC",
+      "alternateName": "Hormone Replacement Therapy in Raleigh, NC",
+      "description": "Hormone Balancing Therapy at Amelia Health helps women and men restore energy, improve sleep, support weight management, enhance mental clarity, and address symptoms of hormonal imbalance through advanced testing, personalized treatment plans, and evidence-based care in Raleigh, NC.",
+      "url": "https://www.askamelia.com/health/hormone-balancing-therapy#thing",
+      "mainEntityOfPage": {
+        "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#thing#webpage"
+      },
+      "owner": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#thing#creativework",
+      "name": "Hormone Balancing in Raleigh, NC",
+      "headline": "Your Body Isn’t Betraying You. It’s Trying To Tell You Something.",
+      "alternativeHeadline": "Amelia Health listens – with advanced testing, personalized, empathetic care, and providers who take what you feel seriously.",
+      "abstract": "Hormone Balancing Therapy at Amelia Health helps identify and treat the root causes of hormone-related symptoms through advanced testing and personalized care. Treatment plans are tailored to each individual and may include hormone therapy, lifestyle recommendations, nutrition support, and ongoing guidance to improve energy, mood, sleep, metabolism, sexual wellness, and overall health. The goal is to restore balance, optimize well-being, and help patients feel their best at every stage of life.",
+      "about": {
+        "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#thing"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients"
+      },
+      "author": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "provider": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "dateCreated": "2026-06-01",
+      "dateModified": "2026-06-01",
+      "datePublished": "2026-06-01",
+      "inLanguage": "en-US",
+      "keywords": ["Hormone Balancing Therapy Raleigh NC", "hormone therapy for women Raleigh", "hormone replacement therapy Raleigh", "menopause treatment Raleigh NC", "perimenopause symptoms treatment", "low testosterone treatment Raleigh", "bioidentical hormone therapy Raleigh", "hormone imbalance symptoms", "fatigue and hormone imbalance", "hormone optimization Raleigh", "personalized hormone therapy", "hormone health for women", "hormone health for men", "menopause symptom relief", "hormone testing Raleigh", "functional hormone therapy", "hormone wellness clinic Raleigh", "improve energy and hormone balance", "hormone therapy for weight gain", "hormone therapy for brain fog"],
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/hormone-balancing-therapy"
+      },
+      "teaches": ["Hormone balancing therapy", "Hormonal imbalances", "Symptoms of hormone imbalance", "Advanced hormone testing"],
+      "wordCount": 1150
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#webpage",
+      "url": "https://www.askamelia.com/health/hormone-balancing-therapy",
+      "name": "Hormone Balancing in Raleigh, NC",
+      "description": "Personalized hormone balancing therapy in Raleigh, NC. Advanced testing and treatment plans tailored to your body.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#thing"
+      },
+      "lastReviewed": "2026-06-01",
+      "reviewedBy": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "specialty": ["DietNutrition", "Gastroenterologic", "Gynecologic", "Endocrine", "Pathology", "PrimaryCare"]
+    },
+
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#medicalwebpage",
+      "url": "https://www.askamelia.com/health/hormone-balancing-therapy",
+      "name": "Hormone Balancing in Raleigh, NC",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Patient"
+      }
+    },
+
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q1",
+          "name": "Do I need hormone therapy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a1",
+            "text": "Not always — Hormone therapy is highly individualized and should never be a one-size-fits-all approach. Some patients benefit greatly from hormone support, while others improve through nutrition, lifestyle changes, stress management, sleep optimization, or targeted wellness support. We are here to help with each of those things. The best way to know what your body needs is through comprehensive testing and a personalized evaluation with your provider."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q2",
+          "name": "What kind of testing do you use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a2",
+            "text": "We use advanced, comprehensive testing to look deeper than standard labs. Depending on your needs, this may include bloodwork saliva testing, or urine hormone testing. We evaluate hormones alongside thyroid health, inflammation, nutrient status, metabolism, and stress response to uncover imbalances that are often missed in conventional care but work in tandem with hormone balancing.  "
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q3",
+          "name": "How long does it take to feel the benefits of hormone therapy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a3",
+            "text": "Though every patient is unique, people often notice improvements in the initial weeks with continued improvement over time."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q4",
+          "name": "Is this just for women?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a4",
+            "text": "No – Men experience hormone imbalances too. Symptoms in men may include fatigue, low libido, reduced muscle mass, weight gain, brain fog, poor recovery, mood changes, and decreased motivation. Hormonal optimization can help support energy, performance, longevity, and overall wellness."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q5",
+          "name": "Can you tell me about my fertility?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a5",
+            "text": "We are not fertility specialists, but we can help you understand your cycles through advanced testing and provide guidance to help you stay in balance. "
+          }
+        },
+           {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q6",
+          "name": "What are hormones and how do they affect the body?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a6",
+            "text": "Hormones are chemical messengers that regulate many of the body’s most important functions, including energy, mood, metabolism, sleep, stress response, reproduction, and cognition. When hormones are balanced, the body functions more efficiently. Even small imbalances can create noticeable symptoms."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q7",
+          "name": "What is a hormone imbalance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a7",
+            "text": "A hormone imbalance occurs when the body produces too much, too little, or fluctuating levels of certain hormones. This can contribute to symptoms like fatigue, poor sleep, mood changes, weight gain, irregular cycles, low libido, brain fog, and more."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q8",
+          "name": "What causes hormonal imbalance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a8",
+            "text": "Hormonal imbalances can be caused by many factors, including stress, poor sleep, aging, thyroid dysfunction, nutrient deficiencies, insulin resistance, gut health issues, overtraining, environmental toxins, and natural hormonal shifts like the postpartum period, perimenopause or menopause."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q9",
+          "name": "How is hormonal imbalance treated?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a9",
+            "text": "Treatment depends on the root cause and your individual needs. Some patients benefit from lifestyle and nutritional support alone, while others may benefit from hormone therapy. Treatment options may include creams, patches, pills, injections, supplements, or other targeted therapies."
+          }
+        },
+             {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q10",
+          "name": "When should I start hormone therapy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a10",
+            "text": "The right time varies for each person. Many patients seek evaluation when symptoms begin affecting their quality of life, including fatigue, sleep issues, mood changes, low libido, brain fog, cycle irregularities, or menopausal symptoms. Early evaluation can help identify imbalances before they become more disruptive."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q11",
+          "name": "Am I too old to start hormone replacement therapy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a11",
+            "text": "Not necessarily. Many patients begin hormone therapy in their 40s, 50s, and beyond. The right timing depends less on age alone and more on your symptoms, overall health, medical history, and individual goals."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-q12",
+          "name": "Am I too young to start hormone therapy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.askamelia.com/health/hormone-balancing-therapy#faq-a12",
+            "text": "Not necessarily. Hormonal imbalances can affect adults at many different stages of life — not just during menopause or aging. Stress, lifestyle factors, thyroid dysfunction, metabolic issues, postpartum changes, and other health concerns can all impact hormone health earlier than expected. That said, hormone therapy is not always the first or best solution for younger patients. Our approach focuses on understanding the root cause of symptoms and creating the most appropriate treatment plan for your body, whether that includes hormone support or alternative therapies designed to restore balance naturally."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.example.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+          {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Health",
+          "item": "https://www.askamelia.com/health"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hormone Replacement Therapy in Raleigh, NC",
+          "item": "https://www.askamelia.com/health/hormone-balancing-therapy"
+        }
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/health/longevity-recovery-support#thing",
+      "name": "Longevity & Recovery Support in Raleigh NC",
+      "alternateName": "Prehabilitation in Raleigh NC",
+      "description": "Longevity & Recovery Support at Amelia Health in Raleigh, NC is a personalized, preventive wellness program designed to help patients optimize health, performance, recovery, and long-term vitality. Through comprehensive testing, expert analysis, and individualized treatment plans, Amelia Health evaluates key factors that influence healthy aging, including hormones, metabolism, inflammation, nutrient status, recovery capacity, and overall wellness. Treatment plans may incorporate advanced longevity therapies, lifestyle optimization, targeted supplementation, recovery support, and ongoing health coaching to help patients improve energy, mental clarity, resilience, physical performance, and quality of life. Rather than waiting for symptoms to develop, the program focuses on proactive health optimization and helping patients feel stronger, healthier, and more vibrant for years to come.",
+      "url": "https://www.askamelia.com/health/longevity-recovery-support",
+      "mainEntityOfPage": {
+        "@id": "https://www.askamelia.com/health/longevity-recovery-support#webpage"
+      },
+      "owner": {
+        "@type": "Organization",
+        "name": "Amelia Health"
+      }
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/health/longevity-recovery-support#creativework",
+      "name": "Longevity & Recovery Support in Raleigh NC",
+      "headline": "You’re Not Supposed to Just Get By. You’re Supposed to Thrive.",
+      "alternativeHeadline": "Amelia Health uses advanced testing and personalized care to help you feel stronger, think clearer, and age on your own terms.",
+      "abstract": "Amelia Health's Longevity & Recovery Support program helps patients take a proactive approach to aging and wellness. Using advanced testing and personalized care plans, the program focuses on improving energy, recovery, resilience, cognitive function, and overall health through evidence-based therapies, lifestyle optimization, and ongoing support designed to help patients feel their best at every stage of life.",
+      "about": {
+        "@id": "https://www.askamelia.com/health/longevity-recovery-support#thing"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients"
+      },
+      "author": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia health"
+      },
+      "provider": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "dateCreated": "2026-06-01",
+      "dateModified": "2026-06-02",
+      "datePublished": "2026-06-01",
+      "inLanguage": "en-US",
+      "keywords": ["Longevity Medicine Raleigh NC", "Healthy Aging Raleigh NC", "Longevity Program Raleigh NC", "Preventive Healthcare", "Recovery Optimization", "Performance Optimization", "Healthspan Optimization", "Metabolic Health", "Hormone Optimization", "Cellular Health", "Energy Optimization", "Cognitive Health", "Stress Resilience", "Personalized Wellness Program", "Advanced Health Testing", "Long-Term Vitality", "Wellness Optimization", "Recovery Support", "Preventive Wellness Care", "Amelia Health Raleigh"],
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/longevity-recovery-support#thing"
+      },
+      "teaches": ["Longevity medicine", "Healthy aging", "Preventive healthcare", "Proactive wellness", "Recovery optimization", "Personalized medicine", "Advanced health testing", "Biomarker analysis", "Inflammation and aging", "Hormonal health and longevity", "Metabolic health", "Cellular health", "Nutrient optimization", "Physical recovery", "Performance optimization", "Energy optimization", "Cognitive health", "Mental clarity and focus", "Stress resilience", "Lifestyle medicine", "Healthspan versus lifespan", "Personalized treatment plans", "Evidence-based wellness", "Health coaching", "Ongoing health monitoring", "Recovery support therapies", "Long-term vitality", "Age-related health optimization", "Whole-body wellness", "Quality of life improvement"],
+      "wordCount": 1158
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/health/longevity-recovery-support#webpage",
+      "url": "https://www.askamelia.com/health/longevity-recovery-support",
+      "name": "Longevity and Recovery Support in Raleigh, NC | Amelia Health",
+      "description": "Feel stronger think clearer and age on your own terms. Personalized longevity and recovery support in Raleigh, NC from Amelia Health.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.askamelia.com/health/longevity-recovery-support#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/longevity-recovery-support#thing"
+      },
+      "lastReviewed": "2026-06-01",
+      "reviewedBy": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "specialty": ["DietNutrition", "Gastroenterologic", "Gynecologic", "Endocrine", "Pathology", "PrimaryCare"]
+    },
+
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://www.askamelia.com/health/longevity-recovery-support#medicalwebpage",
+      "url": "https://www.askamelia.com/health/longevity-recovery-support",
+      "name": "Longevity and Recovery Support in Raleigh NC",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Patient"
+      }
+    },
+
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq",
+      "mainEntity": [
+     {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-q1",
+          "name": "Who is this program for?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-a1",
+            "text": "This program is designed for individuals who want to feel better, perform better, and invest in their long-term health. Whether you’re experiencing symptoms like fatigue and brain fog or simply want to optimize how your body functions, this approach meets you where you are."
+          }
+        },
+            {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-q2",
+          "name": "Is this only for older men and women?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-a2",
+            "text": "This program is designed for individuals who want to feel better, perform better, and invest in their long-term health. Whether you’re experiencing symptoms like fatigue and brain fog or simply want to optimize how your body functions, this approach meets you where you are."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-q3",
+          "name": "How is this different from regular wellness care?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-a3",
+            "text": "Traditional wellness care often focuses on maintaining baseline health. This is about optimization. It’s more comprehensive, more personalized, and guided by advanced data to improve how you feel and function on a daily basis."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-q4",
+          "name": "How long does it take to see results?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-a4",
+            "text": "Every patient is different, but many begin to notice improvements in energy, recovery, and clarity within the first few weeks, with continued progress over time as your plan is refined."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-q5",
+          "name": "Do I need all of the therapies listed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/longevity-recovery-support#faq-a5",
+            "text": "No. Your plan is completely individualized. Some patients may benefit from targeted supplementation alone, while others may incorporate therapies like IV nutrients or peptides based on their goals and data."
+          }
+        }
+      ]
+    },
+ {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/health/weight-management#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+         {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Health",
+          "item": "https://www.askamelia.com/health"
+        },
+         {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Longevity & Recovery Support in Raleigh NC",
+          "item": "https://www.askamelia.com/health/longevity-recovery-support"
+        }
+      ]
+    }
+
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/health/sexual-wellness#thing",
+      "name": "Sexual Wellness in Raleigh NC",
+      "alternateName": "Sexual Health in Raleigh NC",
+      "description": "Sexual Wellness at Amelia Health in Raleigh, NC provides personalized, judgment-free care for women and men experiencing concerns related to sexual health, intimacy, and overall well-being. Through comprehensive evaluations, advanced testing, and individualized treatment plans, Amelia Health identifies the physical, hormonal, and lifestyle factors that may contribute to symptoms such as low libido, vaginal dryness, discomfort during intimacy, erectile dysfunction, hormonal changes, and decreased sexual satisfaction. Treatment may include hormone optimization, regenerative therapies, lifestyle modifications, and ongoing wellness support designed to improve confidence, comfort, intimacy, and quality of life. The goal is to help patients restore sexual wellness and feel more connected to their health, relationships, and overall well-being.",
+      "url": "https://www.askamelia.com/health/sexual-wellness",
+      "mainEntityOfPage": {
+        "@id": "https://www.askamelia.com/health/sexual-wellness#webpage"
+      },
+      "owner": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      }
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/health/sexual-wellness#creativework",
+      "name": "Sexual Wellness in Raleigh NC",
+      "headline": "This Part of Your Health Deserves Attention Too.",
+      "alternativeHeadline": "Sexual Wellness at Amelia Health uses advanced testing and personalized care to understand what’s really driving your symptoms – and restore the comfort, desire, and confidence that’s rightfully yours.",
+      "abstract": "SAmelia Health's Sexual Wellness program helps women and men address concerns related to libido, intimacy, sexual function, and hormonal health through personalized care and evidence-based treatment plans. By identifying underlying causes and creating customized solutions, the program aims to improve confidence, comfort, sexual health, and overall quality of life.",
+      "about": {
+        "@id": "https://www.askamelia.com/health/sexual-wellness#thing"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients"
+      },
+      "author": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "provider": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "dateCreated": "2026-06-01",
+      "dateModified": "2026-06-02",
+      "datePublished": "2026-06-01",
+      "inLanguage": "en-US",
+      "keywords": ["Sexual Wellness Raleigh NC", "Sexual Health Raleigh NC", "Low Libido Treatment Raleigh NC", "Women's Sexual Wellness Raleigh", "Men's Sexual Wellness Raleigh", "Hormones and Sexual Health", "Hormone Therapy for Low Libido", "Vaginal Health Raleigh NC", "Vaginal Dryness Treatment Raleigh", "Painful Intercourse Treatment", "Erectile Dysfunction Treatment Raleigh NC", "Sexual Function Optimization", "Intimacy and Wellness", "Regenerative Sexual Wellness", "Hormone Optimization Raleigh NC", "Menopause and Sexual Health", "Andropause Treatment Raleigh NC", "Personalized Sexual Wellness Care", "Sexual Wellness Clinic Raleigh", "Amelia Health Raleigh"],
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/sexual-wellness#thing"
+      },
+      "teaches": ["Sexual wellness", "Sexual health and well-being", "Low libido", "Sexual desire and arousal", "Hormones and sexual health", "Hormonal changes and intimacy", "Menopause and sexual wellness", "Andropause and sexual health", "Vaginal health", "Vaginal dryness", "Pain during intimacy", "Erectile dysfunction", "Sexual function", "Intimacy and relationships", "Confidence and sexual wellness", "Regenerative therapies", "Hormone optimization", "Personalized sexual wellness treatment", "Root causes of sexual health concerns", "Advanced health testing", "Lifestyle factors affecting sexual health", "Physical and emotional wellness", "Whole-body wellness", "Healthy aging and sexual health", "Sexual wellness for women", "Sexual wellness for men", "Personalized healthcare", "Evidence-based sexual wellness care", "Quality of life improvement", "Patient-centered wellness"],
+      "wordCount": 934
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/health/sexual-wellness#webpage",
+      "url": "https://www.askamelia.com/health/sexual-wellness",
+      "name": "Sexual Wellness in Raleigh, NC | Amelia Health",
+      "description": "Personalized sexual wellness care in Raleigh, NC – advanced testing and treatment plans designed to restore comfort desire and confidence.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.askamelia.com/health/sexual-wellness#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/sexual-wellness#thing"
+      },
+      "lastReviewed": "2026-06-02",
+      "reviewedBy": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "specialty": ["DietNutrition", "Gastroenterologic", "Gynecologic", "Endocrine", "Pathology", "PrimaryCare"]
+    },
+
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://www.askamelia.com/health/sexual-wellness#medicalwebpage",
+      "url": "https://www.askamelia.com/health/sexual-wellness",
+      "name": "Sexual Wellness in Raleigh NC",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Patient"
+      }
+    },
+
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/health/sexual-wellness#faq",
+      "mainEntity": [
+     {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/sexual-wellness#faq-q1",
+          "name": "Are changes in sexual health normal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a1",
+            "text": "Yes, changes in sexual health are very common for both men and women, especially with age, stress, or hormonal shifts. The good news is that these changes are often highly treatable with the right approach."
+          }
+        },
+          {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/sexual-wellness#faq-q2",
+          "name": "Are treatments customized?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a2",
+            "text": "Always. Your plan is based on your symptoms, your goals, and your test results, not a standard protocol."
+          }
+        },
+{
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/sexual-wellness#faq-q3",
+          "name": "Do you see both men and women?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a3",
+            "text": "Yes. Sexual wellness concerns affect everyone, and Amelia Health provides care tailored to both male and female physiology."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/sexual-wellness#faq-q4",
+          "name": "Do you see both men and women?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a4",
+            "text": "Yes. Sexual wellness concerns affect everyone, and Amelia Health provides care tailored to both male and female physiology."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/sexual-wellness#faq-q5",
+          "name": "What regenerative therapies do you offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a5",
+            "text": "Amelia Health offers PRP-based treatments when appropriate, as part of a comprehensive, personalized treatment plan."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/sexual-wellness#faq-q6",
+          "name": "How quickly will I see results?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a6",
+            "text": "This depends on the underlying cause and the treatment approach. Some patients notice improvements within weeks, with continued progress over time as the body responds and heals."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/sexual-wellness#faq-q7",
+          "name": "Do I need hormone therapy for sexual health concerns?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a7",
+            "text": "Not always. While hormones can play a major role, many factors contribute to sexual health. The best way to determine what you need is through a comprehensive evaluation. If hormone therapy isn’t appropriate, your provider will guide you toward other effective options."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/sexual-wellness#faq-q8",
+          "name": "What causes changes in sexual health?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a8",
+            "text": "Common causes include hormonal imbalance, stress, aging, circulation issues, inflammation, and lifestyle factors. Often, it’s a combination of several factors rather than a single issue."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "Are these treatments safe?#faq-q9",
+          "name": "What causes changes in sexual health?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.askamelia.com/health/sexual-wellness#faq-a9",
+            "text": "Yes. All treatments are carefully selected based on your health history and needs, with a strong focus on safety, effectiveness, and long-term results."
+          }
+        }
+      ]
+    },
+
+ {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/health/weight-management#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+         {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Health",
+          "item": "https://www.askamelia.com/health"
+        },
+         {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sexual Wellness in Raleigh NC",
+          "item": "https://www.askamelia.com/health/weight-management"
+        }
+      ]
+    }
+
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/health/weight-management#thing",
+      "name": "Weight Management in Raleigh NC",
+      "alternateName": "Weight Loss in Raleigh NC",
+      "description": "Amelia Health's Weight Management program helps patients understand the root causes of weight gain and develop a personalized plan for long-term success. Through advanced testing, medical guidance, nutrition support, health coaching, and metabolic health optimization, the program focuses on sustainable weight loss and improved overall wellness rather than temporary solutions.",
+      "url": "https://www.askamelia.com/health/weight-management",
+      "mainEntityOfPage": {
+        "@id": "https://www.askamelia.com/health/weight-management#webpage"
+      },
+      "owner": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      }
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/health/weight-management#creativework",
+      "name": "Weight Management in Raleigh NC",
+      "headline": "The Scale isn’t the Problem. Your Program Might Be.",
+      "alternativeHeadline": "Medical weight management at Amelia Health starts with why – advanced testing, clinical insight, and a plan built around your biology, not someone else’s blueprint.",
+      "abstract": "Amelia Health's Weight Management program provides personalized, medically guided support for sustainable weight loss and improved overall health. By evaluating factors such as metabolism, hormones, nutrition, and lifestyle, the program creates individualized treatment plans that may include advanced testing, health coaching, nutritional guidance, and medical weight management options to help patients achieve lasting results and long-term wellness.",
+      "about": {
+        "@id": "https://www.askamelia.com/health/weight-management#thing"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients"
+      },
+      "author": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "provider": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "dateCreated": "2026-06-01",
+      "dateModified": "2026-06-06",
+      "datePublished": "2026-06-01",
+      "inLanguage": "en-US",
+      "keywords": ["Weight Management Raleigh NC", "Medical Weight Loss Raleigh NC", "Weight Loss Program Raleigh NC", "Personalized Weight Loss Raleigh", "Sustainable Weight Loss Raleigh NC", "Medical Weight Management Raleigh", "Weight Loss Clinic Raleigh NC", "Healthy Weight Loss Raleigh NC", "Metabolic Health Raleigh NC"],
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/weight-management#thing"
+      },
+      "teaches": [ "Weight management", "Sustainable weight loss", "Medical weight management", "Personalized weight loss planning", "Root causes of weight gain", "Metabolic health", "Metabolism and weight regulation", "Hormones and weight management", "Insulin resistance", "Body composition improvement", "Healthy nutrition habits", "Nutrition for weight loss", "Lifestyle modification", "Behavior change and accountability", "Health coaching", "GLP-1 medications", "Semaglutide for weight loss", "Tirzepatide for weight loss", "Appetite regulation", "Energy balance", "Comprehensive health assessments", "Advanced diagnostic testing", "Personalized treatment plans", "Long-term weight maintenance", "Weight loss plateau management", "Preventive healthcare", "Whole-body wellness", "Healthy aging and weight management", "Chronic disease risk reduction", "Evidence-based weight loss strategies"],
+      "wordCount": 1158
+    },
+
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/health/weight-management#webpage",
+      "url": "https://www.askamelia.com/health/weight-management",
+      "name": "Weight Management in Raleigh NC",
+      "description": "Personalized science-backed medical weight management in Raleigh, NC. Advanced testing and clinical care built around your biology.",
+      "mainEntity": {
+        "@id": "https://www.askamelia.com/health/weight-management#thing"
+      },
+      "lastReviewed": "2026-06-01",
+      "reviewedBy": {
+        "@type": "MedicalBusiness",
+        "name": "Amelia Health"
+      },
+      "specialty": ["DietNutrition", "Gastroenterologic", "Gynecologic", "Endocrine", "Pathology", "PrimaryCare"]
+    },
+
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://www.askamelia.com/health/weight-management#medicalwebpage",
+      "url": "https://www.askamelia.com/health/weight-management",
+      "name": "Weight Management in Raleigh, NC",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Patient"
+      }
+    },
+
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/health/weight-management#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/weight-management#faq-q1",
+          "name": "Will I have to follow a strict diet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.example.com/#faq-a1",
+            "text": "No. Your plan is designed to be realistic, flexible, and sustainable. We focus on long-term success, not restrictions or extremes."
+          }
+        },
+          {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/weight-management#faq-q2",
+          "name": "Do you prescribe weight loss medications?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.example.com/#faq-a2",
+            "text": "When appropriate, yes. Medications can be a helpful tool when used as part of a comprehensive, medically guided plan."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/weight-management#faq-q3",
+          "name": "How quickly will I see results?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.example.com/#faq-a3",
+            "text": "Every patient is different, but many begin noticing changes in energy, appetite, and weight within the first few weeks, with continued progress over time."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/weight-management#faq-q4",
+          "name": "Is this just for weight loss?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.example.com/#faq-a4",
+            "text": "Not at all. While weight loss is a goal for many patients, our focus is on improving overall metabolic health, energy, and how you feel in your body."
+          }
+        },
+         {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/weight-management#faq-q4",
+          "name": "Is this just for weight loss?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.example.com/#faq-a4",
+            "text": "Not at all. While weight loss is a goal for many patients, our focus is on improving overall metabolic health, energy, and how you feel in your body."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/weight-management#faq-q5",
+          "name": "Will this help me prepare for surgery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.example.com/#faq-a5",
+            "text": "Yes. We work closely with the Amelia Aesthetics surgical team to help patients reach a healthy, stable weight before surgery—and maintain results afterward."
+          }
+        },
+          {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/weight-management#faq-q6",
+          "name": "What if I’ve tried everything before?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.example.com/#faq-a6",
+            "text": "That’s exactly why this approach exists. If traditional methods haven’t worked, it often means something deeper is being missed. Our goal is to identify and address those root causes."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.askamelia.com/health/weight-management#faq-q7",
+          "name": "What if I’ve tried everything before?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+             "@id": "https://www.example.com/#faq-a7",
+            "text": "What makes Amelia Health’s weight management programs different?"
+          }
+        }
+      ]
+    },
+
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/health/weight-management#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com/"
+        },
+         {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Health",
+          "item": "https://www.askamelia.com/health"
+        },
+         {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Weight Management in Raleigh NC",
+          "item": "https://www.askamelia.com/health/weight-management"
+        }
+      ]
+    }
+
+  ]
+}
+]
