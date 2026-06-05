@@ -1,0 +1,528 @@
+[
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.askamelia.com/#website",
+      "url": "https://www.askamelia.com/",
+      "name": "Amelia Aesthetics",
+      "publisher": { "@id": "https://www.askamelia.com/#organization" },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": ["WebPage", "AboutPage"],
+      "@id": "https://www.askamelia.com/about/#webpage",
+      "url": "https://www.askamelia.com/about/",
+      "name": "About Amelia Aesthetics",
+      "isPartOf": { "@id": "https://www.askamelia.com/#website" },
+      "about": [
+        { "@id": "https://www.askamelia.com/#organization" },
+        { "@id": "https://www.askamelia.com/#business" }
+      ],
+      "primaryImageOfPage": { "@id": "https://www.askamelia.com/about/#primaryimage" },
+      "description": "About Amelia Aesthetics introduces a patient-centered plastic surgery, medspa, and wellness practice dedicated to providing compassionate, personalized care through every stage of the patient journey. Founded on the belief that exceptional results begin with listening, Amelia combines advanced surgical expertise, evidence-based treatments, transparent education, and a supportive care experience designed to help patients make confident, informed decisions. With locations across the United States, Amelia brings together experienced surgeons, wellness providers, and care teams who share a commitment to empathy, safety, collaboration, and long-term results. From consultation through recovery, Amelia focuses on creating an individualized experience that helps patients achieve their goals while feeling heard, supported, and empowered.",
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://cdn.prod.website-files.com/6408a31d539dcd1879171bbb/6a0dee3ce61dfcba550f022c_amelia_universal-horizontal-sky.png#primaryimage",
+      "url": "https://cdn.prod.website-files.com/6408a31d539dcd1879171bbb/6a0dee3ce61dfcba550f022c_amelia_universal-horizontal-sky.png",
+      "caption": "Amelia Aesthetics Logo"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.askamelia.com/#organization",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com/",
+      "logo": { "@id": "https://cdn.prod.website-files.com/6408a31d539dcd1879171bbb/6a0dee3ce61dfcba550f022c_amelia_universal-horizontal-sky.png#logo" },
+      "foundingDate": "2020-03-08",
+      "founder": { "@id": "https://askamelia.com/providers/dr-jeremy-pyle" },
+      "alternateName": ["Davis and Pyle Plastic Surgery", "Davis & Pyle Plastic Surgery"],
+      "slogan": "The world needs more women like you.",
+      "description": "Amelia Aesthetics is a multi-state plastic surgery and medspa group founded by board-certified plastic surgeon Dr. Jeremy Pyle, built around patient-centered care, transparent pricing, and modern techniques.",
+      "sameAs": [
+        "https://www.realself.com/practices/amelia-aesthetics-raleigh-north-carolina",
+        "https://www.facebook.com/askamelia.fb/",
+        "https://www.instagram.com/amelia.aesthetics/?hl=en",
+        "https://www.youtube.com/@AmeliaAesthetics",
+        "https://www.tiktok.com/@amelia.aesthetics.us"
+      ],
+      "areaServed": [
+        { "@type": "State", "name": "North Carolina" },
+        { "@type": "State", "name": "Florida" },
+        { "@type": "State", "name": "Missouri" },
+        { "@type": "State", "name": "Texas" },
+        { "@type": "State", "name": "Indiana" }
+      ],
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Breast augmentation",
+        "Breast revision surgery",
+        "Mommy makeover",
+        "Body contouring after weight loss",
+        "Facial rejuvenation",
+        "Revision plastic surgery",
+        "Medical aesthetics",
+        "Aesthetic injectables",
+        "Wellness and longevity medicine"
+      ],
+      "brand": { "@id": "https://www.askamelia.com/#brand" }
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://www.askamelia.com/#brand",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com/"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://cdn.prod.website-files.com/6408a31d539dcd1879171bbb/6a0dee3ce61dfcba550f022c_amelia_universal-horizontal-sky.png#logo",
+      "url": "https://cdn.prod.website-files.com/6408a31d539dcd1879171bbb/6a0dee3ce61dfcba550f022c_amelia_universal-horizontal-sky.png",
+      "caption": "Amelia Aesthetics logo"
+    },
+    {
+      "@type": "MedicalBusiness",
+      "@id": "https://www.askamelia.com/#business",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com/",
+      "parentOrganization": { "@id": "https://www.askamelia.com/#organization" },
+      "founder": { "@id": "https://www.askamelia.com/#dr-jeremy-pyle" },
+      "additionalProperty": [
+        { "@type": "PropertyValue", "name": "Plastic surgery practices", "value": 7 },
+        { "@type": "PropertyValue", "name": "Plastic surgeons", "value": 12 },
+        { "@type": "PropertyValue", "name": "Medspa locations", "value": 5 }
+      ],
+      "department": [
+        { "@id": "https://www.askamelia.com/medspa-procedures#amelia-medspa" },
+        { "@id": "https://www.askamelia.com/health#amelia-health" }
+      ],
+      "makesOffer": [
+        { "@id": "https://www.askamelia.com/book#offer-consultation" }
+      ],
+      "hasMap": "https://maps.app.goo.gl/vmW9s2dangnwBpNB7",
+      "priceRange": "$$-$$$"
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.askamelia.com/book#offer-consultation",
+      "name": "Plastic surgery consultation",
+      "availability": "https://schema.org/InStock",
+      "category": "Consultation",
+      "url": "https://www.askamelia.com/book/"
+    },
+    {
+      "@type": ["MedicalClinic", "HealthAndBeautyBusiness"],
+      "@id": "https://www.askamelia.com/medspa-procedures#amelia-medspa",
+      "name": "Amelia Medspa",
+      "url": "https://www.askamelia.com/medspa-procedures/",
+      "parentOrganization": { "@id": "https://www.askamelia.com/#organization" },
+      "medicalSpecialty": ["PlasticSurgery"],
+      "areaServed": [
+        { "@type": "City", "name": "Raleigh" },
+        { "@type": "City", "name": "St. Charles" },
+        { "@type": "City", "name": "Boynton Beach" },
+        { "@type": "City", "name": "Evansville" },
+        { "@type": "City", "name": "Wilmington" },
+        { "@type": "City", "name": "Tampa" },
+          { "@type": "City", "name": "San Antonio" }
+      ]
+    },
+    {
+      "@type": ["MedicalClinic", "MedicalBusiness"],
+      "@id": "https://www.askamelia.com/health#amelia-health",
+      "name": "Amelia Health",
+      "url": "https://www.askamelia.com/health/",
+      "parentOrganization": { "@id": "https://www.askamelia.com/#organization" },
+      "areaServed": [{ "@type": "City", "name": "Raleigh"} ]
+    },
+      {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-jeremy-pyle",
+      "name": "Jeremy Pyle, MD",
+      "url": "https://www.askamelia.com/providers/dr-jeremy-pyle",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/jeremy-pyle-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-jeremy-pyle-yjt83",
+        "https://www.vitals.com/doctors/jeremy-pyle-t8e6rq", "https://www.instagram.com/dr.pyle.amelia/?hl=en", "https://www.facebook.com/DrPyleatAmelia/", "https://doctor.webmd.com/doctor/jeremy-pyle-29128773-3df8-438f-98f2-ecc23230081f-overview"
+      ]
+    },
+     {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-cedric-hunter",
+      "name": "Cedric Hunter, MD",
+      "url": "https://www.askamelia.com/providers/dr-cedric-hunter",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/cedric-hunter-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-cedric-hunter-gd4wf",
+        "https://www.vitals.com/doctors/cedric-hunter-22l72b", "https://www.instagram.com/dr.hunter.amelia/", "https://www.facebook.com/DrHunterAmelia/", "https://www.tiktok.com/@realdrhunter", "https://doctor.webmd.com/doctor/cedric-hunter-d8b9db81-76fc-40be-b581-4b7c6956c36f-overview"
+      ]
+    },
+    {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-michelle-roughton",
+      "name": "Michelle Roughton, MD",
+      "url": "https://www.askamelia.com/providers/dr-michelle-roughton",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/michelle-roughton-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-michelle-roughton-38j9t",
+        "https://www.vitals.com/doctors/michelle-roughton-9gg9cf", "https://www.instagram.com/dr.roughton.amelia/?hl=en", "https://www.facebook.com/p/Dr-Roughton-at-Amelia-100063981016997/", "https://www.doctor.webmd.com/doctor/michelle-roughton-6bfdf5a0-2081-4d9e-bc6b-898db8676ca7-overview"
+      ]
+    },
+       {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-rafi-fredman",
+      "name": "Rafi Fredman, MD",
+      "url": "https://www.askamelia.com/providers/dr-rafi-fredman",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/rafi-fredman-saint-charles-mo",
+        "https://www.healthgrades.com/physician/dr-rafi-fredman-xylkcdn",
+        "https://www.vitals.com/doctors/rafi-fredman-4y002y", "https://www.instagram.com/dr.fredman.amelia/", "https://www.facebook.com/p/Dr-Fredman-at-Amelia-100027689815648/"
+      ]
+    },
+    {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-marcos-lopez",
+      "name": "Marcos Lopez, MD",
+      "url": "https://www.askamelia.com/providers/dr-marcos-lopez",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/marcos-lopez-san-antonio-tx",
+        "https://www.healthgrades.com/physician/dr-marcos-lopez-xyn9hx8",
+        "https://www.vitals.com/doctors/marcos-lopez-7eobrr", "https://www.facebook.com/dr.lopez.amelia/", "https://www.instagram.com/dr.lopez.amelia/", "https://doctor.webmd.com/doctor/marco-lopez-jr-3e096fd8-9ebd-45e7-8625-494765c543ea-overview"
+      ]
+    },
+     {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-kate-kottwitz",
+      "name": "Kate Kottwitz, MD",
+      "url": "https://www.askamelia.com/providers/dr-kate-kottwitz",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/katherine-kottwitz-evansville-in",
+        "https://www.healthgrades.com/physician/dr-katherine-kottwitz-xylntdw",
+        "https://www.vitals.com/doctors/katherine-mckenna-wzooru", "https://www.facebook.com/dr.kate.amelia/", "https://www.instagram.com/dr.k.kottwitz/", "https://doctor.webmd.com/doctor/katherine-mckenna-2c626649-8384-43c8-9ba1-b3ad23a19d52-overview"
+      ]
+    },
+     {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-aspinder-singh",
+      "name": "Aspinder Singh, MD",
+      "url": "https://www.askamelia.com/providers/dr-aspinder-singh",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/aspinder-singh-raleigh-nc",
+        "https://www.healthgrades.com/physician/dr-aspinder-singh-xymqc2l",
+        "https://www.vitals.com/doctors/aspinder-singh-tebobm", "https://www.instagram.com/dr.singh.amelia/", "https://www.doctor.webmd.com/doctor/aspinder-singh-dabc9865-d6cc-4db5-9055-ed98193f77e2-overview"
+      ]
+    },
+     {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-kamran-khan",
+      "name": "Kamran Khan, MD",
+      "url": "https://www.askamelia.com/providers/dr-kamran-khan",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.healthgrades.com/physician/dr-kamran-khan-xyn6hg2",
+        "https://www.vitals.com/doctors/kamran-khan-n79kyd", "https://www.instagram.com/dr.khan.amelia?igsh=MWU5MXdxaGZoZXFmeQ==", "https://www.tiktok.com/@dr.kam.khan", "https://doctor.webmd.com/doctor/kamran-khan-cc24472a-66fb-405a-ace7-bdca6a2917cd-overview"
+      ]
+    },
+    {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-alan-tom",
+      "name": "Alan Tom, MD",
+      "url": "https://www.askamelia.com/providers/dr-alan-tom",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.healthgrades.com/physician/dr-alan-tom-xyms4q4",
+        "https://www.vitals.com/doctors/alan-tom-pmaqw9", "https://www.instagram.com/dr.alan.tom", "https://www.tiktok.com/@dr.alan.tom", "https://doctor.webmd.com/doctor/alan-tom-69a3796a-692d-4561-86b5-92066b62492a-overview"
+      ]
+    },
+    {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-trace-browne",
+      "name": "Trace Browne, MD",
+      "url": "https://www.askamelia.com/providers/dr-trace-browne",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.healthgrades.com/physician/dr-donald-browne-xynq76m",
+        "https://www.vitals.com/doctors/donald-browne-iii-foi818", "https://www.instagram.com/dr.browne.amelia/", "https://www.tiktok.com/@dr.browne.amelia", "https://www.realself.com/dr/trace-browne-raleigh-nc", "https://www.doctor.webmd.com/doctor/donald-browne-iii-88b0bd3c-61d8-42c2-be0d-7d7f766ab5ab-overview"
+      ]
+    },
+    {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-shabaaz-sandhu",
+      "name": "Shabaaz Sandhu, MD",
+      "url": "https://www.askamelia.com/providers/dr-shabaaz-sandhu",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/shabaaz-sandhu-westchase-fl",
+        "https://www.healthgrades.com/physician/dr-shabaaz-sandhu-1g7uin0706", "https://www.instagram.com/dr.sandhu.amelia/?hl=en", "https://www.tiktok.com/@dr.sandhu.amelia", "https://doctor.webmd.com/doctor/shabaaz-sandhu-3de1e57b-f954-4445-9f09-9092a7d53934-overview", ""
+      ]
+    },
+      {
+      "@type": "Physician",
+      "@id": "https://www.askamelia.com/providers/dr-anthony-azzolini",
+      "name": "Anthony Azzolini, MD",
+      "url": "https://www.askamelia.com/providers/dr-anthony-azzolini",
+      "knowsAbout": [
+        "Plastic surgery",
+        "Cosmetic surgery",
+        "Patient-centered surgical care", "body contouring"
+      ],
+      "sameAs": [
+        "https://www.realself.com/dr/anthony-azzolini-wilmington-nc",
+        "https://www.healthgrades.com/physician/dr-anthony-azzolini-xynxfxn", "https://www.instagram.com/dr.azzolini.amelia/", "https://doctor.webmd.com/doctor/anthony-azzolini-8c1394fb-6c5c-4a6c-b89a-d91a2efcdbc5-overview"
+      ]
+    }
+  ]
+},
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/#thing",
+      "name": "Amelia Aesthetics",
+      "alternateName": ["AskAmelia", "Amelia"],
+      "description": "Plastic surgery and medspa care delivered with a patient-first approach focused on collaboration, comfort, and long-term confidence.",
+      "url": "https://www.askamelia.com/",
+      "sameAs": [
+        "https://www.instagram.com/amelia.aesthetics", "https://www.tiktok.com/@amelia.aesthetics.us","https://www.youtube.com/@AmeliaAesthetics","https://www.facebook.com/askamelia.fb/"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.askamelia.com/#organization",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com/",
+      "keywords": [
+        "plastic surgery", "plastic surgeon", "mommy makeover",
+        "medspa",
+        "breast surgery",
+        "body contouring", "body contouring after weight loss",
+        "facial plastic surgery",
+        "injectables",
+        "skincare"
+      ],
+      "slogan": "Plastic surgery with empathy and ease.",
+      "brand": {
+        "@type": "Brand",
+        "@id": "https://www.askamelia.com/#brand",
+        "name": "Amelia Aesthetics"
+      },
+      "founder":
+        {
+          "@type": ["Person", "Physician"],
+          "@id": "https://askamelia.com/providers/dr-jeremy-pyle#physician",
+          "name": "Dr. Jeremy Pyle",
+          "honorificPrefix": "Dr."
+        },
+      "foundingDate": "March, 8, 2020",
+      "foundingLocation": {"@type": "Place", "@id": "https://www.askamelia.com/locations/Raleigh#medicalbusiness",
+        "name": "Amelia Raleigh, North Carolina, United States"
+      },
+      "knowsAbout": [
+        "Breast surgery", "plastic surgery", "body contouring skin removal surgery", "Body contouring", "women health services",
+        "Facial plastic surgery",
+        "Medspa treatments",
+        "Transparent pricing",
+        "Revision surgery",
+        "Patient education"
+      ],
+      "owns": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.askamelia.com/locations#webpage",
+          "url": "https://www.askamelia.com/locations",
+          "name": "Amelia Aesthetics Locations"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://www.askamelia.com/surgeons#webpage",
+          "url": "https://www.askamelia.com/surgeons",
+          "name": "Amelia Plastic Surgeons"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://www.askamelia.com/health#webpage",
+          "url": "https://www.askamelia.com/health",
+          "name": "Amelia Health"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://www.askamelia.com/medspa-procedures#webpage",
+          "url": "https://www.askamelia.com/medspa-procedures",
+          "name": "Amelia Medspa"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://www.askamelia.com/ai#webpage",
+          "url": "https://www.askamelia.com/ai",
+          "name": "Ask Amelia AI"
+        }
+      ],
+      "subOrganization": [
+        {
+          "@type": "Organization",
+          "@id": "https://www.bustmob.com",
+          "name": "Bustmob Community",
+          "url": "https://www.bustmob.com/"
+        }
+      ],
+      "skills": [
+        "Comprehensive patient education",
+        "Collaborative surgical planning",
+        "Plastic surgery and medspa care coordination",
+        "Transparent pricing and patient-first processes", "modern, drainless tummy tuck", "revision surgery", "breast surgery", "body countouring", "plastic surgery"
+      ]
+      },
+      {
+      "@type": "MedicalOrganization",
+      "@id": "https://www.askamelia.com/#medicalorganization",
+      "name": "Amelia Aesthetics",
+      "url": "https://www.askamelia.com/",
+      "isAcceptingNewPatients": true,
+      "medicalSpecialty": "PlasticSurgery",
+      "sameAs": [
+        "https://www.askamelia.com/#organization"
+      ]
+    }
+  ]
+},
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness","MedicalBusiness", "MedicalClinic"],
+      "@id": "https://www.askamelia.com/health",
+      "name": "Amelia Health",
+      "description": "Amelia Health is a comprehensive wellness and longevity practice in Raleigh, NC. The expert providers create lab-informed, personalized treatment plans for hormone balancing, weight management, longevity therapies, and aesthetic care to support an active, thriving life.",
+      "url": "https://www.askamelia.com/health",
+      "image": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6a1732d44d077d0205c5a86d_health-coaching-process.webp",
+      "logo": "https://cdn.prod.website-files.com/6408a31d539dcd1879171bbb/6a170160c21a92c4ead8a890_amelia_logomark-darkjade.svg",
+      "photo": "https://cdn.prod.website-files.com/6408a31d539dcd3386171be0/6a1732d44d077d0205c5a86d_health-coaching-process.webp",
+      "slogan":"Your Journey to Wellness Longevity and Confidence",
+      "telephone": "9197851220",
+      "keywords": ["Women heath", "menopause", "perimenapause", "gut health", "sexual wellness", "weight management", "health coaching", "longevity and recovery support"],
+      "owner": {
+        "@type": "Organization",
+        "name": "Amelia Aesthetics#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2304 Wesvill Ct Suite 360",
+        "addressLocality": "Raleigh,",
+        "addressRegion": "NC",
+        "postalCode": "27607",
+        "addressCountry": "USA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "35.814704005219475",
+        "longitude": "-78.69517093743129"
+      },
+      "hasMap": "https://maps.app.goo.gl/HtUXywtxsh8y1fV46",
+      "currenciesAccepted": "USD",
+      "paymentAccepted": "credit, debit, cash, cashier’s and personal checks, Apple Pay, Care Credit, Alpheon",
+      "priceRange": "$$$",
+      "floorLevel": "3",
+      "openingHours": "Mo-Fr",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:30",
+          "closes": "16:30"
+        }
+      ],
+      "medicalSpecialty": [
+        "Gynecologic", "PrimaryCare", "DietNutrition", "Gastroenterologic"
+      ],
+      "availableService": [
+        {
+          "@type": "MedicalProcedure",
+          "name": "Hormone Balancing Therapy"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Weight Management"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Gut Health"
+        },
+         {
+          "@type": "MedicalProcedure",
+          "name": "Health Coaching"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Longevity and Recovery Support"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Sexual Wellness"
+        }
+      ]
+    }
+  ]
+}
+
+]
