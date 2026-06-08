@@ -3,6 +3,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "pageUrl": "https://www.askamelia.com/about",
       "@type": "WebSite",
       "@id": "https://www.askamelia.com/#website",
       "url": "https://www.askamelia.com/",
@@ -328,6 +329,7 @@
 },
 
 {
+  "pageUrl": "https://www.askamelia.com/",
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -441,6 +443,7 @@
   ]
 },
 {
+  "pageUrl": "https://www.askamelia.com/health",
   "@context": "https://schema.org",
   "@graph": [
     {
