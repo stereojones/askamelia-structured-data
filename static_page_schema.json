@@ -1,9 +1,9 @@
 [
 {
+  "pageUrl": "https://www.askamelia.com/about",
   "@context": "https://schema.org",
   "@graph": [
     {
-      "pageUrl": "https://www.askamelia.com/about",
       "@type": "WebSite",
       "@id": "https://www.askamelia.com/#website",
       "url": "https://www.askamelia.com/",
