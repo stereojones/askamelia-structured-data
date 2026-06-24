@@ -2,6 +2,196 @@
   {
   "@context": "https://schema.org",
   "@graph": [
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#thing",
+      "name": "Bemotrizinol",
+      "description": "Bemotrizinol is a broad-spectrum UV filter approved by the FDA in June 2026 that protects against both UVA and UVB rays in a single molecule. Long used in Europe and Asia since 1999, it is photostable, effective for anti-aging skincare, and approved for adults and children as young as six months.",
+      "url": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol",
+      "owner": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "subjectOf": {
+        "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#webpage"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#webpage",
+      "url": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol",
+      "name": "Here's What You Need to Know About Bemotrizinol",
+      "description": "Bemotrizinol, an active sunscreen ingredient, is finally hitting the US market. Learn more about what bemotrizinol is, its benefits, and what it means for your current SPF products.",
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#thing"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Amelia Blog",
+          "item": "https://www.askamelia.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Here's What You Need to Know About Bemotrizinol",
+          "item": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#creativework",
+      "about": {
+        "@id": "{https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#thing"
+      },
+      "abstract": "The FDA approved bemotrizinol in June 2026 the first new active sunscreen ingredient approved in the US in 25 years. Already used safely in Europe and Asia since 1999, bemotrizinol provides broad-spectrum UVA and UVB protection in a single photostable molecule. This article explains what bemotrizinol is why UVA protection matters for anti-aging and post-procedure skin its safety record when products will be available and answers common patient questions about switching sunscreens.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Patients seeking sun protection, anti-aging skincare, and post-procedure skin care guidance"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "keywords": [
+        "bemotrizinol",
+        "FDA approved sunscreen 2026",
+        "new sunscreen ingredient",
+        "UVA UVB protection",
+        "broad-spectrum sunscreen",
+        "sunscreen for post-procedure skin",
+        "anti-aging sun protection"
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "{https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#article",
+      "isPartOf": {
+        "@id": "{https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#webpage"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#thing"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2026-06-24",
+      "dateModified": "2026-06-24",
+      "articleBody": "For the first time since the late 1990s, there's a new active sunscreen ingredient coming to the U.S. market. The FDA officially approved bemotrizinol in June of this year with products expected to hit shelves before the summer ends. Bemotrizinol, pronounced beh-mo-TRIZ-in-ol, is a broad-spectrum UV filter, which means it protects against both UVA and UVB rays in a single molecule. It's been used safely in sunscreens across Europe and Asia since 1999, meaning there's a 25-year real-world safety record before it ever reaches shelves in the US as early as August 2026. Most sunscreens in the U.S. are formulated primarily to protect against UVB rays — the rays responsible for sunburn. That's also what the SPF number on the label measures. UVB protection matters, and the sunscreens many people use every day do that job well. But there's a second type of UV radiation that doesn't cause sunburn and isn't reflected in the SPF number: UVA. UVA rays penetrate deeper into the skin. Where UVB sits closer to the surface and causes the burn you feel, UVA reaches the deeper layers where collagen lives. Over time, UVA exposure contributes to fine lines, wrinkles, loss of firmness, uneven tone, and hyperpigmentation. UVA rays are present year-round, all day, and even come through glass. That means even if you're mostly indoors, UVA exposure is still possible. Bemotrizinol is specifically designed to provide strong, stable UVA and UVB protection. It absorbs UV energy and releases it as harmless heat. Based on data reviewed by the FDA, it is considered highly photostable, meaning it holds up throughout the day rather than breaking down with sun exposure. That all-day consistency is one of its most meaningful qualities for long-term skin health. Daily sun protection, especially strong UVA coverage, is one of the ways to preserve skincare results long term. Bemotrizinol is especially important for those who have a history of laser, IPL, or resurfacing procedures; melasma or hyperpigmentation concerns; post-surgical or post-treatment skin; or a strong anti-aging focus in their skincare routine. Skin that's actively healing from a surgical procedure or medspa treatment is particularly vulnerable to UV-triggered hyperpigmentation. UV exposure during recovery can darken healing tissue, which is why strong, stable UVA and UVB coverage matters in the weeks and months after treatment. In the U.S., one manufacturer has first-to-market rights, with broader availability across more brands expected by 2028. Bemotrizinol has been used in sunscreens internationally for over 25 years without serious safety signals. The FDA reviewed clinical trial data, a two-year carcinogenicity study, and lab studies on hormonal activity. As of June, the FDA officially classified bemotrizinol as GRASE (Generally Recognized as Safe and Effective), and approved it for use in adults and children as young as six months. As with any skincare addition, if you have specific health considerations such as pregnancy, breastfeeding, skin sensitivities, or existing conditions, always check with your healthcare provider before making a change. The FDA's final order takes effect August 9th of this year, meaning products can be sold starting that date. Initial availability will be limited. In the meantime, the sunscreens you know and love still offer effective broad-spectrum protection, and consistent daily use of any quality SPF is always the right move. Sun protection is one of the most powerful tools in any skincare routine. It preserves skin tone, reduces hyperpigmentation risk, and protects the results you've put time and money into.",
+      "wordCount": 558
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#faq",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is bemotrizinol?#faq-q1",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bemotrizinol, pronounced beh-mo-TRIZ-in-ol, is a broad-spectrum UV filter, which means it protects against both UVA and UVB rays in a single molecule. It's been used safely in sunscreens across Europe and Asia since 1999, meaning there's a 25-year real-world safety record before it ever reaches shelves in the US as early as August 2026.#faq-a1"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is this different from current sunscreen made in the US?#faq-q2",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most sunscreens in the U.S. are formulated primarily to protect against UVB rays—the rays responsible for sunburn. That's also what the SPF number on the label measures. UVB protection matters, and the sunscreens many people use every day do that job well.But there's a second type of UV radiation that doesn't cause sunburn and isn't reflected in the SPF number: UVA.UVA rays penetrate deeper into the skin. Where UVB sits closer to the surface and causes the burn you feel, UVA reaches the deeper layers where collagen lives. Over time, UVA exposure contributes to:Fine Lines,Wrinkles,Loss of Firmness, Uneven ToneHyperpigmentationUVA rays are present year-round, all day, and even come through glass. That means even if you’re mostly indoors, UVA exposure is still possible.Bemotrizinol is specifically designed to provide strong, stable UVA and UVB protection. It absorbs UV energy and releases it as harmless heat. Plus, based on data reviewed by the FDA, it is considered highly photostable, meaning it holds up throughout the day rather than breaking down with sun exposure. That all-day consistency is one of its most meaningful qualities for long-term skin health.#faq-a2"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why Bemotrizinol Matters#faq-q3",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You’ve invested in your skin so it’s worth protecting. Daily sun protection, especially strong UVA coverage, is one of the ways to preserve your results long term. Bemotrizinol gives your skincare routine a boost in protecting against collagen breakdown, wrinkles, and hyperpigmentation, and is especially important for those who have: A history of laser, IPL, or resurfacing proceduresMelasma or hyperpigmentation concernsPost-surgical or post-treatment skinA strong anti-aging focus in their skincare routineSkin that's actively healing from a surgical procedure or medspa treatment is particularly vulnerable to UV-triggered hyperpigmentation. UV exposure during recovery can darken healing tissue, like scars, which is why strong, stable UVA and UVB coverage matters in the weeks and months after treatment.In the U.S., one manufacturer has first-to-market rights, with broader availability across more brands expected by 2028.We'll be paying close attention to which formulas come to market, and of course, we’ll keep you updated as trusted formulas become available.#faq-a3"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is bemotrizinol safe?#faq-q4",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bemotrizinol has been used in sunscreens internationally for over 25 years without serious safety signals. In addition to its long international track record, the FDA reviewed clinical trial data, a two-year carcinogenicity study, and lab studies on hormonal activity. As of June, the FDA officially classified bemotrizinol as GRASE (Generally Recognized as Safe and Effective), and approved it for use in adults and children as young as six months.As with any skincare addition, if you have specific health considerations, such as pregnancy, breastfeeding, skin sensitivities, or existing conditions, always check with your healthcare provider before making a change.#faq-a4"
+          }
+        },
+           {
+          "@type": "Question",
+          "name": "When can you get it?#faq-q5",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The FDA's final order takes effect August 9th of this year, meaning products can be sold starting that date. Initial availability will be limited. We'll keep you posted as we continue to vet and research new formulas. In the meantime, the sunscreens you know and love still offer effective broad-spectrum protection, and consistent daily use of any quality SPF is always the right move.#faq-a5"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is bemotrizinol replacing my current sunscreen?#faq-q6",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bemotrizinol is a new option, not a reason to change what's already working. If your current SPF is part of a consistent routine and your skin is responding well, that matters. Every skin is different, and what works well for one person may not be the right fit for another. If you're curious about whether a switch might make sense for you, that's a conversation worth having with your medspa or healthcare provider.#faq-a6"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use bemotrizinol if I'm pregnant or breastfeeding?#faq-q7",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The FDA approved bemotrizinol broadly, but pregnancy and breastfeeding require extra care with any new product. Always check with your healthcare provider before making a switch.#faq-a7"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does SPF still matter if the sunscreen has bemotrizinol?#faq-q8",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. SPF measures UVB protection and remains the standard on labels. Bemotrizinol works within that framework, contributing to SPF while adding strong UVA coverage. You want both working for you, and your provider can help you understand what to look for on the label.#faq-a4"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are mineral sunscreens still a good option?#faq-q9",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, zinc oxide and titanium dioxide remain reliable, well-tolerated choices, especially for sensitive or post-procedure skin. Bemotrizinol is simply another option, not a replacement for what already works for you. A sunscreen you use consistently every day is doing its job. Your medspa provider can help you find the right fit for your skin.#faq-a9"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why did it take 25 years for the U.S. to approve bemotrizinol?#faq-q10",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It comes down to how sunscreens are regulated in the U.S. Sunscreens are classified as over-the-counter drugs, which means they go through a more rigorous FDA review process than the cosmetic classification used in Europe. That higher bar takes time — but it's also why the approval, now that it's here, carries real weight.#faq-a10"
+          }
+        }
+      ]
+    }
+  ]
+},
+  {
+  "@context": "https://schema.org",
+  "@graph": [
 
     {
       "@type": "Thing",
