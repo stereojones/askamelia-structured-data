@@ -1,4 +1,203 @@
 [
+  
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Thing",
+      "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#thing",
+      "name": "Mommy Makeover",
+      "description": "A mommy makeover is a combination of cosmetic procedures performed in a single surgery, most commonly a tummy tuck paired with breast surgery such as a lift, implants, or reduction, and sometimes liposuction. The combination is customized to each patient's body, goals, and health history.",
+      "url": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon",
+      "owner": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "subjectOf": {
+        "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#webpage"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#webpage",
+      "url": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon",
+      "name": "What to Know Before a Mommy Makeover (And How to Choose a Surgeon) | Amelia",
+      "description": "Thinking about a mommy makeover? Here’s what to know about safety, recovery, and choosing a surgeon you can trust, in plain language. From Amelia Aesthetics.",
+      "breadcrumb": {
+        "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#breadcrumb"
+      },
+      "reviewedBy": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#thing"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.askamelia.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.askamelia.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "What to Know Before a Mommy Makeover, and How to Choose Your Surgeon",
+          "item": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#creativework",
+      "about": {
+        "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#thing"
+      },
+      "abstract": "This article explains what a mommy makeover is, what current research shows about the safety of combining a tummy tuck with breast surgery, and which risks and health factors matter before scheduling. It covers what patients should know about breast implants, including that they are not lifetime devices and that exchanges are typically simpler procedures, and provides a five-point framework for choosing a qualified surgeon: board certification or board eligibility, facility accreditation, experience with combined procedures, honest safety conversations, and avoiding discount surgery abroad. It includes seven consultation questions and answers common questions about recovery time, cost, and timing after childbirth.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Women researching mommy makeover surgery and evaluating plastic surgeons for combined post-pregnancy or post-weight-loss procedures"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2026-07-09",
+      "dateModified": "2026-07-09",
+      "keywords": [
+        "mommy makeover",
+        "what to know before a mommy makeover",
+        "how to choose a mommy makeover surgeon",
+        "mommy makeover safety",
+        "mommy makeover recovery",
+        "tummy tuck and breast surgery",
+        "board certified plastic surgeon"
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#article",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#webpage"
+      },
+      "about": {
+        "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#thing"
+      },
+      "author": {
+        "@id": "https://www.askamelia.com#organization"
+      },
+      "datePublished": "2026-07-09",
+      "dateModified": "2026-07-09",
+      "articleBody": "If you're reading this, you've probably been thinking about a mommy makeover for a while. Maybe years. Somewhere in the middle of a life spent showing up for everyone else, there's been this quiet question: what about me? That question deserves a real answer, not marketing gloss and not scare tactics. So here's what's actually worth knowing before a mommy makeover and how to find a surgeon who will treat your decision with the care it deserves. What is a mommy makeover? A mommy makeover is a combination of procedures performed in a single surgery, for example, a tummy tuck paired with breast surgery like a lift, breast implants, or reduction. Some plans also include liposuction. The combination is built around you, which is why the planning conversation matters as much as the operation itself. There's no standard version of this surgery. For one woman, it's a tummy tuck and a lift. For another, it's repairing abdominal muscles that pregnancy separated, paired with an augmentation. Your body, your goals, and your health history shape the plan. That's the whole point. Is a mommy makeover safe? For healthy patients working with a qualified surgeon, yes. This is one of the more thoroughly studied questions in plastic surgery, and the research is reassuring: large studies following tens of thousands of women have found that combining a tummy tuck with breast surgery didn't meaningfully raise the risk of serious complications compared to a tummy tuck alone. In other words, doing it in one surgery, with one recovery, isn't the gamble it might sound like. For many women, it's the more practical path: one round of anesthesia, one stretch of time off, one healing season instead of two. Safe for many isn't the same as safe for everyone, though. Things like a higher BMI can raise risk in some cases. A good surgeon won't just tell you what's possible. They'll tell you what's safe for your body. That kind of honesty is a gift, not a rejection. What are the risks I should actually understand? The complications plastic surgeons typically watch for include bleeding under the skin, infection, and blood clots. Be sure to ask your surgeon during your consultation how they keep patients safe: how they screen, how they plan your day of surgery, and how they'll support your recovery. Your health going into surgery matters too. Carrying extra weight raises the chance of infection and clots, which is why a thoughtful surgeon might suggest adjusting the timing rather than the plan. That conversation can sting a little. It's also the sound of someone protecting you. Prehabilitation programs can help you physically and mentally prepare for surgery and support a smoother recovery. What should I know about breast implants? Implants aren't lifetime devices, and that's worth knowing going in. Some women keep theirs for decades without a second thought, and many will choose an exchange somewhere down the road, whether for size, style, or simply time. The reassuring part is that an exchange is typically a simpler, easier surgery than the first one, and in some cases, it can even be done awake, under local anesthesia. If you have questions about how long implants last or implant exchange, your consultation is a great time to talk through your long-term plan. It also helps to know how much science sits behind this choice. Breast implants are among the most studied medical devices in the country, and the FDA has been reviewing their safety for decades. Before surgery, your surgeon will walk you through the risks, benefits, and your unique anatomy. Many of our patients choose implants and love them. The point isn't to talk you into them or out of them. It's to make sure you walk in informed and walk out confident. Is a mommy makeover worth it? Only you can answer that, but here's what we can tell you. A study following women through recovery found meaningful improvements in body image, and women who chose the combined surgery reported feeling even better about the results than those who had a single procedure. And that matches what we hear in our own exam rooms, months later, when patients tell us less about their clothes and more about how they feel walking into a room. Because this was never really about a flatter stomach. It's about looking in the mirror and recognizing yourself. For some women that moment arrived after kids. For others, after a weight loss they worked years for. Choosing something for yourself isn't vanity, and it isn't turning back the clock. It's letting your outside match the person you already are. Timing matters here too. Many surgeons recommend waiting until you feel done having children and your weight has settled, since future pregnancies can change your results. If you're not sure yet, that's not a reason to skip the consultation. It's a reason to have it, so the plan can wait with you. How do I choose a mommy makeover surgeon? When choosing a plastic surgeon for your mommy makeover, look for: Board-Certified or Board-Eligible by the American Board of Plastic Surgery: \"Cosmetic surgeon\" isn't the same as a plastic surgeon. Anyone with a medical license can use the term \"cosmetic surgeon.\" Board certification and board eligibility by the American Board of Plastic Surgery mean years of dedicated surgical training. An Accredited Facility: Research on hundreds of thousands of procedures has shown that accredited surgical suites are a safe setting for cosmetic surgery. Look for accreditation from AAAASF, AAAHC, or The Joint Commission. It means the facility meets real standards for equipment, staffing, and emergencies. Experience With Combined Procedures: A mommy makeover is longer and more involved than a single procedure. Ask directly: how many of these do you do each year? What happens if I need a revision? A surgeon worth choosing answers without flinching. A Real Safety Conversation: You should learn about the risks and what your health history means for you specifically. A good surgeon will lead with honesty, giving you all the information you need to make the decision that's right for you. Safety Over Savings: There may be exceptions, but in general, discount surgery abroad has a documented dark side. The CDC has investigated outbreaks of serious infections among women who traveled for bargain procedures, some needing months of treatment and more surgery afterward. Whatever was saved up front was spent many times over, in money and in heartache. If cost is the barrier, ask about financing before you consider a flight. Questions to bring to your consultation. Bring this list. A good surgeon will be glad you did. Are you board-certified or board-eligible by the American Board of Plastic Surgery? Is your surgical facility accredited, and by whom? How many mommy makeovers do you perform each year? Given my health history, what does my personal risk picture look like? What do you do before, during, and after surgery to keep patients safe? What happens if I need a revision? Is combining these procedures right for me, or would you suggest staging them? FAQ. How long is mommy makeover recovery? Mommy makeover recovery varies by the procedures you have and your lifestyle. In general, women take 7-10 days of downtime with six weeks of water and lifting restrictions. The recovery is typically front-loaded with the first week asking the most of you, and many patients feeling themselves turning a corner around day 7-10. Your surgeon will map a timeline for your specific procedures. How much does a mommy makeover cost? It varies by region, surgeon, and which procedures you combine. But, you can view pricing for every Amelia surgeon online to get an idea of what your mommy makeover could cost. Combining procedures into one surgery often costs less than doing them separately, since anesthesia and facility time happen once. When can I get a mommy makeover after having a baby? Many surgeons suggest waiting at least six months after childbirth and a few months after finishing breastfeeding, so your weight and breast tissue have time to settle. If more children are in your near future, your surgeon may suggest waiting, since pregnancy can change your results. Can I get a mommy makeover if I haven't had kids? Yes. The name describes the combination of procedures, not a parental status. Women choose to have mommy makeover surgery after weight changes, for physical comfort, or simply because it fits how they want to feel in their body. Every one of those reasons is enough. Is it safer to do procedures separately instead of combined? For healthy patients, research hasn't shown that combining procedures meaningfully raises the risk of serious complications. For women with certain risk factors, spacing things out may be the wiser call. This is exactly what your consultation is for. Always be empowered to speak honestly with your surgeon about your health history, concerns, goals, and lifestyle. You've done the quiet research. You've sat with the question longer than anyone knows. Whenever you're ready for a consultation, we're here, and we'll give you straight answers from the first conversation.",
+      "wordCount": 1514
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#faq",
+      "isPartOf": {
+        "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a mommy makeover?#faq-q1",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A mommy makeover is a combination of procedures performed in a single surgery, for example, a tummy tuck paired with breast surgery like a lift, breast implants, or reduction. Some plans also include liposuction. There's no standard version of this surgery. Your body, your goals, and your health history shape the plan, which is why the planning conversation matters as much as the operation itself.#faq-a1"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a mommy makeover safe?#faq-q2",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For healthy patients working with a qualified surgeon, yes. Large studies following tens of thousands of women have found that combining a tummy tuck with breast surgery didn't meaningfully raise the risk of serious complications compared to a tummy tuck alone. Safe for many isn't the same as safe for everyone, though. Things like a higher BMI can raise risk in some cases, and a good surgeon will tell you what's safe for your body, not just what's possible.#faq-a2"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are the risks I should actually understand?#faq-q3",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The complications plastic surgeons typically watch for include bleeding under the skin, infection, and blood clots. Ask your surgeon during your consultation how they keep patients safe: how they screen, how they plan your day of surgery, and how they'll support your recovery. Carrying extra weight raises the chance of infection and clots, which is why a thoughtful surgeon might suggest adjusting the timing rather than the plan. Prehabilitation programs can help you physically and mentally prepare for surgery and support a smoother recovery.#faq-a3"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I know about breast implants?#faq-q4",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Implants aren't lifetime devices. Some women keep theirs for decades without a second thought, and many will choose an exchange somewhere down the road, whether for size, style, or simply time. An exchange is typically a simpler, easier surgery than the first one, and in some cases can even be done awake under local anesthesia. Breast implants are among the most studied medical devices in the country, and before surgery your surgeon will walk you through the risks, benefits, and your unique anatomy.#faq-a4"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a mommy makeover worth it?#faq-q5",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only you can answer that, but a study following women through recovery found meaningful improvements in body image, and women who chose the combined surgery reported feeling even better about the results than those who had a single procedure. Many surgeons recommend waiting until you feel done having children and your weight has settled, since future pregnancies can change your results.#faq-a5"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I choose a mommy makeover surgeon?#faq-q6",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Look for five things: board certification or board eligibility by the American Board of Plastic Surgery, an accredited surgical facility (AAAASF, AAAHC, or The Joint Commission), real experience with combined procedures, a surgeon who has an honest safety conversation about your specific health history, and safety over savings, since discount surgery abroad has been linked by the CDC to outbreaks of serious infections.#faq-a6"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is mommy makeover recovery?#faq-q7",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mommy makeover recovery varies by the procedures you have and your lifestyle. In general, women take 7-10 days of downtime with six weeks of water and lifting restrictions. The recovery is typically front-loaded with the first week asking the most of you, and many patients feeling themselves turning a corner around day 7-10. Your surgeon will map a timeline for your specific procedures.#faq-a7"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does a mommy makeover cost?#faq-q8",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It varies by region, surgeon, and which procedures you combine. You can view pricing for every Amelia surgeon online to get an idea of what your mommy makeover could cost. Combining procedures into one surgery often costs less than doing them separately, since anesthesia and facility time happen once.#faq-a8"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When can I get a mommy makeover after having a baby?#faq-q9",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many surgeons suggest waiting at least six months after childbirth and a few months after finishing breastfeeding, so your weight and breast tissue have time to settle. If more children are in your near future, your surgeon may suggest waiting, since pregnancy can change your results.#faq-a9"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a mommy makeover if I haven't had kids?#faq-q10",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The name describes the combination of procedures, not a parental status. Women choose to have mommy makeover surgery after weight changes, for physical comfort, or simply because it fits how they want to feel in their body. Every one of those reasons is enough.#faq-a10"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it safer to do procedures separately instead of combined?#faq-q11",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For healthy patients, research hasn't shown that combining procedures meaningfully raises the risk of serious complications. For women with certain risk factors, spacing things out may be the wiser call. This is exactly what your consultation is for. Always be empowered to speak honestly with your surgeon about your health history, concerns, goals, and lifestyle.#faq-a11"
+          }
+        }
+      ]
+    }
+  ]
+},
   {
   "@context": "https://schema.org",
   "@graph": [
