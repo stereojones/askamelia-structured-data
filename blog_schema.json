@@ -39,7 +39,7 @@
       "@id": "https://www.askamelia.com/blog#itemlist",
       "name": "Amelia Aesthetics Blog Articles",
       "itemListOrder": "https://schema.org/ItemListOrderDescending",
-      "numberOfItems": 17,
+      "numberOfItems": 18,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -158,6 +158,13 @@
           "position": 17,
           "item": {
             "@id": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol#post"
+          }
+        },
+         {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@id": "https://www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#post"
           }
         }
       ]
@@ -431,6 +438,22 @@
     "url": "https://www.askamelia.com/blog/heres-what-you-need-to-know-about-bemotrizinol",
     "headline": "Here's What You Need to Know About Bemotrizinol",
     "datePublished": "2026-06-24",
+    "isPartOf": {
+      "@id": "https://www.askamelia.com/blog#blog"
+    },
+    "author": {
+      "@id": "https://www.askamelia.com/#organization"
+    },
+    "publisher": {
+      "@id": "https://www.askamelia.com/#organization"
+    }
+  },
+  {
+    "@type": "BlogPosting",
+    "@id": "www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon#post",
+    "url": "www.askamelia.com/blog/mommy-makeover-what-to-know-choosing-a-surgeon",
+    "headline": "What to Know Before a Mommy Makeover, and How to Choose Your Surgeon",
+    "datePublished": "2026-07-09",
     "isPartOf": {
       "@id": "https://www.askamelia.com/blog#blog"
     },
