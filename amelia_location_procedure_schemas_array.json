@@ -1,113 +1,85 @@
 [
- {
+{
   "@context": "https://schema.org",
-  "type": "thing",
-  "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx",
-  "url": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx",
   "@graph": [
     {
-      "@type": "WebSite",
-      "@id": "https://www.askamelia.com/#website",
-      "name": "Amelia Aesthetics",
-      "url": "https://www.askamelia.com/",
-      "inLanguage": "en",
-      "publisher": {
-        "@id": "https://www.askamelia.com/#organization"
+      "@type": "SurgicalProcedure",
+      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#surgicalprocedure",
+      "name": "Preservé Breast Augmentation",
+      "alternateName": ["Preserve Breast Augmentation", "Awake Breast Augmentation", "Minimally Invasive Breast Augmentation"],
+      "description": "Preservé is a less invasive breast augmentation technique that preserves natural breast tissue, typically requires no general anesthesia, and delivers subtle, natural-looking results, performed at Amelia Aesthetics in San Antonio, TX.",
+      "url": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx",
+      "relevantSpecialty": {
+        "@type": "MedicalSpecialty",
+        "name": "PlasticSurgery"
+      },
+      "bodyLocation": "Breast",
+      "followup": "Patients typically return to light activities within 1-2 days, moderate exercise at 1 week, and full activity including swimming and heavy lifting at 4 weeks. Full results are visible within 1-3 months. All pre-op, surgical, and post-op appointments are included, with individualized support from the clinical team.",
+      "howPerformed": "Performed awake with local numbing and optional mild sedation, typically without general anesthesia. Through a ~2.5 cm incision hidden in the inframammary fold, the surgeon uses the Motiva Channel Separator to create a tunnel without cutting tissue, the Motiva Inflatable Balloon to form the implant pocket, and an insertion funnel to place a Motiva SmoothSilk Ergonomix silicone implant (150cc-315cc) over the muscle, keeping chest muscles and natural support structures intact.",
+      "procedureType": {
+        "@type": "MedicalProcedureType",
+        "name": "Surgical"
       }
+    },
+    {
+      "@type": ["MedicalClinic", "LocalBusiness"],
+      "@id": "https://www.askamelia.com/locations/san-antonio#localbusiness",
+      "name": "Amelia Aesthetics San Antonio",
+      "url": "https://www.askamelia.com/locations/san-antonio",
+      "parentOrganization": { "@id": "https://www.askamelia.com/#organization" },
+      "telephone": "(210) 934-1747",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "150 E Sonterra Blvd., Suite 316",
+        "addressLocality": "San Antonio",
+        "addressRegion": "TX",
+        "postalCode": "78258",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "29.6089",
+        "longitude": "-98.4794"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "San Antonio" },
+        { "@type": "City", "name": "New Braunfels" },
+        { "@type": "City", "name": "Boerne" },
+        { "@type": "City", "name": "Schertz" }
+      ],
+      "medicalSpecialty": "PlasticSurgery",
+      "availableService": { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#surgicalprocedure" },
+      "sameAs": [
+        "https://www.realself.com/dr/marcos-lopez-san-antonio-tx",
+        "https://www.healthgrades.com/physician/dr-marcos-lopez-xyn9hx8",
+        "https://www.tiktok.com/discover/dr-marcos-lopez-amelia",
+        "https://www.instagram.com/dr.lopez.amelia/?hl=en"
+      ]
+    },
+    {
+      "@type": ["WebPage", "MedicalWebPage"],
+      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#webpage",
+      "url": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx",
+      "name": "Preservé Breast Augmentation in San Antonio, TX",
+      "description": "Looking for natural-looking breast augmentation in San Antonio? Preservé offers natural results with less invasive techniques.",
+      "isPartOf": { "@id": "https://www.askamelia.com/#website" },
+      "inLanguage": "en",
+      "about": { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#surgicalprocedure" },
+      "mainEntity": [
+        { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#surgicalprocedure" },
+        { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#faq" }
+      ],
+      "breadcrumb": { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#breadcrumb" },
+      "reviewedBy": { "@id": "https://www.askamelia.com#organization" }
     },
     {
       "@type": "BreadcrumbList",
       "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#breadcrumb",
       "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://www.askamelia.com/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Amelia Aesthetics San Antonio",
-          "item": "https://www.askamelia.com/locations/san-antonio"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Preservé Breast Augmentation",
-          "item": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx"
-        }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com/" },
+        { "@type": "ListItem", "position": 2, "name": "San Antonio, TX", "item": "https://www.askamelia.com/locations/san-antonio" },
+        { "@type": "ListItem", "position": 3, "name": "Preservé Breast Augmentation in San Antonio, TX", "item": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx" }
       ]
-    },
-    {
-      "@type": ["Person", "Physician"],
-      "@id": "https://www.askamelia.com/providers/dr-marcos-lopez#physician",
-      "name": "Dr. Marcos Lopez",
-      "honorificPrefix": "Dr.",
-      "jobTitle": "Board-Certified Plastic Surgeon",
-      "medicalSpecialty": "PlasticSurgery",
-      "url": "https://www.askamelia.com/providers/dr-marcos-lopez",
-      "sameAs": [
-        "https://www.instagram.com/dr.lopez.amelia/", "https://www.doctor.webmd.com/providers/specialty/plastic-surgery/texas/san-antonio", "https://www.realself.com/dr/marcos-lopez-san-antonio-tx"
-      ]
-    },
-    {
-      "@type": ["MedicalWebPage", "WebPage"],
-      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx#webpage",
-      "url": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio-tx",
-      "name": "Preservé Breast Augmentation in San Antonio, Texas",
-      "description": "Preservé breast augmentation is a less invasive, tissue-preserving breast augmentation option designed for subtle, natural-looking results, shorter recovery, and the option to avoid general anesthesia.",
-      "inLanguage": "en",
-      "isPartOf": {
-        "@id": "https://www.askamelia.com/#website"
-      },
-      "about": [
-        {
-          "@id": "https://www.askamelia.com/locations/san-antonio#business"
-        },
-        {
-          "@type": "MedicalCondition",
-          "name": "Breast volume loss"
-        },
-        {
-          "@type": "Thing",
-          "name": "Natural-looking breast augmentation"
-        }
-      ],
-      "keywords": [
-        "Preservé breast augmentation San Antonio",
-        "awake breast augmentation San Antonio",
-        "Motiva SmoothSilk Ergonomix implants San Antonio",
-        "natural breast augmentation San Antonio",
-        "Preservé breast augmentation cost San Antonio",
-        "yoga boobs San Antonio",
-        "ballerina boobs San Antonio",
-        "fashion boob job San Antonio"
-      ],
-      "reviewedBy": {
-        "@id": "https://www.askamelia.com/providers/dr-marcos-lopez#physician"
-      },
-      "provider": {
-        "@id": "https://www.askamelia.com/locations/san-antonio#business"
-      },
-      "mainEntity": {
-        "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio#procedure"
-      }
-    },
-    {
-      "@type": ["SurgicalProcedure", "MedicalProcedure"],
-      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-san-antonio#procedure",
-      "name": "Preservé Breast Augmentation",
-      "alternateName": [
-        "Awake Breast Augmentation",
-        "Preservé Method Breast Augmentation",
-        "Preservation breast augmentation"
-      ],
-      "description": "A less invasive breast augmentation approach designed to preserve natural tissue and chest muscles, reduce inflammation and scarring, and support subtle, natural-looking results using Motiva SmoothSilk Ergonomix® implants.",
-      "bodyLocation": "Breast",
-      "followup": "Post-operative follow-up visits are included as part of the care plan.",
-      "howPerformed": "After numbing, a tunnel is created with a channel separator, an inflatable balloon creates an implant pocket, and the implant is inserted with minimal disruption before the incision is closed.",
-      "preparation": "A consultation and individualized pre-op planning are completed before surgery."
     }
   ]
 },
