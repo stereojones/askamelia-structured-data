@@ -84,6 +84,91 @@
     }
   ]
 },
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SurgicalProcedure",
+      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl#surgicalprocedure",
+      "name": "Preservé Breast Augmentation",
+      "alternateName": ["Awake Breast Augmentation", "Natural Breast Augmentation", "Yoga Boobs Breast Augmentation", "Ballerina Boobs"],
+      "description": "Preservé breast augmentation is a less invasive breast augmentation performed at Amelia Aesthetics in Tampa Bay, using advanced techniques that preserve natural breast tissue for subtle, natural-looking results and a shorter recovery.",
+      "url": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl",
+      "relevantSpecialty": {
+        "@type": "MedicalSpecialty",
+        "name": "PlasticSurgery"
+      },
+      "bodyLocation": "Breast",
+      "followup": "Most patients return to light activities within 1-2 days and moderate exercise such as yoga, pilates, and running by 1 week. At 4 weeks patients may fully submerge in water and resume intense exercise. Full results are visible at 1-3 months as swelling and bruising resolve. Pricing includes all pre-op, surgical, and post-op appointments plus individualized support from a dedicated Patient Care Coordinator.",
+      "howPerformed": "Preservé is typically performed 'awake' without general anesthesia, with the option of mild sedation. After numbing the area, the surgeon uses the Motiva Channel Separator to create a tunnel over the muscle without cutting tissue, then places a Motiva Inflatable Balloon to form the pocket and inserts a Motiva SmoothSilk Ergonomix silicone implant (150cc-315cc) using an insertion funnel. The ~2.5cm incision is hidden in the inframammary fold, and patients are typically back to their routine in 1-2 days.",
+      "procedureType": {
+        "@type": "MedicalProcedureType",
+        "name": "Surgical"
+      }
+    },
+    {
+      "@type": ["MedicalClinic", "LocalBusiness"],
+      "@id": "https://www.askamelia.com/locations/tampa-bay#localbusiness",
+      "name": "Amelia Aesthetics Tampa Bay",
+      "url": "https://www.askamelia.com/locations/tampa-bay",
+      "parentOrganization": { "@id": "https://www.askamelia.com/#organization" },
+      "telephone": "(813) 531-8515",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "12321 W Linebaugh Ave",
+        "addressLocality": "Westchase",
+        "addressRegion": "FL",
+        "postalCode": "33626",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "28.056686530477243",
+        "longitude": "-82.62853111349266"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Tampa" },
+        { "@type": "City", "name": "Westchase" },
+        { "@type": "City", "name": "Clearwater" },
+        { "@type": "City", "name": "St. Petersburg" }
+      ],
+      "medicalSpecialty": "PlasticSurgery",
+      "availableService": { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl#surgicalprocedure" },
+      "sameAs": [
+        "https://www.instagram.com/dr.sandhu.amelia/",
+        "https://www.askamelia.com/providers/dr-shabaaz-sandhu",
+        "https://www.healthgrades.com/physician/dr-shabaaz-sandhu-1g7uin0706",
+        "https://doctor.webmd.com/doctor/shabaaz-sandhu-3de1e57b-f954-4445-9f09-9092a7d53934-overview",
+        "https://www.realself.com/dr/shabaaz-sandhu-westchase-fl"
+      ]
+    },
+    {
+      "@type": ["WebPage", "MedicalWebPage"],
+      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl#webpage",
+      "url": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl",
+      "name": "Preservé Breast Augmentation in Tampa Bay, FL | Amelia Aesthetics",
+      "description": "Looking for natural-looking breast augmentation in Tampa? Preservé offers natural results with less downtime. View pricing and book online.",
+      "isPartOf": { "@id": "https://www.askamelia.com/#website" },
+      "inLanguage": "en",
+      "about": { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl#surgicalprocedure" },
+      "mainEntity": [
+        { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl#surgicalprocedure" },
+        { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl#faq" }
+      ],
+      "breadcrumb": { "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl#breadcrumb" },
+      "reviewedBy": { "@id": "https://www.askamelia.com#organization" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.askamelia.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Tampa Bay, FL", "item": "https://www.askamelia.com/locations/tampa-bay" },
+        { "@type": "ListItem", "position": 3, "name": "Preservé Breast Augmentation in Tampa Bay, Florida", "item": "https://www.askamelia.com/local/preserve-breast-augmentation-tampa-fl" }
+      ]
+    }
+  ]
+},
 {
   "@context": "https://schema.org",
   "@graph": [
